@@ -2,6 +2,8 @@
 aliases:
   - /items/show/105
   - /items/show/105.html
+  - /items/105/
+  - /items/105
 collections: []
 date: '2019-07-23 22:29:05'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - The Terror
 title: Day of 10 August 1792
 type: items
+url: /d/99/
 ---
 
 {{< raw >}}

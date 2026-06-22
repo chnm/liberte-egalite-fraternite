@@ -2,6 +2,8 @@
 aliases:
   - /items/show/264
   - /items/show/264.html
+  - /items/264/
+  - /items/264
 collections: []
 date: '2019-07-23 22:33:16'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Public Opinion
 title: Transportation of Voltaire to the French Panthéon, 8 July 1792
 type: items
+url: /d/138/
 ---
 
 {{< raw >}}

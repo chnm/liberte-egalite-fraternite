@@ -2,6 +2,8 @@
 aliases:
   - /items/show/518
   - /items/show/518.html
+  - /items/518/
+  - /items/518
 collections: []
 date: '2019-07-23 22:34:34'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: The Queen at the Opera (July 1792)
 type: items
+url: /d/332/
 ---
 
 {{< raw >}}

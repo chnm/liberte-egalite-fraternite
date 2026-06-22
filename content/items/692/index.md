@@ -2,6 +2,8 @@
 aliases:
   - /items/show/692
   - /items/show/692.html
+  - /items/692/
+  - /items/692
 collections: []
 date: '2019-07-23 22:35:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVIII enters Paris. Bourbon dynasty restored.
 type: items
+url: /d/739/
 ---

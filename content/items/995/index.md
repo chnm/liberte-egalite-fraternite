@@ -2,6 +2,8 @@
 aliases:
   - /items/show/995
   - /items/show/995.html
+  - /items/995/
+  - /items/995
 collections: []
 date: '2019-07-23 22:36:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Petition of Right</i>.
 type: items
+url: /d/1042/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/493
   - /items/show/493.html
+  - /items/493/
+  - /items/493
 collections: []
 date: '2019-07-23 22:34:28'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: The Saint–Marcel Neighborhood
 type: items
+url: /d/357/
 ---
 
 {{< raw >}}

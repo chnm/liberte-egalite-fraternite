@@ -2,6 +2,8 @@
 aliases:
   - /items/show/362
   - /items/show/362.html
+  - /items/362/
+  - /items/362
 collections: []
 date: '2019-07-23 22:33:53'
 draft: false
@@ -41,6 +43,7 @@ tags:
   - Text
 title: Napoleon’s Personal Feelings about Religion
 type: items
+url: /d/505/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/32
   - /items/show/32.html
+  - /items/32/
+  - /items/32
 collections: []
 date: '2019-07-23 22:27:04'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Religion
 title: Refractory (Clergy) Going to the Promised Land
 type: items
+url: /d/20/
 ---
 
 {{< raw >}}

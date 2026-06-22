@@ -2,6 +2,8 @@
 aliases:
   - /items/show/266
   - /items/show/266.html
+  - /items/266/
+  - /items/266
 collections: []
 date: '2019-07-23 22:33:20'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Napoleon Bonaparte
 title: Meeting of the Emperors at Tilsit
 type: items
+url: /d/198/
 ---
 
 {{< raw >}}

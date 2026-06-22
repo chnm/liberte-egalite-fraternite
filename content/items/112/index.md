@@ -2,6 +2,8 @@
 aliases:
   - /items/show/112
   - /items/show/112.html
+  - /items/112/
+  - /items/112
 collections: []
 date: '2019-07-23 22:29:22'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - The Terror
 title: The Days of 31 May and 1–2 June 1793
 type: items
+url: /d/105/
 ---
 
 {{< raw >}}

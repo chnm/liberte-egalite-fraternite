@@ -2,6 +2,8 @@
 aliases:
   - /items/show/356
   - /items/show/356.html
+  - /items/356/
+  - /items/356
 collections: []
 date: '2019-07-23 22:33:52'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: The Glitter of the Imperial Court
 type: items
+url: /d/511/
 ---
 
 {{< raw >}}

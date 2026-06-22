@@ -2,6 +2,8 @@
 aliases:
   - /items/show/985
   - /items/show/985.html
+  - /items/985/
+  - /items/985
 collections: []
 date: '2019-07-23 22:36:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Coup d’état by Louis–Napoleon Bonaparte, which a later plebiscite overwhelmingly accepts.
 type: items
+url: /d/1032/
 ---

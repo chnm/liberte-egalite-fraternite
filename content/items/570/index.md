@@ -2,6 +2,8 @@
 aliases:
   - /items/show/570
   - /items/show/570.html
+  - /items/570/
+  - /items/570
 collections: []
 date: '2019-07-23 22:34:48'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Sieyès, "What Is the Third Estate?" (1789)
 type: items
+url: /d/280/
 ---
 
 {{< raw >}}

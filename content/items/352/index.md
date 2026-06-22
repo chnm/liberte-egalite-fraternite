@@ -2,6 +2,8 @@
 aliases:
   - /items/show/352
   - /items/show/352.html
+  - /items/352/
+  - /items/352
 collections: []
 date: '2019-07-23 22:33:49'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: The Confederation of the Rhine and the Dissolution of the Holy Roman Empire (1 August 1806)
 type: items
+url: /d/516/
 ---
 
 {{< raw >}}

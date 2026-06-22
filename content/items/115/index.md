@@ -2,6 +2,8 @@
 aliases:
   - /items/show/115
   - /items/show/115.html
+  - /items/115/
+  - /items/115
 collections: []
 date: '2019-07-23 22:29:30'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: Assassination of Marat
 type: items
+url: /d/108/
 ---
 
 {{< raw >}}

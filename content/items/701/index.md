@@ -2,6 +2,8 @@
 aliases:
   - /items/show/701
   - /items/show/701.html
+  - /items/701/
+  - /items/701
 collections: []
 date: '2019-07-23 22:35:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Marriage of dauphin (future Louis XVI) to the Archduchess Marie Antoinette.
 type: items
+url: /d/748/
 ---

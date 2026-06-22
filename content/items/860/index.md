@@ -2,6 +2,8 @@
 aliases:
   - /items/show/860
   - /items/show/860.html
+  - /items/860/
+  - /items/860
 collections: []
 date: '2019-07-23 22:36:02'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Women’s clubs suppressed.
 type: items
+url: /d/907/
 ---

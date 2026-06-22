@@ -2,6 +2,8 @@
 aliases:
   - /items/show/691
   - /items/show/691.html
+  - /items/691/
+  - /items/691
 collections: []
 date: '2019-07-23 22:35:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVIII offers reassurances to keep the revolutionary status quo in his Declaration of Saint–Ouen.
 type: items
+url: /d/738/
 ---

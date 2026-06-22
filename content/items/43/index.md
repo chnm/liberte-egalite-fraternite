@@ -2,6 +2,8 @@
 aliases:
   - /items/show/43
   - /items/show/43.html
+  - /items/43/
+  - /items/43
 collections: []
 date: '2019-07-23 22:27:16'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Women
 title: Game of the Great Men, Minot the Elder
 type: items
+url: /d/31/
 ---
 
 {{< raw >}}

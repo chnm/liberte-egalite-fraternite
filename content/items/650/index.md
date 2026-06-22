@@ -2,6 +2,8 @@
 aliases:
   - /items/show/650
   - /items/show/650.html
+  - /items/650/
+  - /items/650
 collections: []
 date: '2019-07-23 22:35:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The first prefects of departments are appointed.
 type: items
+url: /d/697/
 ---

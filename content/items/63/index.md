@@ -2,6 +2,8 @@
 aliases:
   - /items/show/63
   - /items/show/63.html
+  - /items/63/
+  - /items/63
 collections: []
 date: '2019-07-23 22:27:40'
 draft: false
@@ -69,6 +71,7 @@ tags:
   - The Terror
 title: Hell Broke Loose, or, The Murder of Louis
 type: items
+url: /d/53/
 ---
 
 {{< raw >}}

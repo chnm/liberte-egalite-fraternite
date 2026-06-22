@@ -2,6 +2,8 @@
 aliases:
   - /items/show/406
   - /items/show/406.html
+  - /items/406/
+  - /items/406
 collections: []
 date: '2019-07-23 22:34:05'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Puisaye to the Central Catholic Committee
 type: items
+url: /d/454/
 ---
 
 {{< raw >}}

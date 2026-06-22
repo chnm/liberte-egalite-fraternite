@@ -2,6 +2,8 @@
 aliases:
   - /items/show/52
   - /items/show/52.html
+  - /items/52/
+  - /items/52
 collections: []
 date: '2019-07-23 22:27:24'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Sans-culottes
 title: Promised Horrors of the French Invasion or Forcible Reasons for Negotiation of a Regicide Peace. Vide, The Authority of Edmund Burke
 type: items
+url: /d/41/
 ---
 
 {{< raw >}}

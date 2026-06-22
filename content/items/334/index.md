@@ -2,6 +2,8 @@
 aliases:
   - /items/show/334
   - /items/show/334.html
+  - /items/334/
+  - /items/334
 collections: []
 date: '2019-07-23 22:33:44'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Report by the Jacobin Society of Besançon on Refractory Priests
 type: items
+url: /d/548/
 ---
 
 {{< raw >}}

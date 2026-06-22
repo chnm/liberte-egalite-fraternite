@@ -2,6 +2,8 @@
 aliases:
   - /items/show/612
   - /items/show/612.html
+  - /items/612/
+  - /items/612
 collections: []
 date: '2019-07-23 22:34:59'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: '"Letter from a Gentleman in Paris to His Friend in London" (1757)'
 type: items
+url: /d/238/
 ---
 
 {{< raw >}}

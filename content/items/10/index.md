@@ -2,6 +2,8 @@
 aliases:
   - /items/show/10
   - /items/show/10.html
+  - /items/10/
+  - /items/10
 collections: []
 date: '2019-07-23 22:26:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Map
 title: Haiti during the Revolution
 type: items
+url: /d/1125/
 ---

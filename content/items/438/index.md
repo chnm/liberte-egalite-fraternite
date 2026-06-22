@@ -2,6 +2,8 @@
 aliases:
   - /items/show/438
   - /items/show/438.html
+  - /items/438/
+  - /items/438
 collections: []
 date: '2019-07-23 22:34:13'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: 'The Clergy as a Target: A Political Problem'
 type: items
+url: /d/412/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1034
   - /items/show/1034.html
+  - /items/1034/
+  - /items/1034
 collections: []
 date: '2019-07-23 22:36:43'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Count of Artois
 type: items
+url: /d/1080/
 ---

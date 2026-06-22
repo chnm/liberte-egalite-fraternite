@@ -2,6 +2,8 @@
 aliases:
   - /items/show/255
   - /items/show/255.html
+  - /items/255/
+  - /items/255
 collections: []
 date: '2019-07-23 22:33:02'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Monarchy
 title: Damiens Being Broken on the Wheel
 type: items
+url: /d/602/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/443
   - /items/show/443.html
+  - /items/443/
+  - /items/443
 collections: []
 date: '2019-07-23 22:34:14'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Marat’s Impeachment
 type: items
+url: /d/407/
 ---
 
 {{< raw >}}

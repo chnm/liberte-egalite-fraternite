@@ -2,6 +2,8 @@
 aliases:
   - /items/show/234
   - /items/show/234.html
+  - /items/234/
+  - /items/234
 collections: []
 date: '2019-07-23 22:32:25'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Popular Politics
 title: Arrival of the Royal Family in Paris on 6 October 1789
 type: items
+url: /d/229/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/523
   - /items/show/523.html
+  - /items/523/
+  - /items/523
 collections: []
 date: '2019-07-23 22:34:35'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - The Terror
 title: Execution of the King (21 January 1793)
 type: items
+url: /d/327/
 ---
 
 {{< raw >}}

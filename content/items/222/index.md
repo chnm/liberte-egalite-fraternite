@@ -2,6 +2,8 @@
 aliases:
   - /items/show/222
   - /items/show/222.html
+  - /items/222/
+  - /items/222
 collections: []
 date: '2019-07-23 22:32:09'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Popular Politics
 title: The Crushed Aristocracy
 type: items
+url: /d/219/
 ---
 
 {{< raw >}}

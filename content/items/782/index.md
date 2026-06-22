@@ -2,6 +2,8 @@
 aliases:
   - /items/show/782
   - /items/show/782.html
+  - /items/782/
+  - /items/782
 collections: []
 date: '2019-07-23 22:35:43'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Jacobin Club closed.
 type: items
+url: /d/829/
 ---

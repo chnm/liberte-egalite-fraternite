@@ -2,6 +2,8 @@
 aliases:
   - /items/show/343
   - /items/show/343.html
+  - /items/343/
+  - /items/343
 collections: []
 date: '2019-07-23 22:33:47'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: The Russian Campaign as Seen by a Female Russian Soldier
 type: items
+url: /d/525/
 ---
 
 {{< raw >}}

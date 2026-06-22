@@ -2,6 +2,8 @@
 aliases:
   - /items/show/510
   - /items/show/510.html
+  - /items/510/
+  - /items/510
 collections: []
 date: '2019-07-23 22:34:32'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Viefville des Essars, <i>On the Emancipation of the Negroes</i> (1790)
 type: items
+url: /d/340/
 ---
 
 {{< raw >}}

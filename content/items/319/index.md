@@ -2,6 +2,8 @@
 aliases:
   - /items/show/319
   - /items/show/319.html
+  - /items/319/
+  - /items/319
 collections: []
 date: '2019-07-23 22:33:40'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: <i>Historical, Political, and Moral Essay on Revolutions, Ancient and Modern</i>
 type: items
+url: /d/565/
 ---
 
 {{< raw >}}

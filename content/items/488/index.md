@@ -2,6 +2,8 @@
 aliases:
   - /items/show/488
   - /items/show/488.html
+  - /items/488/
+  - /items/488
 collections: []
 date: '2019-07-23 22:34:26'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Beaumarchais’s Understandings of Inequality
 type: items
+url: /d/362/
 ---
 
 {{< raw >}}

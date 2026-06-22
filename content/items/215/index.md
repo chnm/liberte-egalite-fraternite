@@ -2,6 +2,8 @@
 aliases:
   - /items/show/215
   - /items/show/215.html
+  - /items/215/
+  - /items/215
 collections: []
 date: '2019-07-23 22:31:51'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Popular Politics
 title: Image of the King at the Festival of Federation
 type: items
+url: /d/213/
 ---
 
 {{< raw >}}

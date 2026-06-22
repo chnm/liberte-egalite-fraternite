@@ -2,6 +2,8 @@
 aliases:
   - /items/show/26
   - /items/show/26.html
+  - /items/26/
+  - /items/26
 collections: []
 date: '2019-07-23 22:26:51'
 draft: false
@@ -78,6 +80,7 @@ tags:
   - Women
 title: The Fountain of Regeneration
 type: items
+url: /d/14/
 ---
 
 {{< raw >}}

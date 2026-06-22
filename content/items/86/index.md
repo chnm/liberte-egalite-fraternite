@@ -2,6 +2,8 @@
 aliases:
   - /items/show/86
   - /items/show/86.html
+  - /items/86/
+  - /items/86
 collections: []
 date: '2019-07-23 22:28:25'
 draft: false
@@ -78,6 +80,7 @@ tags:
   - Women
 title: King and Queen as Two–headed Monster
 type: items
+url: /d/76/
 ---
 
 {{< raw >}}

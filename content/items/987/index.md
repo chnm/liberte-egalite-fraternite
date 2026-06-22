@@ -2,6 +2,8 @@
 aliases:
   - /items/show/987
   - /items/show/987.html
+  - /items/987/
+  - /items/987
 collections: []
 date: '2019-07-23 22:36:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Publication of Tocqueville’s <i>Old Régime and the French Regime</i> and Guizot’s <i>History of the English Revolution</i>.
 type: items
+url: /d/1034/
 ---

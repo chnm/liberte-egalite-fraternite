@@ -2,6 +2,8 @@
 aliases:
   - /items/show/567
   - /items/show/567.html
+  - /items/567/
+  - /items/567
 collections: []
 date: '2019-07-23 22:34:47'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Robespierre, "Speech Denouncing the New Conditions of Eligibility," 22 October 1789
 type: items
+url: /d/283/
 ---
 
 {{< raw >}}

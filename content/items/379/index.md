@@ -2,6 +2,8 @@
 aliases:
   - /items/show/379
   - /items/show/379.html
+  - /items/379/
+  - /items/379
 collections: []
 date: '2019-07-23 22:33:58'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Discussion of Citizenship under the Proposed New Constitution (29 April 1793)
 type: items
+url: /d/484/
 ---
 
 {{< raw >}}

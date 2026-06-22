@@ -2,6 +2,8 @@
 aliases:
   - /items/show/389
   - /items/show/389.html
+  - /items/389/
+  - /items/389
 collections: []
 date: '2019-07-23 22:34:00'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Women Testify Concerning Their Participation in the October Days (1789)
 type: items
+url: /d/474/
 ---
 
 {{< raw >}}

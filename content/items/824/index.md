@@ -2,6 +2,8 @@
 aliases:
   - /items/show/824
   - /items/show/824.html
+  - /items/824/
+  - /items/824
 collections: []
 date: '2019-07-23 22:35:53'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Members in the English House of Commons urge taking up of arms against France to protect Louis XVI from the Convention.
 type: items
+url: /d/871/
 ---

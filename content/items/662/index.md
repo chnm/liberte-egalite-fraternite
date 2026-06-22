@@ -2,6 +2,8 @@
 aliases:
   - /items/show/662
   - /items/show/662.html
+  - /items/662/
+  - /items/662
 collections: []
 date: '2019-07-23 22:35:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 14 Thermidor Year X, Napoleon proclaimed Life Consulate.
 type: items
+url: /d/709/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/475
   - /items/show/475.html
+  - /items/475/
+  - /items/475
 collections: []
 date: '2019-07-23 22:34:23'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: 'Cahiers from Rural Districts: Attack on Seigneurial Dues'
 type: items
+url: /d/375/
 ---
 
 {{< raw >}}

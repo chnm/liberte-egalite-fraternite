@@ -2,6 +2,8 @@
 aliases:
   - /items/show/168
   - /items/show/168.html
+  - /items/168/
+  - /items/168
 collections: []
 date: '2019-07-23 22:30:52'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - War
 title: Napoleon Is Unable to Digest Leipzig
 type: items
+url: /d/165/
 ---
 
 {{< raw >}}

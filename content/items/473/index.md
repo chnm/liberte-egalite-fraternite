@@ -2,6 +2,8 @@
 aliases:
   - /items/show/473
   - /items/show/473.html
+  - /items/473/
+  - /items/473
 collections: []
 date: '2019-07-23 22:34:23'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Réveillon Riot (28 April 1789)
 type: items
+url: /d/377/
 ---
 
 {{< raw >}}

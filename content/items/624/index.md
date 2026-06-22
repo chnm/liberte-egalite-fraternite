@@ -2,6 +2,8 @@
 aliases:
   - /items/show/624
   - /items/show/624.html
+  - /items/624/
+  - /items/624
 collections: []
 date: '2019-07-23 22:35:04'
 draft: false
@@ -59,6 +61,7 @@ tags:
   - The Terror
 title: Patriotic Song on the Unveiling of the Busts of Marat and Le Pelletier (1793)
 type: items
+url: /d/621/
 ---
 
 {{< raw >}}

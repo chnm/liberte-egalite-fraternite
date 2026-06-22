@@ -2,6 +2,8 @@
 aliases:
   - /items/show/710
   - /items/show/710.html
+  - /items/710/
+  - /items/710
 collections: []
 date: '2019-07-23 22:35:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Assembly of Notables dissolved.
 type: items
+url: /d/757/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/363
   - /items/show/363.html
+  - /items/363/
+  - /items/363
 collections: []
 date: '2019-07-23 22:33:54'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Making Peace with the Catholic Church, 1801–2
 type: items
+url: /d/504/
 ---
 
 {{< raw >}}

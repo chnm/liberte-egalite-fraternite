@@ -2,6 +2,8 @@
 aliases:
   - /items/show/907
   - /items/show/907.html
+  - /items/907/
+  - /items/907
 collections: []
 date: '2019-07-23 22:36:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Siege of Jaffa, held by the Turks.
 type: items
+url: /d/954/
 ---

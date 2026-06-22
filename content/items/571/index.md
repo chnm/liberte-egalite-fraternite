@@ -2,6 +2,8 @@
 aliases:
   - /items/show/571
   - /items/show/571.html
+  - /items/571/
+  - /items/571
 collections: []
 date: '2019-07-23 22:34:48'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Petition of Women of the Third Estate to the King (1 January 1789)
 type: items
+url: /d/279/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/400
   - /items/show/400.html
+  - /items/400/
+  - /items/400
 collections: []
 date: '2019-07-23 22:34:03'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Circular on Elections
 type: items
+url: /d/460/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/34
   - /items/show/34.html
+  - /items/34/
+  - /items/34
 collections: []
 date: '2019-07-23 22:27:11'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Public Opinion
 title: Reunion
 type: items
+url: /d/22/
 ---
 
 {{< raw >}}

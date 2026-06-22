@@ -2,6 +2,8 @@
 aliases:
   - /items/show/163
   - /items/show/163.html
+  - /items/163/
+  - /items/163
 collections: []
 date: '2019-07-23 22:30:51'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - War
 title: Triumph of the Year 1813
 type: items
+url: /d/160/
 ---
 
 {{< raw >}}

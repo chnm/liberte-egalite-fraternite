@@ -2,6 +2,8 @@
 aliases:
   - /items/show/179
   - /items/show/179.html
+  - /items/179/
+  - /items/179
 collections: []
 date: '2019-07-23 22:31:05'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - Women
 title: Louis XVI and His Family (20 January 1793)
 type: items
+url: /d/176/
 ---
 
 {{< raw >}}

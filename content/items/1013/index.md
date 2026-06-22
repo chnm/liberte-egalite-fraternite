@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1013
   - /items/show/1013.html
+  - /items/1013/
+  - /items/1013
 collections: []
 date: '2019-07-23 22:36:38'
 draft: false
@@ -34,4 +36,5 @@ tags:
   - Glossary
 title: Écu
 type: items
+url: /d/1130/
 ---

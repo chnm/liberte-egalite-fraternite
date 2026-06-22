@@ -2,6 +2,8 @@
 aliases:
   - /items/show/131
   - /items/show/131.html
+  - /items/131/
+  - /items/131
 collections: []
 date: '2019-07-23 22:29:59'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - The Terror
 title: Nine Emigrants Go to the Guillotine
 type: items
+url: /d/124/
 ---
 
 {{< raw >}}

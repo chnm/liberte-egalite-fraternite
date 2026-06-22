@@ -2,6 +2,8 @@
 aliases:
   - /items/show/464
   - /items/show/464.html
+  - /items/464/
+  - /items/464
 collections: []
 date: '2019-07-23 22:34:20'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: Stanislaus Maillard Describes the Women’s March
 type: items
+url: /d/386/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/519
   - /items/show/519.html
+  - /items/519/
+  - /items/519
 collections: []
 date: '2019-07-23 22:34:34'
 draft: false
@@ -59,6 +61,7 @@ tags:
   - Women
 title: Marie Antoinette’s View of the Revolution (8 September 1791)
 type: items
+url: /d/331/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/364
   - /items/show/364.html
+  - /items/364/
+  - /items/364
 collections: []
 date: '2019-07-23 22:33:54'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Text
 title: Establishing a New Administrative Order (1800–1801)
 type: items
+url: /d/503/
 ---
 
 {{< raw >}}

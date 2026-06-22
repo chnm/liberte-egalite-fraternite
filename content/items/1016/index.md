@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1016
   - /items/show/1016.html
+  - /items/1016/
+  - /items/1016
 collections: []
 date: '2019-07-23 22:36:39'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Assignat
 type: items
+url: /d/1062/
 ---

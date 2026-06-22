@@ -2,6 +2,8 @@
 aliases:
   - /items/show/410
   - /items/show/410.html
+  - /items/410/
+  - /items/410
 collections: []
 date: '2019-07-23 22:34:06'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Convention Is Weak
 type: items
+url: /d/449/
 ---
 
 {{< raw >}}

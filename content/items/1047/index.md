@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1047
   - /items/show/1047.html
+  - /items/1047/
+  - /items/1047
 collections: []
 date: '2019-07-23 22:36:46'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Intendant
 type: items
+url: /d/1093/
 ---

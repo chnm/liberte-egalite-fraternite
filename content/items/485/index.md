@@ -2,6 +2,8 @@
 aliases:
   - /items/show/485
   - /items/show/485.html
+  - /items/485/
+  - /items/485
 collections: []
 date: '2019-07-23 22:34:26'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: '"What Is the Third Estate?" by Emmanuel Sieyès'
 type: items
+url: /d/365/
 ---
 
 {{< raw >}}

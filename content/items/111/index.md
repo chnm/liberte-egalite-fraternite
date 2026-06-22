@@ -2,6 +2,8 @@
 aliases:
   - /items/show/111
   - /items/show/111.html
+  - /items/111/
+  - /items/111
 collections: []
 date: '2019-07-23 22:29:21'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Popular Politics
 title: Commemorating the Revolution on Chinaware
 type: items
+url: /d/104/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/457
   - /items/show/457.html
+  - /items/457/
+  - /items/457
 collections: []
 date: '2019-07-23 22:34:18'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The US and Great Britain in Revolution
 title: A British Observer of the September Massacres
 type: items
+url: /d/393/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1078
   - /items/show/1078.html
+  - /items/1078/
+  - /items/1078
 collections: []
 date: '2019-07-23 22:36:54'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Venality
 type: items
+url: /d/1124/
 ---

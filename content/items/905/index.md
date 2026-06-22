@@ -2,6 +2,8 @@
 aliases:
   - /items/show/905
   - /items/show/905.html
+  - /items/905/
+  - /items/905
 collections: []
 date: '2019-07-23 22:36:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Elections for the Councils begin, continue into May.
 type: items
+url: /d/952/
 ---

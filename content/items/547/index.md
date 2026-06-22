@@ -2,6 +2,8 @@
 aliases:
   - /items/show/547
   - /items/show/547.html
+  - /items/547/
+  - /items/547
 collections: []
 date: '2019-07-23 22:34:42'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'The King Speaks to the "National Assembly": Royal Session of 23 June 1789'
 type: items
+url: /d/303/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/62
   - /items/show/62.html
+  - /items/62/
+  - /items/62
 collections: []
 date: '2019-07-23 22:27:38'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Sans-culottes
 title: Destruction of the French Colossus
 type: items
+url: /d/52/
 ---
 
 {{< raw >}}

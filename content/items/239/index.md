@@ -2,6 +2,8 @@
 aliases:
   - /items/show/239
   - /items/show/239.html
+  - /items/239/
+  - /items/239
 collections: []
 date: '2019-07-23 22:32:39'
 draft: false
@@ -82,6 +84,7 @@ tags:
   - Monarchy
 title: Louis as a Drunkard
 type: items
+url: /d/466/
 ---
 
 {{< raw >}}

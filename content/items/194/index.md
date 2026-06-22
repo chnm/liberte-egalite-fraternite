@@ -2,6 +2,8 @@
 aliases:
   - /items/show/194
   - /items/show/194.html
+  - /items/194/
+  - /items/194
 collections: []
 date: '2019-07-23 22:31:23'
 draft: false
@@ -63,4 +65,5 @@ tags:
   - Image
 title: September 2 and 3, 1792
 type: items
+url: /d/1136/
 ---

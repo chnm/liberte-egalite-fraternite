@@ -2,6 +2,8 @@
 aliases:
   - /items/show/376
   - /items/show/376.html
+  - /items/376/
+  - /items/376
 collections: []
 date: '2019-07-23 22:33:57'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: Discussion of Women’s Political Clubs—Amar
 type: items
+url: /d/487/
 ---
 
 {{< raw >}}

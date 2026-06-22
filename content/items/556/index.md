@@ -2,6 +2,8 @@
 aliases:
   - /items/show/556
   - /items/show/556.html
+  - /items/556/
+  - /items/556
 collections: []
 date: '2019-07-23 22:34:44'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Discussion of Women’s Political Clubs and Their Suppression, 29–30 October 1793
 type: items
+url: /d/294/
 ---
 
 {{< raw >}}

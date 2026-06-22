@@ -2,6 +2,8 @@
 aliases:
   - /items/show/68
   - /items/show/68.html
+  - /items/68/
+  - /items/68
 collections: []
 date: '2019-07-23 22:27:52'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: Allegory of Truth
 type: items
+url: /d/57/
 ---
 
 {{< raw >}}

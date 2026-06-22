@@ -2,6 +2,8 @@
 aliases:
   - /items/show/321
   - /items/show/321.html
+  - /items/321/
+  - /items/321
 collections: []
 date: '2019-07-23 22:33:41'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Edmund Burke<i>, Reflections on the Revolution in France</i>
 type: items
+url: /d/563/
 ---
 
 {{< raw >}}

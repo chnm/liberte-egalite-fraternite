@@ -2,6 +2,8 @@
 aliases:
   - /items/show/656
   - /items/show/656.html
+  - /items/656/
+  - /items/656
 collections: []
 date: '2019-07-23 22:35:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Signing the Concordat with the Papacy (26 Messidor Year IX).
 type: items
+url: /d/703/
 ---

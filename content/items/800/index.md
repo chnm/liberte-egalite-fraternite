@@ -2,6 +2,8 @@
 aliases:
   - /items/show/800
   - /items/show/800.html
+  - /items/800/
+  - /items/800
 collections: []
 date: '2019-07-23 22:35:47'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Gracchus Babeuf is guillotined.
 type: items
+url: /d/847/
 ---

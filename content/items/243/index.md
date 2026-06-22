@@ -2,6 +2,8 @@
 aliases:
   - /items/show/243
   - /items/show/243.html
+  - /items/243/
+  - /items/243
 collections: []
 date: '2019-07-23 22:32:44'
 draft: false
@@ -42,6 +44,7 @@ tags:
   - Image
 title: Demographics of Saint Domingue
 type: items
+url: /d/500/
 ---
 
 {{< raw >}}

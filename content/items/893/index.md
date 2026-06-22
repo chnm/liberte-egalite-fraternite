@@ -2,6 +2,8 @@
 aliases:
   - /items/show/893
   - /items/show/893.html
+  - /items/893/
+  - /items/893
 collections: []
 date: '2019-07-23 22:36:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Abolition of the Maximum.
 type: items
+url: /d/940/
 ---

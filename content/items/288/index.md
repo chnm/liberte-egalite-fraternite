@@ -2,6 +2,8 @@
 aliases:
   - /items/show/288
   - /items/show/288.html
+  - /items/288/
+  - /items/288
 collections: []
 date: '2019-07-23 22:33:32'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Guyomar, "The Partisan of Political Equality between Individuals" (April 1793)
 type: items
+url: /d/597/
 ---
 
 {{< raw >}}

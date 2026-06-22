@@ -2,6 +2,8 @@
 aliases:
   - /items/show/688
   - /items/show/688.html
+  - /items/688/
+  - /items/688
 collections: []
 date: '2019-07-23 22:35:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Retreat from Moscow begins.
 type: items
+url: /d/735/
 ---

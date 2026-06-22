@@ -2,6 +2,8 @@
 aliases:
   - /items/show/771
   - /items/show/771.html
+  - /items/771/
+  - /items/771
 collections: []
 date: '2019-07-23 22:35:40'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Wattignies against Austria.
 type: items
+url: /d/818/
 ---

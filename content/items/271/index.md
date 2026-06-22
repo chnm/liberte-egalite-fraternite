@@ -2,6 +2,8 @@
 aliases:
   - /items/show/271
   - /items/show/271.html
+  - /items/271/
+  - /items/271
 collections: []
 date: '2019-07-23 22:33:27'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: Benjamin Constant, Leader of French Liberal Opposition to Napoleon
 type: items
+url: /d/676/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/204
   - /items/show/204.html
+  - /items/204/
+  - /items/204
 collections: []
 date: '2019-07-23 22:31:37'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - Napoleon Bonaparte
 title: The Death of Napoleon on St. Helena
 type: items
+url: /d/202/
 ---
 
 {{< raw >}}

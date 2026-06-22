@@ -2,6 +2,8 @@
 aliases:
   - /items/show/416
   - /items/show/416.html
+  - /items/416/
+  - /items/416
 collections: []
 date: '2019-07-23 22:34:07'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'Religion: The Cult of the Supreme Being'
 type: items
+url: /d/436/
 ---
 
 {{< raw >}}

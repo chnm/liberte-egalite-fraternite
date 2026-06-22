@@ -2,6 +2,8 @@
 aliases:
   - /items/show/138
   - /items/show/138.html
+  - /items/138/
+  - /items/138
 collections: []
 date: '2019-07-23 22:30:13'
 draft: false
@@ -68,6 +70,7 @@ tags:
   - Nobility
 title: A French Gentleman of the Court of Louis XVI. A French Gentleman of the Court of Egalité, 1799
 type: items
+url: /d/132/
 ---
 
 {{< raw >}}

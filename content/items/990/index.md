@@ -2,6 +2,8 @@
 aliases:
   - /items/show/990
   - /items/show/990.html
+  - /items/990/
+  - /items/990
 collections: []
 date: '2019-07-23 22:36:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Treaty of Frankfurt: France cedes to the Prussians Alsace and part of Lorraine and has to pay five billion francs in indemnity.'
 type: items
+url: /d/1037/
 ---

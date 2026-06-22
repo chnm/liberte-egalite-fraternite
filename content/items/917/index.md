@@ -2,6 +2,8 @@
 aliases:
   - /items/show/917
   - /items/show/917.html
+  - /items/917/
+  - /items/917
 collections: []
 date: '2019-07-23 22:36:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Abolition of slavery in France, but not in the colonies.
 type: items
+url: /d/964/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/814
   - /items/show/814.html
+  - /items/814/
+  - /items/814
 collections: []
 date: '2019-07-23 22:35:51'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Inflation intensifies. Food riots occur in Paris. Both continue until March.
 type: items
+url: /d/861/
 ---

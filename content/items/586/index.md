@@ -2,6 +2,8 @@
 aliases:
   - /items/show/586
   - /items/show/586.html
+  - /items/586/
+  - /items/586
 collections: []
 date: '2019-07-23 22:34:52'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: <i>Curious Proposal of the Women of the Maubert Marketplace</i> (1785)
 type: items
+url: /d/264/
 ---
 
 {{< raw >}}

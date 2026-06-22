@@ -2,6 +2,8 @@
 aliases:
   - /items/show/336
   - /items/show/336.html
+  - /items/336/
+  - /items/336
 collections: []
 date: '2019-07-23 22:33:45'
 draft: false
@@ -38,6 +40,7 @@ tags:
   - Text
 title: Memoirs of the Poet Alphonse de Lamartine
 type: items
+url: /d/533/
 ---
 
 {{< raw >}}

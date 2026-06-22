@@ -2,6 +2,8 @@
 aliases:
   - /items/show/503
   - /items/show/503.html
+  - /items/503/
+  - /items/503
 collections: []
 date: '2019-07-23 22:34:30'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - War
 title: Toussaint L’Ouverture in <i>An Historical Account of the Black Empire of Hayti</i>
 type: items
+url: /d/347/
 ---
 
 {{< raw >}}

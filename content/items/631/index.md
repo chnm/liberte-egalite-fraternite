@@ -2,6 +2,8 @@
 aliases:
   - /items/show/631
   - /items/show/631.html
+  - /items/631/
+  - /items/631
 collections: []
 date: '2019-07-23 22:35:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Deliberations of the Estates–General begin at Versailles.
 type: items
+url: /d/678/
 ---

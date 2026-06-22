@@ -2,6 +2,8 @@
 aliases:
   - /items/show/51
   - /items/show/51.html
+  - /items/51/
+  - /items/51
 collections: []
 date: '2019-07-23 22:27:23'
 draft: false
@@ -46,4 +48,5 @@ tags:
   - Popular Politics
 title: Clock Faces
 type: items
+url: /d/40/
 ---

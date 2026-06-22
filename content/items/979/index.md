@@ -2,6 +2,8 @@
 aliases:
   - /items/show/979
   - /items/show/979.html
+  - /items/979/
+  - /items/979
 collections: []
 date: '2019-07-23 22:36:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Law on compensation for the émigrés and victims of the Terror.
 type: items
+url: /d/1026/
 ---

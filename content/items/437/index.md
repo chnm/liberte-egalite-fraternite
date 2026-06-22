@@ -2,6 +2,8 @@
 aliases:
   - /items/show/437
   - /items/show/437.html
+  - /items/437/
+  - /items/437
 collections: []
 date: '2019-07-23 22:34:13'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Robespierre, "On Political Morality"
 type: items
+url: /d/413/
 ---
 
 {{< raw >}}

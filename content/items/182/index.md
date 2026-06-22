@@ -2,6 +2,8 @@
 aliases:
   - /items/show/182
   - /items/show/182.html
+  - /items/182/
+  - /items/182
 collections: []
 date: '2019-07-23 22:31:07'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - Religion
 title: Son of Saint–Louis Going Up to Heaven . . .
 type: items
+url: /d/179/
 ---
 
 {{< raw >}}

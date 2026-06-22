@@ -2,6 +2,8 @@
 aliases:
   - /items/show/378
   - /items/show/378.html
+  - /items/378/
+  - /items/378
 collections: []
 date: '2019-07-23 22:33:57'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: <i>Citoyenne</i> Lacombe’s "Report to the Society of Revolutionary Republican Women Concerning What Took Place 16 September at the Jacobin Club"
 type: items
+url: /d/485/
 ---
 
 {{< raw >}}

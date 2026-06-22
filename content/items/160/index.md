@@ -2,6 +2,8 @@
 aliases:
   - /items/show/160
   - /items/show/160.html
+  - /items/160/
+  - /items/160
 collections: []
 date: '2019-07-23 22:30:44'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Popular Politics
 title: Awakening of the Third Estate
 type: items
+url: /d/157/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/652
   - /items/show/652.html
+  - /items/652/
+  - /items/652
 collections: []
 date: '2019-07-23 22:35:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 48,000 émigrés are removed from list of 100,000.
 type: items
+url: /d/699/
 ---

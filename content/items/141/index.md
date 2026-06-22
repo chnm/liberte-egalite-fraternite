@@ -2,6 +2,8 @@
 aliases:
   - /items/show/141
   - /items/show/141.html
+  - /items/141/
+  - /items/141
 collections: []
 date: '2019-07-23 22:30:15'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - The Terror
 title: 'Opening of the Club of the Revolution: Circus Act'
 type: items
+url: /d/135/
 ---
 
 {{< raw >}}

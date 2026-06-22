@@ -2,6 +2,8 @@
 aliases:
   - /items/show/950
   - /items/show/950.html
+  - /items/950/
+  - /items/950
 collections: []
 date: '2019-07-23 22:36:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Victory of General Brune at Casticum, in the eastern Mediterranean against the British and the Russians.
 type: items
+url: /d/997/
 ---

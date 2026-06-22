@@ -2,6 +2,8 @@
 aliases:
   - /items/show/993
   - /items/show/993.html
+  - /items/993/
+  - /items/993
 collections: []
 date: '2019-07-23 22:36:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Republic adopts 14 July as the annual national festival.
 type: items
+url: /d/1040/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/717
   - /items/show/717.html
+  - /items/717/
+  - /items/717
 collections: []
 date: '2019-07-23 22:35:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Election of representatives to the Estates–General. One of the traditions of the Estates–General was to request <i>cahiers de doléances</i> or lists of grievances from the realm. In accordance with this tradition, the drawing up of the <i>cahiers</i> had been officially decreed on 24 January. (The <i>cahiers</i> number in the thousands and constitute one of our richest sources of historical information about late eighteenth–century France.)
 type: items
+url: /d/764/
 ---

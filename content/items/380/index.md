@@ -2,6 +2,8 @@
 aliases:
   - /items/show/380
   - /items/show/380.html
+  - /items/380/
+  - /items/380
 collections: []
 date: '2019-07-23 22:33:58'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Prudhomme, "On the Influence of the Revolution on Women" (12 February 1791)
 type: items
+url: /d/483/
 ---
 
 {{< raw >}}

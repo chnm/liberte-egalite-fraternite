@@ -2,6 +2,8 @@
 aliases:
   - /items/show/517
   - /items/show/517.html
+  - /items/517/
+  - /items/517
 collections: []
 date: '2019-07-23 22:34:34'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: The Queen’s Defense (14 October 1793)
 type: items
+url: /d/333/
 ---
 
 {{< raw >}}

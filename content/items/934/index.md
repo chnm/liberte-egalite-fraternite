@@ -2,6 +2,8 @@
 aliases:
   - /items/show/934
   - /items/show/934.html
+  - /items/934/
+  - /items/934
 collections: []
 date: '2019-07-23 22:36:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI becomes king.
 type: items
+url: /d/981/
 ---

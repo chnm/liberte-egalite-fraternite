@@ -2,6 +2,8 @@
 aliases:
   - /items/show/816
   - /items/show/816.html
+  - /items/816/
+  - /items/816
 collections: []
 date: '2019-07-23 22:35:51'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Brunswick Manifesto (declared on 25 July) is distributed throughout Paris. The Duke of Brunswick, commanding general of the Austro–Prussian Army, in an inflammatory declaration, warns Parisians to obey Louis XVI. It threatens them with violent punishment if they do not. The Assembly is offended and orders the sections of Paris to ready themselves. The Manifesto creates both fear and anger in Paris.
 type: items
+url: /d/863/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/773
   - /items/show/773.html
+  - /items/773/
+  - /items/773
 collections: []
 date: '2019-07-23 22:35:41'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Festival of Reason in Notre–Dame.
 type: items
+url: /d/820/
 ---

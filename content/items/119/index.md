@@ -2,6 +2,8 @@
 aliases:
   - /items/show/119
   - /items/show/119.html
+  - /items/119/
+  - /items/119
 collections: []
 date: '2019-07-23 22:29:37'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: Fusillades at Lyon, Ordered by Collot–D’Herbois
 type: items
+url: /d/113/
 ---
 
 {{< raw >}}

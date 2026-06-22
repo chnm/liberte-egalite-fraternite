@@ -2,6 +2,8 @@
 aliases:
   - /items/show/96
   - /items/show/96.html
+  - /items/96/
+  - /items/96
 collections: []
 date: '2019-07-23 22:28:44'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Popular Politics
 title: Taking of Weapons at the Invalides
 type: items
+url: /d/89/
 ---
 
 {{< raw >}}

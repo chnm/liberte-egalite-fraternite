@@ -2,6 +2,8 @@
 aliases:
   - /items/show/830
   - /items/show/830.html
+  - /items/830/
+  - /items/830
 collections: []
 date: '2019-07-23 22:35:54'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Although it continues sporadically, the important revolt in the Vendée is repressed.
 type: items
+url: /d/877/
 ---

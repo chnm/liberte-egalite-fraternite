@@ -2,6 +2,8 @@
 aliases:
   - /items/show/928
   - /items/show/928.html
+  - /items/928/
+  - /items/928
 collections: []
 date: '2019-07-23 22:36:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Ligurian republic set up at Genoa by France.
 type: items
+url: /d/975/
 ---

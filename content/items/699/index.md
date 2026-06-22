@@ -2,6 +2,8 @@
 aliases:
   - /items/show/699
   - /items/show/699.html
+  - /items/699/
+  - /items/699
 collections: []
 date: '2019-07-23 22:35:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Publication of Rousseau’s <i>Emile</i> and <i>Social Contract</i>.
 type: items
+url: /d/746/
 ---

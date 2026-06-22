@@ -2,6 +2,8 @@
 aliases:
   - /items/show/476
   - /items/show/476.html
+  - /items/476/
+  - /items/476
 collections: []
 date: '2019-07-23 22:34:23'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Babeuf’s Trial
 type: items
+url: /d/374/
 ---
 
 {{< raw >}}

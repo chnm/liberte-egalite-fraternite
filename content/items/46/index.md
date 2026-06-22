@@ -2,6 +2,8 @@
 aliases:
   - /items/show/46
   - /items/show/46.html
+  - /items/46/
+  - /items/46
 collections: []
 date: '2019-07-23 22:27:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Robespierre 10 Thermidor—Exposition of 1877
 type: items
+url: /d/34/
 ---
 
 {{< raw >}}

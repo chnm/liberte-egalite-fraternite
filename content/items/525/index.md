@@ -2,6 +2,8 @@
 aliases:
   - /items/show/525
   - /items/show/525.html
+  - /items/525/
+  - /items/525
 collections: []
 date: '2019-07-23 22:34:36'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Saint–Just’s Speech on the King’s Fate (27 December 1792)
 type: items
+url: /d/325/
 ---
 
 {{< raw >}}

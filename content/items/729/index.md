@@ -2,6 +2,8 @@
 aliases:
   - /items/show/729
   - /items/show/729.html
+  - /items/729/
+  - /items/729
 collections: []
 date: '2019-07-23 22:35:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The first anniversary of the Revolution is celebrated on the fields of the <i>Champ de Mars, the Festival of the Federation.</i>
 type: items
+url: /d/776/
 ---

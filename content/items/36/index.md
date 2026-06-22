@@ -2,6 +2,8 @@
 aliases:
   - /items/show/36
   - /items/show/36.html
+  - /items/36/
+  - /items/36
 collections: []
 date: '2019-07-23 22:27:12'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - The Terror
 title: A Democrat, or Reason and Philosophy
 type: items
+url: /d/24/
 ---
 
 {{< raw >}}

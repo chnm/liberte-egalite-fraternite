@@ -2,6 +2,8 @@
 aliases:
   - /items/show/463
   - /items/show/463.html
+  - /items/463/
+  - /items/463
 collections: []
 date: '2019-07-23 22:34:20'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: 'October Days: An Alternate View'
 type: items
+url: /d/387/
 ---
 
 {{< raw >}}

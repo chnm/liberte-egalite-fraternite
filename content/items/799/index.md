@@ -2,6 +2,8 @@
 aliases:
   - /items/show/799
   - /items/show/799.html
+  - /items/799/
+  - /items/799
 collections: []
 date: '2019-07-23 22:35:47'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Venetian Republic occupied by France.
 type: items
+url: /d/846/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/374
   - /items/show/374.html
+  - /items/374/
+  - /items/374
 collections: []
 date: '2019-07-23 22:33:56'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Chaumette, Speech at City Hall Denouncing Women’s Political Activism (17 November 1793)
 type: items
+url: /d/489/
 ---
 
 {{< raw >}}

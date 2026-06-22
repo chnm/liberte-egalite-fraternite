@@ -2,6 +2,8 @@
 aliases:
   - /items/show/227
   - /items/show/227.html
+  - /items/227/
+  - /items/227
 collections: []
 date: '2019-07-23 22:32:16'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Image
 title: The Barnyard
 type: items
+url: /d/223/
 ---
 
 {{< raw >}}

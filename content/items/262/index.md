@@ -2,6 +2,8 @@
 aliases:
   - /items/show/262
   - /items/show/262.html
+  - /items/262/
+  - /items/262
 collections: []
 date: '2019-07-23 22:33:12'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - Monarchy
 title: Louis Rides a Pig
 type: items
+url: /d/77/
 ---
 
 {{< raw >}}

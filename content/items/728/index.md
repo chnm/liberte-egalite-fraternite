@@ -2,6 +2,8 @@
 aliases:
   - /items/show/728
   - /items/show/728.html
+  - /items/728/
+  - /items/728
 collections: []
 date: '2019-07-23 22:35:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Adoption of the <i>Civil Constitution of the Clergy</i>.
 type: items
+url: /d/775/
 ---

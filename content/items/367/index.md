@@ -2,6 +2,8 @@
 aliases:
   - /items/show/367
   - /items/show/367.html
+  - /items/367/
+  - /items/367
 collections: []
 date: '2019-07-23 22:33:55'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Ex–Nobles Targeted in the Press—Military Nobility
 type: items
+url: /d/496/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/711
   - /items/show/711.html
+  - /items/711/
+  - /items/711
 collections: []
 date: '2019-07-23 22:35:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Exile of <i>Parlements</i> of Paris and Bordeaux.
 type: items
+url: /d/758/
 ---

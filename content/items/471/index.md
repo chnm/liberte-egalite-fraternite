@@ -2,6 +2,8 @@
 aliases:
   - /items/show/471
   - /items/show/471.html
+  - /items/471/
+  - /items/471
 collections: []
 date: '2019-07-23 22:34:22'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Street Demonstrations of Support for Necker (12 July 1789)
 type: items
+url: /d/379/
 ---
 
 {{< raw >}}

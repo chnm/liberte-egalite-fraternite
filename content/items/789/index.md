@@ -2,6 +2,8 @@
 aliases:
   - /items/show/789
   - /items/show/789.html
+  - /items/789/
+  - /items/789
 collections: []
 date: '2019-07-23 22:35:44'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Peace Treaty of Basel concluded with Spain.
 type: items
+url: /d/836/
 ---

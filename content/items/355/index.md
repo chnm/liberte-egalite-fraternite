@@ -2,6 +2,8 @@
 aliases:
   - /items/show/355
   - /items/show/355.html
+  - /items/355/
+  - /items/355
 collections: []
 date: '2019-07-23 22:33:50'
 draft: false
@@ -38,6 +40,7 @@ tags:
   - Text
 title: Voting in Toulouse, 1793–1815
 type: items
+url: /d/512/
 ---
 
 {{< raw >}}

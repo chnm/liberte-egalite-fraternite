@@ -2,6 +2,8 @@
 aliases:
   - /items/show/375
   - /items/show/375.html
+  - /items/375/
+  - /items/375
 collections: []
 date: '2019-07-23 22:33:57'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: The Trial of Olympe de Gouges
 type: items
+url: /d/488/
 ---
 
 {{< raw >}}

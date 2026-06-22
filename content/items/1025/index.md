@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1025
   - /items/show/1025.html
+  - /items/1025/
+  - /items/1025
 collections: []
 date: '2019-07-23 22:36:41'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Committee of Public Safety
 type: items
+url: /d/1071/
 ---

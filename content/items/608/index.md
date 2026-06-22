@@ -2,6 +2,8 @@
 aliases:
   - /items/show/608
   - /items/show/608.html
+  - /items/608/
+  - /items/608
 collections: []
 date: '2019-07-23 22:34:58'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Sentence against Damiens (1757)
 type: items
+url: /d/242/
 ---
 
 {{< raw >}}

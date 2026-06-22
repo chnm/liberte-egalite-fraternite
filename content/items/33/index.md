@@ -2,6 +2,8 @@
 aliases:
   - /items/show/33
   - /items/show/33.html
+  - /items/33/
+  - /items/33
 collections: []
 date: '2019-07-23 22:27:08'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - Religion
 title: View of the Mound of Champ de la Reunion on the Festival That Was Celebrated in Honor of the Supreme Being
 type: items
+url: /d/21/
 ---
 
 {{< raw >}}

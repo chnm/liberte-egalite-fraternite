@@ -2,6 +2,8 @@
 aliases:
   - /items/show/943
   - /items/show/943.html
+  - /items/943/
+  - /items/943
 collections: []
 date: '2019-07-23 22:36:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Piedmontese at Mondovi.
 type: items
+url: /d/990/
 ---

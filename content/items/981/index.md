@@ -2,6 +2,8 @@
 aliases:
   - /items/show/981
   - /items/show/981.html
+  - /items/981/
+  - /items/981
 collections: []
 date: '2019-07-23 22:36:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Overthrow of Charles X, the last monarch in France of the Bourbon dynasty.
 type: items
+url: /d/1028/
 ---

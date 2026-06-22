@@ -2,6 +2,8 @@
 aliases:
   - /items/show/47
   - /items/show/47.html
+  - /items/47/
+  - /items/47
 collections: []
 date: '2019-07-23 22:27:18'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Monarchy
 title: 20 June 1791, Anonymous Drawing
 type: items
+url: /d/35/
 ---
 
 {{< raw >}}

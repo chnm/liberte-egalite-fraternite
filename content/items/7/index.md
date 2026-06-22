@@ -2,6 +2,8 @@
 aliases:
   - /items/show/7
   - /items/show/7.html
+  - /items/7/
+  - /items/7
 collections: []
 date: '2019-07-23 22:26:21'
 draft: false
@@ -37,4 +39,5 @@ tags:
   - War
 title: War in the Netherlands—1792–94
 type: items
+url: /d/446/
 ---

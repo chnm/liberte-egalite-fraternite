@@ -2,6 +2,8 @@
 aliases:
   - /items/show/181
   - /items/show/181.html
+  - /items/181/
+  - /items/181
 collections: []
 date: '2019-07-23 22:31:07'
 draft: false
@@ -39,6 +41,7 @@ tags:
   - Women
 title: The Queen Tries to Raise Louis XVI’s Spirits.
 type: items
+url: /d/178/
 ---
 
 {{< raw >}}

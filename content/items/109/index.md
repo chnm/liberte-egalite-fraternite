@@ -2,6 +2,8 @@
 aliases:
   - /items/show/109
   - /items/show/109.html
+  - /items/109/
+  - /items/109
 collections: []
 date: '2019-07-23 22:29:12'
 draft: false
@@ -76,4 +78,5 @@ tags:
   - Image
 title: The Execution of Louis XVI
 type: items
+url: /d/1137/
 ---

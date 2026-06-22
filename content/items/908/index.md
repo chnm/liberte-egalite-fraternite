@@ -2,6 +2,8 @@
 aliases:
   - /items/show/908
   - /items/show/908.html
+  - /items/908/
+  - /items/908
 collections: []
 date: '2019-07-23 22:36:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Siege of Acre, held by the Turks.
 type: items
+url: /d/955/
 ---

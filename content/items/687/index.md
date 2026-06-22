@@ -2,6 +2,8 @@
 aliases:
   - /items/show/687
   - /items/show/687.html
+  - /items/687/
+  - /items/687
 collections: []
 date: '2019-07-23 22:35:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Invasion of Russia.
 type: items
+url: /d/734/
 ---

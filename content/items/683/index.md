@@ -2,6 +2,8 @@
 aliases:
   - /items/show/683
   - /items/show/683.html
+  - /items/683/
+  - /items/683
 collections: []
 date: '2019-07-23 22:35:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Marriage of Napoleon and Josephine annulled by the officiality (church court) of Paris.
 type: items
+url: /d/730/
 ---

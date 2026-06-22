@@ -2,6 +2,8 @@
 aliases:
   - /items/show/706
   - /items/show/706.html
+  - /items/706/
+  - /items/706
 collections: []
 date: '2019-07-23 22:35:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: U.S. <i>Declaration of Independence</i>.
 type: items
+url: /d/753/
 ---

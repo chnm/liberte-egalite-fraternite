@@ -2,6 +2,8 @@
 aliases:
   - /items/show/584
   - /items/show/584.html
+  - /items/584/
+  - /items/584
 collections: []
 date: '2019-07-23 22:34:52'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The US and Great Britain in Revolution
 title: The <i>Petition of Right</i>
 type: items
+url: /d/266/
 ---
 
 {{< raw >}}

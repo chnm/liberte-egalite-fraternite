@@ -2,6 +2,8 @@
 aliases:
   - /items/show/24
   - /items/show/24.html
+  - /items/24/
+  - /items/24
 collections: []
 date: '2019-07-23 22:26:48'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: To Versailles, To Versailles!
 type: items
+url: /d/12/
 ---
 
 {{< raw >}}

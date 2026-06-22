@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1059
   - /items/show/1059.html
+  - /items/1059/
+  - /items/1059
 collections: []
 date: '2019-07-23 22:36:50'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Order
 type: items
+url: /d/1105/
 ---

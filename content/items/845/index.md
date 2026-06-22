@@ -2,6 +2,8 @@
 aliases:
   - /items/show/845
   - /items/show/845.html
+  - /items/845/
+  - /items/845
 collections: []
 date: '2019-07-23 22:35:58'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The beginnings of the independence movement in Saint Domingue, present–day Haiti, led by Toussaint L’Ouverture.
 type: items
+url: /d/892/
 ---

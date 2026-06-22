@@ -2,6 +2,8 @@
 aliases:
   - /items/show/385
   - /items/show/385.html
+  - /items/385/
+  - /items/385
 collections: []
 date: '2019-07-23 22:33:59'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Women’s Participation in Riots over the Price of Sugar, February 1792
 type: items
+url: /d/478/
 ---
 
 {{< raw >}}

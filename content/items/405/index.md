@@ -2,6 +2,8 @@
 aliases:
   - /items/show/405
   - /items/show/405.html
+  - /items/405/
+  - /items/405
 collections: []
 date: '2019-07-23 22:34:05'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Louis XVIII to Charette
 type: items
+url: /d/455/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/14
   - /items/show/14.html
+  - /items/14/
+  - /items/14
 collections: []
 date: '2019-07-23 22:26:25'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Popular Politics
 title: Fraternity
 type: items
+url: /d/2/
 ---
 
 {{< raw >}}

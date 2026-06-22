@@ -2,6 +2,8 @@
 aliases:
   - /items/show/415
   - /items/show/415.html
+  - /items/415/
+  - /items/415
 collections: []
 date: '2019-07-23 22:34:07'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: The Law of 22 Prairial Year II (10 June 1794)
 type: items
+url: /d/439/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/467
   - /items/show/467.html
+  - /items/467/
+  - /items/467
 collections: []
 date: '2019-07-23 22:34:21'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: A Defender of the Bastille Explains His Role
 type: items
+url: /d/383/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/214
   - /items/show/214.html
+  - /items/214/
+  - /items/214
 collections: []
 date: '2019-07-23 22:31:50'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - The US and Great Britain in Revolution
 title: United States of America––New York––Solemn Inauguration of the Statue of Liberty
 type: items
+url: /d/212/
 ---
 
 {{< raw >}}

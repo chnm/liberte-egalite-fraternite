@@ -2,6 +2,8 @@
 aliases:
   - /items/show/859
   - /items/show/859.html
+  - /items/859/
+  - /items/859
 collections: []
 date: '2019-07-23 22:36:01'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Victory of Ratisbon against Austria.
 type: items
+url: /d/906/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/188
   - /items/show/188.html
+  - /items/188/
+  - /items/188
 collections: []
 date: '2019-07-23 22:31:19'
 draft: false
@@ -69,6 +71,7 @@ tags:
   - Women
 title: The Queen of Louis XVI King of France at the Guillotine, 16 October 1793
 type: items
+url: /d/185/
 ---
 
 {{< raw >}}

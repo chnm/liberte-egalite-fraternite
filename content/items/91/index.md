@@ -2,6 +2,8 @@
 aliases:
   - /items/show/91
   - /items/show/91.html
+  - /items/91/
+  - /items/91
 collections: []
 date: '2019-07-23 22:28:32'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Public Opinion
 title: Assembly of Notables, Held at Versailles
 type: items
+url: /d/83/
 ---
 
 {{< raw >}}

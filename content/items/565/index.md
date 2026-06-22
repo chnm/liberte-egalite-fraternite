@@ -2,6 +2,8 @@
 aliases:
   - /items/show/565
   - /items/show/565.html
+  - /items/565/
+  - /items/565
 collections: []
 date: '2019-07-23 22:34:47'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Abbé Maury, "Speech," 23 December 1789
 type: items
+url: /d/285/
 ---
 
 {{< raw >}}

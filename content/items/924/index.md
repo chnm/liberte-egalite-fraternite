@@ -2,6 +2,8 @@
 aliases:
   - /items/show/924
   - /items/show/924.html
+  - /items/924/
+  - /items/924
 collections: []
 date: '2019-07-23 22:36:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory of Tourcoing over British who, from this point on seek to avoid facing French forces on land.
 type: items
+url: /d/971/
 ---

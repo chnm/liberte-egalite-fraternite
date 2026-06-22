@@ -2,6 +2,8 @@
 aliases:
   - /items/show/897
   - /items/show/897.html
+  - /items/897/
+  - /items/897
 collections: []
 date: '2019-07-23 22:36:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: One hundred <i>livres</i>–assignats worth only 1.4 <i>livres</i> in metal currency.
 type: items
+url: /d/944/
 ---

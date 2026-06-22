@@ -2,6 +2,8 @@
 aliases:
   - /items/show/583
   - /items/show/583.html
+  - /items/583/
+  - /items/583
 collections: []
 date: '2019-07-23 22:34:51'
 draft: false
@@ -53,6 +55,7 @@ tags:
   - The US and Great Britain in Revolution
 title: The <i>Bill of Rights</i>, 1689
 type: items
+url: /d/267/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/468
   - /items/show/468.html
+  - /items/468/
+  - /items/468
 collections: []
 date: '2019-07-23 22:34:21'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: A Conqueror of the Bastille Speaks
 type: items
+url: /d/382/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/404
   - /items/show/404.html
+  - /items/404/
+  - /items/404
 collections: []
 date: '2019-07-23 22:34:05'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: The Gilded Youth
 type: items
+url: /d/456/
 ---
 
 {{< raw >}}

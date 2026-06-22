@@ -2,6 +2,8 @@
 aliases:
   - /items/show/843
   - /items/show/843.html
+  - /items/843/
+  - /items/843
 collections: []
 date: '2019-07-23 22:35:57'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon begins to prepare his own Italian campaign.
 type: items
+url: /d/890/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/148
   - /items/show/148.html
+  - /items/148/
+  - /items/148
 collections: []
 date: '2019-07-23 22:30:26'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Popular Politics
 title: The Third Incident of 14 July 1789
 type: items
+url: /d/146/
 ---
 
 {{< raw >}}

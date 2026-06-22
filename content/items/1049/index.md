@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1049
   - /items/show/1049.html
+  - /items/1049/
+  - /items/1049
 collections: []
 date: '2019-07-23 22:36:47'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Jansenism
 type: items
+url: /d/1095/
 ---

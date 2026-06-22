@@ -2,6 +2,8 @@
 aliases:
   - /items/show/868
   - /items/show/868.html
+  - /items/868/
+  - /items/868
 collections: []
 date: '2019-07-23 22:36:03'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Edict grants toleration to Protestants.
 type: items
+url: /d/915/
 ---

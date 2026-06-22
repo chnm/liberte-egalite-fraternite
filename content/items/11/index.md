@@ -2,6 +2,8 @@
 aliases:
   - /items/show/11
   - /items/show/11.html
+  - /items/11/
+  - /items/11
 collections: []
 date: '2019-07-23 22:26:22'
 draft: false
@@ -42,4 +44,5 @@ tags:
   - Map
 title: The Moscow Campaign 1812
 type: items
+url: /d/1126/
 ---

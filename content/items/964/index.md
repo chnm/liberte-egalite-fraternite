@@ -2,6 +2,8 @@
 aliases:
   - /items/show/964
   - /items/show/964.html
+  - /items/964/
+  - /items/964
 collections: []
 date: '2019-07-23 22:36:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon defeats the Russians at Friedland.
 type: items
+url: /d/1011/
 ---

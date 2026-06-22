@@ -2,6 +2,8 @@
 aliases:
   - /items/show/944
   - /items/show/944.html
+  - /items/944/
+  - /items/944
 collections: []
 date: '2019-07-23 22:36:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Lodi.
 type: items
+url: /d/991/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/70
   - /items/show/70.html
+  - /items/70/
+  - /items/70
 collections: []
 date: '2019-07-23 22:27:54'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - Monarchy
 title: Louis as No More Than a Man
 type: items
+url: /d/59/
 ---
 
 {{< raw >}}

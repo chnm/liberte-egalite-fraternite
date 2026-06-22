@@ -2,6 +2,8 @@
 aliases:
   - /items/show/982
   - /items/show/982.html
+  - /items/982/
+  - /items/982
 collections: []
 date: '2019-07-23 22:36:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis–Philippe, king of the French, swears loyalty to the revised Charter.
 type: items
+url: /d/1029/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/230
   - /items/show/230.html
+  - /items/230/
+  - /items/230
 collections: []
 date: '2019-07-23 22:32:19'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - War
 title: The Mode of exterminating the Black Army as practised by the French
 type: items
+url: /d/226/
 ---
 
 {{< raw >}}

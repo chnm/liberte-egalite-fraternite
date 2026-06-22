@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1028
   - /items/show/1028.html
+  - /items/1028/
+  - /items/1028
 collections: []
 date: '2019-07-23 22:36:42'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Consul
 type: items
+url: /d/1074/
 ---

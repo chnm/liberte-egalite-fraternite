@@ -2,6 +2,8 @@
 aliases:
   - /items/show/568
   - /items/show/568.html
+  - /items/568/
+  - /items/568
 collections: []
 date: '2019-07-23 22:34:47'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Thouret, "Report on the Basis of Political Eligibility" (29 September 1789)
 type: items
+url: /d/282/
 ---
 
 {{< raw >}}

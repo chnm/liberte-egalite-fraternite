@@ -2,6 +2,8 @@
 aliases:
   - /items/show/822
   - /items/show/822.html
+  - /items/822/
+  - /items/822
 collections: []
 date: '2019-07-23 22:35:53'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Convention declares its willingness to help all subjected peoples achieve their liberty.
 type: items
+url: /d/869/
 ---

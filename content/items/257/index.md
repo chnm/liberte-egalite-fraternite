@@ -2,6 +2,8 @@
 aliases:
   - /items/show/257
   - /items/show/257.html
+  - /items/257/
+  - /items/257
 collections: []
 date: '2019-07-23 22:33:05'
 draft: false
@@ -40,4 +42,5 @@ tags:
   - Popular Politics
 title: Gravy Boat with Phrygian Bonnet
 type: items
+url: /d/646/
 ---

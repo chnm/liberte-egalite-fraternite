@@ -2,6 +2,8 @@
 aliases:
   - /items/show/203
   - /items/show/203.html
+  - /items/203/
+  - /items/203
 collections: []
 date: '2019-07-23 22:31:37'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Congress of Vienna
 type: items
+url: /d/201/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/577
   - /items/show/577.html
+  - /items/577/
+  - /items/577
 collections: []
 date: '2019-07-23 22:34:50'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Voltaire, Selections from the <i>Philosophical Dictionary</i>
 type: items
+url: /d/273/
 ---
 
 {{< raw >}}

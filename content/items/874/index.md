@@ -2,6 +2,8 @@
 aliases:
   - /items/show/874
   - /items/show/874.html
+  - /items/874/
+  - /items/874
 collections: []
 date: '2019-07-23 22:36:05'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Revolutionary municipalities and citizens’ guards are formed throughout the provinces. Process continues through August.
 type: items
+url: /d/921/
 ---

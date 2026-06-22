@@ -2,6 +2,8 @@
 aliases:
   - /items/show/988
   - /items/show/988.html
+  - /items/988/
+  - /items/988
 collections: []
 date: '2019-07-23 22:36:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the French Republic after defeat of Napoleon III by the Prussians.
 type: items
+url: /d/1035/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/732
   - /items/show/732.html
+  - /items/732/
+  - /items/732
 collections: []
 date: '2019-07-23 22:35:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Worker unions and strikes are prohibited by the Le Chapelier Law.
 type: items
+url: /d/779/
 ---

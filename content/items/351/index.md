@@ -2,6 +2,8 @@
 aliases:
   - /items/show/351
   - /items/show/351.html
+  - /items/351/
+  - /items/351
 collections: []
 date: '2019-07-23 22:33:49'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Prussian Reform Edict (9 October 1807)
 type: items
+url: /d/517/
 ---
 
 {{< raw >}}

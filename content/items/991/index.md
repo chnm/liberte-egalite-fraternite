@@ -2,6 +2,8 @@
 aliases:
   - /items/show/991
   - /items/show/991.html
+  - /items/991/
+  - /items/991
 collections: []
 date: '2019-07-23 22:36:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Comte de Chambord (Henri V), back in France, refuses to abandon the royalist white flag.
 type: items
+url: /d/1038/
 ---

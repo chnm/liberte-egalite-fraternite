@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1038
   - /items/show/1038.html
+  - /items/1038/
+  - /items/1038
 collections: []
 date: '2019-07-23 22:36:44'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Denier
 type: items
+url: /d/1084/
 ---

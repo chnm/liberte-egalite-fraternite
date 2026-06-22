@@ -2,6 +2,8 @@
 aliases:
   - /items/show/815
   - /items/show/815.html
+  - /items/815/
+  - /items/815
 collections: []
 date: '2019-07-23 22:35:51'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI removes the Count of Narbonne, Minister of War. All of his other ministers resign. Louis forms a new government, composed mostly of Jacobins.
 type: items
+url: /d/862/
 ---

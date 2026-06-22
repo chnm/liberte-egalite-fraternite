@@ -2,6 +2,8 @@
 aliases:
   - /items/show/134
   - /items/show/134.html
+  - /items/134/
+  - /items/134
 collections: []
 date: '2019-07-23 22:30:06'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - War
 title: Noble Act of 500,000 Republicans
 type: items
+url: /d/127/
 ---
 
 {{< raw >}}

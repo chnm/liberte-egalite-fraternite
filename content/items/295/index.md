@@ -2,6 +2,8 @@
 aliases:
   - /items/show/295
   - /items/show/295.html
+  - /items/295/
+  - /items/295
 collections: []
 date: '2019-07-23 22:33:33'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Charles Fourier on the Revolution
 type: items
+url: /d/589/
 ---
 
 {{< raw >}}

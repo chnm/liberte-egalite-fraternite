@@ -2,6 +2,8 @@
 aliases:
   - /items/show/871
   - /items/show/871.html
+  - /items/871/
+  - /items/871
 collections: []
 date: '2019-07-23 22:36:04'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'With the consent of the king, Necker agrees to the doubling of the Third Estate’s representation at the forthcoming meeting of the Estates–General: the Third Estate will now have as many deputies as the other two orders put together.'
 type: items
+url: /d/918/
 ---

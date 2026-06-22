@@ -2,6 +2,8 @@
 aliases:
   - /items/show/353
   - /items/show/353.html
+  - /items/353/
+  - /items/353
 collections: []
 date: '2019-07-23 22:33:49'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - War
 title: An Ordinary Soldier’s Account (1806)
 type: items
+url: /d/515/
 ---
 
 {{< raw >}}

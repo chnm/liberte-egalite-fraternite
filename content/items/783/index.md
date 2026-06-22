@@ -2,6 +2,8 @@
 aliases:
   - /items/show/783
   - /items/show/783.html
+  - /items/783/
+  - /items/783
 collections: []
 date: '2019-07-23 22:35:43'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Surviving Girondins are reinstated.
 type: items
+url: /d/830/
 ---

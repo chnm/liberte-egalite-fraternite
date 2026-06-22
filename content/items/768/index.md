@@ -2,6 +2,8 @@
 aliases:
   - /items/show/768
   - /items/show/768.html
+  - /items/768/
+  - /items/768
 collections: []
 date: '2019-07-23 22:35:39'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Passage of the Law of Suspects.
 type: items
+url: /d/815/
 ---

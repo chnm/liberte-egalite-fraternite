@@ -2,6 +2,8 @@
 aliases:
   - /items/show/459
   - /items/show/459.html
+  - /items/459/
+  - /items/459
 collections: []
 date: '2019-07-23 22:34:19'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: The "Second Revolution" of 10 August 1792
 type: items
+url: /d/391/
 ---
 
 {{< raw >}}

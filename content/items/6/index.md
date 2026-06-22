@@ -2,6 +2,8 @@
 aliases:
   - /items/show/6
   - /items/show/6.html
+  - /items/6/
+  - /items/6
 collections: []
 date: '2019-07-23 22:26:20'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Napoleon’s Egyptian Campaign—1798–99
 type: items
+url: /d/445/
 ---

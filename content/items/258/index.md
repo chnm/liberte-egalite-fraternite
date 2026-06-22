@@ -2,6 +2,8 @@
 aliases:
   - /items/show/258
   - /items/show/258.html
+  - /items/258/
+  - /items/258
 collections: []
 date: '2019-07-23 22:33:05'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - Popular Politics
 title: Speech in the Garden of the Palais–Royal
 type: items
+url: /d/647/
 ---
 
 {{< raw >}}

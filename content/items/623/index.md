@@ -2,6 +2,8 @@
 aliases:
   - /items/show/623
   - /items/show/623.html
+  - /items/623/
+  - /items/623
 collections: []
 date: '2019-07-23 22:35:04'
 draft: false
@@ -63,6 +65,7 @@ tags:
   - The Terror
 title: Song of the Marseillaise of the Federation of 10 August, Year II
 type: items
+url: /d/615/
 ---
 
 {{< raw >}}

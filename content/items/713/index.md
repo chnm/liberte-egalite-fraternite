@@ -2,6 +2,8 @@
 aliases:
   - /items/show/713
   - /items/show/713.html
+  - /items/713/
+  - /items/713
 collections: []
 date: '2019-07-23 22:35:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The assembly of the three orders of Dauphiné at Vizille.
 type: items
+url: /d/760/
 ---

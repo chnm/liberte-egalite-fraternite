@@ -2,6 +2,8 @@
 aliases:
   - /items/show/805
   - /items/show/805.html
+  - /items/805/
+  - /items/805
 collections: []
 date: '2019-07-23 22:35:49'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The National Assembly appoints a committee of thirty members to draft a constitution.
 type: items
+url: /d/852/
 ---

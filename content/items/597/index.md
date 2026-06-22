@@ -2,6 +2,8 @@
 aliases:
   - /items/show/597
   - /items/show/597.html
+  - /items/597/
+  - /items/597
 collections: []
 date: '2019-07-23 22:34:55'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - Text
 title: Voltaire, "Internal Government" (1756)
 type: items
+url: /d/253/
 ---
 
 {{< raw >}}

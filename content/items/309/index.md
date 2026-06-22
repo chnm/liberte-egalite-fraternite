@@ -2,6 +2,8 @@
 aliases:
   - /items/show/309
   - /items/show/309.html
+  - /items/309/
+  - /items/309
 collections: []
 date: '2019-07-23 22:33:38'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: Free blacks and mulattos flee (4 December 1793)'
 type: items
+url: /d/575/
 ---
 
 {{< raw >}}

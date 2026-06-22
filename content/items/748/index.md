@@ -2,6 +2,8 @@
 aliases:
   - /items/show/748
   - /items/show/748.html
+  - /items/748/
+  - /items/748
 collections: []
 date: '2019-07-23 22:35:35'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The September Massacres continue through 7 September.
 type: items
+url: /d/795/
 ---

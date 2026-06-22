@@ -2,6 +2,8 @@
 aliases:
   - /items/show/344
   - /items/show/344.html
+  - /items/344/
+  - /items/344
 collections: []
 date: '2019-07-23 22:33:47'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The Russian Campaign as Seen by an Ordinary Soldier
 type: items
+url: /d/524/
 ---
 
 {{< raw >}}

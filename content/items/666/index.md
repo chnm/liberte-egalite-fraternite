@@ -2,6 +2,8 @@
 aliases:
   - /items/show/666
   - /items/show/666.html
+  - /items/666/
+  - /items/666
 collections: []
 date: '2019-07-23 22:35:16'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 22 Germinal XI, laws passed concerning labor in manufactures, including the prohibition of workers’ coalitions.
 type: items
+url: /d/713/
 ---

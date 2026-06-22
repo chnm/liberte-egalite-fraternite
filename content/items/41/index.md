@@ -2,6 +2,8 @@
 aliases:
   - /items/show/41
   - /items/show/41.html
+  - /items/41/
+  - /items/41
 collections: []
 date: '2019-07-23 22:27:14'
 draft: false
@@ -46,4 +48,5 @@ tags:
   - Popular Politics
 title: 'Plate: 1914–17 Quimper china'
 type: items
+url: /d/29/
 ---

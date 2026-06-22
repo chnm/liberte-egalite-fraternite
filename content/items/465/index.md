@@ -2,6 +2,8 @@
 aliases:
   - /items/show/465
   - /items/show/465.html
+  - /items/465/
+  - /items/465
 collections: []
 date: '2019-07-23 22:34:21'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: 'October Days: The Warning from the People'
 type: items
+url: /d/385/
 ---
 
 {{< raw >}}

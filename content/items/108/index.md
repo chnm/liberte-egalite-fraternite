@@ -2,6 +2,8 @@
 aliases:
   - /items/show/108
   - /items/show/108.html
+  - /items/108/
+  - /items/108
 collections: []
 date: '2019-07-23 22:29:10'
 draft: false
@@ -78,6 +80,7 @@ tags:
   - The Terror
 title: Massacre of the Prisoners
 type: items
+url: /d/102/
 ---
 
 {{< raw >}}

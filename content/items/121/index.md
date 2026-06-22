@@ -2,6 +2,8 @@
 aliases:
   - /items/show/121
   - /items/show/121.html
+  - /items/121/
+  - /items/121
 collections: []
 date: '2019-07-23 22:29:42'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - The Terror
 title: Robespierre Laid on the Table of the Committee of Public Safety
 type: items
+url: /d/115/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/61
   - /items/show/61.html
+  - /items/61/
+  - /items/61
 collections: []
 date: '2019-07-23 22:27:38'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - Public Opinion
 title: Saucière with Phrygian Bonnet
 type: items
+url: /d/51/
 ---
 
 {{< raw >}}

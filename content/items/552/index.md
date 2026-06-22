@@ -2,6 +2,8 @@
 aliases:
   - /items/show/552
   - /items/show/552.html
+  - /items/552/
+  - /items/552
 collections: []
 date: '2019-07-23 22:34:43'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - Women
 title: <i>Declaration of Rights and Duties of Man and Citizen</i>, Constitution of the Year III (1795)
 type: items
+url: /d/298/
 ---
 
 {{< raw >}}

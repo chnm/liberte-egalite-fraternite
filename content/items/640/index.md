@@ -2,6 +2,8 @@
 aliases:
   - /items/show/640
   - /items/show/640.html
+  - /items/640/
+  - /items/640
 collections: []
 date: '2019-07-23 22:35:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Coup d’état of Fructidor. Ardent republicans expel moderates and neo–royalists from the Executive Directory and the two legislative councils.
 type: items
+url: /d/687/
 ---

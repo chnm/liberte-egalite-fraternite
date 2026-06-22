@@ -2,6 +2,8 @@
 aliases:
   - /items/show/867
   - /items/show/867.html
+  - /items/867/
+  - /items/867
 collections: []
 date: '2019-07-23 22:36:03'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Birth of Napoleon Bonaparte.
 type: items
+url: /d/914/
 ---

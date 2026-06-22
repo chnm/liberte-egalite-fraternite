@@ -2,6 +2,8 @@
 aliases:
   - /items/show/122
   - /items/show/122.html
+  - /items/122/
+  - /items/122
 collections: []
 date: '2019-07-23 22:29:44'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - War
 title: Entry of the French into Holland
 type: items
+url: /d/116/
 ---
 
 {{< raw >}}

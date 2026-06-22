@@ -2,6 +2,8 @@
 aliases:
   - /items/show/82
   - /items/show/82.html
+  - /items/82/
+  - /items/82
 collections: []
 date: '2019-07-23 22:28:15'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Women
 title: The Republic
 type: items
+url: /d/71/
 ---
 
 {{< raw >}}

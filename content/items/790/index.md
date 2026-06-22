@@ -2,6 +2,8 @@
 aliases:
   - /items/show/790
   - /items/show/790.html
+  - /items/790/
+  - /items/790
 collections: []
 date: '2019-07-23 22:35:45'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Constitution of the Year III and Two Thirds Law approved.
 type: items
+url: /d/837/
 ---

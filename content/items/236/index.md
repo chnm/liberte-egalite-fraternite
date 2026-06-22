@@ -2,6 +2,8 @@
 aliases:
   - /items/show/236
   - /items/show/236.html
+  - /items/236/
+  - /items/236
 collections: []
 date: '2019-07-23 22:32:29'
 draft: false
@@ -75,4 +77,5 @@ tags:
   - Image
 title: A Memorable Day at Versailles
 type: items
+url: /d/1133/
 ---

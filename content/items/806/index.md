@@ -2,6 +2,8 @@
 aliases:
   - /items/show/806
   - /items/show/806.html
+  - /items/806/
+  - /items/806
 collections: []
 date: '2019-07-23 22:35:49'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The National Assembly proclaims itself the Constituent National Assembly, with full authority and power to decree laws; their primary task is to draw up and adopt a constitution.
 type: items
+url: /d/853/
 ---

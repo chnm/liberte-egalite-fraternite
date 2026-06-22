@@ -2,6 +2,8 @@
 aliases:
   - /items/show/779
   - /items/show/779.html
+  - /items/779/
+  - /items/779
 collections: []
 date: '2019-07-23 22:35:42'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Fleurus against Austria ends the threat of invasion.
 type: items
+url: /d/826/
 ---

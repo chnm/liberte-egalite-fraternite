@@ -2,6 +2,8 @@
 aliases:
   - /items/show/145
   - /items/show/145.html
+  - /items/145/
+  - /items/145
 collections: []
 date: '2019-07-23 22:30:22'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Public Opinion
 title: The King Accepting the Constitution amid the National Assembly, 14 September 1791
 type: items
+url: /d/143/
 ---
 
 {{< raw >}}

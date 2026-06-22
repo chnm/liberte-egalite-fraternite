@@ -2,6 +2,8 @@
 aliases:
   - /items/show/249
   - /items/show/249.html
+  - /items/249/
+  - /items/249
 collections: []
 date: '2019-07-23 22:32:52'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - Women
 title: Memorable Day at Versailles, 5 October 1789
 type: items
+url: /d/540/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/221
   - /items/show/221.html
+  - /items/221/
+  - /items/221
 collections: []
 date: '2019-07-23 22:32:07'
 draft: false
@@ -75,4 +77,5 @@ tags:
   - Image
 title: New Square of the Bastille
 type: items
+url: /d/1131/
 ---

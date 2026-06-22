@@ -2,6 +2,8 @@
 aliases:
   - /items/show/784
   - /items/show/784.html
+  - /items/784/
+  - /items/784
 collections: []
 date: '2019-07-23 22:35:43'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Freedom of worship officially restored: Separation of Church and State and freedom of religion are decreed.'
 type: items
+url: /d/831/
 ---

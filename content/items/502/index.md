@@ -2,6 +2,8 @@
 aliases:
   - /items/show/502
   - /items/show/502.html
+  - /items/502/
+  - /items/502
 collections: []
 date: '2019-07-23 22:34:30'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: '"La Chalotais" Affair'
 type: items
+url: /d/348/
 ---
 
 {{< raw >}}

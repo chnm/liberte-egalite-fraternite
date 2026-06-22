@@ -2,6 +2,8 @@
 aliases:
   - /items/show/524
   - /items/show/524.html
+  - /items/524/
+  - /items/524
 collections: []
 date: '2019-07-23 22:34:36'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Robespierre’s Second Speech (28 December 1792)
 type: items
+url: /d/326/
 ---
 
 {{< raw >}}

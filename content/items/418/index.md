@@ -2,6 +2,8 @@
 aliases:
   - /items/show/418
   - /items/show/418.html
+  - /items/418/
+  - /items/418
 collections: []
 date: '2019-07-23 22:34:08'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: The <i>Père Duchesne</i> Supports the Terror
 type: items
+url: /d/434/
 ---
 
 {{< raw >}}

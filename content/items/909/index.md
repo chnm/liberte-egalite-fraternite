@@ -2,6 +2,8 @@
 aliases:
   - /items/show/909
   - /items/show/909.html
+  - /items/909/
+  - /items/909
 collections: []
 date: '2019-07-23 22:36:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Moreau is defeated at Cassano.
 type: items
+url: /d/956/
 ---

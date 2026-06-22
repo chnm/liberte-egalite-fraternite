@@ -2,6 +2,8 @@
 aliases:
   - /items/show/726
   - /items/show/726.html
+  - /items/726/
+  - /items/726
 collections: []
 date: '2019-07-23 22:35:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'October days: The Women’s March Upon Versailles. Parisians, led by a large number of women, march upon Versailles and force the royal family back to Paris, where they take up residence at the Tuileries. Louis XVI is considered by many a "Prisoner" in Paris. The Assembly, still in Versailles, declares, in the spirit of constitutional monarchy, its inseparability from the king. Its meetings are transferred to a hall close to the Tuileries.'
 type: items
+url: /d/773/
 ---

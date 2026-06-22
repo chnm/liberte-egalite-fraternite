@@ -2,6 +2,8 @@
 aliases:
   - /items/show/896
   - /items/show/896.html
+  - /items/896/
+  - /items/896
 collections: []
 date: '2019-07-23 22:36:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the Constitution of Year III.
 type: items
+url: /d/943/
 ---

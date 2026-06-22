@@ -2,6 +2,8 @@
 aliases:
   - /items/show/100
   - /items/show/100.html
+  - /items/100/
+  - /items/100
 collections: []
 date: '2019-07-23 22:28:54'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Monarchy
 title: Image of the King’s Departure
 type: items
+url: /d/94/
 ---
 
 {{< raw >}}

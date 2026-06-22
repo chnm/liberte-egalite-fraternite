@@ -2,6 +2,8 @@
 aliases:
   - /items/show/84
   - /items/show/84.html
+  - /items/84/
+  - /items/84
 collections: []
 date: '2019-07-23 22:28:23'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: <span>A Second Jean d'Arc, or the Assassination of Marat by Charlotte Cordé of Caen in Normandy on Sunday July 14 1793</span>
 type: items
+url: /d/74/
 ---
 
 {{< raw >}}

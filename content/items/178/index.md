@@ -2,6 +2,8 @@
 aliases:
   - /items/show/178
   - /items/show/178.html
+  - /items/178/
+  - /items/178
 collections: []
 date: '2019-07-23 22:31:05'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - Monarchy
 title: Louis XVI
 type: items
+url: /d/175/
 ---
 
 {{< raw >}}

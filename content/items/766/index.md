@@ -2,6 +2,8 @@
 aliases:
   - /items/show/766
   - /items/show/766.html
+  - /items/766/
+  - /items/766
 collections: []
 date: '2019-07-23 22:35:39'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Charlotte Corday assassinates Marat.
 type: items
+url: /d/813/
 ---

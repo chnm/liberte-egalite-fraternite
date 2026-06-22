@@ -2,6 +2,8 @@
 aliases:
   - /items/show/542
   - /items/show/542.html
+  - /items/542/
+  - /items/542
 collections: []
 date: '2019-07-23 22:34:40'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: '"The King of the Third Estate" (June 1789)'
 type: items
+url: /d/308/
 ---
 
 {{< raw >}}

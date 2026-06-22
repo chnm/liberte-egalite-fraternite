@@ -2,6 +2,8 @@
 aliases:
   - /items/show/449
   - /items/show/449.html
+  - /items/449/
+  - /items/449
 collections: []
 date: '2019-07-23 22:34:16'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Activities of the Jacobins
 type: items
+url: /d/401/
 ---
 
 {{< raw >}}

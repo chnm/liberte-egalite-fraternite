@@ -2,6 +2,8 @@
 aliases:
   - /items/show/411
   - /items/show/411.html
+  - /items/411/
+  - /items/411
 collections: []
 date: '2019-07-23 22:34:06'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: 'Dismantling the Terror: Parliamentarianism Reasserted'
 type: items
+url: /d/448/
 ---
 
 {{< raw >}}

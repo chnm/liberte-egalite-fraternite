@@ -2,6 +2,8 @@
 aliases:
   - /items/show/496
   - /items/show/496.html
+  - /items/496/
+  - /items/496
 collections: []
 date: '2019-07-23 22:34:28'
 draft: false
@@ -42,6 +44,7 @@ tags:
   - Text
 title: Poverty in Auvergne
 type: items
+url: /d/354/
 ---
 
 {{< raw >}}

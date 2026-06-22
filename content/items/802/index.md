@@ -2,6 +2,8 @@
 aliases:
   - /items/show/802
   - /items/show/802.html
+  - /items/802/
+  - /items/802
 collections: []
 date: '2019-07-23 22:35:48'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Publication of <i>What is the Third Estate</i>? by the Abbé Sieyès. He claims that the Third Estate is essentially the Nation.
 type: items
+url: /d/849/
 ---

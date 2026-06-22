@@ -2,6 +2,8 @@
 aliases:
   - /items/show/962
   - /items/show/962.html
+  - /items/962/
+  - /items/962
 collections: []
 date: '2019-07-23 22:36:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victories at Jena and AuerstŠdt against Prussia.
 type: items
+url: /d/1009/
 ---

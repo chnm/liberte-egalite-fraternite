@@ -2,6 +2,8 @@
 aliases:
   - /items/show/213
   - /items/show/213.html
+  - /items/213/
+  - /items/213
 collections: []
 date: '2019-07-23 22:31:48'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Monarchy
 title: The King Returns to Paris
 type: items
+url: /d/211/
 ---
 
 {{< raw >}}

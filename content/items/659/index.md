@@ -2,6 +2,8 @@
 aliases:
   - /items/show/659
   - /items/show/659.html
+  - /items/659/
+  - /items/659
 collections: []
 date: '2019-07-23 22:35:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Chateaubriand publishes <i>The Genius of Christianity</i>.
 type: items
+url: /d/706/
 ---

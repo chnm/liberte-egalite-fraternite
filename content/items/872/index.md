@@ -2,6 +2,8 @@
 aliases:
   - /items/show/872
   - /items/show/872.html
+  - /items/872/
+  - /items/872
 collections: []
 date: '2019-07-23 22:36:04'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The electors of Paris form a standing committee and a citizens’ militia.
 type: items
+url: /d/919/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/284
   - /items/show/284.html
+  - /items/284/
+  - /items/284
 collections: []
 date: '2019-07-23 22:33:31'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Declaration of the Independence of the Blacks of St. Domingo
 type: items
+url: /d/605/
 ---
 
 {{< raw >}}

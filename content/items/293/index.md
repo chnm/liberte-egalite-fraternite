@@ -2,6 +2,8 @@
 aliases:
   - /items/show/293
   - /items/show/293.html
+  - /items/293/
+  - /items/293
 collections: []
 date: '2019-07-23 22:33:33'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: A Positive American View
 type: items
+url: /d/591/
 ---
 
 {{< raw >}}

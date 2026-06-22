@@ -2,6 +2,8 @@
 aliases:
   - /items/show/174
   - /items/show/174.html
+  - /items/174/
+  - /items/174
 collections: []
 date: '2019-07-23 22:31:03'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Public Opinion
 title: '"The Great Heroism of the Nineteenth Century"'
 type: items
+url: /d/171/
 ---
 
 {{< raw >}}

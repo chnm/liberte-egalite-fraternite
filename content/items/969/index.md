@@ -2,6 +2,8 @@
 aliases:
   - /items/show/969
   - /items/show/969.html
+  - /items/969/
+  - /items/969
 collections: []
 date: '2019-07-23 22:36:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Battle of Moscow.
 type: items
+url: /d/1016/
 ---

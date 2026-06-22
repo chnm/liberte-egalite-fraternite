@@ -2,6 +2,8 @@
 aliases:
   - /items/show/101
   - /items/show/101.html
+  - /items/101/
+  - /items/101
 collections: []
 date: '2019-07-23 22:28:56'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Monarchy
 title: Arrest of the King at Varennes, 22 June 1791
 type: items
+url: /d/95/
 ---
 
 {{< raw >}}

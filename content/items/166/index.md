@@ -2,6 +2,8 @@
 aliases:
   - /items/show/166
   - /items/show/166.html
+  - /items/166/
+  - /items/166
 collections: []
 date: '2019-07-23 22:30:52'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - War
 title: Debris of the French Army Returning to the Fatherland in June 1813
 type: items
+url: /d/163/
 ---
 
 {{< raw >}}

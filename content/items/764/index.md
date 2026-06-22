@@ -2,6 +2,8 @@
 aliases:
   - /items/show/764
   - /items/show/764.html
+  - /items/764/
+  - /items/764
 collections: []
 date: '2019-07-23 22:35:39'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: First Maximum decreed.
 type: items
+url: /d/811/
 ---

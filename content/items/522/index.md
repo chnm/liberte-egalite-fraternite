@@ -2,6 +2,8 @@
 aliases:
   - /items/show/522
   - /items/show/522.html
+  - /items/522/
+  - /items/522
 collections: []
 date: '2019-07-23 22:34:35'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: '"The Royal Orgy" (1789)'
 type: items
+url: /d/328/
 ---
 
 {{< raw >}}

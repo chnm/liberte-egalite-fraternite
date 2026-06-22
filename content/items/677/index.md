@@ -2,6 +2,8 @@
 aliases:
   - /items/show/677
   - /items/show/677.html
+  - /items/677/
+  - /items/677
 collections: []
 date: '2019-07-23 22:35:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decrees made regarding the civil status of Jews and their choice of patronymics.
 type: items
+url: /d/724/
 ---

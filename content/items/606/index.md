@@ -2,6 +2,8 @@
 aliases:
   - /items/show/606
   - /items/show/606.html
+  - /items/606/
+  - /items/606
 collections: []
 date: '2019-07-23 22:34:58'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Remonstrance on the Refusal of Sacraments (1751)
 type: items
+url: /d/244/
 ---
 
 {{< raw >}}

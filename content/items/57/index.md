@@ -2,6 +2,8 @@
 aliases:
   - /items/show/57
   - /items/show/57.html
+  - /items/57/
+  - /items/57
 collections: []
 date: '2019-07-23 22:27:30'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - The Terror
 title: Abuses to Suppress
 type: items
+url: /d/46/
 ---
 
 {{< raw >}}

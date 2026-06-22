@@ -2,6 +2,8 @@
 aliases:
   - /items/show/951
   - /items/show/951.html
+  - /items/951/
+  - /items/951
 collections: []
 date: '2019-07-23 22:36:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Moreau defeats the Austrians at Hohenlinden.
 type: items
+url: /d/998/
 ---

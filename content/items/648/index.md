@@ -2,6 +2,8 @@
 aliases:
   - /items/show/648
   - /items/show/648.html
+  - /items/648/
+  - /items/648
 collections: []
 date: '2019-07-23 22:35:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Bank of France is created.
 type: items
+url: /d/695/
 ---

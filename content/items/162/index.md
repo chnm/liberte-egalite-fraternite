@@ -2,6 +2,8 @@
 aliases:
   - /items/show/162
   - /items/show/162.html
+  - /items/162/
+  - /items/162
 collections: []
 date: '2019-07-23 22:30:49'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - War
 title: '"His Monument": Napoleon’s Past and Future Are Filled with Dead Bodies'
 type: items
+url: /d/159/
 ---
 
 {{< raw >}}

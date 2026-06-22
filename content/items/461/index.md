@@ -2,6 +2,8 @@
 aliases:
   - /items/show/461
   - /items/show/461.html
+  - /items/461/
+  - /items/461
 collections: []
 date: '2019-07-23 22:34:19'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: The Massacre of the <i>Champ de Mars</i> [Parade ground], in the<i> Révolutions de Paris</i>
 type: items
+url: /d/389/
 ---
 
 {{< raw >}}

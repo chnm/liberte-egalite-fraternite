@@ -2,6 +2,8 @@
 aliases:
   - /items/show/282
   - /items/show/282.html
+  - /items/282/
+  - /items/282
 collections: []
 date: '2019-07-23 22:33:30'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The Revolt from <i>An Historical Account of the Black Empire of Hayti</i>
 type: items
+url: /d/607/
 ---
 
 {{< raw >}}

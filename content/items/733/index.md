@@ -2,6 +2,8 @@
 aliases:
   - /items/show/733
   - /items/show/733.html
+  - /items/733/
+  - /items/733
 collections: []
 date: '2019-07-23 22:35:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Attempting to flee France, Louis XVI, Marie Antoinette, and their children are arrested at Varennes and brought back to Paris. The Constituent Assembly suspends the King’s authority until further notice.
 type: items
+url: /d/780/
 ---

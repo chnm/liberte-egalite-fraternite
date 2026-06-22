@@ -2,6 +2,8 @@
 aliases:
   - /items/show/98
   - /items/show/98.html
+  - /items/98/
+  - /items/98
 collections: []
 date: '2019-07-23 22:28:49'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Popular Politics
 title: Punishment of Foulon
 type: items
+url: /d/91/
 ---
 
 {{< raw >}}

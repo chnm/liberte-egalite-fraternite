@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1073
   - /items/show/1073.html
+  - /items/1073/
+  - /items/1073
 collections: []
 date: '2019-07-23 22:36:53'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Tithe
 type: items
+url: /d/1119/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/499
   - /items/show/499.html
+  - /items/499/
+  - /items/499
 collections: []
 date: '2019-07-23 22:34:29'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Edict Creating "Superior Councils" (23 February 1771)
 type: items
+url: /d/351/
 ---
 
 {{< raw >}}

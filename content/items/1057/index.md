@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1057
   - /items/show/1057.html
+  - /items/1057/
+  - /items/1057
 collections: []
 date: '2019-07-23 22:36:49'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: National Convention
 type: items
+url: /d/1103/
 ---

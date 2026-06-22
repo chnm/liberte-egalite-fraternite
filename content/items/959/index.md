@@ -2,6 +2,8 @@
 aliases:
   - /items/show/959
   - /items/show/959.html
+  - /items/959/
+  - /items/959
 collections: []
 date: '2019-07-23 22:36:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Mack’s Austrian army surrenders at Ulm.
 type: items
+url: /d/1006/
 ---

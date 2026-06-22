@@ -2,6 +2,8 @@
 aliases:
   - /items/show/881
   - /items/show/881.html
+  - /items/881/
+  - /items/881
 collections: []
 date: '2019-07-23 22:36:06'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Uprising against the Girondins begins when <i>sans–culottes</i> demonstrate against the Girondin faction in the National Convention.
 type: items
+url: /d/928/
 ---

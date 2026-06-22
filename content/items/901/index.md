@@ -2,6 +2,8 @@
 aliases:
   - /items/show/901
   - /items/show/901.html
+  - /items/901/
+  - /items/901
 collections: []
 date: '2019-07-23 22:36:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Ceremonial destruction of plates used for printing assignats.
 type: items
+url: /d/948/
 ---

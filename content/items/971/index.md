@@ -2,6 +2,8 @@
 aliases:
   - /items/show/971
   - /items/show/971.html
+  - /items/971/
+  - /items/971
 collections: []
 date: '2019-07-23 22:36:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon arrives at the Tuileries from exile. Benjamin Constant draws up the liberal additional act to the Constitution of the Empire which provides for meaningful participation in politics.
 type: items
+url: /d/1018/
 ---

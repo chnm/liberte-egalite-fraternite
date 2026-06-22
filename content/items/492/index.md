@@ -2,6 +2,8 @@
 aliases:
   - /items/show/492
   - /items/show/492.html
+  - /items/492/
+  - /items/492
 collections: []
 date: '2019-07-23 22:34:27'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Apprentices and Masters
 type: items
+url: /d/358/
 ---
 
 {{< raw >}}

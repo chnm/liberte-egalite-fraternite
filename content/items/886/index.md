@@ -2,6 +2,8 @@
 aliases:
   - /items/show/886
   - /items/show/886.html
+  - /items/886/
+  - /items/886
 collections: []
 date: '2019-07-23 22:36:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Opening of the trial of the Hébertists.
 type: items
+url: /d/933/
 ---

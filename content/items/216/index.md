@@ -2,6 +2,8 @@
 aliases:
   - /items/show/216
   - /items/show/216.html
+  - /items/216/
+  - /items/216
 collections: []
 date: '2019-07-23 22:31:53'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - Women
 title: Last Meeting of Louis XVI with His Family at the Temple Prison
 type: items
+url: /d/214/
 ---
 
 {{< raw >}}

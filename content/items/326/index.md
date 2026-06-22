@@ -2,6 +2,8 @@
 aliases:
   - /items/show/326
   - /items/show/326.html
+  - /items/326/
+  - /items/326
 collections: []
 date: '2019-07-23 22:33:42'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Attack on Seigneurial Dues
 type: items
+url: /d/558/
 ---
 
 {{< raw >}}

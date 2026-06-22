@@ -2,6 +2,8 @@
 aliases:
   - /items/show/854
   - /items/show/854.html
+  - /items/854/
+  - /items/854
 collections: []
 date: '2019-07-23 22:36:00'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Final defeats of the rebel Chouans and Vendéens.
 type: items
+url: /d/901/
 ---

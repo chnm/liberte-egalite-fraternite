@@ -2,6 +2,8 @@
 aliases:
   - /items/show/989
   - /items/show/989.html
+  - /items/989/
+  - /items/989
 collections: []
 date: '2019-07-23 22:36:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the Paris Commune that refused to accept French peace negotiations with Germany.
 type: items
+url: /d/1036/
 ---

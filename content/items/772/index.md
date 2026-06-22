@@ -2,6 +2,8 @@
 aliases:
   - /items/show/772
   - /items/show/772.html
+  - /items/772/
+  - /items/772
 collections: []
 date: '2019-07-23 22:35:40'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A number of Girondins are executed. Others had fled to the provinces.
 type: items
+url: /d/819/
 ---

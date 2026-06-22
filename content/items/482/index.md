@@ -2,6 +2,8 @@
 aliases:
   - /items/show/482
   - /items/show/482.html
+  - /items/482/
+  - /items/482
 collections: []
 date: '2019-07-23 22:34:25'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Cahiers—A Parish Cahier
 type: items
+url: /d/368/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/403
   - /items/show/403.html
+  - /items/403/
+  - /items/403
 collections: []
 date: '2019-07-23 22:34:04'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: 'Rise of the Right Leading to the Coup of 18 Fructidor: Proclamation of 9 September 1797'
 type: items
+url: /d/457/
 ---
 
 {{< raw >}}

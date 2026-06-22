@@ -2,6 +2,8 @@
 aliases:
   - /items/show/316
   - /items/show/316.html
+  - /items/316/
+  - /items/316
 collections: []
 date: '2019-07-23 22:33:40'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'Saint Domingue: Some Geography'
 type: items
+url: /d/568/
 ---
 
 {{< raw >}}

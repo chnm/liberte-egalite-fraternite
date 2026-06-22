@@ -2,6 +2,8 @@
 aliases:
   - /items/show/292
   - /items/show/292.html
+  - /items/292/
+  - /items/292
 collections: []
 date: '2019-07-23 22:33:33'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Thomas Jefferson on the French Revolution
 type: items
+url: /d/592/
 ---
 
 {{< raw >}}

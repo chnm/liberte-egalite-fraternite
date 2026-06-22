@@ -2,6 +2,8 @@
 aliases:
   - /items/show/469
   - /items/show/469.html
+  - /items/469/
+  - /items/469
 collections: []
 date: '2019-07-23 22:34:22'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Parisian Riots on 14 July
 type: items
+url: /d/381/
 ---
 
 {{< raw >}}

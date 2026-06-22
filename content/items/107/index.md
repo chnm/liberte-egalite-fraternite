@@ -2,6 +2,8 @@
 aliases:
   - /items/show/107
   - /items/show/107.html
+  - /items/107/
+  - /items/107
 collections: []
 date: '2019-07-23 22:29:08'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - The Terror
 title: Massacre of the Priests
 type: items
+url: /d/101/
 ---
 
 {{< raw >}}

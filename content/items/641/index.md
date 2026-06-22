@@ -2,6 +2,8 @@
 aliases:
   - /items/show/641
   - /items/show/641.html
+  - /items/641/
+  - /items/641
 collections: []
 date: '2019-07-23 22:35:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte imposes the text of 21 Frimaire, the constitution of the Year VIII, shunting the other two consuls aside.
 type: items
+url: /d/688/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/832
   - /items/show/832.html
+  - /items/832/
+  - /items/832
 collections: []
 date: '2019-07-23 22:35:55'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Robespierre delivers an important report on the principles of revolutionary government, which he describes as a necessary and provisional form of war against the enemies of liberty, to be distinguished from constitutional government, which conserves and protects liberty once firmly and peacefully established.
 type: items
+url: /d/879/
 ---

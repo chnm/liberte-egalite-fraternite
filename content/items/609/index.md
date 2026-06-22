@@ -2,6 +2,8 @@
 aliases:
   - /items/show/609
   - /items/show/609.html
+  - /items/609/
+  - /items/609
 collections: []
 date: '2019-07-23 22:34:59'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Decree of the <i>Parlement</i> of Paris against Robert–François Damiens
 type: items
+url: /d/241/
 ---
 
 {{< raw >}}

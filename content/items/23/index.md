@@ -2,6 +2,8 @@
 aliases:
   - /items/show/23
   - /items/show/23.html
+  - /items/23/
+  - /items/23
 collections: []
 date: '2019-07-23 22:26:45'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - The Terror
 title: The Death of Robespierre
 type: items
+url: /d/11/
 ---
 
 {{< raw >}}

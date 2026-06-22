@@ -2,6 +2,8 @@
 aliases:
   - /items/show/992
   - /items/show/992.html
+  - /items/992/
+  - /items/992
 collections: []
 date: '2019-07-23 22:36:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Thiers declares that the Republic exists and that it will be conservative.
 type: items
+url: /d/1039/
 ---

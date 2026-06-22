@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1002
   - /items/show/1002.html
+  - /items/1002/
+  - /items/1002
 collections: []
 date: '2019-07-23 22:36:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeated at Waterloo.
 type: items
+url: /d/1049/
 ---

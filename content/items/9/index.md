@@ -2,6 +2,8 @@
 aliases:
   - /items/show/9
   - /items/show/9.html
+  - /items/9/
+  - /items/9
 collections: []
 date: '2019-07-23 22:26:22'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Paris in Revolution
 type: items
+url: /d/453/
 ---

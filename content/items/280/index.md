@@ -2,6 +2,8 @@
 aliases:
   - /items/show/280
   - /items/show/280.html
+  - /items/280/
+  - /items/280
 collections: []
 date: '2019-07-23 22:33:30'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Letter from Monseron de l’Aunay to the Marquis de Condorcet, President of the Society of Friends of the Blacks (24 December 1789)
 type: items
+url: /d/609/
 ---
 
 {{< raw >}}

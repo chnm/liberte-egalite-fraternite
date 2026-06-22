@@ -2,6 +2,8 @@
 aliases:
   - /items/show/246
   - /items/show/246.html
+  - /items/246/
+  - /items/246
 collections: []
 date: '2019-07-23 22:32:45'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Napoleon Bonaparte
 title: Day of Saint–Cloud, 18 Brumaire, an 8 (9 November 1799)
 type: items
+url: /d/536/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/625
   - /items/show/625.html
+  - /items/625/
+  - /items/625
 collections: []
 date: '2019-07-23 22:35:05'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - The Terror
 title: Hymn of 21 January
 type: items
+url: /d/616/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/409
   - /items/show/409.html
+  - /items/409/
+  - /items/409
 collections: []
 date: '2019-07-23 22:34:06'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Constitution of the Year III (1795)
 type: items
+url: /d/450/
 ---
 
 {{< raw >}}

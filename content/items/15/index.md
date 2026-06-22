@@ -2,6 +2,8 @@
 aliases:
   - /items/show/15
   - /items/show/15.html
+  - /items/15/
+  - /items/15
 collections: []
 date: '2019-07-23 22:26:26'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Popular Politics
 title: Equality
 type: items
+url: /d/3/
 ---
 
 {{< raw >}}

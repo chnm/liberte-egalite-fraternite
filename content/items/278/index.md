@@ -2,6 +2,8 @@
 aliases:
   - /items/show/278
   - /items/show/278.html
+  - /items/278/
+  - /items/278
 collections: []
 date: '2019-07-23 22:33:29'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - War
 title: Egyptian Misery Shatters French Hopes
 type: items
+url: /d/611/
 ---
 
 {{< raw >}}

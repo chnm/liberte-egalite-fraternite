@@ -2,6 +2,8 @@
 aliases:
   - /items/show/930
   - /items/show/930.html
+  - /items/930/
+  - /items/930
 collections: []
 date: '2019-07-23 22:36:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of Roman Republic by France.
 type: items
+url: /d/977/
 ---

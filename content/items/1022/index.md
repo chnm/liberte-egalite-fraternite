@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1022
   - /items/show/1022.html
+  - /items/1022/
+  - /items/1022
 collections: []
 date: '2019-07-23 22:36:40'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Champ de Mars
 type: items
+url: /d/1068/
 ---

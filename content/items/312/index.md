@@ -2,6 +2,8 @@
 aliases:
   - /items/show/312
   - /items/show/312.html
+  - /items/312/
+  - /items/312
 collections: []
 date: '2019-07-23 22:33:39'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: The Maroons
 type: items
+url: /d/572/
 ---
 
 {{< raw >}}

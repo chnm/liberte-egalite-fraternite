@@ -2,6 +2,8 @@
 aliases:
   - /items/show/497
   - /items/show/497.html
+  - /items/497/
+  - /items/497
 collections: []
 date: '2019-07-23 22:34:29'
 draft: false
@@ -57,6 +59,7 @@ tags:
   - Text
 title: '! Poverty Observed: Journal of a Country Priest'
 type: items
+url: /d/353/
 ---
 
 {{< raw >}}

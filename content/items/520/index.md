@@ -2,6 +2,8 @@
 aliases:
   - /items/show/520
   - /items/show/520.html
+  - /items/520/
+  - /items/520
 collections: []
 date: '2019-07-23 22:34:35'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Desmoulins Attacks the Queen (June 1791)
 type: items
+url: /d/330/
 ---
 
 {{< raw >}}

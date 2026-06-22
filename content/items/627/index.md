@@ -2,6 +2,8 @@
 aliases:
   - /items/show/627
   - /items/show/627.html
+  - /items/627/
+  - /items/627
 collections: []
 date: '2019-07-23 22:35:05'
 draft: false
@@ -59,6 +61,7 @@ tags:
   - Song
 title: The Alarm of the People
 type: items
+url: /d/626/
 ---
 
 {{< raw >}}

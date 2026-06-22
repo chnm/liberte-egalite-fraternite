@@ -2,6 +2,8 @@
 aliases:
   - /items/show/211
   - /items/show/211.html
+  - /items/211/
+  - /items/211
 collections: []
 date: '2019-07-23 22:31:43'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Monarchy
 title: Louis XVI, King of France, born 23 August 1754, beheaded 21 January 1793
 type: items
+url: /d/209/
 ---
 
 {{< raw >}}

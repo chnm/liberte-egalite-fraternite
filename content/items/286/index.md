@@ -2,6 +2,8 @@
 aliases:
   - /items/show/286
   - /items/show/286.html
+  - /items/286/
+  - /items/286
 collections: []
 date: '2019-07-23 22:33:31'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Discontent Spreads from <i>An Historical Account of the Black Empire of Hayti</i>
 type: items
+url: /d/603/
 ---
 
 {{< raw >}}

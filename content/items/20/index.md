@@ -2,6 +2,8 @@
 aliases:
   - /items/show/20
   - /items/show/20.html
+  - /items/20/
+  - /items/20
 collections: []
 date: '2019-07-23 22:26:35'
 draft: false
@@ -80,6 +82,7 @@ tags:
   - Women
 title: Trial of Marie Antoinette of Austria
 type: items
+url: /d/8/
 ---
 
 {{< raw >}}

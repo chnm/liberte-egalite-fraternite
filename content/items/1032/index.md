@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1032
   - /items/show/1032.html
+  - /items/1032/
+  - /items/1032
 collections: []
 date: '2019-07-23 22:36:43'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Council of Elders
 type: items
+url: /d/1078/
 ---

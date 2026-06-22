@@ -2,6 +2,8 @@
 aliases:
   - /items/show/927
   - /items/show/927.html
+  - /items/927/
+  - /items/927
 collections: []
 date: '2019-07-23 22:36:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Democratic republic established by the Venetians.
 type: items
+url: /d/974/
 ---

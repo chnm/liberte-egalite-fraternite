@@ -2,6 +2,8 @@
 aliases:
   - /items/show/452
   - /items/show/452.html
+  - /items/452/
+  - /items/452
 collections: []
 date: '2019-07-23 22:34:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Clubs for the People
 type: items
+url: /d/398/
 ---
 
 {{< raw >}}

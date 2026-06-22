@@ -2,6 +2,8 @@
 aliases:
   - /items/show/801
   - /items/show/801.html
+  - /items/801/
+  - /items/801
 collections: []
 date: '2019-07-23 22:35:48'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Etienne Charles de Loménie de Brienne replaces Calonne as Controller–General of Finances.
 type: items
+url: /d/848/
 ---

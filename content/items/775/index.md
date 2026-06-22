@@ -2,6 +2,8 @@
 aliases:
   - /items/show/775
   - /items/show/775.html
+  - /items/775/
+  - /items/775
 collections: []
 date: '2019-07-23 22:35:41'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Arrest of the Hébertists.
 type: items
+url: /d/822/
 ---

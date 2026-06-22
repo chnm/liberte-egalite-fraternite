@@ -2,6 +2,8 @@
 aliases:
   - /items/show/342
   - /items/show/342.html
+  - /items/342/
+  - /items/342
 collections: []
 date: '2019-07-23 22:33:46'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - War
 title: The Government Acknowledges Disaster in Russia (3 December 1812)
 type: items
+url: /d/526/
 ---
 
 {{< raw >}}

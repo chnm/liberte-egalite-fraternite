@@ -2,6 +2,8 @@
 aliases:
   - /items/show/263
   - /items/show/263.html
+  - /items/263/
+  - /items/263
 collections: []
 date: '2019-07-23 22:33:14'
 draft: false
@@ -80,6 +82,7 @@ tags:
   - Religion
 title: Patience Monsignor Your Turn Will Come
 type: items
+url: /d/78/
 ---
 
 {{< raw >}}

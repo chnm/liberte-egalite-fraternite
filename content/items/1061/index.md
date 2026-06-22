@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1061
   - /items/show/1061.html
+  - /items/1061/
+  - /items/1061
 collections: []
 date: '2019-07-23 22:36:50'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Père Dûchesne
 type: items
+url: /d/1107/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/538
   - /items/show/538.html
+  - /items/538/
+  - /items/538
 collections: []
 date: '2019-07-23 22:34:39'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The King Flees Paris (20 June 1791)
 type: items
+url: /d/312/
 ---
 
 {{< raw >}}

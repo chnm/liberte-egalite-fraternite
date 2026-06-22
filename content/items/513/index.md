@@ -2,6 +2,8 @@
 aliases:
   - /items/show/513
   - /items/show/513.html
+  - /items/513/
+  - /items/513
 collections: []
 date: '2019-07-23 22:34:33'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: The Coffee Planter of Saint Domingo (London, 1798)
 type: items
+url: /d/337/
 ---
 
 {{< raw >}}

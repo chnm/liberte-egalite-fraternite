@@ -2,6 +2,8 @@
 aliases:
   - /items/show/937
   - /items/show/937.html
+  - /items/937/
+  - /items/937
 collections: []
 date: '2019-07-23 22:36:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Foulon de Doué and Bertier de Sauvigny are murdered in Paris.
 type: items
+url: /d/984/
 ---

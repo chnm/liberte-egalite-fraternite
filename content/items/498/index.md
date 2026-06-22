@@ -2,6 +2,8 @@
 aliases:
   - /items/show/498
   - /items/show/498.html
+  - /items/498/
+  - /items/498
 collections: []
 date: '2019-07-23 22:34:29'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'An Attempt at Conciliation: The Royal Address of 4 February 1790'
 type: items
+url: /d/352/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/332
   - /items/show/332.html
+  - /items/332/
+  - /items/332
 collections: []
 date: '2019-07-23 22:33:44'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Royalists Desecrate the Revolutionary Cockade (3 October 1789)
 type: items
+url: /d/550/
 ---
 
 {{< raw >}}

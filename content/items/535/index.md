@@ -2,6 +2,8 @@
 aliases:
   - /items/show/535
   - /items/show/535.html
+  - /items/535/
+  - /items/535
 collections: []
 date: '2019-07-23 22:34:39'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Louis Accepts the Constitution (14–25 September 1791)
 type: items
+url: /d/315/
 ---
 
 {{< raw >}}

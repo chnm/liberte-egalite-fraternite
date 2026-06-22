@@ -2,6 +2,8 @@
 aliases:
   - /items/show/325
   - /items/show/325.html
+  - /items/325/
+  - /items/325
 collections: []
 date: '2019-07-23 22:33:42'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - The Terror
 title: Mazzini on Revolutionary Nationalism
 type: items
+url: /d/559/
 ---
 
 {{< raw >}}

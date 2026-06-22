@@ -2,6 +2,8 @@
 aliases:
   - /items/show/422
   - /items/show/422.html
+  - /items/422/
+  - /items/422
 collections: []
 date: '2019-07-23 22:34:09'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: '"Constitution of 1793"'
 type: items
+url: /d/430/
 ---
 
 {{< raw >}}

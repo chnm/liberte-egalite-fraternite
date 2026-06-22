@@ -2,6 +2,8 @@
 aliases:
   - /items/show/92
   - /items/show/92.html
+  - /items/92/
+  - /items/92
 collections: []
 date: '2019-07-23 22:28:35'
 draft: false
@@ -69,6 +71,7 @@ tags:
   - Image
 title: Removal of the <em>Parlements</em>
 type: items
+url: /d/84/
 ---
 
 {{< raw >}}

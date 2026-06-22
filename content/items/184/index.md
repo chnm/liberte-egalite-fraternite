@@ -2,6 +2,8 @@
 aliases:
   - /items/show/184
   - /items/show/184.html
+  - /items/184/
+  - /items/184
 collections: []
 date: '2019-07-23 22:31:10'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Women
 title: Marie Antoinette Memorialized
 type: items
+url: /d/181/
 ---
 
 {{< raw >}}

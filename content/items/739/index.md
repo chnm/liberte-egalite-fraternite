@@ -2,6 +2,8 @@
 aliases:
   - /items/show/739
   - /items/show/739.html
+  - /items/739/
+  - /items/739
 collections: []
 date: '2019-07-23 22:35:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI accepts the constitution.
 type: items
+url: /d/786/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/700
   - /items/show/700.html
+  - /items/700/
+  - /items/700
 collections: []
 date: '2019-07-23 22:35:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Expulsion of Jesuits.
 type: items
+url: /d/747/
 ---

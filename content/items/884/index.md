@@ -2,6 +2,8 @@
 aliases:
   - /items/show/884
   - /items/show/884.html
+  - /items/884/
+  - /items/884
 collections: []
 date: '2019-07-23 22:36:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The first churches are closed in and around Paris following earlier efforts in the provinces.
 type: items
+url: /d/931/
 ---

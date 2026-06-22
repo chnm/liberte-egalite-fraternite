@@ -2,6 +2,8 @@
 aliases:
   - /items/show/890
   - /items/show/890.html
+  - /items/890/
+  - /items/890
 collections: []
 date: '2019-07-23 22:36:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Festival of the Supreme Being.
 type: items
+url: /d/937/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/299
   - /items/show/299.html
+  - /items/299/
+  - /items/299
 collections: []
 date: '2019-07-23 22:33:34'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: France, <i>The Gods Are Athirst</i>
 type: items
+url: /d/585/
 ---
 
 {{< raw >}}

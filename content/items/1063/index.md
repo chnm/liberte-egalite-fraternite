@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1063
   - /items/show/1063.html
+  - /items/1063/
+  - /items/1063
 collections: []
 date: '2019-07-23 22:36:51'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Prefect
 type: items
+url: /d/1109/
 ---

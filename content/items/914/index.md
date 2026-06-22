@@ -2,6 +2,8 @@
 aliases:
   - /items/show/914
   - /items/show/914.html
+  - /items/914/
+  - /items/914
 collections: []
 date: '2019-07-23 22:36:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: After a chaotic session the remaining deputies elect Bonaparte, Sieyès and Ducos as consuls.
 type: items
+url: /d/961/
 ---

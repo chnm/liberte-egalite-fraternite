@@ -2,6 +2,8 @@
 aliases:
   - /items/show/451
   - /items/show/451.html
+  - /items/451/
+  - /items/451
 collections: []
 date: '2019-07-23 22:34:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: National Assembly Debate on Clubs (20 September 1791)
 type: items
+url: /d/399/
 ---
 
 {{< raw >}}

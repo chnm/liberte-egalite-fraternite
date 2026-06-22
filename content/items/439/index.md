@@ -2,6 +2,8 @@
 aliases:
   - /items/show/439
   - /items/show/439.html
+  - /items/439/
+  - /items/439
 collections: []
 date: '2019-07-23 22:34:14'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Fear of Aristocratic Politics
 type: items
+url: /d/411/
 ---
 
 {{< raw >}}

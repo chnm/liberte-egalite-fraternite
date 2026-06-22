@@ -2,6 +2,8 @@
 aliases:
   - /items/show/694
   - /items/show/694.html
+  - /items/694/
+  - /items/694
 collections: []
 date: '2019-07-23 22:35:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon returns to France. Beginning of the Hundred Days.
 type: items
+url: /d/741/
 ---

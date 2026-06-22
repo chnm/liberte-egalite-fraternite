@@ -2,6 +2,8 @@
 aliases:
   - /items/show/175
   - /items/show/175.html
+  - /items/175/
+  - /items/175
 collections: []
 date: '2019-07-23 22:31:04'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: Charlotte Corday
 type: items
+url: /d/172/
 ---
 
 {{< raw >}}

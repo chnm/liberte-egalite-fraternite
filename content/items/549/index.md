@@ -2,6 +2,8 @@
 aliases:
   - /items/show/549
   - /items/show/549.html
+  - /items/549/
+  - /items/549
 collections: []
 date: '2019-07-23 22:34:42'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Louis XVI’s Reply to the <i>Parlement</i> of Paris (1788)
 type: items
+url: /d/301/
 ---
 
 {{< raw >}}

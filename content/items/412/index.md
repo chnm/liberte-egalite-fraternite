@@ -2,6 +2,8 @@
 aliases:
   - /items/show/412
   - /items/show/412.html
+  - /items/412/
+  - /items/412
 collections: []
 date: '2019-07-23 22:34:07'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - The Terror
 title: Execution of Robespierre
 type: items
+url: /d/442/
 ---
 
 {{< raw >}}

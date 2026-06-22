@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1000
   - /items/show/1000.html
+  - /items/1000/
+  - /items/1000
 collections: []
 date: '2019-07-23 22:36:35'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decree of the National Convention abolishes slavery in all colonies.
 type: items
+url: /d/1047/
 ---

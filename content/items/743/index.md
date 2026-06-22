@@ -2,6 +2,8 @@
 aliases:
   - /items/show/743
   - /items/show/743.html
+  - /items/743/
+  - /items/743
 collections: []
 date: '2019-07-23 22:35:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: First use of the guillotine.
 type: items
+url: /d/790/
 ---

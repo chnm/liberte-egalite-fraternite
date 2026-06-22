@@ -2,6 +2,8 @@
 aliases:
   - /items/show/273
   - /items/show/273.html
+  - /items/273/
+  - /items/273
 collections: []
 date: '2019-07-23 22:33:28'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Women's Petition to the National Assembly
 type: items
+url: /d/629/
 ---
 
 {{< raw >}}

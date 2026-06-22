@@ -2,6 +2,8 @@
 aliases:
   - /items/show/392
   - /items/show/392.html
+  - /items/392/
+  - /items/392
 collections: []
 date: '2019-07-23 22:34:01'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Madame de Beaumer, Editorial, <i>Journal des Dames</i> (March 1762)
 type: items
+url: /d/471/
 ---
 
 {{< raw >}}

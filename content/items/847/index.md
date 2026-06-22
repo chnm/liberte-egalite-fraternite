@@ -2,6 +2,8 @@
 aliases:
   - /items/show/847
   - /items/show/847.html
+  - /items/847/
+  - /items/847
 collections: []
 date: '2019-07-23 22:35:58'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Liquidation of the public debt by two–thirds with a system of coupons that, by the end of the December, in effect, simply invalidates two–thirds of what is owed to various public creditors.
 type: items
+url: /d/894/
 ---

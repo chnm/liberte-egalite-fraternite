@@ -2,6 +2,8 @@
 aliases:
   - /items/show/276
   - /items/show/276.html
+  - /items/276/
+  - /items/276
 collections: []
 date: '2019-07-23 22:33:29'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: 'In Search of Glory: Bonaparte’s Bulletins'
 type: items
+url: /d/613/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/399
   - /items/show/399.html
+  - /items/399/
+  - /items/399
 collections: []
 date: '2019-07-23 22:34:03'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'Brumaire: Bonaparte’s Justification'
 type: items
+url: /d/461/
 ---
 
 {{< raw >}}

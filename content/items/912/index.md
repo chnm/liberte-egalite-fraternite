@@ -2,6 +2,8 @@
 aliases:
   - /items/show/912
   - /items/show/912.html
+  - /items/912/
+  - /items/912
 collections: []
 date: '2019-07-23 22:36:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte returns secretly to France from Egypt, having deserted his army.
 type: items
+url: /d/959/
 ---

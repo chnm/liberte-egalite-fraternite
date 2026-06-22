@@ -2,6 +2,8 @@
 aliases:
   - /items/show/705
   - /items/show/705.html
+  - /items/705/
+  - /items/705
 collections: []
 date: '2019-07-23 22:35:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Coronation of Louis XVI.
 type: items
+url: /d/752/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/269
   - /items/show/269.html
+  - /items/269/
+  - /items/269
 collections: []
 date: '2019-07-23 22:33:22'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Middle Classes – Bourgeoisie
 title: The Tennis Court Oath at Versailles by Jacques–Louis David
 type: items
+url: /d/633/
 ---
 
 {{< raw >}}

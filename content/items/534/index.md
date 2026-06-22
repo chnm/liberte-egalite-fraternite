@@ -2,6 +2,8 @@
 aliases:
   - /items/show/534
   - /items/show/534.html
+  - /items/534/
+  - /items/534
 collections: []
 date: '2019-07-23 22:34:38'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: 'Press Reports of the King’s Flight: <i>Révolutions de Paris</i> (25 June 1791) and <i>Père Duchesne</i> (1791)'
 type: items
+url: /d/316/
 ---
 
 {{< raw >}}

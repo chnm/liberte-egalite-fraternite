@@ -2,6 +2,8 @@
 aliases:
   - /items/show/883
   - /items/show/883.html
+  - /items/883/
+  - /items/883
 collections: []
 date: '2019-07-23 22:36:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Constitution is ratified by 1,880,000 votes to 17,000.
 type: items
+url: /d/930/
 ---

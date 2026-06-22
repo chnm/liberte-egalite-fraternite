@@ -2,6 +2,8 @@
 aliases:
   - /items/show/8
   - /items/show/8.html
+  - /items/8/
+  - /items/8
 collections: []
 date: '2019-07-23 22:26:21'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Revolutionary France 1799
 type: items
+url: /d/447/
 ---

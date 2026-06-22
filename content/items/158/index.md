@@ -2,6 +2,8 @@
 aliases:
   - /items/show/158
   - /items/show/158.html
+  - /items/158/
+  - /items/158
 collections: []
 date: '2019-07-23 22:30:42'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Religion
 title: Departure of the Three Orders for Versailles
 type: items
+url: /d/155/
 ---
 
 {{< raw >}}

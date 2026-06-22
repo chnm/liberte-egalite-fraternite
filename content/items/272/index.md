@@ -2,6 +2,8 @@
 aliases:
   - /items/show/272
   - /items/show/272.html
+  - /items/272/
+  - /items/272
 collections: []
 date: '2019-07-23 22:33:28'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: A Woman’s Cahier
 type: items
+url: /d/630/
 ---
 
 {{< raw >}}

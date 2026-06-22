@@ -2,6 +2,8 @@
 aliases:
   - /items/show/103
   - /items/show/103.html
+  - /items/103/
+  - /items/103
 collections: []
 date: '2019-07-23 22:29:00'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - Public Opinion
 title: Return from Varennes, Arrival of Louis Capet in Paris
 type: items
+url: /d/97/
 ---
 
 {{< raw >}}

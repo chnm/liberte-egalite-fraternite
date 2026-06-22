@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1056
   - /items/show/1056.html
+  - /items/1056/
+  - /items/1056
 collections: []
 date: '2019-07-23 22:36:49'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: National Assembly
 type: items
+url: /d/1102/
 ---

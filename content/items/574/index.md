@@ -2,6 +2,8 @@
 aliases:
   - /items/show/574
   - /items/show/574.html
+  - /items/574/
+  - /items/574
 collections: []
 date: '2019-07-23 22:34:49'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: <i>Edict of Toleration</i>, November 1787
 type: items
+url: /d/276/
 ---
 
 {{< raw >}}

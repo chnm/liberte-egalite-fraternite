@@ -2,6 +2,8 @@
 aliases:
   - /items/show/708
   - /items/show/708.html
+  - /items/708/
+  - /items/708
 collections: []
 date: '2019-07-23 22:35:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Calonne presents reform proposals to Louis XVI.
 type: items
+url: /d/755/
 ---

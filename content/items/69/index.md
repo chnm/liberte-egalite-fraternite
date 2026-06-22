@@ -2,6 +2,8 @@
 aliases:
   - /items/show/69
   - /items/show/69.html
+  - /items/69/
+  - /items/69
 collections: []
 date: '2019-07-23 22:27:54'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Nobility
 title: The Annoyance of Walking
 type: items
+url: /d/58/
 ---
 
 {{< raw >}}

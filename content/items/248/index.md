@@ -2,6 +2,8 @@
 aliases:
   - /items/show/248
   - /items/show/248.html
+  - /items/248/
+  - /items/248
 collections: []
 date: '2019-07-23 22:32:50'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: Vanguard of Women going to Versailles
 type: items
+url: /d/539/
 ---
 
 {{< raw >}}

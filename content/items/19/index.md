@@ -2,6 +2,8 @@
 aliases:
   - /items/show/19
   - /items/show/19.html
+  - /items/19/
+  - /items/19
 collections: []
 date: '2019-07-23 22:26:33'
 draft: false
@@ -81,6 +83,7 @@ tags:
   - Women
 title: Aristocratic Occupations . . .
 type: items
+url: /d/7/
 ---
 
 {{< raw >}}

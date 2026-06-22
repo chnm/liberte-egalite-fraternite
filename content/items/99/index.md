@@ -2,6 +2,8 @@
 aliases:
   - /items/show/99
   - /items/show/99.html
+  - /items/99/
+  - /items/99
 collections: []
 date: '2019-07-23 22:28:49'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Popular Politics
 title: General Federation of the French
 type: items
+url: /d/93/
 ---
 
 {{< raw >}}

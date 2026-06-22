@@ -2,6 +2,8 @@
 aliases:
   - /items/show/996
   - /items/show/996.html
+  - /items/996/
+  - /items/996
 collections: []
 date: '2019-07-23 22:36:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bill of Rights.
 type: items
+url: /d/1043/
 ---

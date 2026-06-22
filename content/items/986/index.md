@@ -2,6 +2,8 @@
 aliases:
   - /items/show/986
   - /items/show/986.html
+  - /items/986/
+  - /items/986
 collections: []
 date: '2019-07-23 22:36:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Senatus consultum modifying the constitution: re–establishment of the Empire under Napoleon III.'
 type: items
+url: /d/1033/
 ---

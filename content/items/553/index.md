@@ -2,6 +2,8 @@
 aliases:
   - /items/show/553
   - /items/show/553.html
+  - /items/553/
+  - /items/553
 collections: []
 date: '2019-07-23 22:34:43'
 draft: false
@@ -54,6 +56,7 @@ tags:
   - Women
 title: <i>Declaration of the Rights of Man and Citizen</i> from the Constitution of the Year I (1793)
 type: items
+url: /d/297/
 ---
 
 {{< raw >}}

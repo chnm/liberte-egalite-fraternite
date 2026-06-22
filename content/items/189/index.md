@@ -2,6 +2,8 @@
 aliases:
   - /items/show/189
   - /items/show/189.html
+  - /items/189/
+  - /items/189
 collections: []
 date: '2019-07-23 22:31:20'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Summoning to Execution
 type: items
+url: /d/186/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/838
   - /items/show/838.html
+  - /items/838/
+  - /items/838
 collections: []
 date: '2019-07-23 22:35:56'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: It is decided that the <i>Constitution of 1793</i>, the most liberal of all the revolutionary constitutions, will be set aside. A committee is charged with drafting a new constitution. The chief prosecutor of the Revolutionary Tribunal is tried. Conviction and execution follows.
 type: items
+url: /d/885/
 ---

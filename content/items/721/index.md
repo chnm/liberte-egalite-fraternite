@@ -2,6 +2,8 @@
 aliases:
   - /items/show/721
   - /items/show/721.html
+  - /items/721/
+  - /items/721
 collections: []
 date: '2019-07-23 22:35:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Necker is dismissed.
 type: items
+url: /d/768/
 ---

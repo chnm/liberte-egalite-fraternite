@@ -2,6 +2,8 @@
 aliases:
   - /items/show/595
   - /items/show/595.html
+  - /items/595/
+  - /items/595
 collections: []
 date: '2019-07-23 22:34:55'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Turgot, "Memorandum on Local Government" (1775)
 type: items
+url: /d/255/
 ---
 
 {{< raw >}}

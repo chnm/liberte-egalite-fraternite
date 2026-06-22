@@ -2,6 +2,8 @@
 aliases:
   - /items/show/889
   - /items/show/889.html
+  - /items/889/
+  - /items/889
 collections: []
 date: '2019-07-23 22:36:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Waves of dechristianization continue through April.
 type: items
+url: /d/936/
 ---

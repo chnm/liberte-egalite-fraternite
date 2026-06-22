@@ -2,6 +2,8 @@
 aliases:
   - /items/show/661
   - /items/show/661.html
+  - /items/661/
+  - /items/661
 collections: []
 date: '2019-07-23 22:35:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Creation of the Legion of Honor.
 type: items
+url: /d/708/
 ---

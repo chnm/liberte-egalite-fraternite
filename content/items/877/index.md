@@ -2,6 +2,8 @@
 aliases:
   - /items/show/877
   - /items/show/877.html
+  - /items/877/
+  - /items/877
 collections: []
 date: '2019-07-23 22:36:05'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Properties of émigrés confiscated.
 type: items
+url: /d/924/
 ---

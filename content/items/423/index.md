@@ -2,6 +2,8 @@
 aliases:
   - /items/show/423
   - /items/show/423.html
+  - /items/423/
+  - /items/423
 collections: []
 date: '2019-07-23 22:34:09'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Expulsion of the Girondins
 type: items
+url: /d/429/
 ---
 
 {{< raw >}}

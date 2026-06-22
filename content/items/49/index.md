@@ -2,6 +2,8 @@
 aliases:
   - /items/show/49
   - /items/show/49.html
+  - /items/49/
+  - /items/49
 collections: []
 date: '2019-07-23 22:27:20'
 draft: false
@@ -86,6 +88,7 @@ tags:
   - Monarchy
 title: Louis as Pig
 type: items
+url: /d/38/
 ---
 
 {{< raw >}}

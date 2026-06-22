@@ -2,6 +2,8 @@
 aliases:
   - /items/show/620
   - /items/show/620.html
+  - /items/620/
+  - /items/620
 collections: []
 date: '2019-07-23 22:35:02'
 draft: false
@@ -68,6 +70,7 @@ tags:
   - Song
 title: Oh Richard, Oh, My King!
 type: items
+url: /d/622/
 ---
 
 {{< raw >}}

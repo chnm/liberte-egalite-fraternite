@@ -2,6 +2,8 @@
 aliases:
   - /items/show/504
   - /items/show/504.html
+  - /items/504/
+  - /items/504
 collections: []
 date: '2019-07-23 22:34:31'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Kersaint, "Discussion of Troubles in the Colonies" (28 March 1792)
 type: items
+url: /d/346/
 ---
 
 {{< raw >}}

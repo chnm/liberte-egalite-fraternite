@@ -2,6 +2,8 @@
 aliases:
   - /items/show/308
   - /items/show/308.html
+  - /items/308/
+  - /items/308
 collections: []
 date: '2019-07-23 22:33:38'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: Unrest Continues (28 September 1796)'
 type: items
+url: /d/576/
 ---
 
 {{< raw >}}

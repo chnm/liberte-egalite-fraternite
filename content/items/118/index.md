@@ -2,6 +2,8 @@
 aliases:
   - /items/show/118
   - /items/show/118.html
+  - /items/118/
+  - /items/118
 collections: []
 date: '2019-07-23 22:29:35'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: Drowning in the Loire by Order of the Fierce Carrier
 type: items
+url: /d/112/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1067
   - /items/show/1067.html
+  - /items/1067/
+  - /items/1067
 collections: []
 date: '2019-07-23 22:36:52'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Section
 type: items
+url: /d/1113/
 ---

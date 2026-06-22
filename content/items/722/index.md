@@ -2,6 +2,8 @@
 aliases:
   - /items/show/722
   - /items/show/722.html
+  - /items/722/
+  - /items/722
 collections: []
 date: '2019-07-23 22:35:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Necker is recalled. Troops advancing toward Paris and Versailles are withdrawn.
 type: items
+url: /d/769/
 ---

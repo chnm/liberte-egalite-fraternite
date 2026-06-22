@@ -2,6 +2,8 @@
 aliases:
   - /items/show/401
   - /items/show/401.html
+  - /items/401/
+  - /items/401
 collections: []
 date: '2019-07-23 22:34:04'
 draft: false
@@ -40,6 +42,7 @@ tags:
   - Text
 title: Doctrine of Babeuf
 type: items
+url: /d/459/
 ---
 
 {{< raw >}}

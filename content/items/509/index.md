@@ -2,6 +2,8 @@
 aliases:
   - /items/show/509
   - /items/show/509.html
+  - /items/509/
+  - /items/509
 collections: []
 date: '2019-07-23 22:34:32'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Abbé Grégoire, "Memoir in Favor of the People of Color or Mixed–Race of Saint Domingue" (1789)
 type: items
+url: /d/341/
 ---
 
 {{< raw >}}

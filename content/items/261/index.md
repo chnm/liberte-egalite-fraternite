@@ -2,6 +2,8 @@
 aliases:
   - /items/show/261
   - /items/show/261.html
+  - /items/261/
+  - /items/261
 collections: []
 date: '2019-07-23 22:33:12'
 draft: false
@@ -38,4 +40,5 @@ tags:
   - War
 title: Europe 1789
 type: items
+url: /d/425/
 ---

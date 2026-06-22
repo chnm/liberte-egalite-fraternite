@@ -2,6 +2,8 @@
 aliases:
   - /items/show/785
   - /items/show/785.html
+  - /items/785/
+  - /items/785
 collections: []
 date: '2019-07-23 22:35:43'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Fouquier–Tinville, the chief prosecutor of the Revolutionary Tribunal, is tried. Conviction and execution follow swiftly.
 type: items
+url: /d/832/
 ---

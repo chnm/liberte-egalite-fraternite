@@ -2,6 +2,8 @@
 aliases:
   - /items/show/960
   - /items/show/960.html
+  - /items/960/
+  - /items/960
 collections: []
 date: '2019-07-23 22:36:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Peace Treaty of Pressburg with Austria ends hostilities.
 type: items
+url: /d/1007/
 ---

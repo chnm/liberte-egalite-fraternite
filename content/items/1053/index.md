@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1053
   - /items/show/1053.html
+  - /items/1053/
+  - /items/1053
 collections: []
 date: '2019-07-23 22:36:48'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Montagnard
 type: items
+url: /d/1099/
 ---

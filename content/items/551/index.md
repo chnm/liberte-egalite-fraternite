@@ -2,6 +2,8 @@
 aliases:
   - /items/show/551
   - /items/show/551.html
+  - /items/551/
+  - /items/551
 collections: []
 date: '2019-07-23 22:34:43'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Protests of the Third, Fourth, and Fifth Committees of the Assembly of Notables (1787)
 type: items
+url: /d/299/
 ---
 
 {{< raw >}}

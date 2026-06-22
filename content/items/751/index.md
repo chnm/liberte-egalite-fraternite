@@ -2,6 +2,8 @@
 aliases:
   - /items/show/751
   - /items/show/751.html
+  - /items/751/
+  - /items/751
 collections: []
 date: '2019-07-23 22:35:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Jemappes against Austria.
 type: items
+url: /d/798/
 ---

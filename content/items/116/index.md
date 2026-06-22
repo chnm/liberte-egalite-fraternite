@@ -2,6 +2,8 @@
 aliases:
   - /items/show/116
   - /items/show/116.html
+  - /items/116/
+  - /items/116
 collections: []
 date: '2019-07-23 22:29:32'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: The Assassination of Marat by Charlotte Corday
 type: items
+url: /d/109/
 ---
 
 {{< raw >}}

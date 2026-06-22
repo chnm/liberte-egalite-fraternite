@@ -2,6 +2,8 @@
 aliases:
   - /items/show/281
   - /items/show/281.html
+  - /items/281/
+  - /items/281
 collections: []
 date: '2019-07-23 22:33:30'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The French Return from <i>An Historical Account of the Black Empire of Hayti</i>
 type: items
+url: /d/608/
 ---
 
 {{< raw >}}

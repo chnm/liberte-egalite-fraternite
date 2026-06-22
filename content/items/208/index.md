@@ -2,6 +2,8 @@
 aliases:
   - /items/show/208
   - /items/show/208.html
+  - /items/208/
+  - /items/208
 collections: []
 date: '2019-07-23 22:31:40'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Public Opinion
 title: Mr. de Lafayette, Commander of the Paris National Guard, Receives the City’s 'Sword for the Defense of Liberty'
 type: items
+url: /d/206/
 ---
 
 {{< raw >}}

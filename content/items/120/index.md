@@ -2,6 +2,8 @@
 aliases:
   - /items/show/120
   - /items/show/120.html
+  - /items/120/
+  - /items/120
 collections: []
 date: '2019-07-23 22:29:40'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Religion
 title: Festival of Supreme Being
 type: items
+url: /d/114/
 ---
 
 {{< raw >}}

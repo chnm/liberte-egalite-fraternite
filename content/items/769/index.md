@@ -2,6 +2,8 @@
 aliases:
   - /items/show/769
   - /items/show/769.html
+  - /items/769/
+  - /items/769
 collections: []
 date: '2019-07-23 22:35:40'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Maximum introduced.
 type: items
+url: /d/816/
 ---

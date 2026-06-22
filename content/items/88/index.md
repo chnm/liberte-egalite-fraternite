@@ -2,6 +2,8 @@
 aliases:
   - /items/show/88
   - /items/show/88.html
+  - /items/88/
+  - /items/88
 collections: []
 date: '2019-07-23 22:28:29'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - The Terror
 title: Siege of the Tuileries
 type: items
+url: /d/80/
 ---
 
 {{< raw >}}

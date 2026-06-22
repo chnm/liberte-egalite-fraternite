@@ -2,6 +2,8 @@
 aliases:
   - /items/show/605
   - /items/show/605.html
+  - /items/605/
+  - /items/605
 collections: []
 date: '2019-07-23 22:34:58'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Remonstrance by the <i>Parlement</i> against the Denial of Sacraments in Paris (1753)
 type: items
+url: /d/245/
 ---
 
 {{< raw >}}

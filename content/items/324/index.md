@@ -2,6 +2,8 @@
 aliases:
   - /items/show/324
   - /items/show/324.html
+  - /items/324/
+  - /items/324
 collections: []
 date: '2019-07-23 22:33:42'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - The Terror
 title: Peter Kropotkin on the Need for Individual Action
 type: items
+url: /d/560/
 ---
 
 {{< raw >}}

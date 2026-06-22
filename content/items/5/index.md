@@ -2,6 +2,8 @@
 aliases:
   - /items/show/5
   - /items/show/5.html
+  - /items/5/
+  - /items/5
 collections: []
 date: '2019-07-23 22:26:19'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Wars of Resistance 1793–95
 type: items
+url: /d/444/
 ---

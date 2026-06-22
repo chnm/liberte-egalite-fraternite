@@ -2,6 +2,8 @@
 aliases:
   - /items/show/237
   - /items/show/237.html
+  - /items/237/
+  - /items/237
 collections: []
 date: '2019-07-23 22:32:31'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Provinces
 title: Fleeing by Design or the Perjurer Louis XVI
 type: items
+url: /d/231/
 ---
 
 {{< raw >}}

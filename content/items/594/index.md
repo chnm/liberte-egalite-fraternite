@@ -2,6 +2,8 @@
 aliases:
   - /items/show/594
   - /items/show/594.html
+  - /items/594/
+  - /items/594
 collections: []
 date: '2019-07-23 22:34:54'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Necker, "Account to the King" (1781)
 type: items
+url: /d/256/
 ---
 
 {{< raw >}}

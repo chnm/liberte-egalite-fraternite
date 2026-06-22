@@ -2,6 +2,8 @@
 aliases:
   - /items/show/580
   - /items/show/580.html
+  - /items/580/
+  - /items/580
 collections: []
 date: '2019-07-23 22:34:51'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Virginia’s <i>Declaration of Rights</i> (1776)
 type: items
+url: /d/270/
 ---
 
 {{< raw >}}

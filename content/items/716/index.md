@@ -2,6 +2,8 @@
 aliases:
   - /items/show/716
   - /items/show/716.html
+  - /items/716/
+  - /items/716
 collections: []
 date: '2019-07-23 22:35:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Second Assembly of Notables (dissolved 12 December 1788).
 type: items
+url: /d/763/
 ---

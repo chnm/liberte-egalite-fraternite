@@ -2,6 +2,8 @@
 aliases:
   - /items/show/446
   - /items/show/446.html
+  - /items/446/
+  - /items/446
 collections: []
 date: '2019-07-23 22:34:15'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Women at the Cordeliers
 type: items
+url: /d/404/
 ---
 
 {{< raw >}}

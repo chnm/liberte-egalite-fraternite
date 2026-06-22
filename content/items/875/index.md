@@ -2,6 +2,8 @@
 aliases:
   - /items/show/875
   - /items/show/875.html
+  - /items/875/
+  - /items/875
 collections: []
 date: '2019-07-23 22:36:05'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Priests refusing to take the oath are barred from exercising their ministry in public.
 type: items
+url: /d/922/
 ---

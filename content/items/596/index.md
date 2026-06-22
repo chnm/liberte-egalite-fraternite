@@ -2,6 +2,8 @@
 aliases:
   - /items/show/596
   - /items/show/596.html
+  - /items/596/
+  - /items/596
 collections: []
 date: '2019-07-23 22:34:55'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Moreau, "Principles of Monarchy" (1773)
 type: items
+url: /d/254/
 ---
 
 {{< raw >}}

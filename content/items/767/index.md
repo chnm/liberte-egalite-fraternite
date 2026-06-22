@@ -2,6 +2,8 @@
 aliases:
   - /items/show/767
   - /items/show/767.html
+  - /items/767/
+  - /items/767
 collections: []
 date: '2019-07-23 22:35:39'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Hondschoote over an English–Hanoverian army.
 type: items
+url: /d/814/
 ---

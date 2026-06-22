@@ -2,6 +2,8 @@
 aliases:
   - /items/show/849
   - /items/show/849.html
+  - /items/849/
+  - /items/849
 collections: []
 date: '2019-07-23 22:35:59'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A Second Coalition uniting Russia, Great Britain, and eventually Austria against France is formed. The War of the Second Coalition continues to 1801.
 type: items
+url: /d/896/
 ---

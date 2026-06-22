@@ -2,6 +2,8 @@
 aliases:
   - /items/show/335
   - /items/show/335.html
+  - /items/335/
+  - /items/335
 collections: []
 date: '2019-07-23 22:33:44'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: A Poem by Victor Hugo (1830)
 type: items
+url: /d/534/
 ---
 
 {{< raw >}}

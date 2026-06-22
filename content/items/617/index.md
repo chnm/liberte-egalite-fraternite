@@ -2,6 +2,8 @@
 aliases:
   - /items/show/617
   - /items/show/617.html
+  - /items/617/
+  - /items/617
 collections: []
 date: '2019-07-23 22:35:01'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: Moreau, "On the Origins of the French Monarchy"
 type: items
+url: /d/233/
 ---
 
 {{< raw >}}

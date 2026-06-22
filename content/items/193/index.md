@@ -2,6 +2,8 @@
 aliases:
   - /items/show/193
   - /items/show/193.html
+  - /items/193/
+  - /items/193
 collections: []
 date: '2019-07-23 22:31:22'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - War
 title: Jemmapes, 6 November 1792
 type: items
+url: /d/189/
 ---
 
 {{< raw >}}

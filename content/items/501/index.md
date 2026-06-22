@@ -2,6 +2,8 @@
 aliases:
   - /items/show/501
   - /items/show/501.html
+  - /items/501/
+  - /items/501
 collections: []
 date: '2019-07-23 22:34:30'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Duke de Croy Describes the "Session of the Scourging" (3 March 1766)
 type: items
+url: /d/349/
 ---
 
 {{< raw >}}

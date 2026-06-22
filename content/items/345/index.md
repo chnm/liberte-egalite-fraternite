@@ -2,6 +2,8 @@
 aliases:
   - /items/show/345
   - /items/show/345.html
+  - /items/345/
+  - /items/345
 collections: []
 date: '2019-07-23 22:33:47'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The Effect of the Russian Winter Described by a General
 type: items
+url: /d/523/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/719
   - /items/show/719.html
+  - /items/719/
+  - /items/719
 collections: []
 date: '2019-07-23 22:35:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI makes various proposals for reform but continues to demand that each Estate be able to cast one vote. The Third Estate rejects this proposal.
 type: items
+url: /d/766/
 ---

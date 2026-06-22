@@ -2,6 +2,8 @@
 aliases:
   - /items/show/697
   - /items/show/697.html
+  - /items/697/
+  - /items/697
 collections: []
 date: '2019-07-23 22:35:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bourbon Restoration (1815–1830).
 type: items
+url: /d/744/
 ---

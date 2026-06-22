@@ -2,6 +2,8 @@
 aliases:
   - /items/show/408
   - /items/show/408.html
+  - /items/408/
+  - /items/408
 collections: []
 date: '2019-07-23 22:34:06'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Bonaparte Saves the Day
 type: items
+url: /d/451/
 ---
 
 {{< raw >}}

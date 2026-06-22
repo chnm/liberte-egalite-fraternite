@@ -2,6 +2,8 @@
 aliases:
   - /items/show/744
   - /items/show/744.html
+  - /items/744/
+  - /items/744
 collections: []
 date: '2019-07-23 22:35:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Crowds invade the Tuileries to insist on removal of King.
 type: items
+url: /d/791/
 ---

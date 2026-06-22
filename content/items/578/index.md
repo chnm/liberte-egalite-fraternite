@@ -2,6 +2,8 @@
 aliases:
   - /items/show/578
   - /items/show/578.html
+  - /items/578/
+  - /items/578
 collections: []
 date: '2019-07-23 22:34:50'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Voltaire, "On the Church of England"
 type: items
+url: /d/272/
 ---
 
 {{< raw >}}

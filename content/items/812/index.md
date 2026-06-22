@@ -2,6 +2,8 @@
 aliases:
   - /items/show/812
   - /items/show/812.html
+  - /items/812/
+  - /items/812
 collections: []
 date: '2019-07-23 22:35:50'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The <i>Constitution of 1791</i> is proclaimed.
 type: items
+url: /d/859/
 ---

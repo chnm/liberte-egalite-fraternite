@@ -2,6 +2,8 @@
 aliases:
   - /items/show/530
   - /items/show/530.html
+  - /items/530/
+  - /items/530
 collections: []
 date: '2019-07-23 22:34:37'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Saint–Just (13 November 1792)
 type: items
+url: /d/320/
 ---
 
 {{< raw >}}

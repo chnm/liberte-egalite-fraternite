@@ -2,6 +2,8 @@
 aliases:
   - /items/show/417
   - /items/show/417.html
+  - /items/417/
+  - /items/417
 collections: []
 date: '2019-07-23 22:34:08'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: The Calendar
 type: items
+url: /d/435/
 ---
 
 {{< raw >}}

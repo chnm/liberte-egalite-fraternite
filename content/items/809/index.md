@@ -2,6 +2,8 @@
 aliases:
   - /items/show/809
   - /items/show/809.html
+  - /items/809/
+  - /items/809
 collections: []
 date: '2019-07-23 22:35:50'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: All aristocratic, hereditary titles are abolished.
 type: items
+url: /d/856/
 ---

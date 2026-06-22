@@ -2,6 +2,8 @@
 aliases:
   - /items/show/591
   - /items/show/591.html
+  - /items/591/
+  - /items/591
 collections: []
 date: '2019-07-23 22:34:53'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Linguet, "Attack on the Nobility" from <i>Annales politiques</i> (1789)
 type: items
+url: /d/259/
 ---
 
 {{< raw >}}

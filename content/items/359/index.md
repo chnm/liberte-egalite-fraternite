@@ -2,6 +2,8 @@
 aliases:
   - /items/show/359
   - /items/show/359.html
+  - /items/359/
+  - /items/359
 collections: []
 date: '2019-07-23 22:33:53'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Napoleon’s Reasons for Making Himself Emperor (December 1804)
 type: items
+url: /d/508/
 ---
 
 {{< raw >}}

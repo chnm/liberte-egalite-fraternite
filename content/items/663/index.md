@@ -2,6 +2,8 @@
 aliases:
   - /items/show/663
   - /items/show/663.html
+  - /items/663/
+  - /items/663
 collections: []
 date: '2019-07-23 22:35:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Constitution of the Year X (16 Thermidor Year X).
 type: items
+url: /d/710/
 ---

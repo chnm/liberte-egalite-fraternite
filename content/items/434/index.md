@@ -2,6 +2,8 @@
 aliases:
   - /items/show/434
   - /items/show/434.html
+  - /items/434/
+  - /items/434
 collections: []
 date: '2019-07-23 22:34:12'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: '"Terror Is the Order of the Day"'
 type: items
+url: /d/416/
 ---
 
 {{< raw >}}

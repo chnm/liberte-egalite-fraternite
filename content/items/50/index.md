@@ -2,6 +2,8 @@
 aliases:
   - /items/show/50
   - /items/show/50.html
+  - /items/50/
+  - /items/50
 collections: []
 date: '2019-07-23 22:27:22'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: Marie Antoinette as a Serpent
 type: items
+url: /d/39/
 ---
 
 {{< raw >}}

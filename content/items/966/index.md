@@ -2,6 +2,8 @@
 aliases:
   - /items/show/966
   - /items/show/966.html
+  - /items/966/
+  - /items/966
 collections: []
 date: '2019-07-23 22:36:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Spanish Rebellion begins.
 type: items
+url: /d/1013/
 ---

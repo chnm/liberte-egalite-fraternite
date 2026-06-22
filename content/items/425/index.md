@@ -2,6 +2,8 @@
 aliases:
   - /items/show/425
   - /items/show/425.html
+  - /items/425/
+  - /items/425
 collections: []
 date: '2019-07-23 22:34:10'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: The Vendée—Description of the Counterrevolution
 type: items
+url: /d/426/
 ---
 
 {{< raw >}}

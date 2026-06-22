@@ -2,6 +2,8 @@
 aliases:
   - /items/show/44
   - /items/show/44.html
+  - /items/44/
+  - /items/44
 collections: []
 date: '2019-07-23 22:27:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Sans-culottes
 title: Tyranny Tremble
 type: items
+url: /d/32/
 ---
 
 {{< raw >}}

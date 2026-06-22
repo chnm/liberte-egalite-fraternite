@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1005
   - /items/show/1005.html
+  - /items/1005/
+  - /items/1005
 collections: []
 date: '2019-07-23 22:36:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon dies on the island of St. Helena.
 type: items
+url: /d/1052/
 ---

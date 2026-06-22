@@ -2,6 +2,8 @@
 aliases:
   - /items/show/74
   - /items/show/74.html
+  - /items/74/
+  - /items/74
 collections: []
 date: '2019-07-23 22:28:00'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - Popular Politics
 title: Taking of the Bastille
 type: items
+url: /d/63/
 ---
 
 {{< raw >}}

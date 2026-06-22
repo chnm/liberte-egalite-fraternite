@@ -2,6 +2,8 @@
 aliases:
   - /items/show/307
   - /items/show/307.html
+  - /items/307/
+  - /items/307
 collections: []
 date: '2019-07-23 22:33:37'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: U.S. Vigilance (13 December 1797)'
 type: items
+url: /d/577/
 ---
 
 {{< raw >}}

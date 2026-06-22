@@ -2,6 +2,8 @@
 aliases:
   - /items/show/126
   - /items/show/126.html
+  - /items/126/
+  - /items/126
 collections: []
 date: '2019-07-23 22:29:52'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Public Opinion
 title: The Saving of France
 type: items
+url: /d/120/
 ---
 
 {{< raw >}}

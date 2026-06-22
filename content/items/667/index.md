@@ -2,6 +2,8 @@
 aliases:
   - /items/show/667
   - /items/show/667.html
+  - /items/667/
+  - /items/667
 collections: []
 date: '2019-07-23 22:35:16'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Introduction of the <i>livret ouvrier</i> mandating that workers carry this "notebook" at all times and that his behavior and work performance would be recorded and tracked in it.
 type: items
+url: /d/714/
 ---

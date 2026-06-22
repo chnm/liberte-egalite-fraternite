@@ -2,6 +2,8 @@
 aliases:
   - /items/show/842
   - /items/show/842.html
+  - /items/842/
+  - /items/842
 collections: []
 date: '2019-07-23 22:35:57'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon is named commander–in–chief of all armies within the boundaries of France.
 type: items
+url: /d/889/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/45
   - /items/show/45.html
+  - /items/45/
+  - /items/45
 collections: []
 date: '2019-07-23 22:27:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Popular Politics
 title: Sword of Sieyès
 type: items
+url: /d/33/
 ---
 
 {{< raw >}}

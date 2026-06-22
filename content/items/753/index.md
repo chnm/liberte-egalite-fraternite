@@ -2,6 +2,8 @@
 aliases:
   - /items/show/753
   - /items/show/753.html
+  - /items/753/
+  - /items/753
 collections: []
 date: '2019-07-23 22:35:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Convention declares war on Great Britain and the Netherlands.
 type: items
+url: /d/800/
 ---

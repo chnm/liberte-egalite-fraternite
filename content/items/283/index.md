@@ -2,6 +2,8 @@
 aliases:
   - /items/show/283
   - /items/show/283.html
+  - /items/283/
+  - /items/283
 collections: []
 date: '2019-07-23 22:33:30'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: Ogé’s Rebellion in <i>An Historical Account of the Black Empire of Hayti</i>
 type: items
+url: /d/606/
 ---
 
 {{< raw >}}

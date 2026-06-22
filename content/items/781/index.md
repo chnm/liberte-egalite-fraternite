@@ -2,6 +2,8 @@
 aliases:
   - /items/show/781
   - /items/show/781.html
+  - /items/781/
+  - /items/781
 collections: []
 date: '2019-07-23 22:35:43'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A separation of Church and State is effected with the decree of the Convention that it will no longer pay salaries or expenses of the Church.
 type: items
+url: /d/828/
 ---

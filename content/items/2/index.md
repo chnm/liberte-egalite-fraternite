@@ -2,6 +2,8 @@
 aliases:
   - /items/show/2
   - /items/show/2.html
+  - /items/2/
+  - /items/2
 collections: []
 date: '2019-07-23 22:26:17'
 draft: false
@@ -43,4 +45,5 @@ tags:
   - War
 title: Europe 1815
 type: items
+url: /d/437/
 ---

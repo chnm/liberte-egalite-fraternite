@@ -2,6 +2,8 @@
 aliases:
   - /items/show/920
   - /items/show/920.html
+  - /items/920/
+  - /items/920
 collections: []
 date: '2019-07-23 22:36:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Adoption of the metric system.
 type: items
+url: /d/967/
 ---

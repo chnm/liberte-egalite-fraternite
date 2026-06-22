@@ -2,6 +2,8 @@
 aliases:
   - /items/show/646
   - /items/show/646.html
+  - /items/646/
+  - /items/646
 collections: []
 date: '2019-07-23 22:35:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Tribunal and the Legislative Body are installed.
 type: items
+url: /d/693/
 ---

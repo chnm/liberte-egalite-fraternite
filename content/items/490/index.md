@@ -2,6 +2,8 @@
 aliases:
   - /items/show/490
   - /items/show/490.html
+  - /items/490/
+  - /items/490
 collections: []
 date: '2019-07-23 22:34:27'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Voltaire’s Understanding of Inequality
 type: items
+url: /d/360/
 ---
 
 {{< raw >}}

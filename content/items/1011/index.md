@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1011
   - /items/show/1011.html
+  - /items/1011/
+  - /items/1011
 collections: []
 date: '2019-07-23 22:36:38'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Parlements</i> reseated.
 type: items
+url: /d/1058/
 ---

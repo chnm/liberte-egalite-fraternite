@@ -2,6 +2,8 @@
 aliases:
   - /items/show/219
   - /items/show/219.html
+  - /items/219/
+  - /items/219
 collections: []
 date: '2019-07-23 22:32:01'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Image
 title: The Counterrevolution
 type: items
+url: /d/217/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/770
   - /items/show/770.html
+  - /items/770/
+  - /items/770
 collections: []
 date: '2019-07-23 22:35:40'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Introduction of the revolutionary calendar.
 type: items
+url: /d/817/
 ---

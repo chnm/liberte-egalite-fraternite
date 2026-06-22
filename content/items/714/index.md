@@ -2,6 +2,8 @@
 aliases:
   - /items/show/714
   - /items/show/714.html
+  - /items/714/
+  - /items/714
 collections: []
 date: '2019-07-23 22:35:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Jacques Necker, a Swiss citizen and a Protestant, replaces Loménie de Brienne with the title of Director General of Finances; he attempts once again to solve the financial crisis and to devise a plan for a successful meeting of the Estates–General.
 type: items
+url: /d/761/
 ---

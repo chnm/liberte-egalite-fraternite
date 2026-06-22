@@ -2,6 +2,8 @@
 aliases:
   - /items/show/674
   - /items/show/674.html
+  - /items/674/
+  - /items/674
 collections: []
 date: '2019-07-23 22:35:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Creation of estates (majorats) for imperial nobles to provide sufficient income to maintain a noble lifestyle for worthy state servants regardless of birth or background.
 type: items
+url: /d/721/
 ---

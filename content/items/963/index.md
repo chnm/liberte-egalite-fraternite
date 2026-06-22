@@ -2,6 +2,8 @@
 aliases:
   - /items/show/963
   - /items/show/963.html
+  - /items/963/
+  - /items/963
 collections: []
 date: '2019-07-23 22:36:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Inconclusive battle of Eylau against the Prussians and Russians.
 type: items
+url: /d/1010/
 ---

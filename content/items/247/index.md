@@ -2,6 +2,8 @@
 aliases:
   - /items/show/247
   - /items/show/247.html
+  - /items/247/
+  - /items/247
 collections: []
 date: '2019-07-23 22:32:49'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - War
 title: Battle of the Pyramids
 type: items
+url: /d/537/
 ---
 
 {{< raw >}}

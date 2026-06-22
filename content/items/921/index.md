@@ -2,6 +2,8 @@
 aliases:
   - /items/show/921
   - /items/show/921.html
+  - /items/921/
+  - /items/921
 collections: []
 date: '2019-07-23 22:36:16'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decree of <i>levée en masse</i> (universal obligation to national service).
 type: items
+url: /d/968/
 ---

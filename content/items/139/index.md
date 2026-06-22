@@ -2,6 +2,8 @@
 aliases:
   - /items/show/139
   - /items/show/139.html
+  - /items/139/
+  - /items/139
 collections: []
 date: '2019-07-23 22:30:14'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: The Blood of the Murdered Crying for Vengeance
 type: items
+url: /d/133/
 ---
 
 {{< raw >}}

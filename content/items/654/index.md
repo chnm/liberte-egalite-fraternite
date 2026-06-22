@@ -2,6 +2,8 @@
 aliases:
   - /items/show/654
   - /items/show/654.html
+  - /items/654/
+  - /items/654
 collections: []
 date: '2019-07-23 22:35:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 130 Jacobins deported by Senatus–consultum.
 type: items
+url: /d/701/
 ---

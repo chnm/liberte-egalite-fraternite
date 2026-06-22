@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1030
   - /items/show/1030.html
+  - /items/1030/
+  - /items/1030
 collections: []
 date: '2019-07-23 22:36:42'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Cordelier Club
 type: items
+url: /d/1076/
 ---

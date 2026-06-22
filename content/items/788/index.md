@@ -2,6 +2,8 @@
 aliases:
   - /items/show/788
   - /items/show/788.html
+  - /items/788/
+  - /items/788
 collections: []
 date: '2019-07-23 22:35:44'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVII, son of Louis XVI and heir to the throne, dies in the Temple. The declaration of Verona put punishment of the regicides and reestablishment of the orders of society on the agenda for the Bourbon’s return.
 type: items
+url: /d/835/
 ---

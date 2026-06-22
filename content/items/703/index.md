@@ -2,6 +2,8 @@
 aliases:
   - /items/show/703
   - /items/show/703.html
+  - /items/703/
+  - /items/703
 collections: []
 date: '2019-07-23 22:35:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Death of Louis XV.
 type: items
+url: /d/750/
 ---

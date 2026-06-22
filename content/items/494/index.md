@@ -2,6 +2,8 @@
 aliases:
   - /items/show/494
   - /items/show/494.html
+  - /items/494/
+  - /items/494
 collections: []
 date: '2019-07-23 22:34:28'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Tension between Rich and Poor
 type: items
+url: /d/356/
 ---
 
 {{< raw >}}

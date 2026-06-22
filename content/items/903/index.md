@@ -2,6 +2,8 @@
 aliases:
   - /items/show/903
   - /items/show/903.html
+  - /items/903/
+  - /items/903
 collections: []
 date: '2019-07-23 22:36:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Elections for new ’third’ in the legislative Councils begin.
 type: items
+url: /d/950/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/337
   - /items/show/337.html
+  - /items/337/
+  - /items/337
 collections: []
 date: '2019-07-23 22:33:45'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: A Popular English Broadside (1821)
 type: items
+url: /d/532/
 ---
 
 {{< raw >}}

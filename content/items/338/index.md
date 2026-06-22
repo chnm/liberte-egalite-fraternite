@@ -2,6 +2,8 @@
 aliases:
   - /items/show/338
   - /items/show/338.html
+  - /items/338/
+  - /items/338
 collections: []
 date: '2019-07-23 22:33:45'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: The View of the <i>London Times</i> (5 July 1821)
 type: items
+url: /d/531/
 ---
 
 {{< raw >}}

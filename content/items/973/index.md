@@ -2,6 +2,8 @@
 aliases:
   - /items/show/973
   - /items/show/973.html
+  - /items/973/
+  - /items/973
 collections: []
 date: '2019-07-23 22:36:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVIII returns to Paris.
 type: items
+url: /d/1020/
 ---

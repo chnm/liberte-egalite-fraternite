@@ -2,6 +2,8 @@
 aliases:
   - /items/show/373
   - /items/show/373.html
+  - /items/373/
+  - /items/373
 collections: []
 date: '2019-07-23 22:33:56'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: How a Mother Survives
 type: items
+url: /d/490/
 ---
 
 {{< raw >}}

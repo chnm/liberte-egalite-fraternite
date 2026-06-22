@@ -2,6 +2,8 @@
 aliases:
   - /items/show/746
   - /items/show/746.html
+  - /items/746/
+  - /items/746
 collections: []
 date: '2019-07-23 22:35:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Paris sections remain in permanent session.
 type: items
+url: /d/793/
 ---

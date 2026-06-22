@@ -2,6 +2,8 @@
 aliases:
   - /items/show/235
   - /items/show/235.html
+  - /items/235/
+  - /items/235
 collections: []
 date: '2019-07-23 22:32:27'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Popular Politics
 title: Triumph of the Parisian Army and the People
 type: items
+url: /d/230/
 ---
 
 {{< raw >}}

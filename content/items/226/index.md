@@ -2,6 +2,8 @@
 aliases:
   - /items/show/226
   - /items/show/226.html
+  - /items/226/
+  - /items/226
 collections: []
 date: '2019-07-23 22:32:15'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Image
 title: The Sugar Mill
 type: items
+url: /d/222/
 ---
 
 {{< raw >}}

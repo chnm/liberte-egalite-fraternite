@@ -2,6 +2,8 @@
 aliases:
   - /items/show/442
   - /items/show/442.html
+  - /items/442/
+  - /items/442
 collections: []
 date: '2019-07-23 22:34:14'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Critics of Robespierre
 type: items
+url: /d/408/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/633
   - /items/show/633.html
+  - /items/633/
+  - /items/633
 collections: []
 date: '2019-07-23 22:35:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: France declares war on the King of Hungary and Bohemia (the Austrian Francis II). Prussia joins with Austria.
 type: items
+url: /d/680/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/144
   - /items/show/144.html
+  - /items/144/
+  - /items/144
 collections: []
 date: '2019-07-23 22:30:21'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - Women
 title: Image of the Queen’s Defense
 type: items
+url: /d/141/
 ---
 
 {{< raw >}}

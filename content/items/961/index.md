@@ -2,6 +2,8 @@
 aliases:
   - /items/show/961
   - /items/show/961.html
+  - /items/961/
+  - /items/961
 collections: []
 date: '2019-07-23 22:36:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Dissolution of the Holy Roman Empire.
 type: items
+url: /d/1008/
 ---

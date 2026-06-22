@@ -2,6 +2,8 @@
 aliases:
   - /items/show/942
   - /items/show/942.html
+  - /items/942/
+  - /items/942
 collections: []
 date: '2019-07-23 22:36:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Dego.
 type: items
+url: /d/989/
 ---

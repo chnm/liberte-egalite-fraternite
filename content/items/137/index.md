@@ -2,6 +2,8 @@
 aliases:
   - /items/show/137
   - /items/show/137.html
+  - /items/137/
+  - /items/137
 collections: []
 date: '2019-07-23 22:30:13'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - War
 title: Gallic Declaration of War, or, Bumbardment of all Europe
 type: items
+url: /d/131/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/936
   - /items/show/936.html
+  - /items/936/
+  - /items/936
 collections: []
 date: '2019-07-23 22:36:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Three Poitevin <i>curés</i> decide to join the Third Estate, leaving the Chambers of the Clergy.
 type: items
+url: /d/983/
 ---

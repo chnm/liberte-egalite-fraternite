@@ -2,6 +2,8 @@
 aliases:
   - /items/show/291
   - /items/show/291.html
+  - /items/291/
+  - /items/291
 collections: []
 date: '2019-07-23 22:33:32'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Alexander Hamilton on the French Revolution
 type: items
+url: /d/593/
 ---
 
 {{< raw >}}

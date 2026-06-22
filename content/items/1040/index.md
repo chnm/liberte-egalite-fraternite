@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1040
   - /items/show/1040.html
+  - /items/1040/
+  - /items/1040
 collections: []
 date: '2019-07-23 22:36:45'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Émigré
 type: items
+url: /d/1086/
 ---

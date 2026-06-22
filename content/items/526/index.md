@@ -2,6 +2,8 @@
 aliases:
   - /items/show/526
   - /items/show/526.html
+  - /items/526/
+  - /items/526
 collections: []
 date: '2019-07-23 22:34:36'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Robespierre (3 December 1792)
 type: items
+url: /d/324/
 ---
 
 {{< raw >}}

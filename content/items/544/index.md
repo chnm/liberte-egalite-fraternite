@@ -2,6 +2,8 @@
 aliases:
   - /items/show/544
   - /items/show/544.html
+  - /items/544/
+  - /items/544
 collections: []
 date: '2019-07-23 22:34:41'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - War
 title: The King Seeks Foreign Assistance (20 November 1790)
 type: items
+url: /d/306/
 ---
 
 {{< raw >}}

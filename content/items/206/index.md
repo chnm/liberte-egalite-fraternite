@@ -2,6 +2,8 @@
 aliases:
   - /items/show/206
   - /items/show/206.html
+  - /items/206/
+  - /items/206
 collections: []
 date: '2019-07-23 22:31:40'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Statue of Lafayette—Le Puy
 type: items
+url: /d/204/
 ---
 
 {{< raw >}}

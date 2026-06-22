@@ -2,6 +2,8 @@
 aliases:
   - /items/show/456
   - /items/show/456.html
+  - /items/456/
+  - /items/456
 collections: []
 date: '2019-07-23 22:34:18'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Prudhomme’s Description of the Coup against the Girondins (31 May–2 June 1793)
 type: items
+url: /d/394/
 ---
 
 {{< raw >}}

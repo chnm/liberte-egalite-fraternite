@@ -2,6 +2,8 @@
 aliases:
   - /items/show/757
   - /items/show/757.html
+  - /items/757/
+  - /items/757
 collections: []
 date: '2019-07-23 22:35:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Revolutionary Tribunal created.
 type: items
+url: /d/804/
 ---

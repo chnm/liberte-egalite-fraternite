@@ -2,6 +2,8 @@
 aliases:
   - /items/show/696
   - /items/show/696.html
+  - /items/696/
+  - /items/696
 collections: []
 date: '2019-07-23 22:35:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon in exile on the mid–Atlantic island of St. Helena.
 type: items
+url: /d/743/
 ---

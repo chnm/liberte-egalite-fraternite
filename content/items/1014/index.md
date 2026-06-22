@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1014
   - /items/show/1014.html
+  - /items/1014/
+  - /items/1014
 collections: []
 date: '2019-07-23 22:36:38'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Abbé
 type: items
+url: /d/1060/
 ---

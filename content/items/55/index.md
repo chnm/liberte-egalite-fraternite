@@ -2,6 +2,8 @@
 aliases:
   - /items/show/55
   - /items/show/55.html
+  - /items/55/
+  - /items/55
 collections: []
 date: '2019-07-23 22:27:28'
 draft: false
@@ -46,4 +48,5 @@ tags:
   - Popular Politics
 title: 'Wallpaper: Unity, Indivisibility'
 type: items
+url: /d/44/
 ---

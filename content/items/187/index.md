@@ -2,6 +2,8 @@
 aliases:
   - /items/show/187
   - /items/show/187.html
+  - /items/187/
+  - /items/187
 collections: []
 date: '2019-07-23 22:31:16'
 draft: false
@@ -66,6 +68,7 @@ tags:
   - Women
 title: The Queen Exhausted
 type: items
+url: /d/184/
 ---
 
 {{< raw >}}

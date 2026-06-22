@@ -2,6 +2,8 @@
 aliases:
   - /items/show/220
   - /items/show/220.html
+  - /items/220/
+  - /items/220
 collections: []
 date: '2019-07-23 22:32:04'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - The Terror
 title: Monks Learning to Exercise.
 type: items
+url: /d/218/
 ---
 
 {{< raw >}}

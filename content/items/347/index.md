@@ -2,6 +2,8 @@
 aliases:
   - /items/show/347
   - /items/show/347.html
+  - /items/347/
+  - /items/347
 collections: []
 date: '2019-07-23 22:33:48'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - War
 title: Another Firsthand View of the Fighting in Portugal
 type: items
+url: /d/521/
 ---
 
 {{< raw >}}

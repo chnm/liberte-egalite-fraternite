@@ -2,6 +2,8 @@
 aliases:
   - /items/show/398
   - /items/show/398.html
+  - /items/398/
+  - /items/398
 collections: []
 date: '2019-07-23 22:34:03'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: The Council of Five–Hundred Concurs
 type: items
+url: /d/462/
 ---
 
 {{< raw >}}

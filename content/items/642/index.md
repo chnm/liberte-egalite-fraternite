@@ -2,6 +2,8 @@
 aliases:
   - /items/show/642
   - /items/show/642.html
+  - /items/642/
+  - /items/642
 collections: []
 date: '2019-07-23 22:35:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 24 Frimaire Year VIII, the constitution is proclaimed.
 type: items
+url: /d/689/
 ---

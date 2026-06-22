@@ -2,6 +2,8 @@
 aliases:
   - /items/show/77
   - /items/show/77.html
+  - /items/77/
+  - /items/77
 collections: []
 date: '2019-07-23 22:28:08'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Nobility
 title: The Roman Aristocrat
 type: items
+url: /d/67/
 ---
 
 {{< raw >}}

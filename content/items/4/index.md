@@ -2,6 +2,8 @@
 aliases:
   - /items/show/4
   - /items/show/4.html
+  - /items/4/
+  - /items/4
 collections: []
 date: '2019-07-23 22:26:19'
 draft: false
@@ -38,4 +40,5 @@ tags:
   - War
 title: Napoleon in Italy 1796–97
 type: items
+url: /d/443/
 ---

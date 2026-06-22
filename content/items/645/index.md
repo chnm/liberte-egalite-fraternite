@@ -2,6 +2,8 @@
 aliases:
   - /items/show/645
   - /items/show/645.html
+  - /items/645/
+  - /items/645
 collections: []
 date: '2019-07-23 22:35:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Sunday church services are reopened.
 type: items
+url: /d/692/
 ---

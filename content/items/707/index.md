@@ -2,6 +2,8 @@
 aliases:
   - /items/show/707
   - /items/show/707.html
+  - /items/707/
+  - /items/707
 collections: []
 date: '2019-07-23 22:35:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Franco–American alliance. France declares war on Great Britain. Death of Voltaire and Rousseau.
 type: items
+url: /d/754/
 ---

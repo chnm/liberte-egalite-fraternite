@@ -2,6 +2,8 @@
 aliases:
   - /items/show/419
   - /items/show/419.html
+  - /items/419/
+  - /items/419
 collections: []
 date: '2019-07-23 22:34:08'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Revolution Devours Its Own—<i>Le Vieux Cordelier</i>
 type: items
+url: /d/433/
 ---
 
 {{< raw >}}

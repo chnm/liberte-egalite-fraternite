@@ -2,6 +2,8 @@
 aliases:
   - /items/show/676
   - /items/show/676.html
+  - /items/676/
+  - /items/676
 collections: []
 date: '2019-07-23 22:35:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Opening of rabbinical conference that leads to the adoption of civil status for Jews.
 type: items
+url: /d/723/
 ---

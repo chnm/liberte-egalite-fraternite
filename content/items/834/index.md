@@ -2,6 +2,8 @@
 aliases:
   - /items/show/834
   - /items/show/834.html
+  - /items/834/
+  - /items/834
 collections: []
 date: '2019-07-23 22:35:55'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The arrest of Danton and the Dantonists ordered by the Committee of Public Safety and the Committee of General Security.
 type: items
+url: /d/881/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/599
   - /items/show/599.html
+  - /items/599/
+  - /items/599
 collections: []
 date: '2019-07-23 22:34:56'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: <i>Parlement</i> of Brittany
 type: items
+url: /d/251/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1
   - /items/show/1.html
+  - /items/1/
+  - /items/1
 collections: []
 date: '2019-07-23 22:26:16'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Europe 1812
 type: items
+url: /d/427/
 ---

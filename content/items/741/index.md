@@ -2,6 +2,8 @@
 aliases:
   - /items/show/741
   - /items/show/741.html
+  - /items/741/
+  - /items/741
 collections: []
 date: '2019-07-23 22:35:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Brissot calls for war.
 type: items
+url: /d/788/
 ---

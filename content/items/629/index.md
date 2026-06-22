@@ -2,6 +2,8 @@
 aliases:
   - /items/show/629
   - /items/show/629.html
+  - /items/629/
+  - /items/629
 collections: []
 date: '2019-07-23 22:35:06'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Song
 title: Song for the Festival of Old Age
 type: items
+url: /d/619/
 ---
 
 {{< raw >}}

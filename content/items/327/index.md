@@ -2,6 +2,8 @@
 aliases:
   - /items/show/327
   - /items/show/327.html
+  - /items/327/
+  - /items/327
 collections: []
 date: '2019-07-23 22:33:42'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Manifesto of the Enragés
 type: items
+url: /d/557/
 ---
 
 {{< raw >}}

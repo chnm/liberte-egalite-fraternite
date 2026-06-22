@@ -2,6 +2,8 @@
 aliases:
   - /items/show/397
   - /items/show/397.html
+  - /items/397/
+  - /items/397
 collections: []
 date: '2019-07-23 22:34:02'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: 'Culture: Weights and Measures'
 type: items
+url: /d/463/
 ---
 
 {{< raw >}}

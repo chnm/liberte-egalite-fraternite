@@ -2,6 +2,8 @@
 aliases:
   - /items/show/704
   - /items/show/704.html
+  - /items/704/
+  - /items/704
 collections: []
 date: '2019-07-23 22:35:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Dismissal of Maupeou and Terray. Restoration of <i>parlements</i>.
 type: items
+url: /d/751/
 ---

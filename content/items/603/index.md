@@ -2,6 +2,8 @@
 aliases:
   - /items/show/603
   - /items/show/603.html
+  - /items/603/
+  - /items/603
 collections: []
 date: '2019-07-23 22:34:57'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Parlementary Remonstrance against Reforms of Royal Debts
 type: items
+url: /d/247/
 ---
 
 {{< raw >}}

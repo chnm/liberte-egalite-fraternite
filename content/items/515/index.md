@@ -2,6 +2,8 @@
 aliases:
   - /items/show/515
   - /items/show/515.html
+  - /items/515/
+  - /items/515
 collections: []
 date: '2019-07-23 22:34:33'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: The Code Noir (The Black Code)
 type: items
+url: /d/335/
 ---
 
 {{< raw >}}

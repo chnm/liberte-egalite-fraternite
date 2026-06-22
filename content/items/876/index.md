@@ -2,6 +2,8 @@
 aliases:
   - /items/show/876
   - /items/show/876.html
+  - /items/876/
+  - /items/876
 collections: []
 date: '2019-07-23 22:36:05'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Death of Emperor Leopold II. His son Francis II succeeds him.
 type: items
+url: /d/923/
 ---

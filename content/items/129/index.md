@@ -2,6 +2,8 @@
 aliases:
   - /items/show/129
   - /items/show/129.html
+  - /items/129/
+  - /items/129
 collections: []
 date: '2019-07-23 22:29:57'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Religion
 title: The Great Nausea of Monsignor
 type: items
+url: /d/122/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/479
   - /items/show/479.html
+  - /items/479/
+  - /items/479
 collections: []
 date: '2019-07-23 22:34:24'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Beware the Wealthy Bourgeoisie
 type: items
+url: /d/371/
 ---
 
 {{< raw >}}

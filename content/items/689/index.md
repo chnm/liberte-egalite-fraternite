@@ -2,6 +2,8 @@
 aliases:
   - /items/show/689
   - /items/show/689.html
+  - /items/689/
+  - /items/689
 collections: []
 date: '2019-07-23 22:35:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon is defeated at Leipzig and withdraws from Germany.
 type: items
+url: /d/736/
 ---

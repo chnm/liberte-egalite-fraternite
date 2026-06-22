@@ -2,6 +2,8 @@
 aliases:
   - /items/show/829
   - /items/show/829.html
+  - /items/829/
+  - /items/829
 collections: []
 date: '2019-07-23 22:35:54'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: All women are required by the Convention to wear the tricolored ribbon, insignia of the Republic.
 type: items
+url: /d/876/
 ---

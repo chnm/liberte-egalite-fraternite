@@ -2,6 +2,8 @@
 aliases:
   - /items/show/430
   - /items/show/430.html
+  - /items/430/
+  - /items/430
 collections: []
 date: '2019-07-23 22:34:11'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: '"The Padua Circular" (5 July 1791)'
 type: items
+url: /d/420/
 ---
 
 {{< raw >}}

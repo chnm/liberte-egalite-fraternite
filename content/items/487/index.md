@@ -2,6 +2,8 @@
 aliases:
   - /items/show/487
   - /items/show/487.html
+  - /items/487/
+  - /items/487
 collections: []
 date: '2019-07-23 22:34:26'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: The Traditional Order Defended
 type: items
+url: /d/363/
 ---
 
 {{< raw >}}

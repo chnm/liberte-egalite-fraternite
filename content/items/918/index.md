@@ -2,6 +2,8 @@
 aliases:
   - /items/show/918
   - /items/show/918.html
+  - /items/918/
+  - /items/918
 collections: []
 date: '2019-07-23 22:36:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Petition from 47 out of 48 Paris sections demands deposing the King.
 type: items
+url: /d/965/
 ---

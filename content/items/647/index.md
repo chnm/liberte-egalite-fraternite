@@ -2,6 +2,8 @@
 aliases:
   - /items/show/647
   - /items/show/647.html
+  - /items/647/
+  - /items/647
 collections: []
 date: '2019-07-23 22:35:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: On 18 Pluvôise Year VIII, results of the plebiscite are published and the Constitution of the Year VII is accepted.
 type: items
+url: /d/694/
 ---

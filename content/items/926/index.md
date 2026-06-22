@@ -2,6 +2,8 @@
 aliases:
   - /items/show/926
   - /items/show/926.html
+  - /items/926/
+  - /items/926
 collections: []
 date: '2019-07-23 22:36:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Disarmament of Paris sections by the army.
 type: items
+url: /d/973/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/462
   - /items/show/462.html
+  - /items/462/
+  - /items/462
 collections: []
 date: '2019-07-23 22:34:20'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: 'October Days: Deposition of a Marcher'
 type: items
+url: /d/388/
 ---
 
 {{< raw >}}

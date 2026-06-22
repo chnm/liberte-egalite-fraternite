@@ -2,6 +2,8 @@
 aliases:
   - /items/show/786
   - /items/show/786.html
+  - /items/786/
+  - /items/786
 collections: []
 date: '2019-07-23 22:35:44'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Treaty of The Hague, peace with the Netherlands and Prussia.
 type: items
+url: /d/833/
 ---

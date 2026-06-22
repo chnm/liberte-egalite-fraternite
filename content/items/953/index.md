@@ -2,6 +2,8 @@
 aliases:
   - /items/show/953
   - /items/show/953.html
+  - /items/953/
+  - /items/953
 collections: []
 date: '2019-07-23 22:36:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte becomes president of the Italian Republic.
 type: items
+url: /d/1000/
 ---

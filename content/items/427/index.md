@@ -2,6 +2,8 @@
 aliases:
   - /items/show/427
   - /items/show/427.html
+  - /items/427/
+  - /items/427
 collections: []
 date: '2019-07-23 22:34:10'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: 'A Girondin View: Roland Calls on the King to Declare War'
 type: items
+url: /d/423/
 ---
 
 {{< raw >}}

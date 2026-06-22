@@ -2,6 +2,8 @@
 aliases:
   - /items/show/916
   - /items/show/916.html
+  - /items/916/
+  - /items/916
 collections: []
 date: '2019-07-23 22:36:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Black inhabitants of French colonies who are born of free parents are declared equal in civic rights with whites.
 type: items
+url: /d/963/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/825
   - /items/show/825.html
+  - /items/825/
+  - /items/825
 collections: []
 date: '2019-07-23 22:35:53'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Attacks on shops and food riots occur during a time of great scarcity. Continue through March.
 type: items
+url: /d/872/
 ---

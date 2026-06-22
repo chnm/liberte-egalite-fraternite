@@ -2,6 +2,8 @@
 aliases:
   - /items/show/224
   - /items/show/224.html
+  - /items/224/
+  - /items/224
 collections: []
 date: '2019-07-23 22:32:13'
 draft: false
@@ -64,6 +66,7 @@ tags:
   - Public Opinion
 title: Slaves and Free Blacks in Saint Domingue
 type: items
+url: /d/220/
 ---
 
 {{< raw >}}

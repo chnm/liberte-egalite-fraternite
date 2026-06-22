@@ -2,6 +2,8 @@
 aliases:
   - /items/show/915
   - /items/show/915.html
+  - /items/915/
+  - /items/915
 collections: []
 date: '2019-07-23 22:36:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: King given suspensive veto on legislation.
 type: items
+url: /d/962/
 ---

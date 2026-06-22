@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1004
   - /items/show/1004.html
+  - /items/1004/
+  - /items/1004
 collections: []
 date: '2019-07-23 22:36:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Marie Antoinette is guillotined.
 type: items
+url: /d/1051/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/611
   - /items/show/611.html
+  - /items/611/
+  - /items/611
 collections: []
 date: '2019-07-23 22:34:59'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Letter from a Patriot Claiming to Prove Damiens Had Accomplices
 type: items
+url: /d/239/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/38
   - /items/show/38.html
+  - /items/38/
+  - /items/38
 collections: []
 date: '2019-07-23 22:27:13'
 draft: false
@@ -40,4 +42,5 @@ tags:
   - Popular Politics
 title: "Plate: 'I Watch over the Nation.'"
 type: items
+url: /d/26/
 ---

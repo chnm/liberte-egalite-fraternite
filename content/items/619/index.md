@@ -2,6 +2,8 @@
 aliases:
   - /items/show/619
   - /items/show/619.html
+  - /items/619/
+  - /items/619
 collections: []
 date: '2019-07-23 22:35:01'
 draft: false
@@ -60,6 +62,7 @@ tags:
   - Song
 title: It’ll Be Okay
 type: items
+url: /d/623/
 ---
 
 {{< raw >}}

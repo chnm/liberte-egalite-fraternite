@@ -2,6 +2,8 @@
 aliases:
   - /items/show/922
   - /items/show/922.html
+  - /items/922/
+  - /items/922
 collections: []
 date: '2019-07-23 22:36:16'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Parisian insurrection secures further radicalization of the war–effort by the Convention; "terror" is henceforth the order of the day.
 type: items
+url: /d/969/
 ---

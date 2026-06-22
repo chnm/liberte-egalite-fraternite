@@ -2,6 +2,8 @@
 aliases:
   - /items/show/690
   - /items/show/690.html
+  - /items/690/
+  - /items/690
 collections: []
 date: '2019-07-23 22:35:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte abdicates the throne at Fontainebleau. The Count of Provence (Louis XVIII) is offered the throne by the Senate.
 type: items
+url: /d/737/
 ---

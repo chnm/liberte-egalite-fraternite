@@ -2,6 +2,8 @@
 aliases:
   - /items/show/290
   - /items/show/290.html
+  - /items/290/
+  - /items/290
 collections: []
 date: '2019-07-23 22:33:32'
 draft: false
@@ -42,6 +44,7 @@ tags:
   - Text
 title: Charles Maurras on the French Revolution
 type: items
+url: /d/594/
 ---
 
 {{< raw >}}

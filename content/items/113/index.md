@@ -2,6 +2,8 @@
 aliases:
   - /items/show/113
   - /items/show/113.html
+  - /items/113/
+  - /items/113
 collections: []
 date: '2019-07-23 22:29:25'
 draft: false
@@ -78,6 +80,7 @@ tags:
   - War
 title: The Cap Français Fire
 type: items
+url: /d/106/
 ---
 
 {{< raw >}}

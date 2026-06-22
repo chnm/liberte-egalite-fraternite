@@ -2,6 +2,8 @@
 aliases:
   - /items/show/393
   - /items/show/393.html
+  - /items/393/
+  - /items/393
 collections: []
 date: '2019-07-23 22:34:01'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Jean–Jacques Rousseau, <i>Emile</i> (1762)
 type: items
+url: /d/470/
 ---
 
 {{< raw >}}

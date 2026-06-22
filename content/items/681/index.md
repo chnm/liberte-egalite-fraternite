@@ -2,6 +2,8 @@
 aliases:
   - /items/show/681
   - /items/show/681.html
+  - /items/681/
+  - /items/681
 collections: []
 date: '2019-07-23 22:35:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Senatus–consultum organizes the imperial nobility.
 type: items
+url: /d/728/
 ---

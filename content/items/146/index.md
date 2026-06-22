@@ -2,6 +2,8 @@
 aliases:
   - /items/show/146
   - /items/show/146.html
+  - /items/146/
+  - /items/146
 collections: []
 date: '2019-07-23 22:30:24'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Public Opinion
 title: We Must Hope That It Will Soon Be Over
 type: items
+url: /d/144/
 ---
 
 {{< raw >}}

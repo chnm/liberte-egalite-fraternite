@@ -2,6 +2,8 @@
 aliases:
   - /items/show/233
   - /items/show/233.html
+  - /items/233/
+  - /items/233
 collections: []
 date: '2019-07-23 22:32:22'
 draft: false
@@ -63,4 +65,5 @@ tags:
   - Image
 title: French Liberty. British Slavery. Published December 21, 1792.
 type: items
+url: /d/1141/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/197
   - /items/show/197.html
+  - /items/197/
+  - /items/197
 collections: []
 date: '2019-07-23 22:31:28'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - The Terror
 title: Rare Animals; or, the Transfer of the Royal Family from the Tuileries to the Temple. Champfleury, 1792
 type: items
+url: /d/192/
 ---
 
 {{< raw >}}

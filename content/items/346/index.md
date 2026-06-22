@@ -2,6 +2,8 @@
 aliases:
   - /items/show/346
   - /items/show/346.html
+  - /items/346/
+  - /items/346
 collections: []
 date: '2019-07-23 22:33:47'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The Burning of Moscow as Seen by One of Napoleon’s Generals
 type: items
+url: /d/522/
 ---
 
 {{< raw >}}

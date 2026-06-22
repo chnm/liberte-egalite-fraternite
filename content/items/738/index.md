@@ -2,6 +2,8 @@
 aliases:
   - /items/show/738
   - /items/show/738.html
+  - /items/738/
+  - /items/738
 collections: []
 date: '2019-07-23 22:35:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Declaration of Pillnitz. The rulers of Austria and Prussia agree to combine forces against the French Revolution. They insist that England participate before they will act.
 type: items
+url: /d/785/
 ---

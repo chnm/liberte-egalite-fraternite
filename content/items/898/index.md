@@ -2,6 +2,8 @@
 aliases:
   - /items/show/898
   - /items/show/898.html
+  - /items/898/
+  - /items/898
 collections: []
 date: '2019-07-23 22:36:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte appointed major–general.
 type: items
+url: /d/945/
 ---

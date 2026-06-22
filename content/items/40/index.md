@@ -2,6 +2,8 @@
 aliases:
   - /items/show/40
   - /items/show/40.html
+  - /items/40/
+  - /items/40
 collections: []
 date: '2019-07-23 22:27:14'
 draft: false
@@ -40,4 +42,5 @@ tags:
   - Middle Classes – Bourgeoisie
 title: 'Fan: Costumes of the Directory'
 type: items
+url: /d/28/
 ---

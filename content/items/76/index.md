@@ -2,6 +2,8 @@
 aliases:
   - /items/show/76
   - /items/show/76.html
+  - /items/76/
+  - /items/76
 collections: []
 date: '2019-07-23 22:28:04'
 draft: false
@@ -89,6 +91,7 @@ tags:
   - Women
 title: An Example of Heroic Courage
 type: items
+url: /d/66/
 ---
 
 {{< raw >}}

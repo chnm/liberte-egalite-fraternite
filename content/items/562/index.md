@@ -2,6 +2,8 @@
 aliases:
   - /items/show/562
   - /items/show/562.html
+  - /items/562/
+  - /items/562
 collections: []
 date: '2019-07-23 22:34:46'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Motion Made by Vincent Ogé the Younger to the Assembly of Colonists, 1789
 type: items
+url: /d/288/
 ---
 
 {{< raw >}}

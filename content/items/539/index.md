@@ -2,6 +2,8 @@
 aliases:
   - /items/show/539
   - /items/show/539.html
+  - /items/539/
+  - /items/539
 collections: []
 date: '2019-07-23 22:34:40'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: 'Marat: The King Is a Friend of the People (29 December 1790 and 17 February 1791)'
 type: items
+url: /d/311/
 ---
 
 {{< raw >}}

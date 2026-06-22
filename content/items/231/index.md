@@ -2,6 +2,8 @@
 aliases:
   - /items/show/231
   - /items/show/231.html
+  - /items/231/
+  - /items/231
 collections: []
 date: '2019-07-23 22:32:20'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - War
 title: The Mode of training Blood Hounds in St. Domingo, and of exercising them by Chasseurs
 type: items
+url: /d/227/
 ---
 
 {{< raw >}}

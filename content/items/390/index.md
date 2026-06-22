@@ -2,6 +2,8 @@
 aliases:
   - /items/show/390
   - /items/show/390.html
+  - /items/390/
+  - /items/390
 collections: []
 date: '2019-07-23 22:34:01'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Stanislas Maillard describes the Women’s March to Versailles (5 October 1789)
 type: items
+url: /d/473/
 ---
 
 {{< raw >}}

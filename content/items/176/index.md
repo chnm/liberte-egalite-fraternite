@@ -2,6 +2,8 @@
 aliases:
   - /items/show/176
   - /items/show/176.html
+  - /items/176/
+  - /items/176
 collections: []
 date: '2019-07-23 22:31:04'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Monarchy
 title: A Positive View?
 type: items
+url: /d/173/
 ---
 
 {{< raw >}}

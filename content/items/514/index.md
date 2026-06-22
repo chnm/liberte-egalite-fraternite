@@ -2,6 +2,8 @@
 aliases:
   - /items/show/514
   - /items/show/514.html
+  - /items/514/
+  - /items/514
 collections: []
 date: '2019-07-23 22:34:33'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Voodoo
 type: items
+url: /d/336/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/240
   - /items/show/240.html
+  - /items/240/
+  - /items/240
 collections: []
 date: '2019-07-23 22:32:40'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Monarchy
 title: The Pathos of Death
 type: items
+url: /d/467/
 ---
 
 {{< raw >}}

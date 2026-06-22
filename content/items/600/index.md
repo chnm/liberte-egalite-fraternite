@@ -2,6 +2,8 @@
 aliases:
   - /items/show/600
   - /items/show/600.html
+  - /items/600/
+  - /items/600
 collections: []
 date: '2019-07-23 22:34:56'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Remonstrances of <i>Parlement</i> of Paris against Turgot’s Six Edicts (1776)
 type: items
+url: /d/250/
 ---
 
 {{< raw >}}

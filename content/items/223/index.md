@@ -2,6 +2,8 @@
 aliases:
   - /items/show/223
   - /items/show/223.html
+  - /items/223/
+  - /items/223
 collections: []
 date: '2019-07-23 22:32:11'
 draft: false
@@ -69,4 +71,5 @@ tags:
   - Image
 title: Parisian Fishwives
 type: items
+url: /d/1139/
 ---

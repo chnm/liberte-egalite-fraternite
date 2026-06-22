@@ -2,6 +2,8 @@
 aliases:
   - /items/show/22
   - /items/show/22.html
+  - /items/22/
+  - /items/22
 collections: []
 date: '2019-07-23 22:26:43'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - War
 title: Bonaparte, First Consul, Putting Away His Sword after the General Peace
 type: items
+url: /d/10/
 ---
 
 {{< raw >}}

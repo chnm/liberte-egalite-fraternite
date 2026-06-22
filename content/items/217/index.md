@@ -2,6 +2,8 @@
 aliases:
   - /items/show/217
   - /items/show/217.html
+  - /items/217/
+  - /items/217
 collections: []
 date: '2019-07-23 22:31:56'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Provinces
 title: People under the Old Regime
 type: items
+url: /d/215/
 ---
 
 {{< raw >}}

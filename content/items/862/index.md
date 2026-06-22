@@ -2,6 +2,8 @@
 aliases:
   - /items/show/862
   - /items/show/862.html
+  - /items/862/
+  - /items/862
 collections: []
 date: '2019-07-23 22:36:02'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Beginning of La Chalotais Affair (ends in 1766).
 type: items
+url: /d/909/
 ---

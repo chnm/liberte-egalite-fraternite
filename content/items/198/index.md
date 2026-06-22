@@ -2,6 +2,8 @@
 aliases:
   - /items/show/198
   - /items/show/198.html
+  - /items/198/
+  - /items/198
 collections: []
 date: '2019-07-23 22:31:29'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - War
 title: Battle for and Taking of Ratisbon, April 23, 1809
 type: items
+url: /d/193/
 ---
 
 {{< raw >}}

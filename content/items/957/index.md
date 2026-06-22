@@ -2,6 +2,8 @@
 aliases:
   - /items/show/957
   - /items/show/957.html
+  - /items/957/
+  - /items/957
 collections: []
 date: '2019-07-23 22:36:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Sale of Louisiana to the United States.
 type: items
+url: /d/1004/
 ---

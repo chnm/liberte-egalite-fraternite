@@ -2,6 +2,8 @@
 aliases:
   - /items/show/636
   - /items/show/636.html
+  - /items/636/
+  - /items/636
 collections: []
 date: '2019-07-23 22:35:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Fall of Robespierre, 9 Thermidor Year II.
 type: items
+url: /d/683/
 ---

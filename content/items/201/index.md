@@ -2,6 +2,8 @@
 aliases:
   - /items/show/201
   - /items/show/201.html
+  - /items/201/
+  - /items/201
 collections: []
 date: '2019-07-23 22:31:32'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Public Opinion
 title: Triumph of Napoleon, First Consul
 type: items
+url: /d/196/
 ---
 
 {{< raw >}}

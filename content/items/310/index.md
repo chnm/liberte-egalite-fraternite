@@ -2,6 +2,8 @@
 aliases:
   - /items/show/310
   - /items/show/310.html
+  - /items/310/
+  - /items/310
 collections: []
 date: '2019-07-23 22:33:38'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: White Refugees (17 July 1793)'
 type: items
+url: /d/574/
 ---
 
 {{< raw >}}

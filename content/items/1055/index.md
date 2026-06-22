@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1055
   - /items/show/1055.html
+  - /items/1055/
+  - /items/1055
 collections: []
 date: '2019-07-23 22:36:49'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Mulatto
 type: items
+url: /d/1101/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/516
   - /items/show/516.html
+  - /items/516/
+  - /items/516
 collections: []
 date: '2019-07-23 22:34:34'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Execution of the Queen (16 October 1793)
 type: items
+url: /d/334/
 ---
 
 {{< raw >}}

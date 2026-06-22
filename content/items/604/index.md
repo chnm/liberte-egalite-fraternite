@@ -2,6 +2,8 @@
 aliases:
   - /items/show/604
   - /items/show/604.html
+  - /items/604/
+  - /items/604
 collections: []
 date: '2019-07-23 22:34:57'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Parlementary Remonstrance against the Third "Twentieth" Tax
 type: items
+url: /d/246/
 ---
 
 {{< raw >}}

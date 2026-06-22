@@ -2,6 +2,8 @@
 aliases:
   - /items/show/887
   - /items/show/887.html
+  - /items/887/
+  - /items/887
 collections: []
 date: '2019-07-23 22:36:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Execution of the Hébertists.
 type: items
+url: /d/934/
 ---

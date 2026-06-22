@@ -2,6 +2,8 @@
 aliases:
   - /items/show/742
   - /items/show/742.html
+  - /items/742/
+  - /items/742
 collections: []
 date: '2019-07-23 22:35:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI vetoes decrees against émigrés, and refractory priests proposed by the Legislative Assembly.
 type: items
+url: /d/789/
 ---

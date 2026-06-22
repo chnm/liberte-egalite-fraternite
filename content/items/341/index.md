@@ -2,6 +2,8 @@
 aliases:
   - /items/show/341
   - /items/show/341.html
+  - /items/341/
+  - /items/341
 collections: []
 date: '2019-07-23 22:33:46'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - War
 title: The Battle of Waterloo as Recounted by one of Napoleon’s Personal Aides (June 1815)
 type: items
+url: /d/528/
 ---
 
 {{< raw >}}

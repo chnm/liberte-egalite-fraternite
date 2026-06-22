@@ -2,6 +2,8 @@
 aliases:
   - /items/show/635
   - /items/show/635.html
+  - /items/635/
+  - /items/635
 collections: []
 date: '2019-07-23 22:35:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Execution of Louis XVI.
 type: items
+url: /d/682/
 ---

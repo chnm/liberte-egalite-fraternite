@@ -2,6 +2,8 @@
 aliases:
   - /items/show/512
   - /items/show/512.html
+  - /items/512/
+  - /items/512
 collections: []
 date: '2019-07-23 22:34:33'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Grievance List (September 1789)
 type: items
+url: /d/338/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1033
   - /items/show/1033.html
+  - /items/1033/
+  - /items/1033
 collections: []
 date: '2019-07-23 22:36:43'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Council of Five Hundred
 type: items
+url: /d/1079/
 ---

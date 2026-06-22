@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1012
   - /items/show/1012.html
+  - /items/1012/
+  - /items/1012
 collections: []
 date: '2019-07-23 22:36:38'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: France’s administration reorganized with the establishment of departments, districts, cantons, and communes.
 type: items
+url: /d/1059/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/382
   - /items/show/382.html
+  - /items/382/
+  - /items/382
 collections: []
 date: '2019-07-23 22:33:58'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: Regulations of the Society of Revolutionary Republican Women (9 July 1793)
 type: items
+url: /d/481/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/192
   - /items/show/192.html
+  - /items/192/
+  - /items/192
 collections: []
 date: '2019-07-23 22:31:22'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Popular Politics
 title: Attack on the Bastille
 type: items
+url: /d/188/
 ---
 
 {{< raw >}}

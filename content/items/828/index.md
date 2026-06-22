@@ -2,6 +2,8 @@
 aliases:
   - /items/show/828
   - /items/show/828.html
+  - /items/828/
+  - /items/828
 collections: []
 date: '2019-07-23 22:35:54'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Robespierre, at the Jacobin Club, proposes a new version of the <i>Declaration of the Rights of Man and of the Citizen</i>.
 type: items
+url: /d/875/
 ---

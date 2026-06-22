@@ -2,6 +2,8 @@
 aliases:
   - /items/show/554
   - /items/show/554.html
+  - /items/554/
+  - /items/554
 collections: []
 date: '2019-07-23 22:34:44'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - Women
 title: <i>Universal Declaration of Human Rights</i>
 type: items
+url: /d/296/
 ---
 
 {{< raw >}}

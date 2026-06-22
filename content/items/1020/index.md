@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1020
   - /items/show/1020.html
+  - /items/1020/
+  - /items/1020
 collections: []
 date: '2019-07-23 22:36:40'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Bourgeois/Bourgeoisie
 type: items
+url: /d/1066/
 ---

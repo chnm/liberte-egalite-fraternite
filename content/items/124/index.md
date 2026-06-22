@@ -2,6 +2,8 @@
 aliases:
   - /items/show/124
   - /items/show/124.html
+  - /items/124/
+  - /items/124
 collections: []
 date: '2019-07-23 22:29:49'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - Sans-culottes
 title: Day of 13 Vendemaire of the Year 4
 type: items
+url: /d/118/
 ---
 
 {{< raw >}}

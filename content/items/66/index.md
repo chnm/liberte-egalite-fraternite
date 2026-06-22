@@ -2,6 +2,8 @@
 aliases:
   - /items/show/66
   - /items/show/66.html
+  - /items/66/
+  - /items/66
 collections: []
 date: '2019-07-23 22:27:51'
 draft: false
@@ -62,6 +64,7 @@ tags:
   - Laws
 title: French Constitution, Rights of Man and Citizen
 type: items
+url: /d/55/
 ---
 
 {{< raw >}}

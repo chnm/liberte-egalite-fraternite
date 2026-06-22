@@ -2,6 +2,8 @@
 aliases:
   - /items/show/731
   - /items/show/731.html
+  - /items/731/
+  - /items/731
 collections: []
 date: '2019-07-23 22:35:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Debate on colonies and civil status of free coloreds begin.
 type: items
+url: /d/778/
 ---

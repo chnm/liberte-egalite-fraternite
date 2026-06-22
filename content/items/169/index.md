@@ -2,6 +2,8 @@
 aliases:
   - /items/show/169
   - /items/show/169.html
+  - /items/169/
+  - /items/169
 collections: []
 date: '2019-07-23 22:30:53'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - Napoleon Bonaparte
 title: '"The Exorcism": Ridding France of the Devil Napoleon'
 type: items
+url: /d/166/
 ---
 
 {{< raw >}}

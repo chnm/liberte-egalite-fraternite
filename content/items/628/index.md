@@ -2,6 +2,8 @@
 aliases:
   - /items/show/628
   - /items/show/628.html
+  - /items/628/
+  - /items/628
 collections: []
 date: '2019-07-23 22:35:06'
 draft: false
@@ -57,6 +59,7 @@ tags:
   - Women
 title: Hymn for the Festival of Marriage
 type: items
+url: /d/618/
 ---
 
 {{< raw >}}

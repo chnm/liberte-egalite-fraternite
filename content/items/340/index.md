@@ -2,6 +2,8 @@
 aliases:
   - /items/show/340
   - /items/show/340.html
+  - /items/340/
+  - /items/340
 collections: []
 date: '2019-07-23 22:33:46'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: The Battle of Waterloo as Seen by an Ordinary British Cavalryman
 type: items
+url: /d/529/
 ---
 
 {{< raw >}}

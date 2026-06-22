@@ -2,6 +2,8 @@
 aliases:
   - /items/show/978
   - /items/show/978.html
+  - /items/978/
+  - /items/978
 collections: []
 date: '2019-07-23 22:36:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Death of Louis XVIII.
 type: items
+url: /d/1025/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/35
   - /items/show/35.html
+  - /items/35/
+  - /items/35
 collections: []
 date: '2019-07-23 22:27:12'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: The Marseillaise
 type: items
+url: /d/23/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/811
   - /items/show/811.html
+  - /items/811/
+  - /items/811
 collections: []
 date: '2019-07-23 22:35:50'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Emperor Leopold II appeals to other monarchs to join with him in demanding respect for the liberty and honor of Louis XVI.
 type: items
+url: /d/858/
 ---

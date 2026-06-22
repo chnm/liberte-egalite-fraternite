@@ -2,6 +2,8 @@
 aliases:
   - /items/show/153
   - /items/show/153.html
+  - /items/153/
+  - /items/153
 collections: []
 date: '2019-07-23 22:30:35'
 draft: false
@@ -66,6 +68,7 @@ tags:
   - The Terror
 title: Oath of the New Horaces
 type: items
+url: /d/150/
 ---
 
 {{< raw >}}

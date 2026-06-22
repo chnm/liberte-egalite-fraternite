@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1065
   - /items/show/1065.html
+  - /items/1065/
+  - /items/1065
 collections: []
 date: '2019-07-23 22:36:51'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Sacrament
 type: items
+url: /d/1111/
 ---

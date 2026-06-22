@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1027
   - /items/show/1027.html
+  - /items/1027/
+  - /items/1027
 collections: []
 date: '2019-07-23 22:36:41'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Constituent Assembly
 type: items
+url: /d/1073/
 ---

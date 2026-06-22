@@ -2,6 +2,8 @@
 aliases:
   - /items/show/440
   - /items/show/440.html
+  - /items/440/
+  - /items/440
 collections: []
 date: '2019-07-23 22:34:14'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: A Royal History
 type: items
+url: /d/410/
 ---
 
 {{< raw >}}

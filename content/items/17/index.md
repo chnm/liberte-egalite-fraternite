@@ -2,6 +2,8 @@
 aliases:
   - /items/show/17
   - /items/show/17.html
+  - /items/17/
+  - /items/17
 collections: []
 date: '2019-07-23 22:26:31'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Provinces
 title: The Day of 21 July 1789; Scaling and Pillaging of the Hotel de Ville in Strasbourg
 type: items
+url: /d/5/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/259
   - /items/show/259.html
+  - /items/259/
+  - /items/259
 collections: []
 date: '2019-07-23 22:33:08'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - Popular Politics
 title: National Assembly Relinquishes All Privileges
 type: items
+url: /d/648/
 ---
 
 {{< raw >}}

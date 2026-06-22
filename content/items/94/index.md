@@ -2,6 +2,8 @@
 aliases:
   - /items/show/94
   - /items/show/94.html
+  - /items/94/
+  - /items/94
 collections: []
 date: '2019-07-23 22:28:39'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Monarchy
 title: Louis XVI distributes aid to the Poor
 type: items
+url: /d/86/
 ---
 
 {{< raw >}}

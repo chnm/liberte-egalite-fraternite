@@ -2,6 +2,8 @@
 aliases:
   - /items/show/277
   - /items/show/277.html
+  - /items/277/
+  - /items/277
 collections: []
 date: '2019-07-23 22:33:29'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: Bonaparte and Islam
 type: items
+url: /d/612/
 ---
 
 {{< raw >}}

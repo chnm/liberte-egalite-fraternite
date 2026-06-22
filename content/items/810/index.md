@@ -2,6 +2,8 @@
 aliases:
   - /items/show/810
   - /items/show/810.html
+  - /items/810/
+  - /items/810
 collections: []
 date: '2019-07-23 22:35:50'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Louis XVI secretly explores a possible coalition with foreign powers to end the Revolution.
 type: items
+url: /d/857/
 ---

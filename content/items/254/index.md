@@ -2,6 +2,8 @@
 aliases:
   - /items/show/254
   - /items/show/254.html
+  - /items/254/
+  - /items/254
 collections: []
 date: '2019-07-23 22:33:00'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - The Terror
 title: President of a Revolutionary Committee After the Seal Is Taken Off
 type: items
+url: /d/601/
 ---
 
 {{< raw >}}

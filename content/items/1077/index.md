@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1077
   - /items/show/1077.html
+  - /items/1077/
+  - /items/1077
 collections: []
 date: '2019-07-23 22:36:54'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Unigenitus
 type: items
+url: /d/1123/
 ---

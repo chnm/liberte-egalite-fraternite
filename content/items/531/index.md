@@ -2,6 +2,8 @@
 aliases:
   - /items/show/531
   - /items/show/531.html
+  - /items/531/
+  - /items/531
 collections: []
 date: '2019-07-23 22:34:37'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: The Attack on the Tuileries (10 August 1792)
 type: items
+url: /d/319/
 ---
 
 {{< raw >}}

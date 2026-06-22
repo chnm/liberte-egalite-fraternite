@@ -2,6 +2,8 @@
 aliases:
   - /items/show/945
   - /items/show/945.html
+  - /items/945/
+  - /items/945
 collections: []
 date: '2019-07-23 22:36:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Roverdo.
 type: items
+url: /d/992/
 ---

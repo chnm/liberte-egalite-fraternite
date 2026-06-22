@@ -2,6 +2,8 @@
 aliases:
   - /items/show/863
   - /items/show/863.html
+  - /items/863/
+  - /items/863
 collections: []
 date: '2019-07-23 22:36:02'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Beginning of the Refusal of Sacraments Controversy (to 1756).
 type: items
+url: /d/910/
 ---

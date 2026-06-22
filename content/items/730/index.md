@@ -2,6 +2,8 @@
 aliases:
   - /items/show/730
   - /items/show/730.html
+  - /items/730/
+  - /items/730
 collections: []
 date: '2019-07-23 22:35:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: All public officials and priests are required to sign an oath of loyalty to the new French nation.
 type: items
+url: /d/777/
 ---

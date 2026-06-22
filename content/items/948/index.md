@@ -2,6 +2,8 @@
 aliases:
   - /items/show/948
   - /items/show/948.html
+  - /items/948/
+  - /items/948
 collections: []
 date: '2019-07-23 22:36:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the Parthenopean (Neapolitan) Republic.
 type: items
+url: /d/995/
 ---

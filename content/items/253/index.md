@@ -2,6 +2,8 @@
 aliases:
   - /items/show/253
   - /items/show/253.html
+  - /items/253/
+  - /items/253
 collections: []
 date: '2019-07-23 22:32:59'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: Provincial Painting—Minatures
 type: items
+url: /d/596/
 ---
 
 {{< raw >}}

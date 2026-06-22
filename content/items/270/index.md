@@ -2,6 +2,8 @@
 aliases:
   - /items/show/270
   - /items/show/270.html
+  - /items/270/
+  - /items/270
 collections: []
 date: '2019-07-23 22:33:23'
 draft: false
@@ -67,4 +69,5 @@ tags:
   - Laws
 title: Republican Calendar
 type: items
+url: /d/645/
 ---

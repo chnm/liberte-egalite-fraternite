@@ -2,6 +2,8 @@
 aliases:
   - /items/show/709
   - /items/show/709.html
+  - /items/709/
+  - /items/709
 collections: []
 date: '2019-07-23 22:35:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The First Assembly of Notables. Raising taxes is discussed and rejected.
 type: items
+url: /d/756/
 ---

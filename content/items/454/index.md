@@ -2,6 +2,8 @@
 aliases:
   - /items/show/454
   - /items/show/454.html
+  - /items/454/
+  - /items/454
 collections: []
 date: '2019-07-23 22:34:18'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: The Ninth of Thermidor
 type: items
+url: /d/396/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/671
   - /items/show/671.html
+  - /items/671/
+  - /items/671
 collections: []
 date: '2019-07-23 22:35:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Admiral Nelson’s victory at Trafalgar over France and Spain confirms British command of the sea.
 type: items
+url: /d/718/
 ---

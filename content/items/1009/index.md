@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1009
   - /items/show/1009.html
+  - /items/1009/
+  - /items/1009
 collections: []
 date: '2019-07-23 22:36:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Vote given to women in France.
 type: items
+url: /d/1056/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/673
   - /items/show/673.html
+  - /items/673/
+  - /items/673
 collections: []
 date: '2019-07-23 22:35:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Republican calendar shelved (10 Nivôse Year XIV); return to old calendar.
 type: items
+url: /d/720/
 ---

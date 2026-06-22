@@ -2,6 +2,8 @@
 aliases:
   - /items/show/669
   - /items/show/669.html
+  - /items/669/
+  - /items/669
 collections: []
 date: '2019-07-23 22:35:16'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 28 Floréal Year XII, Constitution of the Year XII. Senatus–consultum proclaims Napoleon Emperor.
 type: items
+url: /d/716/
 ---

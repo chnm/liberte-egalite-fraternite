@@ -2,6 +2,8 @@
 aliases:
   - /items/show/879
   - /items/show/879.html
+  - /items/879/
+  - /items/879
 collections: []
 date: '2019-07-23 22:36:06'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Legislature legalizes divorce.
 type: items
+url: /d/926/
 ---

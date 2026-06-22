@@ -2,6 +2,8 @@
 aliases:
   - /items/show/73
   - /items/show/73.html
+  - /items/73/
+  - /items/73
 collections: []
 date: '2019-07-23 22:27:56'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Religion
 title: Louis Arrives in Hell
 type: items
+url: /d/62/
 ---
 
 {{< raw >}}

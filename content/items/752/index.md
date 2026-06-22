@@ -2,6 +2,8 @@
 aliases:
   - /items/show/752
   - /items/show/752.html
+  - /items/752/
+  - /items/752
 collections: []
 date: '2019-07-23 22:35:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Death sentence for Louis XVI.
 type: items
+url: /d/799/
 ---

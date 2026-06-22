@@ -2,6 +2,8 @@
 aliases:
   - /items/show/548
   - /items/show/548.html
+  - /items/548/
+  - /items/548
 collections: []
 date: '2019-07-23 22:34:42'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Royal Decree Convoking the Estates–General and the Parlementary Response (1788)
 type: items
+url: /d/302/
 ---
 
 {{< raw >}}

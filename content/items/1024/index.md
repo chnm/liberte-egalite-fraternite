@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1024
   - /items/show/1024.html
+  - /items/1024/
+  - /items/1024
 collections: []
 date: '2019-07-23 22:36:41'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Commissaire
 type: items
+url: /d/1070/
 ---

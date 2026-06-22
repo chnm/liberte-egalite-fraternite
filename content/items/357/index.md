@@ -2,6 +2,8 @@
 aliases:
   - /items/show/357
   - /items/show/357.html
+  - /items/357/
+  - /items/357
 collections: []
 date: '2019-07-23 22:33:52'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Winning over the Nobles
 type: items
+url: /d/510/
 ---
 
 {{< raw >}}

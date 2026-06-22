@@ -2,6 +2,8 @@
 aliases:
   - /items/show/695
   - /items/show/695.html
+  - /items/695/
+  - /items/695
 collections: []
 date: '2019-07-23 22:35:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon’s second abdication.
 type: items
+url: /d/742/
 ---

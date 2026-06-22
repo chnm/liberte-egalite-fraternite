@@ -2,6 +2,8 @@
 aliases:
   - /items/show/147
   - /items/show/147.html
+  - /items/147/
+  - /items/147
 collections: []
 date: '2019-07-23 22:30:25'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Monarchy
 title: Long Live Liberty
 type: items
+url: /d/145/
 ---
 
 {{< raw >}}

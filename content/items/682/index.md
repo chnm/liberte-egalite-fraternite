@@ -2,6 +2,8 @@
 aliases:
   - /items/show/682
   - /items/show/682.html
+  - /items/682/
+  - /items/682
 collections: []
 date: '2019-07-23 22:35:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Victory of Wagram over Austria.
 type: items
+url: /d/729/
 ---

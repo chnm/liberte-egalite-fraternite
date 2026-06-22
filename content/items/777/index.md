@@ -2,6 +2,8 @@
 aliases:
   - /items/show/777
   - /items/show/777.html
+  - /items/777/
+  - /items/777
 collections: []
 date: '2019-07-23 22:35:42'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: British naval victory, the "Glorious First of June," establishes British control of the seas.
 type: items
+url: /d/824/
 ---

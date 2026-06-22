@@ -2,6 +2,8 @@
 aliases:
   - /items/show/314
   - /items/show/314.html
+  - /items/314/
+  - /items/314
 collections: []
 date: '2019-07-23 22:33:39'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: 'Saint Domingue: The Freedmen'
 type: items
+url: /d/570/
 ---
 
 {{< raw >}}

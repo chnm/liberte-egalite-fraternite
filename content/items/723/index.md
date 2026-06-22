@@ -2,6 +2,8 @@
 aliases:
   - /items/show/723
   - /items/show/723.html
+  - /items/723/
+  - /items/723
 collections: []
 date: '2019-07-23 22:35:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Great Fear. Following the fall of the Bastille, peasants in many places in France revolted in order demolish the remnants of "feudalism."
 type: items
+url: /d/770/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/564
   - /items/show/564.html
+  - /items/564/
+  - /items/564
 collections: []
 date: '2019-07-23 22:34:46'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: '"Petition of the Jews of Paris, Alsace and Lorraine to the National Assembly" (28 January 1790)'
 type: items
+url: /d/286/
 ---
 
 {{< raw >}}

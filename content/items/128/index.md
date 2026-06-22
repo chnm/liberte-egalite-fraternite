@@ -2,6 +2,8 @@
 aliases:
   - /items/show/128
   - /items/show/128.html
+  - /items/128/
+  - /items/128
 collections: []
 date: '2019-07-23 22:29:56'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - The Terror
 title: The Welcoming of a Marquis in Hell
 type: items
+url: /d/121/
 ---
 
 {{< raw >}}

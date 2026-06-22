@@ -2,6 +2,8 @@
 aliases:
   - /items/show/48
   - /items/show/48.html
+  - /items/48/
+  - /items/48
 collections: []
 date: '2019-07-23 22:27:18'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Sans-culottes
 title: The Contrast, 1793 British Liberty/French Liberty
 type: items
+url: /d/36/
 ---
 
 {{< raw >}}

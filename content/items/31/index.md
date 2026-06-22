@@ -2,6 +2,8 @@
 aliases:
   - /items/show/31
   - /items/show/31.html
+  - /items/31/
+  - /items/31
 collections: []
 date: '2019-07-23 22:27:03'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Women
 title: The Fatherland in Danger
 type: items
+url: /d/19/
 ---
 
 {{< raw >}}

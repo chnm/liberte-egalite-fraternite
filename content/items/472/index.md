@@ -2,6 +2,8 @@
 aliases:
   - /items/show/472
   - /items/show/472.html
+  - /items/472/
+  - /items/472
 collections: []
 date: '2019-07-23 22:34:22'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'Fears for the Bastille: A General’s Concern'
 type: items
+url: /d/378/
 ---
 
 {{< raw >}}

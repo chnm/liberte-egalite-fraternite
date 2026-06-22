@@ -2,6 +2,8 @@
 aliases:
   - /items/show/402
   - /items/show/402.html
+  - /items/402/
+  - /items/402
 collections: []
 date: '2019-07-23 22:34:04'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Revival of the Mountain
 type: items
+url: /d/458/
 ---
 
 {{< raw >}}

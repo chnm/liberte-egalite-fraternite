@@ -2,6 +2,8 @@
 aliases:
   - /items/show/330
   - /items/show/330.html
+  - /items/330/
+  - /items/330
 collections: []
 date: '2019-07-23 22:33:43'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: The Revolutionary Tribunal’s Use of the Guillotine
 type: items
+url: /d/552/
 ---
 
 {{< raw >}}

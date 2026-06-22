@@ -2,6 +2,8 @@
 aliases:
   - /items/show/265
   - /items/show/265.html
+  - /items/265/
+  - /items/265
 collections: []
 date: '2019-07-23 22:33:17'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - War
 title: Battle of Aboukir
 type: items
+url: /d/139/
 ---
 
 {{< raw >}}

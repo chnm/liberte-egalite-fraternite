@@ -2,6 +2,8 @@
 aliases:
   - /items/show/561
   - /items/show/561.html
+  - /items/561/
+  - /items/561
 collections: []
 date: '2019-07-23 22:34:46'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: <i>The Abolition of Negro Slavery or Means for Ameliorating Their Lot</i>, 1789
 type: items
+url: /d/289/
 ---
 
 {{< raw >}}

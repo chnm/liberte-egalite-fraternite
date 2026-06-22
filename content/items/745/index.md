@@ -2,6 +2,8 @@
 aliases:
   - /items/show/745
   - /items/show/745.html
+  - /items/745/
+  - /items/745
 collections: []
 date: '2019-07-23 22:35:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decree of "Country in Danger."
 type: items
+url: /d/792/
 ---

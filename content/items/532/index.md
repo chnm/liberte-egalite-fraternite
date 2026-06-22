@@ -2,6 +2,8 @@
 aliases:
   - /items/show/532
   - /items/show/532.html
+  - /items/532/
+  - /items/532
 collections: []
 date: '2019-07-23 22:34:38'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Parisian Petitions to Dethrone the King (3 August 1792)
 type: items
+url: /d/318/
 ---
 
 {{< raw >}}

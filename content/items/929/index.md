@@ -2,6 +2,8 @@
 aliases:
   - /items/show/929
   - /items/show/929.html
+  - /items/929/
+  - /items/929
 collections: []
 date: '2019-07-23 22:36:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Cisalpine republic set up at Milan by France.
 type: items
+url: /d/976/
 ---

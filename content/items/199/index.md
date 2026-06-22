@@ -2,6 +2,8 @@
 aliases:
   - /items/show/199
   - /items/show/199.html
+  - /items/199/
+  - /items/199
 collections: []
 date: '2019-07-23 22:31:30'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - War
 title: Retreat from Russia
 type: items
+url: /d/194/
 ---
 
 {{< raw >}}

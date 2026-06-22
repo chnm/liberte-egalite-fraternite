@@ -2,6 +2,8 @@
 aliases:
   - /items/show/328
   - /items/show/328.html
+  - /items/328/
+  - /items/328
 collections: []
 date: '2019-07-23 22:33:43'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Marat Attacks the Nobility
 type: items
+url: /d/556/
 ---
 
 {{< raw >}}

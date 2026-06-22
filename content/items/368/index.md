@@ -2,6 +2,8 @@
 aliases:
   - /items/show/368
   - /items/show/368.html
+  - /items/368/
+  - /items/368
 collections: []
 date: '2019-07-23 22:33:55'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Constance Pipelet, Review of a Book by Théremin, <i>On the Condition of Women in a Republic</i>
 type: items
+url: /d/495/
 ---
 
 {{< raw >}}

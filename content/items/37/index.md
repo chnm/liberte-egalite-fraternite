@@ -2,6 +2,8 @@
 aliases:
   - /items/show/37
   - /items/show/37.html
+  - /items/37/
+  - /items/37
 collections: []
 date: '2019-07-23 22:27:13'
 draft: false
@@ -41,4 +43,5 @@ tags:
   - Popular Politics
 title: 'Plate: Long Live the Nation'
 type: items
+url: /d/25/
 ---

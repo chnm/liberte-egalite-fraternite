@@ -2,6 +2,8 @@
 aliases:
   - /items/show/435
   - /items/show/435.html
+  - /items/435/
+  - /items/435
 collections: []
 date: '2019-07-23 22:34:13'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: The Maximum
 type: items
+url: /d/415/
 ---
 
 {{< raw >}}

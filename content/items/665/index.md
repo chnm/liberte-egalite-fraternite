@@ -2,6 +2,8 @@
 aliases:
   - /items/show/665
   - /items/show/665.html
+  - /items/665/
+  - /items/665
 collections: []
 date: '2019-07-23 22:35:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Creation of 31 "senatoriates" (14 Nivôse Year X).
 type: items
+url: /d/712/
 ---

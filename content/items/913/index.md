@@ -2,6 +2,8 @@
 aliases:
   - /items/show/913
   - /items/show/913.html
+  - /items/913/
+  - /items/913
 collections: []
 date: '2019-07-23 22:36:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Legislative councils transferred to Saint–Cloud. Sieyès, Ducos, and Barras resign. Bonaparte appointed commander of the army in Paris. Coup d’état of 18 Brumaire Year VIII supported. The Executive Directory and the two legislative councils are overthrown.
 type: items
+url: /d/960/
 ---

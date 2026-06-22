@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1076
   - /items/show/1076.html
+  - /items/1076/
+  - /items/1076
 collections: []
 date: '2019-07-23 22:36:54'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Tuileries
 type: items
+url: /d/1122/
 ---

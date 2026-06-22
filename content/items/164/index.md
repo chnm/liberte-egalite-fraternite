@@ -2,6 +2,8 @@
 aliases:
   - /items/show/164
   - /items/show/164.html
+  - /items/164/
+  - /items/164
 collections: []
 date: '2019-07-23 22:30:51'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Napoleon Bonaparte
 title: 'I Am Called Cerberus but Am Also a Chameleon: Napoleon Being Sucked into Hell'
 type: items
+url: /d/161/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/791
   - /items/show/791.html
+  - /items/791/
+  - /items/791
 collections: []
 date: '2019-07-23 22:35:45'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Uprising of Vendémiaire: Napoleon is instrumental in putting down a royalist revolt in Paris.'
 type: items
+url: /d/838/
 ---

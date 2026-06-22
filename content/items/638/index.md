@@ -2,6 +2,8 @@
 aliases:
   - /items/show/638
   - /items/show/638.html
+  - /items/638/
+  - /items/638
 collections: []
 date: '2019-07-23 22:35:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Directory begins, 1795–1799, created by Constitution of the Year III.
 type: items
+url: /d/685/
 ---

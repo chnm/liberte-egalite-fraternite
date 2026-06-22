@@ -2,6 +2,8 @@
 aliases:
   - /items/show/844
   - /items/show/844.html
+  - /items/844/
+  - /items/844
 collections: []
 date: '2019-07-23 22:35:58'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The alleged Conspiracy of the Equals organized by Gracchus Babeuf. The goal is a coup d’état and the end of the Directory in order to set a communist government in its place.
 type: items
+url: /d/891/
 ---

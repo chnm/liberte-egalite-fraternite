@@ -2,6 +2,8 @@
 aliases:
   - /items/show/305
   - /items/show/305.html
+  - /items/305/
+  - /items/305
 collections: []
 date: '2019-07-23 22:33:37'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: <i>A Vindication of the Rights of Woman</i>
 type: items
+url: /d/579/
 ---
 
 {{< raw >}}

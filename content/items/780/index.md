@@ -2,6 +2,8 @@
 aliases:
   - /items/show/780
   - /items/show/780.html
+  - /items/780/
+  - /items/780
 collections: []
 date: '2019-07-23 22:35:42'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Law of 22 Prairial repealed.
 type: items
+url: /d/827/
 ---

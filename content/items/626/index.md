@@ -2,6 +2,8 @@
 aliases:
   - /items/show/626
   - /items/show/626.html
+  - /items/626/
+  - /items/626
 collections: []
 date: '2019-07-23 22:35:05'
 draft: false
@@ -58,6 +60,7 @@ tags:
   - The Terror
 title: Hymn of 9 Thermidor
 type: items
+url: /d/617/
 ---
 
 {{< raw >}}

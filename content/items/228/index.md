@@ -2,6 +2,8 @@
 aliases:
   - /items/show/228
   - /items/show/228.html
+  - /items/228/
+  - /items/228
 collections: []
 date: '2019-07-23 22:32:17'
 draft: false
@@ -63,6 +65,7 @@ tags:
   - Image
 title: Toussaint L’Ouverture
 type: items
+url: /d/224/
 ---
 
 {{< raw >}}

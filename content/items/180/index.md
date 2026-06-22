@@ -2,6 +2,8 @@
 aliases:
   - /items/show/180
   - /items/show/180.html
+  - /items/180/
+  - /items/180
 collections: []
 date: '2019-07-23 22:31:06'
 draft: false
@@ -69,6 +71,7 @@ tags:
   - Monarchy
 title: Louis XVI, King of France
 type: items
+url: /d/177/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/458
   - /items/show/458.html
+  - /items/458/
+  - /items/458
 collections: []
 date: '2019-07-23 22:34:19'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: The September Massacres
 type: items
+url: /d/392/
 ---
 
 {{< raw >}}

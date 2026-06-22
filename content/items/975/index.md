@@ -2,6 +2,8 @@
 aliases:
   - /items/show/975
   - /items/show/975.html
+  - /items/975/
+  - /items/975
 collections: []
 date: '2019-07-23 22:36:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Holy Alliance between Russia, Prussia, and Austria is ended.
 type: items
+url: /d/1022/
 ---

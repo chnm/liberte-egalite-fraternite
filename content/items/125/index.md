@@ -2,6 +2,8 @@
 aliases:
   - /items/show/125
   - /items/show/125.html
+  - /items/125/
+  - /items/125
 collections: []
 date: '2019-07-23 22:29:51'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Women
 title: Scene of Directory Life, Men and Women from L’Optique du Jour, ou le foyer de Montansier
 type: items
+url: /d/119/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/244
   - /items/show/244.html
+  - /items/244/
+  - /items/244
 collections: []
 date: '2019-07-23 22:32:44'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Provinces
 title: Abstention Rate in Napoleonic Plebiscites
 type: items
+url: /d/513/
 ---
 
 {{< raw >}}

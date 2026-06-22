@@ -2,6 +2,8 @@
 aliases:
   - /items/show/527
   - /items/show/527.html
+  - /items/527/
+  - /items/527
 collections: []
 date: '2019-07-23 22:34:36'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Marat (3 December 1792)
 type: items
+url: /d/323/
 ---
 
 {{< raw >}}

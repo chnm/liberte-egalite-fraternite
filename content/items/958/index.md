@@ -2,6 +2,8 @@
 aliases:
   - /items/show/958
   - /items/show/958.html
+  - /items/958/
+  - /items/958
 collections: []
 date: '2019-07-23 22:36:25'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon is crowned King of Italy in Milan.
 type: items
+url: /d/1005/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/274
   - /items/show/274.html
+  - /items/274/
+  - /items/274
 collections: []
 date: '2019-07-23 22:33:28'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Le Bon, <i>The Psychology of Revolution</i>
 type: items
+url: /d/628/
 ---
 
 {{< raw >}}

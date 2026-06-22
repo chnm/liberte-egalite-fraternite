@@ -2,6 +2,8 @@
 aliases:
   - /items/show/150
   - /items/show/150.html
+  - /items/150/
+  - /items/150
 collections: []
 date: '2019-07-23 22:30:29'
 draft: false
@@ -64,6 +66,7 @@ tags:
   - Napoleon Bonaparte
 title: The Royal and Imperial Family of Napoleon, the Greatest and First with That Name
 type: items
+url: /d/147/
 ---
 
 {{< raw >}}

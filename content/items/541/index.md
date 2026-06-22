@@ -2,6 +2,8 @@
 aliases:
   - /items/show/541
   - /items/show/541.html
+  - /items/541/
+  - /items/541
 collections: []
 date: '2019-07-23 22:34:40'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The October Days (1789)
 type: items
+url: /d/309/
 ---
 
 {{< raw >}}

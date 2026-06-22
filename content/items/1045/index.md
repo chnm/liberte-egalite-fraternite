@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1045
   - /items/show/1045.html
+  - /items/1045/
+  - /items/1045
 collections: []
 date: '2019-07-23 22:36:46'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Girondin
 type: items
+url: /d/1091/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/861
   - /items/show/861.html
+  - /items/861/
+  - /items/861
 collections: []
 date: '2019-07-23 22:36:02'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Turgot’s ministry as Controller–General of France begins. Continues to May 1776.
 type: items
+url: /d/908/
 ---

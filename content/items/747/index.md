@@ -2,6 +2,8 @@
 aliases:
   - /items/show/747
   - /items/show/747.html
+  - /items/747/
+  - /items/747
 collections: []
 date: '2019-07-23 22:35:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Defection of Lafayette. Lafayette deserts the army and flees to Austria. General Dumouriez takes command of the Armies of the North. Prussian armies, including French émigrés, invade France.
 type: items
+url: /d/794/
 ---

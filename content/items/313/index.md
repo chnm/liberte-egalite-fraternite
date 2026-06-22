@@ -2,6 +2,8 @@
 aliases:
   - /items/show/313
   - /items/show/313.html
+  - /items/313/
+  - /items/313
 collections: []
 date: '2019-07-23 22:33:39'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Women
 title: That Seductive Mulatto Woman
 type: items
+url: /d/571/
 ---
 
 {{< raw >}}

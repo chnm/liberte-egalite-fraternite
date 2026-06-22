@@ -2,6 +2,8 @@
 aliases:
   - /items/show/858
   - /items/show/858.html
+  - /items/858/
+  - /items/858
 collections: []
 date: '2019-07-23 22:36:01'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Voltaire’s remains moved to the Pantheon.
 type: items
+url: /d/905/
 ---

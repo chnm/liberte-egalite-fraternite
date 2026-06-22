@@ -2,6 +2,8 @@
 aliases:
   - /items/show/127
   - /items/show/127.html
+  - /items/127/
+  - /items/127
 collections: []
 date: '2019-07-23 22:29:55'
 draft: false
@@ -63,4 +65,5 @@ tags:
   - Image
 title: Live Free or Die
 type: items
+url: /d/1138/
 ---

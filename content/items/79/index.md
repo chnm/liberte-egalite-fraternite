@@ -2,6 +2,8 @@
 aliases:
   - /items/show/79
   - /items/show/79.html
+  - /items/79/
+  - /items/79
 collections: []
 date: '2019-07-23 22:28:11'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Sans-culottes
 title: A Foreign Tree
 type: items
+url: /d/69/
 ---
 
 {{< raw >}}

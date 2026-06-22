@@ -2,6 +2,8 @@
 aliases:
   - /items/show/87
   - /items/show/87.html
+  - /items/87/
+  - /items/87
 collections: []
 date: '2019-07-23 22:28:27'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Religion
 title: Ah! Monsignor! It seems that they want us to give everything back, yet while in the game I had advised you to play trumps.
 type: items
+url: /d/79/
 ---
 
 {{< raw >}}

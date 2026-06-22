@@ -2,6 +2,8 @@
 aliases:
   - /items/show/25
   - /items/show/25.html
+  - /items/25/
+  - /items/25
 collections: []
 date: '2019-07-23 22:26:49'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Religion
 title: Mea Culpa of the Pope
 type: items
+url: /d/13/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/348
   - /items/show/348.html
+  - /items/348/
+  - /items/348
 collections: []
 date: '2019-07-23 22:33:48'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - War
 title: An Ordinary British Soldier Recounts the Portuguese Campaign (1810)
 type: items
+url: /d/520/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/851
   - /items/show/851.html
+  - /items/851/
+  - /items/851
 collections: []
 date: '2019-07-23 22:36:00'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Expedition to Egypt leaves Toulon.
 type: items
+url: /d/898/
 ---

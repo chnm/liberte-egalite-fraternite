@@ -2,6 +2,8 @@
 aliases:
   - /items/show/932
   - /items/show/932.html
+  - /items/932/
+  - /items/932
 collections: []
 date: '2019-07-23 22:36:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Austrians enter Milan; during the summer a succession of Russian and Austrian victories remove French power in Italy except for a besieged garrison at Genoa.
 type: items
+url: /d/979/
 ---

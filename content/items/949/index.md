@@ -2,6 +2,8 @@
 aliases:
   - /items/show/949
   - /items/show/949.html
+  - /items/949/
+  - /items/949
 collections: []
 date: '2019-07-23 22:36:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Masséna defeats the Russians and Austrians at Zurich. Russia and Austria evacuate Switzerland.
 type: items
+url: /d/996/
 ---

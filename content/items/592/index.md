@@ -2,6 +2,8 @@
 aliases:
   - /items/show/592
   - /items/show/592.html
+  - /items/592/
+  - /items/592
 collections: []
 date: '2019-07-23 22:34:54'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Calonne, "Programs of Reform," Address to Assembly of Notables (1787)
 type: items
+url: /d/258/
 ---
 
 {{< raw >}}

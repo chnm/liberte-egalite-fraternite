@@ -2,6 +2,8 @@
 aliases:
   - /items/show/395
   - /items/show/395.html
+  - /items/395/
+  - /items/395
 collections: []
 date: '2019-07-23 22:34:02'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: <i>Diary of a Woman at Fifty</i>
 type: items
+url: /d/465/
 ---
 
 {{< raw >}}

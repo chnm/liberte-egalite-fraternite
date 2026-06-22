@@ -2,6 +2,8 @@
 aliases:
   - /items/show/940
   - /items/show/940.html
+  - /items/940/
+  - /items/940
 collections: []
 date: '2019-07-23 22:36:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Montenotte.
 type: items
+url: /d/987/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/632
   - /items/show/632.html
+  - /items/632/
+  - /items/632
 collections: []
 date: '2019-07-23 22:35:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Fall of the Bastille.
 type: items
+url: /d/679/
 ---

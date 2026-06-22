@@ -2,6 +2,8 @@
 aliases:
   - /items/show/170
   - /items/show/170.html
+  - /items/170/
+  - /items/170
 collections: []
 date: '2019-07-23 22:30:55'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - Napoleon Bonaparte
 title: '"The Little Cartesian Devil": German Peasants Capturing the Little Devil Napoleon'
 type: items
+url: /d/167/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/967
   - /items/show/967.html
+  - /items/967/
+  - /items/967
 collections: []
 date: '2019-07-23 22:36:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Arrest of Pope Pius VII.
 type: items
+url: /d/1014/
 ---

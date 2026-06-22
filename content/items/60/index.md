@@ -2,6 +2,8 @@
 aliases:
   - /items/show/60
   - /items/show/60.html
+  - /items/60/
+  - /items/60
 collections: []
 date: '2019-07-23 22:27:37'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Sans-culottes
 title: Britannia Rules the Waves!!
 type: items
+url: /d/50/
 ---
 
 {{< raw >}}

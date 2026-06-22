@@ -2,6 +2,8 @@
 aliases:
   - /items/show/470
   - /items/show/470.html
+  - /items/470/
+  - /items/470
 collections: []
 date: '2019-07-23 22:34:22'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Desmoulins on His Own Role
 type: items
+url: /d/380/
 ---
 
 {{< raw >}}

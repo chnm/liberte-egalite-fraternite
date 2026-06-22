@@ -2,6 +2,8 @@
 aliases:
   - /items/show/53
   - /items/show/53.html
+  - /items/53/
+  - /items/53
 collections: []
 date: '2019-07-23 22:27:25'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Peasants
 title: The Joyous Accord
 type: items
+url: /d/42/
 ---
 
 {{< raw >}}

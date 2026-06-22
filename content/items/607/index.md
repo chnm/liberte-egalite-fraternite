@@ -2,6 +2,8 @@
 aliases:
   - /items/show/607
   - /items/show/607.html
+  - /items/607/
+  - /items/607
 collections: []
 date: '2019-07-23 22:34:58'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Remonstrance by the <i>Parlement</i> against the Denial of Sacraments in Orléans
 type: items
+url: /d/243/
 ---
 
 {{< raw >}}

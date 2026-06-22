@@ -2,6 +2,8 @@
 aliases:
   - /items/show/997
   - /items/show/997.html
+  - /items/997/
+  - /items/997
 collections: []
 date: '2019-07-23 22:36:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: John Locke, "Of Political or Civil Society."
 type: items
+url: /d/1044/
 ---

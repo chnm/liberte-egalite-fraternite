@@ -2,6 +2,8 @@
 aliases:
   - /items/show/275
   - /items/show/275.html
+  - /items/275/
+  - /items/275
 collections: []
 date: '2019-07-23 22:33:28'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: De Maistre, <i>Considerations on France</i>
 type: items
+url: /d/627/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/938
   - /items/show/938.html
+  - /items/938/
+  - /items/938
 collections: []
 date: '2019-07-23 22:36:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Publication of Edmund Burke’s <i>Reflections on the French Revolution</i>.
 type: items
+url: /d/985/
 ---

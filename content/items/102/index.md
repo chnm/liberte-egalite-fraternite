@@ -2,6 +2,8 @@
 aliases:
   - /items/show/102
   - /items/show/102.html
+  - /items/102/
+  - /items/102
 collections: []
 date: '2019-07-23 22:28:57'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - Provinces
 title: Arrest of Louis Capet at Varennes, June 22, 1791
 type: items
+url: /d/96/
 ---
 
 {{< raw >}}

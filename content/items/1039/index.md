@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1039
   - /items/show/1039.html
+  - /items/1039/
+  - /items/1039
 collections: []
 date: '2019-07-23 22:36:44'
 draft: false
@@ -34,4 +36,5 @@ tags:
   - Popular Politics
 title: Directory
 type: items
+url: /d/1085/
 ---

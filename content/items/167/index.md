@@ -2,6 +2,8 @@
 aliases:
   - /items/show/167
   - /items/show/167.html
+  - /items/167/
+  - /items/167
 collections: []
 date: '2019-07-23 22:30:52'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Napoleon Bonaparte
 title: Progression of Napoleon’s Life
 type: items
+url: /d/164/
 ---
 
 {{< raw >}}

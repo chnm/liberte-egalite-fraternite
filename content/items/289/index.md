@@ -2,6 +2,8 @@
 aliases:
   - /items/show/289
   - /items/show/289.html
+  - /items/289/
+  - /items/289
 collections: []
 date: '2019-07-23 22:33:32'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Hippolyte Taine on the French Revolution
 type: items
+url: /d/595/
 ---
 
 {{< raw >}}

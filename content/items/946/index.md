@@ -2,6 +2,8 @@
 aliases:
   - /items/show/946
   - /items/show/946.html
+  - /items/946/
+  - /items/946
 collections: []
 date: '2019-07-23 22:36:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Bassano.
 type: items
+url: /d/993/
 ---

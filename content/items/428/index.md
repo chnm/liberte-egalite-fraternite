@@ -2,6 +2,8 @@
 aliases:
   - /items/show/428
   - /items/show/428.html
+  - /items/428/
+  - /items/428
 collections: []
 date: '2019-07-23 22:34:11'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: The Assembly Complains to the King about the <i>Émigrés</i>
 type: items
+url: /d/422/
 ---
 
 {{< raw >}}

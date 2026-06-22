@@ -2,6 +2,8 @@
 aliases:
   - /items/show/796
   - /items/show/796.html
+  - /items/796/
+  - /items/796
 collections: []
 date: '2019-07-23 22:35:46'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Arcola.
 type: items
+url: /d/843/
 ---

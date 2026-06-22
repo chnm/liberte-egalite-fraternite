@@ -2,6 +2,8 @@
 aliases:
   - /items/show/980
   - /items/show/980.html
+  - /items/980/
+  - /items/980
 collections: []
 date: '2019-07-23 22:36:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Coronation of Charles X in Reims.
 type: items
+url: /d/1027/
 ---

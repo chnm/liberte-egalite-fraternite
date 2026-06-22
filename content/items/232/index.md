@@ -2,6 +2,8 @@
 aliases:
   - /items/show/232
   - /items/show/232.html
+  - /items/232/
+  - /items/232
 collections: []
 date: '2019-07-23 22:32:22'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Public Opinion
 title: Execrable Human Traffick, or The Affectionate Slaves
 type: items
+url: /d/228/
 ---
 
 {{< raw >}}

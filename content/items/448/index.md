@@ -2,6 +2,8 @@
 aliases:
   - /items/show/448
   - /items/show/448.html
+  - /items/448/
+  - /items/448
 collections: []
 date: '2019-07-23 22:34:16'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Women at the Jacobins
 type: items
+url: /d/402/
 ---
 
 {{< raw >}}

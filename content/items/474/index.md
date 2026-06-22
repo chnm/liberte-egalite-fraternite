@@ -2,6 +2,8 @@
 aliases:
   - /items/show/474
   - /items/show/474.html
+  - /items/474/
+  - /items/474
 collections: []
 date: '2019-07-23 22:34:23'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Proclamation of the Department of the Seine–et–Oise (9 March 1792)
 type: items
+url: /d/376/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/489
   - /items/show/489.html
+  - /items/489/
+  - /items/489
 collections: []
 date: '2019-07-23 22:34:27'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Montesquieu’s Attack on the Nobility
 type: items
+url: /d/361/
 ---
 
 {{< raw >}}

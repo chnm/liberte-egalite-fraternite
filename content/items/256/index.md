@@ -2,6 +2,8 @@
 aliases:
   - /items/show/256
   - /items/show/256.html
+  - /items/256/
+  - /items/256
 collections: []
 date: '2019-07-23 22:33:05'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: The Death of Marat
 type: items
+url: /d/632/
 ---
 
 {{< raw >}}

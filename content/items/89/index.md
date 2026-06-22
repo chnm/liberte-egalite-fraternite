@@ -2,6 +2,8 @@
 aliases:
   - /items/show/89
   - /items/show/89.html
+  - /items/89/
+  - /items/89
 collections: []
 date: '2019-07-23 22:28:32'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: Liberty
 type: items
+url: /d/81/
 ---
 
 {{< raw >}}

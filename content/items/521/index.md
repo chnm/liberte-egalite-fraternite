@@ -2,6 +2,8 @@
 aliases:
   - /items/show/521
   - /items/show/521.html
+  - /items/521/
+  - /items/521
 collections: []
 date: '2019-07-23 22:34:35'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Description of the Royal Menagerie (1789)
 type: items
+url: /d/329/
 ---
 
 {{< raw >}}

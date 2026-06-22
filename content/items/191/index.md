@@ -2,6 +2,8 @@
 aliases:
   - /items/show/191
   - /items/show/191.html
+  - /items/191/
+  - /items/191
 collections: []
 date: '2019-07-23 22:31:21'
 draft: false
@@ -59,4 +61,5 @@ tags:
   - Image
 title: Inside a Revolutionary Committee
 type: items
+url: /d/1140/
 ---

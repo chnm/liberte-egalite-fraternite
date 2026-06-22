@@ -2,6 +2,8 @@
 aliases:
   - /items/show/195
   - /items/show/195.html
+  - /items/195/
+  - /items/195
 collections: []
 date: '2019-07-23 22:31:23'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Public Opinion
 title: Image of the King on Trial
 type: items
+url: /d/190/
 ---
 
 {{< raw >}}

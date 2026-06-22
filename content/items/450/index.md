@@ -2,6 +2,8 @@
 aliases:
   - /items/show/450
   - /items/show/450.html
+  - /items/450/
+  - /items/450
 collections: []
 date: '2019-07-23 22:34:16'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Rules of the Jacobins
 type: items
+url: /d/400/
 ---
 
 {{< raw >}}

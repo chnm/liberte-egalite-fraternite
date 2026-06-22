@@ -2,6 +2,8 @@
 aliases:
   - /items/show/365
   - /items/show/365.html
+  - /items/365/
+  - /items/365
 collections: []
 date: '2019-07-23 22:33:54'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Napoleon’s Own Account of His Coup d’Etat (10 November 1799)
 type: items
+url: /d/502/
 ---
 
 {{< raw >}}

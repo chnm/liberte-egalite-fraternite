@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1026
   - /items/show/1026.html
+  - /items/1026/
+  - /items/1026
 collections: []
 date: '2019-07-23 22:36:41'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Commune
 type: items
+url: /d/1072/
 ---

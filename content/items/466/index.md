@@ -2,6 +2,8 @@
 aliases:
   - /items/show/466
   - /items/show/466.html
+  - /items/466/
+  - /items/466
 collections: []
 date: '2019-07-23 22:34:21'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Victims on Display
 type: items
+url: /d/384/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/947
   - /items/show/947.html
+  - /items/947/
+  - /items/947
 collections: []
 date: '2019-07-23 22:36:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Irish Expedition (Hoche’s expedition against the British Isles) fails. A storm destroys the French fleet before it could reach Ireland.
 type: items
+url: /d/994/
 ---

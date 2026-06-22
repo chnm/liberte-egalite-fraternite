@@ -2,6 +2,8 @@
 aliases:
   - /items/show/999
   - /items/show/999.html
+  - /items/999/
+  - /items/999
 collections: []
 date: '2019-07-23 22:36:35'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decree of the National Assembly abolishing the Feudal System.
 type: items
+url: /d/1046/
 ---

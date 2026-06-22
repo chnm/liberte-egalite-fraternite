@@ -2,6 +2,8 @@
 aliases:
   - /items/show/455
   - /items/show/455.html
+  - /items/455/
+  - /items/455
 collections: []
 date: '2019-07-23 22:34:18'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: The Eighth of Thermidor
 type: items
+url: /d/395/
 ---
 
 {{< raw >}}

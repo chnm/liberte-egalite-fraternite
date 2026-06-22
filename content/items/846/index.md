@@ -2,6 +2,8 @@
 aliases:
   - /items/show/846
   - /items/show/846.html
+  - /items/846/
+  - /items/846
 collections: []
 date: '2019-07-23 22:35:58'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A group of moderate and rightist delegates to the legislative Councils of the Five Hundred and of the Elders, members of the political club of Clichy, plan a coup d’état against the Directory.
 type: items
+url: /d/893/
 ---

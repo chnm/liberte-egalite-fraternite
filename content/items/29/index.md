@@ -2,6 +2,8 @@
 aliases:
   - /items/show/29
   - /items/show/29.html
+  - /items/29/
+  - /items/29
 collections: []
 date: '2019-07-23 22:27:00'
 draft: false
@@ -85,6 +87,7 @@ tags:
   - Popular Politics
 title: Demolition of the Bastille
 type: items
+url: /d/17/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/869
   - /items/show/869.html
+  - /items/869/
+  - /items/869
 collections: []
 date: '2019-07-23 22:36:04'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Revolt in Grenoble: the mob demands the reinstatement of the local <i>parlement</i>. Uprising also in Brittany.'
 type: items
+url: /d/916/
 ---

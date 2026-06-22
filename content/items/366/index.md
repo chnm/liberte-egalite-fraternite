@@ -2,6 +2,8 @@
 aliases:
   - /items/show/366
   - /items/show/366.html
+  - /items/366/
+  - /items/366
 collections: []
 date: '2019-07-23 22:33:54'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Napoleon as an Ambitious Young General in 1796–97
 type: items
+url: /d/501/
 ---
 
 {{< raw >}}

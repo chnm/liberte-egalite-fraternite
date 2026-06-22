@@ -2,6 +2,8 @@
 aliases:
   - /items/show/736
   - /items/show/736.html
+  - /items/736/
+  - /items/736
 collections: []
 date: '2019-07-23 22:35:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Massacre of the <i>Champ de Mars</i>.
 type: items
+url: /d/783/
 ---

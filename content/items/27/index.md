@@ -2,6 +2,8 @@
 aliases:
   - /items/show/27
   - /items/show/27.html
+  - /items/27/
+  - /items/27
 collections: []
 date: '2019-07-23 22:26:55'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Sans-culottes
 title: Army of Jugs
 type: items
+url: /d/15/
 ---
 
 {{< raw >}}

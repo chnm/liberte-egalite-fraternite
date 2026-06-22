@@ -2,6 +2,8 @@
 aliases:
   - /items/show/484
   - /items/show/484.html
+  - /items/484/
+  - /items/484
 collections: []
 date: '2019-07-23 22:34:25'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: 4 August Decrees
 type: items
+url: /d/366/
 ---
 
 {{< raw >}}

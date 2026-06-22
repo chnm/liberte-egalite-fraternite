@@ -2,6 +2,8 @@
 aliases:
   - /items/show/579
   - /items/show/579.html
+  - /items/579/
+  - /items/579
 collections: []
 date: '2019-07-23 22:34:50'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Montesquieu’s <i>The Persian Letters</i> (1721)
 type: items
+url: /d/271/
 ---
 
 {{< raw >}}

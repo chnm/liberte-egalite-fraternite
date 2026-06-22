@@ -2,6 +2,8 @@
 aliases:
   - /items/show/477
   - /items/show/477.html
+  - /items/477/
+  - /items/477
 collections: []
 date: '2019-07-23 22:34:24'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: <i>Père Duchesne</i> Idealizes the <i>Sans–culottes</i>
 type: items
+url: /d/373/
 ---
 
 {{< raw >}}

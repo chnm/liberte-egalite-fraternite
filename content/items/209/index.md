@@ -2,6 +2,8 @@
 aliases:
   - /items/show/209
   - /items/show/209.html
+  - /items/209/
+  - /items/209
 collections: []
 date: '2019-07-23 22:31:42'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - Monarchy
 title: Louis XVI, King of the French, born 23 August 1754.
 type: items
+url: /d/207/
 ---
 
 {{< raw >}}

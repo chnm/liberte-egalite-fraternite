@@ -2,6 +2,8 @@
 aliases:
   - /items/show/386
   - /items/show/386.html
+  - /items/386/
+  - /items/386
 collections: []
 date: '2019-07-23 22:34:00'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Olympe de Gouges, <i>The Declaration of the Rights of Woman</i> (September 1791)
 type: items
+url: /d/477/
 ---
 
 {{< raw >}}

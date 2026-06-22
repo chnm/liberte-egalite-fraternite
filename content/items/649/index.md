@@ -2,6 +2,8 @@
 aliases:
   - /items/show/649
   - /items/show/649.html
+  - /items/649/
+  - /items/649
 collections: []
 date: '2019-07-23 22:35:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Surrender of Cadoudal. Royalist insurgency in Western France is apparently pacified.
 type: items
+url: /d/696/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/618
   - /items/show/618.html
+  - /items/618/
+  - /items/618
 collections: []
 date: '2019-07-23 22:35:01'
 draft: false
@@ -61,6 +63,7 @@ tags:
   - Song
 title: Te Deum for the Federation of July 14, 1790 at the Champ de Mars
 type: items
+url: /d/614/
 ---
 
 {{< raw >}}

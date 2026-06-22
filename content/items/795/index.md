@@ -2,6 +2,8 @@
 aliases:
   - /items/show/795
   - /items/show/795.html
+  - /items/795/
+  - /items/795
 collections: []
 date: '2019-07-23 22:35:46'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory at Castiglione.
 type: items
+url: /d/842/
 ---

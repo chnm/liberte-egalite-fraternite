@@ -2,6 +2,8 @@
 aliases:
   - /items/show/396
   - /items/show/396.html
+  - /items/396/
+  - /items/396
 collections: []
 date: '2019-07-23 22:34:02'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Primary Schools
 type: items
+url: /d/464/
 ---
 
 {{< raw >}}

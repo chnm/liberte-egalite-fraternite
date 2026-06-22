@@ -2,6 +2,8 @@
 aliases:
   - /items/show/546
   - /items/show/546.html
+  - /items/546/
+  - /items/546
 collections: []
 date: '2019-07-23 22:34:41'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Mayor of Paris on the Taking of the Bastille
 type: items
+url: /d/304/
 ---
 
 {{< raw >}}

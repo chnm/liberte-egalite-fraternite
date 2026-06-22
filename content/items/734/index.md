@@ -2,6 +2,8 @@
 aliases:
   - /items/show/734
   - /items/show/734.html
+  - /items/734/
+  - /items/734
 collections: []
 date: '2019-07-23 22:35:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Leopold II’s Padua Circular.
 type: items
+url: /d/781/
 ---

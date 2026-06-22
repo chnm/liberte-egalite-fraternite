@@ -2,6 +2,8 @@
 aliases:
   - /items/show/878
   - /items/show/878.html
+  - /items/878/
+  - /items/878
 collections: []
 date: '2019-07-23 22:36:06'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Distribution of communal land except for forest land. Sale of émigrés’ properties.
 type: items
+url: /d/925/
 ---

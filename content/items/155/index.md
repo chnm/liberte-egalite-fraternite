@@ -2,6 +2,8 @@
 aliases:
   - /items/show/155
   - /items/show/155.html
+  - /items/155/
+  - /items/155
 collections: []
 date: '2019-07-23 22:30:38'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - Public Opinion
 title: I Was Sure We Would Have Our Turn
 type: items
+url: /d/152/
 ---
 
 {{< raw >}}

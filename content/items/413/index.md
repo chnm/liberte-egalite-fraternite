@@ -2,6 +2,8 @@
 aliases:
   - /items/show/413
   - /items/show/413.html
+  - /items/413/
+  - /items/413
 collections: []
 date: '2019-07-23 22:34:07'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - The Terror
 title: '9 Thermidor: The Conspiracy against Robespierre'
 type: items
+url: /d/441/
 ---
 
 {{< raw >}}

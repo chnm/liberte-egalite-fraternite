@@ -2,6 +2,8 @@
 aliases:
   - /items/show/238
   - /items/show/238.html
+  - /items/238/
+  - /items/238
 collections: []
 date: '2019-07-23 22:32:33'
 draft: false
@@ -80,6 +82,7 @@ tags:
   - Popular Politics
 title: Foundation of the Republic, August 10, 1792
 type: items
+url: /d/232/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/93
   - /items/show/93.html
+  - /items/93/
+  - /items/93
 collections: []
 date: '2019-07-23 22:28:36'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Popular Politics
 title: Burning the Guardhouse on the Pont Neuf
 type: items
+url: /d/85/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/445
   - /items/show/445.html
+  - /items/445/
+  - /items/445
 collections: []
 date: '2019-07-23 22:34:15'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Proceedings of the Quinze–Vingts Section
 type: items
+url: /d/405/
 ---
 
 {{< raw >}}

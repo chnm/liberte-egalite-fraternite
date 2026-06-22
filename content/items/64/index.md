@@ -2,6 +2,8 @@
 aliases:
   - /items/show/64
   - /items/show/64.html
+  - /items/64/
+  - /items/64
 collections: []
 date: '2019-07-23 22:27:46'
 draft: false
@@ -63,4 +65,5 @@ tags:
   - Image
 title: French Democrats surprizing the Royal Runaways.
 type: items
+url: /d/1134/
 ---

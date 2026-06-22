@@ -2,6 +2,8 @@
 aliases:
   - /items/show/826
   - /items/show/826.html
+  - /items/826/
+  - /items/826
 collections: []
 date: '2019-07-23 22:35:53'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Royalist and Catholic revolt begins in the Vendée and elsewhere in western France.
 type: items
+url: /d/873/
 ---

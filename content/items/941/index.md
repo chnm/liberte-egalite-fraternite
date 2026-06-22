@@ -2,6 +2,8 @@
 aliases:
   - /items/show/941
   - /items/show/941.html
+  - /items/941/
+  - /items/941
 collections: []
 date: '2019-07-23 22:36:21'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats the Piedmontese at Millesimo.
 type: items
+url: /d/988/
 ---

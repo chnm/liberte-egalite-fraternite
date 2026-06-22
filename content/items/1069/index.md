@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1069
   - /items/show/1069.html
+  - /items/1069/
+  - /items/1069
 collections: []
 date: '2019-07-23 22:36:52'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Senate
 type: items
+url: /d/1115/
 ---

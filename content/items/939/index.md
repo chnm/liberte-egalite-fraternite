@@ -2,6 +2,8 @@
 aliases:
   - /items/show/939
   - /items/show/939.html
+  - /items/939/
+  - /items/939
 collections: []
 date: '2019-07-23 22:36:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte marries Joséphine Beauharnais.
 type: items
+url: /d/986/
 ---

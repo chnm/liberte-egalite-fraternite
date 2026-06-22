@@ -2,6 +2,8 @@
 aliases:
   - /items/show/693
   - /items/show/693.html
+  - /items/693/
+  - /items/693
 collections: []
 date: '2019-07-23 22:35:22'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon sent into exile at island of Elba.
 type: items
+url: /d/740/
 ---

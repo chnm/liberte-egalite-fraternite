@@ -2,6 +2,8 @@
 aliases:
   - /items/show/590
   - /items/show/590.html
+  - /items/590/
+  - /items/590
 collections: []
 date: '2019-07-23 22:34:53'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Fictional Attack by "Terray" on Turgot (1781[?])
 type: items
+url: /d/260/
 ---
 
 {{< raw >}}

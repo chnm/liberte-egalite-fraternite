@@ -2,6 +2,8 @@
 aliases:
   - /items/show/12
   - /items/show/12.html
+  - /items/12/
+  - /items/12
 collections: []
 date: '2019-07-23 22:26:23'
 draft: false
@@ -43,4 +45,5 @@ tags:
   - War
 title: Departments of 1798
 type: items
+url: /d/1127/
 ---

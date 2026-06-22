@@ -2,6 +2,8 @@
 aliases:
   - /items/show/370
   - /items/show/370.html
+  - /items/370/
+  - /items/370
 collections: []
 date: '2019-07-23 22:33:55'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: Denunciation of a Woman Participant in the Uprising of May 1795
 type: items
+url: /d/493/
 ---
 
 {{< raw >}}

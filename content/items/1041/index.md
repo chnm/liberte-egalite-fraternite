@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1041
   - /items/show/1041.html
+  - /items/1041/
+  - /items/1041
 collections: []
 date: '2019-07-23 22:36:45'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Estates-General
 type: items
+url: /d/1087/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1043
   - /items/show/1043.html
+  - /items/1043/
+  - /items/1043
 collections: []
 date: '2019-07-23 22:36:45'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Free Black
 type: items
+url: /d/1089/
 ---

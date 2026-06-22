@@ -2,6 +2,8 @@
 aliases:
   - /items/show/83
   - /items/show/83.html
+  - /items/83/
+  - /items/83
 collections: []
 date: '2019-07-23 22:28:21'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - The Terror
 title: The Good Sans–Culotte
 type: items
+url: /d/73/
 ---
 
 {{< raw >}}

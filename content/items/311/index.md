@@ -2,6 +2,8 @@
 aliases:
   - /items/show/311
   - /items/show/311.html
+  - /items/311/
+  - /items/311
 collections: []
 date: '2019-07-23 22:33:38'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: Blame Now Falls (16 May 1792)'
 type: items
+url: /d/573/
 ---
 
 {{< raw >}}

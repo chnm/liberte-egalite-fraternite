@@ -2,6 +2,8 @@
 aliases:
   - /items/show/177
   - /items/show/177.html
+  - /items/177/
+  - /items/177
 collections: []
 date: '2019-07-23 22:31:04'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - The Terror
 title: Image of the Attack of 20 June 1792
 type: items
+url: /d/174/
 ---
 
 {{< raw >}}

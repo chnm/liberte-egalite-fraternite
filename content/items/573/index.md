@@ -2,6 +2,8 @@
 aliases:
   - /items/show/573
   - /items/show/573.html
+  - /items/573/
+  - /items/573
 collections: []
 date: '2019-07-23 22:34:49'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Zalkind–Hourwitz, <i>Vindication of the Jews</i> (1789)
 type: items
+url: /d/277/
 ---
 
 {{< raw >}}

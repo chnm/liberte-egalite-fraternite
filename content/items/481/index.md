@@ -2,6 +2,8 @@
 aliases:
   - /items/show/481
   - /items/show/481.html
+  - /items/481/
+  - /items/481
 collections: []
 date: '2019-07-23 22:34:25'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: Three Cahiers from Orléans
 type: items
+url: /d/369/
 ---
 
 {{< raw >}}

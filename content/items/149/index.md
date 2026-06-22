@@ -2,6 +2,8 @@
 aliases:
   - /items/show/149
   - /items/show/149.html
+  - /items/149/
+  - /items/149
 collections: []
 date: '2019-07-23 22:30:28'
 draft: false
@@ -75,4 +77,5 @@ tags:
   - Image
 title: The Fourth Incident of October 5, 1789
 type: items
+url: /d/1132/
 ---

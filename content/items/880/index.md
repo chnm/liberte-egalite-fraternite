@@ -2,6 +2,8 @@
 aliases:
   - /items/show/880
   - /items/show/880.html
+  - /items/880/
+  - /items/880
 collections: []
 date: '2019-07-23 22:36:06'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Opening of Louis XVI’s trial by the National Convention.
 type: items
+url: /d/927/
 ---

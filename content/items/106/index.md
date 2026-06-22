@@ -2,6 +2,8 @@
 aliases:
   - /items/show/106
   - /items/show/106.html
+  - /items/106/
+  - /items/106
 collections: []
 date: '2019-07-23 22:29:07'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - The Terror
 title: Massacre of the Prisoners of St. Germain Abbey
 type: items
+url: /d/100/
 ---
 
 {{< raw >}}

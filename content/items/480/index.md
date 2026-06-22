@@ -2,6 +2,8 @@
 aliases:
   - /items/show/480
   - /items/show/480.html
+  - /items/480/
+  - /items/480
 collections: []
 date: '2019-07-23 22:34:24'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Le Chapelier Law
 type: items
+url: /d/370/
 ---
 
 {{< raw >}}

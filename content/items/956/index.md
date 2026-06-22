@@ -2,6 +2,8 @@
 aliases:
   - /items/show/956
   - /items/show/956.html
+  - /items/956/
+  - /items/956
 collections: []
 date: '2019-07-23 22:36:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Promulgation of the Concordat.
 type: items
+url: /d/1003/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/852
   - /items/show/852.html
+  - /items/852/
+  - /items/852
 collections: []
 date: '2019-07-23 22:36:00'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Admiral Nelson defeats the French fleet at Aboukir Bay.
 type: items
+url: /d/899/
 ---

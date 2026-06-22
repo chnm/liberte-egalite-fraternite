@@ -2,6 +2,8 @@
 aliases:
   - /items/show/13
   - /items/show/13.html
+  - /items/13/
+  - /items/13
 collections: []
 date: '2019-07-23 22:26:24'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - Women
 title: Reason
 type: items
+url: /d/1/
 ---
 
 {{< raw >}}

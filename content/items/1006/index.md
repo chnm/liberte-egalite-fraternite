@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1006
   - /items/show/1006.html
+  - /items/1006/
+  - /items/1006
 collections: []
 date: '2019-07-23 22:36:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Founding the Society of the Friends of the Blacks.
 type: items
+url: /d/1053/
 ---

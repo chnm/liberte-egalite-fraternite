@@ -2,6 +2,8 @@
 aliases:
   - /items/show/616
   - /items/show/616.html
+  - /items/616/
+  - /items/616
 collections: []
 date: '2019-07-23 22:35:00'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: Bossuet, "The Nature and Properties of Royal Authority"
 type: items
+url: /d/234/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/787
   - /items/show/787.html
+  - /items/787/
+  - /items/787
 collections: []
 date: '2019-07-23 22:35:44'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'Uprising of Prairial (to May 23): Riots in the sections of Paris. The Convention is also invaded by demonstrators calling for bread and the enforcement of the <i>Constitution of 1793</i>. The army puts down these insurrections.'
 type: items
+url: /d/834/
 ---

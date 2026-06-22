@@ -2,6 +2,8 @@
 aliases:
   - /items/show/136
   - /items/show/136.html
+  - /items/136/
+  - /items/136
 collections: []
 date: '2019-07-23 22:30:10'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Napoleon Bonaparte
 title: Bonaparte, First Consul of the French Republic, 18 Brumaire, Year VIII
 type: items
+url: /d/130/
 ---
 
 {{< raw >}}

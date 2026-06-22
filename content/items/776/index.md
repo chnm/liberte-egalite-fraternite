@@ -2,6 +2,8 @@
 aliases:
   - /items/show/776
   - /items/show/776.html
+  - /items/776/
+  - /items/776
 collections: []
 date: '2019-07-23 22:35:41'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Danton, Camille Desmoulins, and other Dantonists are guillotined.
 type: items
+url: /d/823/
 ---

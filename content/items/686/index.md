@@ -2,6 +2,8 @@
 aliases:
   - /items/show/686
   - /items/show/686.html
+  - /items/686/
+  - /items/686
 collections: []
 date: '2019-07-23 22:35:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Birth of the King of Rome, Napoleon’s son.
 type: items
+url: /d/733/
 ---

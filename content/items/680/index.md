@@ -2,6 +2,8 @@
 aliases:
   - /items/show/680
   - /items/show/680.html
+  - /items/680/
+  - /items/680
 collections: []
 date: '2019-07-23 22:35:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Invasion of Spain. From 1808–1813 there is war in Spain and Portugal.
 type: items
+url: /d/727/
 ---

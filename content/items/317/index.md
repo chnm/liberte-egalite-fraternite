@@ -2,6 +2,8 @@
 aliases:
   - /items/show/317
   - /items/show/317.html
+  - /items/317/
+  - /items/317
 collections: []
 date: '2019-07-23 22:33:40'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - War
 title: '<i>The Pennsylvania Gazette</i>: Magnitude of the Insurrection (12 October 1791)'
 type: items
+url: /d/567/
 ---
 
 {{< raw >}}

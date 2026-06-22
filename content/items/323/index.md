@@ -2,6 +2,8 @@
 aliases:
   - /items/show/323
   - /items/show/323.html
+  - /items/323/
+  - /items/323
 collections: []
 date: '2019-07-23 22:33:41'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Leon Trotsky, <i>The Permanent Revolution</i>
 type: items
+url: /d/561/
 ---
 
 {{< raw >}}

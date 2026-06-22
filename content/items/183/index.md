@@ -2,6 +2,8 @@
 aliases:
   - /items/show/183
   - /items/show/183.html
+  - /items/183/
+  - /items/183
 collections: []
 date: '2019-07-23 22:31:07'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: Execution of Louis XVI, January 21, 1793, 10:22 in the morning
 type: items
+url: /d/180/
 ---
 
 {{< raw >}}

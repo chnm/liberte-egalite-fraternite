@@ -2,6 +2,8 @@
 aliases:
   - /items/show/212
   - /items/show/212.html
+  - /items/212/
+  - /items/212
 collections: []
 date: '2019-07-23 22:31:46'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - Women
 title: Marie Antoinette Josephe Jeanne de Lorraine
 type: items
+url: /d/210/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/794
   - /items/show/794.html
+  - /items/794/
+  - /items/794
 collections: []
 date: '2019-07-23 22:35:46'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Invasion of Italy.
 type: items
+url: /d/841/
 ---

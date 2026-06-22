@@ -2,6 +2,8 @@
 aliases:
   - /items/show/350
   - /items/show/350.html
+  - /items/350/
+  - /items/350
 collections: []
 date: '2019-07-23 22:33:48'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: The Continental System (1806)
 type: items
+url: /d/518/
 ---
 
 {{< raw >}}

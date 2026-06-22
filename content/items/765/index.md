@@ -2,6 +2,8 @@
 aliases:
   - /items/show/765
   - /items/show/765.html
+  - /items/765/
+  - /items/765
 collections: []
 date: '2019-07-23 22:35:39'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Constitution of 1793 is accepted by the Convention to be voted on in a national referendum.
 type: items
+url: /d/812/
 ---

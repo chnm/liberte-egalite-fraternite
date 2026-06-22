@@ -2,6 +2,8 @@
 aliases:
   - /items/show/529
   - /items/show/529.html
+  - /items/529/
+  - /items/529
 collections: []
 date: '2019-07-23 22:34:37'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Paine (21 November 1792)
 type: items
+url: /d/321/
 ---
 
 {{< raw >}}

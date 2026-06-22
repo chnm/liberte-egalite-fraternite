@@ -2,6 +2,8 @@
 aliases:
   - /items/show/142
   - /items/show/142.html
+  - /items/142/
+  - /items/142
 collections: []
 date: '2019-07-23 22:30:17'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - The Terror
 title: President of a Revolutionary Committee Distracting Himself with His Art While Waiting
 type: items
+url: /d/136/
 ---
 
 {{< raw >}}

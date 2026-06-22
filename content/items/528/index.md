@@ -2,6 +2,8 @@
 aliases:
   - /items/show/528
   - /items/show/528.html
+  - /items/528/
+  - /items/528
 collections: []
 date: '2019-07-23 22:34:37'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Condorcet (3 December 1792)
 type: items
+url: /d/322/
 ---
 
 {{< raw >}}

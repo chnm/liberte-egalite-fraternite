@@ -2,6 +2,8 @@
 aliases:
   - /items/show/358
   - /items/show/358.html
+  - /items/358/
+  - /items/358
 collections: []
 date: '2019-07-23 22:33:52'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: The French Civil Code (1804)
 type: items
+url: /d/509/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1075
   - /items/show/1075.html
+  - /items/1075/
+  - /items/1075
 collections: []
 date: '2019-07-23 22:36:53'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Tribunate
 type: items
+url: /d/1121/
 ---

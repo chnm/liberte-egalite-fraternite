@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1070
   - /items/show/1070.html
+  - /items/1070/
+  - /items/1070
 collections: []
 date: '2019-07-23 22:36:52'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Sénéchaussée
 type: items
+url: /d/1116/
 ---

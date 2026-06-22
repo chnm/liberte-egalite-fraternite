@@ -2,6 +2,8 @@
 aliases:
   - /items/show/349
   - /items/show/349.html
+  - /items/349/
+  - /items/349
 collections: []
 date: '2019-07-23 22:33:48'
 draft: false
@@ -37,4 +39,5 @@ tags:
   - Text
 title: Anti–Napoleonic Propaganda in Spain
 type: items
+url: /d/519/
 ---

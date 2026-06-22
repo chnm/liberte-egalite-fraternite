@@ -2,6 +2,8 @@
 aliases:
   - /items/show/762
   - /items/show/762.html
+  - /items/762/
+  - /items/762
 collections: []
 date: '2019-07-23 22:35:38'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Marat is arrested but almost immediately liberated by the Revolutionary Tribunal, an event which further intensifies the antagonism between the Girondins and Jacobins.
 type: items
+url: /d/809/
 ---

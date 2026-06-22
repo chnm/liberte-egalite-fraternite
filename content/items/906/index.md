@@ -2,6 +2,8 @@
 aliases:
   - /items/show/906
   - /items/show/906.html
+  - /items/906/
+  - /items/906
 collections: []
 date: '2019-07-23 22:36:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: French victory of the Pyramids against the Mamelukes.
 type: items
+url: /d/953/
 ---

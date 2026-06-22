@@ -2,6 +2,8 @@
 aliases:
   - /items/show/899
   - /items/show/899.html
+  - /items/899/
+  - /items/899
 collections: []
 date: '2019-07-23 22:36:10'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Elections to the legislative Councils.
 type: items
+url: /d/946/
 ---

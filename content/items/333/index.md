@@ -2,6 +2,8 @@
 aliases:
   - /items/show/333
   - /items/show/333.html
+  - /items/333/
+  - /items/333
 collections: []
 date: '2019-07-23 22:33:44'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Letter from Rabaut de Saint–Étienne to the Minister of the Interior (27 February 1791)
 type: items
+url: /d/549/
 ---
 
 {{< raw >}}

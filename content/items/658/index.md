@@ -2,6 +2,8 @@
 aliases:
   - /items/show/658
   - /items/show/658.html
+  - /items/658/
+  - /items/658
 collections: []
 date: '2019-07-23 22:35:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Peace Treaty (Amiens) with Great Britain (4 Germinal Year X).
 type: items
+url: /d/705/
 ---

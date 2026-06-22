@@ -2,6 +2,8 @@
 aliases:
   - /items/show/675
   - /items/show/675.html
+  - /items/675/
+  - /items/675
 collections: []
 date: '2019-07-23 22:35:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon proclaims the Continental Blockade, which prohibits trade with the British Isles.
 type: items
+url: /d/722/
 ---

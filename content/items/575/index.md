@@ -2,6 +2,8 @@
 aliases:
   - /items/show/575
   - /items/show/575.html
+  - /items/575/
+  - /items/575
 collections: []
 date: '2019-07-23 22:34:49'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Rousseau’s <i>The Social Contract</i>
 type: items
+url: /d/275/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/110
   - /items/show/110.html
+  - /items/110/
+  - /items/110
 collections: []
 date: '2019-07-23 22:29:16'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - Monarchy
 title: Louis’s Separation from His Family
 type: items
+url: /d/103/
 ---
 
 {{< raw >}}

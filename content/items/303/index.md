@@ -2,6 +2,8 @@
 aliases:
   - /items/show/303
   - /items/show/303.html
+  - /items/303/
+  - /items/303
 collections: []
 date: '2019-07-23 22:33:36'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: 'Frederick Engels: Socialism, Utopic and Scientific'
 type: items
+url: /d/581/
 ---
 
 {{< raw >}}

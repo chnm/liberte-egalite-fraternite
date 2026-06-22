@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1050
   - /items/show/1050.html
+  - /items/1050/
+  - /items/1050
 collections: []
 date: '2019-07-23 22:36:47'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Legislative Assembly
 type: items
+url: /d/1096/
 ---

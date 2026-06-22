@@ -2,6 +2,8 @@
 aliases:
   - /items/show/152
   - /items/show/152.html
+  - /items/152/
+  - /items/152
 collections: []
 date: '2019-07-23 22:30:33'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - Popular Politics
 title: Through Me You Are All Brothers
 type: items
+url: /d/149/
 ---
 
 {{< raw >}}

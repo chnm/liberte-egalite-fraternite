@@ -2,6 +2,8 @@
 aliases:
   - /items/show/634
   - /items/show/634.html
+  - /items/634/
+  - /items/634
 collections: []
 date: '2019-07-23 22:35:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Fall of the Monarchy. Popular assault on the Tuileries; Louis XVI deposed.
 type: items
+url: /d/681/
 ---

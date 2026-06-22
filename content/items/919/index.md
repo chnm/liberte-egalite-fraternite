@@ -2,6 +2,8 @@
 aliases:
   - /items/show/919
   - /items/show/919.html
+  - /items/919/
+  - /items/919
 collections: []
 date: '2019-07-23 22:36:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A "Revolutionary commune" usurps the municipal government of Paris.
 type: items
+url: /d/966/
 ---

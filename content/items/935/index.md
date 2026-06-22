@@ -2,6 +2,8 @@
 aliases:
   - /items/show/935
   - /items/show/935.html
+  - /items/935/
+  - /items/935
 collections: []
 date: '2019-07-23 22:36:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Affair of the Diamond Necklace.
 type: items
+url: /d/982/
 ---

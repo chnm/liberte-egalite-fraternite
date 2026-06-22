@@ -2,6 +2,8 @@
 aliases:
   - /items/show/759
   - /items/show/759.html
+  - /items/759/
+  - /items/759
 collections: []
 date: '2019-07-23 22:35:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Revolutionary Armies decreed; committees of surveillance are created in each commune. They are charged with investigating those suspected of being enemies or traitors to the nation.
 type: items
+url: /d/806/
 ---

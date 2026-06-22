@@ -2,6 +2,8 @@
 aliases:
   - /items/show/882
   - /items/show/882.html
+  - /items/882/
+  - /items/882
 collections: []
 date: '2019-07-23 22:36:07'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A second demonstration against the National Convention as an institution.
 type: items
+url: /d/929/
 ---

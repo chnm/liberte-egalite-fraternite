@@ -2,6 +2,8 @@
 aliases:
   - /items/show/491
   - /items/show/491.html
+  - /items/491/
+  - /items/491
 collections: []
 date: '2019-07-23 22:34:27'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: A Bread Riot
 type: items
+url: /d/359/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/589
   - /items/show/589.html
+  - /items/589/
+  - /items/589
 collections: []
 date: '2019-07-23 22:34:53'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: <i>Anecdotes on the Countess du Barry</i> (1775)
 type: items
+url: /d/261/
 ---
 
 {{< raw >}}

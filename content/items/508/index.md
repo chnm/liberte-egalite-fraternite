@@ -2,6 +2,8 @@
 aliases:
   - /items/show/508
   - /items/show/508.html
+  - /items/508/
+  - /items/508
 collections: []
 date: '2019-07-23 22:34:32'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: A Left–Wing Newspaper Links the Revolution to the Abolition of Slavery (September 1790)
 type: items
+url: /d/342/
 ---
 
 {{< raw >}}

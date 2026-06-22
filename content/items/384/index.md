@@ -2,6 +2,8 @@
 aliases:
   - /items/show/384
   - /items/show/384.html
+  - /items/384/
+  - /items/384
 collections: []
 date: '2019-07-23 22:33:59'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - Women
 title: A Deputation of Women Citizens Demands Action on Food Prices (24 February 1793)
 type: items
+url: /d/479/
 ---
 
 {{< raw >}}

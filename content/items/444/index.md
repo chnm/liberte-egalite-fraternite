@@ -2,6 +2,8 @@
 aliases:
   - /items/show/444
   - /items/show/444.html
+  - /items/444/
+  - /items/444
 collections: []
 date: '2019-07-23 22:34:15'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: 'Mercier, <i>The New Paris</i>: "Sections"'
 type: items
+url: /d/406/
 ---
 
 {{< raw >}}

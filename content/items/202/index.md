@@ -2,6 +2,8 @@
 aliases:
   - /items/show/202
   - /items/show/202.html
+  - /items/202/
+  - /items/202
 collections: []
 date: '2019-07-23 22:31:34'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Public Opinion
 title: A Grateful France Proclaims Napoleon the First Emperor of the French
 type: items
+url: /d/197/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/545
   - /items/show/545.html
+  - /items/545/
+  - /items/545
 collections: []
 date: '2019-07-23 22:34:41'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: 'View from the Top: the October Days'
 type: items
+url: /d/305/
 ---
 
 {{< raw >}}

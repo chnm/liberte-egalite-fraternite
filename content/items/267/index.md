@@ -2,6 +2,8 @@
 aliases:
   - /items/show/267
   - /items/show/267.html
+  - /items/267/
+  - /items/267
 collections: []
 date: '2019-07-23 22:33:21'
 draft: false
@@ -68,6 +70,7 @@ tags:
   - War
 title: Return from the Island of Elba
 type: items
+url: /d/199/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/371
   - /items/show/371.html
+  - /items/371/
+  - /items/371
 collections: []
 date: '2019-07-23 22:33:56'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: Police Reports on Women’s Discontent (Spring 1795)
 type: items
+url: /d/492/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/172
   - /items/show/172.html
+  - /items/172/
+  - /items/172
 collections: []
 date: '2019-07-23 22:30:59'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - Public Opinion
 title: '"The Great Man"'
 type: items
+url: /d/169/
 ---
 
 {{< raw >}}

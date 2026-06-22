@@ -2,6 +2,8 @@
 aliases:
   - /items/show/251
   - /items/show/251.html
+  - /items/251/
+  - /items/251
 collections: []
 date: '2019-07-23 22:32:57'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - Women
 title: Madame Sans–Culotte
 type: items
+url: /d/543/
 ---
 
 {{< raw >}}

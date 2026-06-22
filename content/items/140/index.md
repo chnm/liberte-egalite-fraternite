@@ -2,6 +2,8 @@
 aliases:
   - /items/show/140
   - /items/show/140.html
+  - /items/140/
+  - /items/140
 collections: []
 date: '2019-07-23 22:30:14'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - The Terror
 title: The Radical’s Arms. (No God! No Religion!! No King! No Constitution!!)
 type: items
+url: /d/134/
 ---
 
 {{< raw >}}

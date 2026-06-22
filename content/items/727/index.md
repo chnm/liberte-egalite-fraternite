@@ -2,6 +2,8 @@
 aliases:
   - /items/show/727
   - /items/show/727.html
+  - /items/727/
+  - /items/727
 collections: []
 date: '2019-07-23 22:35:30'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: All church property is expropriated.
 type: items
+url: /d/774/
 ---

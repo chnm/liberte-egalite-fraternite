@@ -2,6 +2,8 @@
 aliases:
   - /items/show/931
   - /items/show/931.html
+  - /items/931/
+  - /items/931
 collections: []
 date: '2019-07-23 22:36:18'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of Helvetic Republic by France.
 type: items
+url: /d/978/
 ---

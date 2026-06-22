@@ -2,6 +2,8 @@
 aliases:
   - /items/show/725
   - /items/show/725.html
+  - /items/725/
+  - /items/725
 collections: []
 date: '2019-07-23 22:35:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The National Assembly adopts the <i>Declaration of the Rights of Man and of the Citizen</i>.
 type: items
+url: /d/772/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/67
   - /items/show/67.html
+  - /items/67/
+  - /items/67
 collections: []
 date: '2019-07-23 22:27:52'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Middle Classes – Bourgeoisie
 title: Costumes of the Council of Five Hundred
 type: items
+url: /d/56/
 ---
 
 {{< raw >}}

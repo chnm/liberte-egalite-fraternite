@@ -2,6 +2,8 @@
 aliases:
   - /items/show/320
   - /items/show/320.html
+  - /items/320/
+  - /items/320
 collections: []
 date: '2019-07-23 22:33:41'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Kant, <i>The Contest of Faculties</i>
 type: items
+url: /d/564/
 ---
 
 {{< raw >}}

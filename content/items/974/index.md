@@ -2,6 +2,8 @@
 aliases:
   - /items/show/974
   - /items/show/974.html
+  - /items/974/
+  - /items/974
 collections: []
 date: '2019-07-23 22:36:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon surrenders to the British.
 type: items
+url: /d/1021/
 ---

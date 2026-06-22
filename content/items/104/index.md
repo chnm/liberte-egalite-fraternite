@@ -2,6 +2,8 @@
 aliases:
   - /items/show/104
   - /items/show/104.html
+  - /items/104/
+  - /items/104
 collections: []
 date: '2019-07-23 22:29:03'
 draft: false
@@ -78,6 +80,7 @@ tags:
   - Provinces
 title: Louis XVI Stopt [sic] in his Flight at Varennes
 type: items
+url: /d/98/
 ---
 
 {{< raw >}}

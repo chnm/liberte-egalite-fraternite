@@ -2,6 +2,8 @@
 aliases:
   - /items/show/754
   - /items/show/754.html
+  - /items/754/
+  - /items/754
 collections: []
 date: '2019-07-23 22:35:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Decree conscripting 300,000 men.
 type: items
+url: /d/801/
 ---

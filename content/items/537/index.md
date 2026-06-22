@@ -2,6 +2,8 @@
 aliases:
   - /items/show/537
   - /items/show/537.html
+  - /items/537/
+  - /items/537
 collections: []
 date: '2019-07-23 22:34:39'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: The Flight to Varennes (21–23 June 1791)
 type: items
+url: /d/313/
 ---
 
 {{< raw >}}

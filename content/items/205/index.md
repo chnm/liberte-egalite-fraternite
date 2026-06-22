@@ -2,6 +2,8 @@
 aliases:
   - /items/show/205
   - /items/show/205.html
+  - /items/205/
+  - /items/205
 collections: []
 date: '2019-07-23 22:31:39'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Women
 title: Sire, They Are My Sons and My Wife
 type: items
+url: /d/203/
 ---
 
 {{< raw >}}

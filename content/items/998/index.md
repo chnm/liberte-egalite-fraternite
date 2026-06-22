@@ -2,6 +2,8 @@
 aliases:
   - /items/show/998
   - /items/show/998.html
+  - /items/998/
+  - /items/998
 collections: []
 date: '2019-07-23 22:36:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Montesquieu, <i>The Spirit of the Laws</i>.
 type: items
+url: /d/1045/
 ---

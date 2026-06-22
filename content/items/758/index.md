@@ -2,6 +2,8 @@
 aliases:
   - /items/show/758
   - /items/show/758.html
+  - /items/758/
+  - /items/758
 collections: []
 date: '2019-07-23 22:35:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Austrian victory at Neerwinden.
 type: items
+url: /d/805/
 ---

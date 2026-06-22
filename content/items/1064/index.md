@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1064
   - /items/show/1064.html
+  - /items/1064/
+  - /items/1064
 collections: []
 date: '2019-07-23 22:36:51'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Remonstrance
 type: items
+url: /d/1110/
 ---

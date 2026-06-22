@@ -2,6 +2,8 @@
 aliases:
   - /items/show/431
   - /items/show/431.html
+  - /items/431/
+  - /items/431
 collections: []
 date: '2019-07-23 22:34:12'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Military Suppression of Prairial
 type: items
+url: /d/419/
 ---
 
 {{< raw >}}

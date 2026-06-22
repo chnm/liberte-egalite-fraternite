@@ -2,6 +2,8 @@
 aliases:
   - /items/show/301
   - /items/show/301.html
+  - /items/301/
+  - /items/301
 collections: []
 date: '2019-07-23 22:33:35'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Ho Chi Minh, Declaration of Independence of the Democratic Republic of Viet–Nam
 type: items
+url: /d/583/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/651
   - /items/show/651.html
+  - /items/651/
+  - /items/651
 collections: []
 date: '2019-07-23 22:35:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte’s victory at Marengo; breakup of Second Coalition.
 type: items
+url: /d/698/
 ---

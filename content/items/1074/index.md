@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1074
   - /items/show/1074.html
+  - /items/1074/
+  - /items/1074
 collections: []
 date: '2019-07-23 22:36:53'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Treaty of Campo-Formio
 type: items
+url: /d/1120/
 ---

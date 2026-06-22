@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1021
   - /items/show/1021.html
+  - /items/1021/
+  - /items/1021
 collections: []
 date: '2019-07-23 22:36:40'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Cahier de doléances
 type: items
+url: /d/1067/
 ---

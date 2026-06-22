@@ -2,6 +2,8 @@
 aliases:
   - /items/show/173
   - /items/show/173.html
+  - /items/173/
+  - /items/173
 collections: []
 date: '2019-07-23 22:31:01'
 draft: false
@@ -64,6 +66,7 @@ tags:
   - Napoleon Bonaparte
 title: '"Celebrating Napoleon’s Birthday on the Island of St. Helena"'
 type: items
+url: /d/170/
 ---
 
 {{< raw >}}

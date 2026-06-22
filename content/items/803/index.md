@@ -2,6 +2,8 @@
 aliases:
   - /items/show/803
   - /items/show/803.html
+  - /items/803/
+  - /items/803
 collections: []
 date: '2019-07-23 22:35:48'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A few liberal nobles and many clergy join the movement of the Third Estate.
 type: items
+url: /d/850/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/369
   - /items/show/369.html
+  - /items/369/
+  - /items/369
 collections: []
 date: '2019-07-23 22:33:55'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: Interrogation of a Suspected Rioter (June 1795)
 type: items
+url: /d/494/
 ---
 
 {{< raw >}}

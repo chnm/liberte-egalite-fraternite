@@ -2,6 +2,8 @@
 aliases:
   - /items/show/71
   - /items/show/71.html
+  - /items/71/
+  - /items/71
 collections: []
 date: '2019-07-23 22:27:55'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Nobility
 title: The Voracious Oath
 type: items
+url: /d/60/
 ---
 
 {{< raw >}}

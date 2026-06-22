@@ -2,6 +2,8 @@
 aliases:
   - /items/show/657
   - /items/show/657.html
+  - /items/657/
+  - /items/657
 collections: []
 date: '2019-07-23 22:35:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte purges the Tribunate and Legislative Body to eliminate critics (27 Ventôse Year X).
 type: items
+url: /d/704/
 ---

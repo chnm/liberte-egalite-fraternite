@@ -2,6 +2,8 @@
 aliases:
   - /items/show/252
   - /items/show/252.html
+  - /items/252/
+  - /items/252
 collections: []
 date: '2019-07-23 22:32:59'
 draft: false
@@ -43,6 +45,7 @@ tags:
   - Women
 title: Woman with a Basket in Front of a Door to the Prison
 type: items
+url: /d/546/
 ---
 
 {{< raw >}}

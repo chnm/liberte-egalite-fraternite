@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1018
   - /items/show/1018.html
+  - /items/1018/
+  - /items/1018
 collections: []
 date: '2019-07-23 22:36:39'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Bastille
 type: items
+url: /d/1064/
 ---

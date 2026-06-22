@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1003
   - /items/show/1003.html
+  - /items/1003/
+  - /items/1003
 collections: []
 date: '2019-07-23 22:36:36'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The <i>Black Code</i>.
 type: items
+url: /d/1050/
 ---

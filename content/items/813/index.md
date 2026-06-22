@@ -2,6 +2,8 @@
 aliases:
   - /items/show/813
   - /items/show/813.html
+  - /items/813/
+  - /items/813
 collections: []
 date: '2019-07-23 22:35:50'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Jews in all regions of France are granted full citizenship (those in the Midi had been granted citizenship on 28 January 1790).
 type: items
+url: /d/860/
 ---

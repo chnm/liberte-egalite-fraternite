@@ -2,6 +2,8 @@
 aliases:
   - /items/show/555
   - /items/show/555.html
+  - /items/555/
+  - /items/555
 collections: []
 date: '2019-07-23 22:34:44'
 draft: false
@@ -54,6 +56,7 @@ tags:
   - Text
 title: <i>Declaration of the Rights of Man and Citizen</i>, 26 August 1789
 type: items
+url: /d/295/
 ---
 
 {{< raw >}}

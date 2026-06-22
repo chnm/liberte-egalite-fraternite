@@ -2,6 +2,8 @@
 aliases:
   - /items/show/432
   - /items/show/432.html
+  - /items/432/
+  - /items/432
 collections: []
 date: '2019-07-23 22:34:12'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Women’s Activities during the Prairial Uprising
 type: items
+url: /d/418/
 ---
 
 {{< raw >}}

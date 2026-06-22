@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1031
   - /items/show/1031.html
+  - /items/1031/
+  - /items/1031
 collections: []
 date: '2019-07-23 22:36:42'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Controller-General of Finances
 type: items
+url: /d/1077/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/58
   - /items/show/58.html
+  - /items/58/
+  - /items/58
 collections: []
 date: '2019-07-23 22:27:33'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Monarchy
 title: Louis as a Drinker
 type: items
+url: /d/47/
 ---
 
 {{< raw >}}

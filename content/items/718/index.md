@@ -2,6 +2,8 @@
 aliases:
   - /items/show/718
   - /items/show/718.html
+  - /items/718/
+  - /items/718
 collections: []
 date: '2019-07-23 22:35:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Accepting the proposition of the delegate Abbé Sieyès, the Third Estate proclaims itself "The National Assembly." It invites the other two Orders to join in this new body of the nation.
 type: items
+url: /d/765/
 ---

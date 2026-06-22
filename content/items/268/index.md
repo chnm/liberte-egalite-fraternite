@@ -2,6 +2,8 @@
 aliases:
   - /items/show/268
   - /items/show/268.html
+  - /items/268/
+  - /items/268
 collections: []
 date: '2019-07-23 22:33:21'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - Napoleon Bonaparte
 title: The Emperor and the Imperial Guard on the Island of Elba
 type: items
+url: /d/200/
 ---
 
 {{< raw >}}

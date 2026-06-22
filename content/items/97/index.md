@@ -2,6 +2,8 @@
 aliases:
   - /items/show/97
   - /items/show/97.html
+  - /items/97/
+  - /items/97
 collections: []
 date: '2019-07-23 22:28:47'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Popular Politics
 title: The Seventh Incident of 14 July 1789
 type: items
+url: /d/90/
 ---
 
 {{< raw >}}

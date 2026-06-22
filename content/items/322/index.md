@@ -2,6 +2,8 @@
 aliases:
   - /items/show/322
   - /items/show/322.html
+  - /items/322/
+  - /items/322
 collections: []
 date: '2019-07-23 22:33:41'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: 'Antonio Gramsci: Selections from <i>The Prison Notebooks</i>'
 type: items
+url: /d/562/
 ---
 
 {{< raw >}}

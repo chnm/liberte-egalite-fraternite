@@ -2,6 +2,8 @@
 aliases:
   - /items/show/670
   - /items/show/670.html
+  - /items/670/
+  - /items/670
 collections: []
 date: '2019-07-23 22:35:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Coronation of Napoleon at Notre–Dame.
 type: items
+url: /d/717/
 ---

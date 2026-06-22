@@ -2,6 +2,8 @@
 aliases:
   - /items/show/72
   - /items/show/72.html
+  - /items/72/
+  - /items/72
 collections: []
 date: '2019-07-23 22:27:55'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Public Opinion
 title: Festival of National Unity, 14 July 1939
 type: items
+url: /d/61/
 ---
 
 {{< raw >}}

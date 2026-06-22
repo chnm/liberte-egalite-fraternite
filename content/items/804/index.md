@@ -2,6 +2,8 @@
 aliases:
   - /items/show/804
   - /items/show/804.html
+  - /items/804/
+  - /items/804
 collections: []
 date: '2019-07-23 22:35:48'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Demonstrations and speeches take place at the Palais–Royal.
 type: items
+url: /d/851/
 ---

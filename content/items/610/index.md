@@ -2,6 +2,8 @@
 aliases:
   - /items/show/610
   - /items/show/610.html
+  - /items/610/
+  - /items/610
 collections: []
 date: '2019-07-23 22:34:59'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Damiens’s Testimony to <i>Parlement</i>
 type: items
+url: /d/240/
 ---
 
 {{< raw >}}

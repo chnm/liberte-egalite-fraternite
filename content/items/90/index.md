@@ -2,6 +2,8 @@
 aliases:
   - /items/show/90
   - /items/show/90.html
+  - /items/90/
+  - /items/90
 collections: []
 date: '2019-07-23 22:28:32'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Provinces
 title: Two Peasants Repairing a Cart
 type: items
+url: /d/82/
 ---
 
 {{< raw >}}

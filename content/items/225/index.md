@@ -2,6 +2,8 @@
 aliases:
   - /items/show/225
   - /items/show/225.html
+  - /items/225/
+  - /items/225
 collections: []
 date: '2019-07-23 22:32:15'
 draft: false
@@ -67,6 +69,7 @@ tags:
   - Image
 title: The Indigo Plant Farm
 type: items
+url: /d/221/
 ---
 
 {{< raw >}}

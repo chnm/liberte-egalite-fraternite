@@ -2,6 +2,8 @@
 aliases:
   - /items/show/563
   - /items/show/563.html
+  - /items/563/
+  - /items/563
 collections: []
 date: '2019-07-23 22:34:46'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: '"Admission of Jews to Rights of Citizenship," 27 September 1791'
 type: items
+url: /d/287/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/387
   - /items/show/387.html
+  - /items/387/
+  - /items/387
 collections: []
 date: '2019-07-23 22:34:00'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Etta Palm D’Aelders, "Discourse on the Injustice of the Laws in Favor of Men, at the Expense of Women" (30 December 1790)
 type: items
+url: /d/476/
 ---
 
 {{< raw >}}

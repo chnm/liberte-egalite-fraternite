@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1054
   - /items/show/1054.html
+  - /items/1054/
+  - /items/1054
 collections: []
 date: '2019-07-23 22:36:48'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Mountain
 type: items
+url: /d/1100/
 ---

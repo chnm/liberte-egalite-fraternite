@@ -2,6 +2,8 @@
 aliases:
   - /items/show/698
   - /items/show/698.html
+  - /items/698/
+  - /items/698
 collections: []
 date: '2019-07-23 22:35:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Seven Years War (ending 1763).
 type: items
+url: /d/745/
 ---

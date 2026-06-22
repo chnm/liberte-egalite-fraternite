@@ -2,6 +2,8 @@
 aliases:
   - /items/show/621
   - /items/show/621.html
+  - /items/621/
+  - /items/621
 collections: []
 date: '2019-07-23 22:35:02'
 draft: false
@@ -99,6 +101,7 @@ tags:
   - The Terror
 title: The Carmagnole
 type: items
+url: /d/624/
 ---
 
 {{< raw >}}

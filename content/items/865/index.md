@@ -2,6 +2,8 @@
 aliases:
   - /items/show/865
   - /items/show/865.html
+  - /items/865/
+  - /items/865
 collections: []
 date: '2019-07-23 22:36:03'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Damiens attempts to assassinate Louis XV.
 type: items
+url: /d/912/
 ---

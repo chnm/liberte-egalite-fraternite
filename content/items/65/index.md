@@ -2,6 +2,8 @@
 aliases:
   - /items/show/65
   - /items/show/65.html
+  - /items/65/
+  - /items/65
 collections: []
 date: '2019-07-23 22:27:48'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Women
 title: Watch Yourself or You’ll Be a Product for Sale
 type: items
+url: /d/54/
 ---
 
 {{< raw >}}

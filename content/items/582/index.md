@@ -2,6 +2,8 @@
 aliases:
   - /items/show/582
   - /items/show/582.html
+  - /items/582/
+  - /items/582
 collections: []
 date: '2019-07-23 22:34:51'
 draft: false
@@ -54,6 +56,7 @@ tags:
   - The US and Great Britain in Revolution
 title: John Locke, "Of Political or Civil Society"
 type: items
+url: /d/268/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/873
   - /items/show/873.html
+  - /items/873/
+  - /items/873
 collections: []
 date: '2019-07-23 22:36:05'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Prince de Condé and the Comte d’Artois emigrate.
 type: items
+url: /d/920/
 ---

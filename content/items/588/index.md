@@ -2,6 +2,8 @@
 aliases:
   - /items/show/588
   - /items/show/588.html
+  - /items/588/
+  - /items/588
 collections: []
 date: '2019-07-23 22:34:53'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Women
 title: <i>Historical Essays on the Life of Marie–Antoinette, of Austria</i> (1783)
 type: items
+url: /d/262/
 ---
 
 {{< raw >}}

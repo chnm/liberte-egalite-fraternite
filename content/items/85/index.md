@@ -2,6 +2,8 @@
 aliases:
   - /items/show/85
   - /items/show/85.html
+  - /items/85/
+  - /items/85
 collections: []
 date: '2019-07-23 22:28:25'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - The Terror
 title: Active Citizen/Passive Citizen
 type: items
+url: /d/75/
 ---
 
 {{< raw >}}

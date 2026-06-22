@@ -2,6 +2,8 @@
 aliases:
   - /items/show/318
   - /items/show/318.html
+  - /items/318/
+  - /items/318
 collections: []
 date: '2019-07-23 22:33:40'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: <i>The Philosophy of History</i>
 type: items
+url: /d/566/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/171
   - /items/show/171.html
+  - /items/171/
+  - /items/171
 collections: []
 date: '2019-07-23 22:30:56'
 draft: false
@@ -65,6 +67,7 @@ tags:
   - Napoleon Bonaparte
 title: 'Six Part German Caricature: Napoleon Is Now Reduced to a Manageable Size!'
 type: items
+url: /d/168/
 ---
 
 {{< raw >}}

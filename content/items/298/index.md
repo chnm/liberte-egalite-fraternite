@@ -2,6 +2,8 @@
 aliases:
   - /items/show/298
   - /items/show/298.html
+  - /items/298/
+  - /items/298
 collections: []
 date: '2019-07-23 22:33:34'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - Women
 title: Dickens, <i>Tale of Two Cities</i>
 type: items
+url: /d/586/
 ---
 
 {{< raw >}}

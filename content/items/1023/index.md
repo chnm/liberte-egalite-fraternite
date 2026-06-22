@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1023
   - /items/show/1023.html
+  - /items/1023/
+  - /items/1023
 collections: []
 date: '2019-07-23 22:36:41'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Champart
 type: items
+url: /d/1069/
 ---

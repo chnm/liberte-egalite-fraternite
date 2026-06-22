@@ -2,6 +2,8 @@
 aliases:
   - /items/show/95
   - /items/show/95.html
+  - /items/95/
+  - /items/95
 collections: []
 date: '2019-07-23 22:28:41'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - Popular Politics
 title: Fusillade in the Faubourg St. Antoine, 28 April 1789
 type: items
+url: /d/87/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1035
   - /items/show/1035.html
+  - /items/1035/
+  - /items/1035
 collections: []
 date: '2019-07-23 22:36:43'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Count of Provence
 type: items
+url: /d/1081/
 ---

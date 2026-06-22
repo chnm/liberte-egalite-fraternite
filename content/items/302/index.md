@@ -2,6 +2,8 @@
 aliases:
   - /items/show/302
   - /items/show/302.html
+  - /items/302/
+  - /items/302
 collections: []
 date: '2019-07-23 22:33:36'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Sun Yat–Sen, <i>The Three Principles of the People</i>
 type: items
+url: /d/582/
 ---
 
 {{< raw >}}

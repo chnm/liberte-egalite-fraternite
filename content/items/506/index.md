@@ -2,6 +2,8 @@
 aliases:
   - /items/show/506
   - /items/show/506.html
+  - /items/506/
+  - /items/506
 collections: []
 date: '2019-07-23 22:34:31'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: A Female Writer’s <i>Response to the American Champion or a Well–Known Colonist</i>
 type: items
+url: /d/344/
 ---
 
 {{< raw >}}

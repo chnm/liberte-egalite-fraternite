@@ -2,6 +2,8 @@
 aliases:
   - /items/show/210
   - /items/show/210.html
+  - /items/210/
+  - /items/210
 collections: []
 date: '2019-07-23 22:31:42'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Washington and Lafayette in color (lithograph, n.d., ca. 1928)
 type: items
+url: /d/208/
 ---
 
 {{< raw >}}

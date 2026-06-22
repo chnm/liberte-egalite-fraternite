@@ -2,6 +2,8 @@
 aliases:
   - /items/show/447
   - /items/show/447.html
+  - /items/447/
+  - /items/447
 collections: []
 date: '2019-07-23 22:34:15'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Police Report on a Session of the Cordeliers
 type: items
+url: /d/403/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/157
   - /items/show/157.html
+  - /items/157/
+  - /items/157
 collections: []
 date: '2019-07-23 22:30:40'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - Public Opinion
 title: With the Help of Mr. de la Fayette, the French Nation Defeats Despotism
 type: items
+url: /d/154/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/972
   - /items/show/972.html
+  - /items/972/
+  - /items/972
 collections: []
 date: '2019-07-23 22:36:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Start of new White Terror in the Midi.
 type: items
+url: /d/1019/
 ---

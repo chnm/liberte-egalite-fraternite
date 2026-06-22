@@ -2,6 +2,8 @@
 aliases:
   - /items/show/977
   - /items/show/977.html
+  - /items/977/
+  - /items/977
 collections: []
 date: '2019-07-23 22:36:29'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: End of the occupation of France by the allied armies.
 type: items
+url: /d/1024/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/533
   - /items/show/533.html
+  - /items/533/
+  - /items/533
 collections: []
 date: '2019-07-23 22:34:38'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Address of the Commune of Marseilles (27 June 1792)
 type: items
+url: /d/317/
 ---
 
 {{< raw >}}

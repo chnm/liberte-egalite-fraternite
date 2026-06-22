@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1037
   - /items/show/1037.html
+  - /items/1037/
+  - /items/1037
 collections: []
 date: '2019-07-23 22:36:44'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Dauphin
 type: items
+url: /d/1083/
 ---

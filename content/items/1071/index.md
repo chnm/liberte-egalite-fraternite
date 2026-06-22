@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1071
   - /items/show/1071.html
+  - /items/1071/
+  - /items/1071
 collections: []
 date: '2019-07-23 22:36:53'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Sou(s)
 type: items
+url: /d/1117/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/59
   - /items/show/59.html
+  - /items/59/
+  - /items/59
 collections: []
 date: '2019-07-23 22:27:37'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Monarchy
 title: 'Cup: Louis XVI'
 type: items
+url: /d/48/
 ---
 
 {{< raw >}}

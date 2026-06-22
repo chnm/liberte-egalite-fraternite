@@ -2,6 +2,8 @@
 aliases:
   - /items/show/306
   - /items/show/306.html
+  - /items/306/
+  - /items/306
 collections: []
 date: '2019-07-23 22:33:37'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The US and Great Britain in Revolution
 title: Rights of Man
 type: items
+url: /d/578/
 ---
 
 {{< raw >}}

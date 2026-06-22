@@ -2,6 +2,8 @@
 aliases:
   - /items/show/151
   - /items/show/151.html
+  - /items/151/
+  - /items/151
 collections: []
 date: '2019-07-23 22:30:31'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: The Third Estate Marrying Priests with Nuns
 type: items
+url: /d/148/
 ---
 
 {{< raw >}}

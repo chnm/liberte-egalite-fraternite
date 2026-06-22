@@ -2,6 +2,8 @@
 aliases:
   - /items/show/436
   - /items/show/436.html
+  - /items/436/
+  - /items/436
 collections: []
 date: '2019-07-23 22:34:13'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: Decree against Profiteers
 type: items
+url: /d/414/
 ---
 
 {{< raw >}}

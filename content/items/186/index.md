@@ -2,6 +2,8 @@
 aliases:
   - /items/show/186
   - /items/show/186.html
+  - /items/186/
+  - /items/186
 collections: []
 date: '2019-07-23 22:31:11'
 draft: false
@@ -77,6 +79,7 @@ tags:
   - Women
 title: Execution of Marie Antoinette (16 October 1793) at the Place de la Révolution
 type: items
+url: /d/183/
 ---
 
 {{< raw >}}

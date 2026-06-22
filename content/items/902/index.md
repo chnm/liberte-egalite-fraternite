@@ -2,6 +2,8 @@
 aliases:
   - /items/show/902
   - /items/show/902.html
+  - /items/902/
+  - /items/902
 collections: []
 date: '2019-07-23 22:36:11'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the Cispadane Republic at Bologna.
 type: items
+url: /d/949/
 ---

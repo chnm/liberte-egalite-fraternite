@@ -2,6 +2,8 @@
 aliases:
   - /items/show/114
   - /items/show/114.html
+  - /items/114/
+  - /items/114
 collections: []
 date: '2019-07-23 22:29:27'
 draft: false
@@ -76,4 +78,5 @@ tags:
   - Provinces
 title: Attack of Nantes by the Vendéans
 type: items
+url: /d/107/
 ---

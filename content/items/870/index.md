@@ -2,6 +2,8 @@
 aliases:
   - /items/show/870
   - /items/show/870.html
+  - /items/870/
+  - /items/870
 collections: []
 date: '2019-07-23 22:36:04'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Estates–General are convoked for 1 May 1789.
 type: items
+url: /d/917/
 ---

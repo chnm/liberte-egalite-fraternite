@@ -2,6 +2,8 @@
 aliases:
   - /items/show/381
   - /items/show/381.html
+  - /items/381/
+  - /items/381
 collections: []
 date: '2019-07-23 22:33:58'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Account of a Session of the Society of Revolutionary Republican Women
 type: items
+url: /d/482/
 ---
 
 {{< raw >}}

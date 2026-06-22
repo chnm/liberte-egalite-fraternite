@@ -2,6 +2,8 @@
 aliases:
   - /items/show/245
   - /items/show/245.html
+  - /items/245/
+  - /items/245
 collections: []
 date: '2019-07-23 22:32:44'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Napoleon Bonaparte
 title: '"The Song of the End": the Whole World Now Chases Him'
 type: items
+url: /d/527/
 ---
 
 {{< raw >}}

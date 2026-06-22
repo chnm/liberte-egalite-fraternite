@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1051
   - /items/show/1051.html
+  - /items/1051/
+  - /items/1051
 collections: []
 date: '2019-07-23 22:36:47'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Livre
 type: items
+url: /d/1097/
 ---

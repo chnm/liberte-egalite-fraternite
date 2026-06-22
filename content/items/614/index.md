@@ -2,6 +2,8 @@
 aliases:
   - /items/show/614
   - /items/show/614.html
+  - /items/614/
+  - /items/614
 collections: []
 date: '2019-07-23 22:35:00'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: The "Session of the Scourging" (3 March 1766)
 type: items
+url: /d/236/
 ---
 
 {{< raw >}}

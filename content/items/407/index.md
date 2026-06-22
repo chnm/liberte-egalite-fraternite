@@ -2,6 +2,8 @@
 aliases:
   - /items/show/407
   - /items/show/407.html
+  - /items/407/
+  - /items/407
 collections: []
 date: '2019-07-23 22:34:05'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: '"Letter to Fréron: Émigrés Return" by Thérèse Bouisson'
 type: items
+url: /d/452/
 ---
 
 {{< raw >}}

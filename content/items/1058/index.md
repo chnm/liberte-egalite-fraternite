@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1058
   - /items/show/1058.html
+  - /items/1058/
+  - /items/1058
 collections: []
 date: '2019-07-23 22:36:49'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: National Guard
 type: items
+url: /d/1104/
 ---

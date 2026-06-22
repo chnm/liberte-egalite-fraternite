@@ -2,6 +2,8 @@
 aliases:
   - /items/show/994
   - /items/show/994.html
+  - /items/994/
+  - /items/994
 collections: []
 date: '2019-07-23 22:36:34'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Magna Carta</i>.
 type: items
+url: /d/1041/
 ---

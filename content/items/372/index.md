@@ -2,6 +2,8 @@
 aliases:
   - /items/show/372
   - /items/show/372.html
+  - /items/372/
+  - /items/372
 collections: []
 date: '2019-07-23 22:33:56'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: An Ordinary Woman Faces Prison for her Comments
 type: items
+url: /d/491/
 ---
 
 {{< raw >}}

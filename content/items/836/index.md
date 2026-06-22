@@ -2,6 +2,8 @@
 aliases:
   - /items/show/836
   - /items/show/836.html
+  - /items/836/
+  - /items/836
 collections: []
 date: '2019-07-23 22:35:56'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Gracchus Babeuf publishes the first issue of his newspaper, <i>Le tribun du peuple</i>, devoted to explaining the principles of an ideal agrarian communist society.
 type: items
+url: /d/883/
 ---

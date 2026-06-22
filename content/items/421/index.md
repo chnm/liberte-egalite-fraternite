@@ -2,6 +2,8 @@
 aliases:
   - /items/show/421
   - /items/show/421.html
+  - /items/421/
+  - /items/421
 collections: []
 date: '2019-07-23 22:34:09'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: 'Revolutionary Armies in the Provinces: Toulouse (September 1793)'
 type: items
+url: /d/431/
 ---
 
 {{< raw >}}

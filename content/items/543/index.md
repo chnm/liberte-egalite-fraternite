@@ -2,6 +2,8 @@
 aliases:
   - /items/show/543
   - /items/show/543.html
+  - /items/543/
+  - /items/543
 collections: []
 date: '2019-07-23 22:34:41'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - The US and Great Britain in Revolution
 title: 'The New World and the Old: An American at the Opening of the Estates–General (May 1789)'
 type: items
+url: /d/307/
 ---
 
 {{< raw >}}

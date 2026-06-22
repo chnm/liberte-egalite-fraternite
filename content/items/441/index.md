@@ -2,6 +2,8 @@
 aliases:
   - /items/show/441
   - /items/show/441.html
+  - /items/441/
+  - /items/441
 collections: []
 date: '2019-07-23 22:34:14'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Aristocratic Values
 type: items
+url: /d/409/
 ---
 
 {{< raw >}}

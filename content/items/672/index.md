@@ -2,6 +2,8 @@
 aliases:
   - /items/show/672
   - /items/show/672.html
+  - /items/672/
+  - /items/672
 collections: []
 date: '2019-07-23 22:35:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Defeat of Austria at the Battle of Austerlitz. 1806–1807 defeat of Prussia and Russia, and breakup of Third Coalition.
 type: items
+url: /d/719/
 ---

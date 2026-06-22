@@ -2,6 +2,8 @@
 aliases:
   - /items/show/165
   - /items/show/165.html
+  - /items/165/
+  - /items/165
 collections: []
 date: '2019-07-23 22:30:51'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Napoleon Bonaparte
 title: '"This Is My Dear Son": Napoleon as Child of the Devil'
 type: items
+url: /d/162/
 ---
 
 {{< raw >}}

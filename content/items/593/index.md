@@ -2,6 +2,8 @@
 aliases:
   - /items/show/593
   - /items/show/593.html
+  - /items/593/
+  - /items/593
 collections: []
 date: '2019-07-23 22:34:54'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Vergennes, "Memorandum against Necker" (1781)
 type: items
+url: /d/257/
 ---
 
 {{< raw >}}

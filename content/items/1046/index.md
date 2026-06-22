@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1046
   - /items/show/1046.html
+  - /items/1046/
+  - /items/1046
 collections: []
 date: '2019-07-23 22:36:46'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Habsburg
 type: items
+url: /d/1092/
 ---

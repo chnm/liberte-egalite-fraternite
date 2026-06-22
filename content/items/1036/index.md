@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1036
   - /items/show/1036.html
+  - /items/1036/
+  - /items/1036
 collections: []
 date: '2019-07-23 22:36:44'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Creole
 type: items
+url: /d/1082/
 ---

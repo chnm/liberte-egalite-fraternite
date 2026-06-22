@@ -2,6 +2,8 @@
 aliases:
   - /items/show/383
   - /items/show/383.html
+  - /items/383/
+  - /items/383
 collections: []
 date: '2019-07-23 22:33:59'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Police Reports on Disturbances over Food Supplies (February 1793)
 type: items
+url: /d/480/
 ---
 
 {{< raw >}}

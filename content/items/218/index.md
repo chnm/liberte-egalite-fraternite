@@ -2,6 +2,8 @@
 aliases:
   - /items/show/218
   - /items/show/218.html
+  - /items/218/
+  - /items/218
 collections: []
 date: '2019-07-23 22:31:58'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - War
 title: March of the Powers Allied against France
 type: items
+url: /d/216/
 ---
 
 {{< raw >}}

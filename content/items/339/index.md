@@ -2,6 +2,8 @@
 aliases:
   - /items/show/339
   - /items/show/339.html
+  - /items/339/
+  - /items/339
 collections: []
 date: '2019-07-23 22:33:45'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: Germaine de Staël, a French Writer Exiled by Napoleon
 type: items
+url: /d/530/
 ---
 
 {{< raw >}}

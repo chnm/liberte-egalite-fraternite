@@ -2,6 +2,8 @@
 aliases:
   - /items/show/161
   - /items/show/161.html
+  - /items/161/
+  - /items/161
 collections: []
 date: '2019-07-23 22:30:46'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - Popular Politics
 title: They Had Them Too Long
 type: items
+url: /d/158/
 ---
 
 {{< raw >}}

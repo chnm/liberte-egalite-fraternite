@@ -2,6 +2,8 @@
 aliases:
   - /items/show/983
   - /items/show/983.html
+  - /items/983/
+  - /items/983
 collections: []
 date: '2019-07-23 22:36:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: February Revolution in Paris. Orleans dynasty overthrown. The Second Republic declared.
 type: items
+url: /d/1030/
 ---

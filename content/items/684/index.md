@@ -2,6 +2,8 @@
 aliases:
   - /items/show/684
   - /items/show/684.html
+  - /items/684/
+  - /items/684
 collections: []
 date: '2019-07-23 22:35:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Rome annexed to the French Empire. Napoleon’s heir shall bear the title King of Rome.
 type: items
+url: /d/731/
 ---

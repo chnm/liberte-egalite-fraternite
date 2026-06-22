@@ -2,6 +2,8 @@
 aliases:
   - /items/show/200
   - /items/show/200.html
+  - /items/200/
+  - /items/200
 collections: []
 date: '2019-07-23 22:31:31'
 draft: false
@@ -66,6 +68,7 @@ tags:
   - War
 title: The Day after Waterloo
 type: items
+url: /d/195/
 ---
 
 {{< raw >}}

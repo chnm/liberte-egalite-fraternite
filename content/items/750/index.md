@@ -2,6 +2,8 @@
 aliases:
   - /items/show/750
   - /items/show/750.html
+  - /items/750/
+  - /items/750
 collections: []
 date: '2019-07-23 22:35:35'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Republic proclaimed.
 type: items
+url: /d/797/
 ---

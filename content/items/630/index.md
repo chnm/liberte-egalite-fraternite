@@ -2,6 +2,8 @@
 aliases:
   - /items/show/630
   - /items/show/630.html
+  - /items/630/
+  - /items/630
 collections: []
 date: '2019-07-23 22:35:07'
 draft: false
@@ -55,6 +57,7 @@ tags:
   - Song
 title: Funeral Hymn for General Hoche
 type: items
+url: /d/620/
 ---
 
 {{< raw >}}

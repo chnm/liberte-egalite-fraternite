@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1048
   - /items/show/1048.html
+  - /items/1048/
+  - /items/1048
 collections: []
 date: '2019-07-23 22:36:46'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Jacobin Club
 type: items
+url: /d/1094/
 ---

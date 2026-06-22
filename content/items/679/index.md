@@ -2,6 +2,8 @@
 aliases:
   - /items/show/679
   - /items/show/679.html
+  - /items/679/
+  - /items/679
 collections: []
 date: '2019-07-23 22:35:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Proclamation of the Commercial Code.
 type: items
+url: /d/726/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/866
   - /items/show/866.html
+  - /items/866/
+  - /items/866
 collections: []
 date: '2019-07-23 22:36:03'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Death of Louis XIV and ascension of Louis XV.
 type: items
+url: /d/913/
 ---

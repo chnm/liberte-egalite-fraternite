@@ -2,6 +2,8 @@
 aliases:
   - /items/show/304
   - /items/show/304.html
+  - /items/304/
+  - /items/304
 collections: []
 date: '2019-07-23 22:33:36'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: 'Karl Marx: The Eighteenth Brumaire of Louis Bonaparte'
 type: items
+url: /d/580/
 ---
 
 {{< raw >}}

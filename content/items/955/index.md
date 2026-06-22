@@ -2,6 +2,8 @@
 aliases:
   - /items/show/955
   - /items/show/955.html
+  - /items/955/
+  - /items/955
 collections: []
 date: '2019-07-23 22:36:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Articles organiques</i> concerning the Catholic and Protestant religions.
 type: items
+url: /d/1002/
 ---

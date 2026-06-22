@@ -2,6 +2,8 @@
 aliases:
   - /items/show/294
   - /items/show/294.html
+  - /items/294/
+  - /items/294
 collections: []
 date: '2019-07-23 22:33:33'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Alexis de Tocqueville on the French Revolution
 type: items
+url: /d/590/
 ---
 
 {{< raw >}}

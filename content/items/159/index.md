@@ -2,6 +2,8 @@
 aliases:
   - /items/show/159
   - /items/show/159.html
+  - /items/159/
+  - /items/159
 collections: []
 date: '2019-07-23 22:30:44'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Sans-culottes
 title: An Emblematical View of the Constitutions of England and France
 type: items
+url: /d/156/
 ---
 
 {{< raw >}}

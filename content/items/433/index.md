@@ -2,6 +2,8 @@
 aliases:
   - /items/show/433
   - /items/show/433.html
+  - /items/433/
+  - /items/433
 collections: []
 date: '2019-07-23 22:34:12'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - The Terror
 title: The Law of Suspects
 type: items
+url: /d/417/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/655
   - /items/show/655.html
+  - /items/655/
+  - /items/655
 collections: []
 date: '2019-07-23 22:35:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Chateaubriand publishes <i>Atala</i>.
 type: items
+url: /d/702/
 ---

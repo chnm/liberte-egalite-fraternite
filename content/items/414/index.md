@@ -2,6 +2,8 @@
 aliases:
   - /items/show/414
   - /items/show/414.html
+  - /items/414/
+  - /items/414
 collections: []
 date: '2019-07-23 22:34:07'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The Terror
 title: Debate on the Law of 22 Prairial
 type: items
+url: /d/440/
 ---
 
 {{< raw >}}

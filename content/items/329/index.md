@@ -2,6 +2,8 @@
 aliases:
   - /items/show/329
   - /items/show/329.html
+  - /items/329/
+  - /items/329
 collections: []
 date: '2019-07-23 22:33:43'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Text
 title: A Prefect in Action, 1800–1801
 type: items
+url: /d/553/
 ---
 
 {{< raw >}}

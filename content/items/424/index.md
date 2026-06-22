@@ -2,6 +2,8 @@
 aliases:
   - /items/show/424
   - /items/show/424.html
+  - /items/424/
+  - /items/424
 collections: []
 date: '2019-07-23 22:34:10'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: The Journée of 10 August 1792
 type: items
+url: /d/428/
 ---
 
 {{< raw >}}

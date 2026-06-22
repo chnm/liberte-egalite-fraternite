@@ -2,6 +2,8 @@
 aliases:
   - /items/show/831
   - /items/show/831.html
+  - /items/831/
+  - /items/831
 collections: []
 date: '2019-07-23 22:35:55'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Camille Desmoulins publishes the first issue of <i>Le Vieux Cordelier</i>. He favors the ideas of Danton, urging peace negotiations with foreign powers and an end to the official Terror.
 type: items
+url: /d/878/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/123
   - /items/show/123.html
+  - /items/123/
+  - /items/123
 collections: []
 date: '2019-07-23 22:29:47'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - Women
 title: Day of 1 Prairial of the Year III
 type: items
+url: /d/117/
 ---
 
 {{< raw >}}

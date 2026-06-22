@@ -2,6 +2,8 @@
 aliases:
   - /items/show/848
   - /items/show/848.html
+  - /items/848/
+  - /items/848
 collections: []
 date: '2019-07-23 22:35:58'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The peace treaty of Campio Formio is signed with Austria.
 type: items
+url: /d/895/
 ---

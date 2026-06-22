@@ -2,6 +2,8 @@
 aliases:
   - /items/show/712
   - /items/show/712.html
+  - /items/712/
+  - /items/712
 collections: []
 date: '2019-07-23 22:35:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Royal Session in the <i>Parlement</i> of Paris.
 type: items
+url: /d/759/
 ---

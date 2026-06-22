@@ -2,6 +2,8 @@
 aliases:
   - /items/show/910
   - /items/show/910.html
+  - /items/910/
+  - /items/910
 collections: []
 date: '2019-07-23 22:36:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Election of Sieyès to the Directory.
 type: items
+url: /d/957/
 ---

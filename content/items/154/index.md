@@ -2,6 +2,8 @@
 aliases:
   - /items/show/154
   - /items/show/154.html
+  - /items/154/
+  - /items/154
 collections: []
 date: '2019-07-23 22:30:37'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Provinces
 title: Description of the Chouans and other Counterrevolutionaries
 type: items
+url: /d/151/
 ---
 
 {{< raw >}}

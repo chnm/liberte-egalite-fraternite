@@ -2,6 +2,8 @@
 aliases:
   - /items/show/426
   - /items/show/426.html
+  - /items/426/
+  - /items/426
 collections: []
 date: '2019-07-23 22:34:10'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Women
 title: Mobilization for War (5 July 1792)
 type: items
+url: /d/424/
 ---
 
 {{< raw >}}

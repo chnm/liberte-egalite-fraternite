@@ -2,6 +2,8 @@
 aliases:
   - /items/show/156
   - /items/show/156.html
+  - /items/156/
+  - /items/156
 collections: []
 date: '2019-07-23 22:30:39'
 draft: false
@@ -79,6 +81,7 @@ tags:
   - Nobility
 title: Farewell Bastille
 type: items
+url: /d/153/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/242
   - /items/show/242.html
+  - /items/242/
+  - /items/242
 collections: []
 date: '2019-07-23 22:32:41'
 draft: false
@@ -75,6 +77,7 @@ tags:
   - The Terror
 title: Siege and Taking of the City of Lyon
 type: items
+url: /d/498/
 ---
 
 {{< raw >}}

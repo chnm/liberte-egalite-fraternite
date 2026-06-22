@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1001
   - /items/show/1001.html
+  - /items/1001/
+  - /items/1001
 collections: []
 date: '2019-07-23 22:36:35'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Confederation of the Rhine created to replace the defunct Holy Roman Empire.
 type: items
+url: /d/1048/
 ---

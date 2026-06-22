@@ -2,6 +2,8 @@
 aliases:
   - /items/show/241
   - /items/show/241.html
+  - /items/241/
+  - /items/241
 collections: []
 date: '2019-07-23 22:32:41'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Monarchy
 title: Louis Leaves His Family
 type: items
+url: /d/468/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/315
   - /items/show/315.html
+  - /items/315/
+  - /items/315
 collections: []
 date: '2019-07-23 22:33:39'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: The Slaves from Africa
 type: items
+url: /d/569/
 ---
 
 {{< raw >}}

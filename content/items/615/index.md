@@ -2,6 +2,8 @@
 aliases:
   - /items/show/615
   - /items/show/615.html
+  - /items/615/
+  - /items/615
 collections: []
 date: '2019-07-23 22:35:00'
 draft: false
@@ -60,6 +62,7 @@ tags:
   - Text
 title: The Coronation of Louis XVI from the <i>Gazette of France</i> (1775)
 type: items
+url: /d/235/
 ---
 
 {{< raw >}}

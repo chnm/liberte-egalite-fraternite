@@ -2,6 +2,8 @@
 aliases:
   - /items/show/39
   - /items/show/39.html
+  - /items/39/
+  - /items/39
 collections: []
 date: '2019-07-23 22:27:14'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - The Terror
 title: Sword Hilt with Revolutionary Icons—Liberty
 type: items
+url: /d/27/
 ---
 
 {{< raw >}}

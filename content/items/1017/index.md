@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1017
   - /items/show/1017.html
+  - /items/1017/
+  - /items/1017
 collections: []
 date: '2019-07-23 22:36:39'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Bailliage
 type: items
+url: /d/1063/
 ---

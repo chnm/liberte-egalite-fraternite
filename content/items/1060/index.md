@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1060
   - /items/show/1060.html
+  - /items/1060/
+  - /items/1060
 collections: []
 date: '2019-07-23 22:36:50'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Parlement
 type: items
+url: /d/1106/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/664
   - /items/show/664.html
+  - /items/664/
+  - /items/664
 collections: []
 date: '2019-07-23 22:35:15'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Kingdom of Piedmont annexed to the French Republic as six new departments, followed in 1805–1808 by that of the republics of Genoa, Tuscany, and Parma.
 type: items
+url: /d/711/
 ---

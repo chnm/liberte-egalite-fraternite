@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1007
   - /items/show/1007.html
+  - /items/1007/
+  - /items/1007
 collections: []
 date: '2019-07-23 22:36:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Agents in Saint Domingue abolish slavery.
 type: items
+url: /d/1054/
 ---

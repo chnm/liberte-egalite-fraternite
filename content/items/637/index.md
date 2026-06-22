@@ -2,6 +2,8 @@
 aliases:
   - /items/show/637
   - /items/show/637.html
+  - /items/637/
+  - /items/637
 collections: []
 date: '2019-07-23 22:35:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Annexation of Belgium. It is incorporated into the Republic as eight new departments. In 1799 the German west bank of the Rhine is incorporated as four new departments.
 type: items
+url: /d/684/
 ---

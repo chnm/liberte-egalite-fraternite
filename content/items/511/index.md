@@ -2,6 +2,8 @@
 aliases:
   - /items/show/511
   - /items/show/511.html
+  - /items/511/
+  - /items/511
 collections: []
 date: '2019-07-23 22:34:32'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Roster of Membership in the Society of Friends of Blacks, 1789
 type: items
+url: /d/339/
 ---
 
 {{< raw >}}

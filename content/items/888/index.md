@@ -2,6 +2,8 @@
 aliases:
   - /items/show/888
   - /items/show/888.html
+  - /items/888/
+  - /items/888
 collections: []
 date: '2019-07-23 22:36:08'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Trial of the Dantonists.
 type: items
+url: /d/935/
 ---

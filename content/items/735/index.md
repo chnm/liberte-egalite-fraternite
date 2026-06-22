@@ -2,6 +2,8 @@
 aliases:
   - /items/show/735
   - /items/show/735.html
+  - /items/735/
+  - /items/735
 collections: []
 date: '2019-07-23 22:35:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Reinstatement of Louis XVI.
 type: items
+url: /d/782/
 ---

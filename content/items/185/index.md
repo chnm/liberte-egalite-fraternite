@@ -2,6 +2,8 @@
 aliases:
   - /items/show/185
   - /items/show/185.html
+  - /items/185/
+  - /items/185
 collections: []
 date: '2019-07-23 22:31:11'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Women
 title: The Queen in Paris
 type: items
+url: /d/182/
 ---
 
 {{< raw >}}

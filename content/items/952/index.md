@@ -2,6 +2,8 @@
 aliases:
   - /items/show/952
   - /items/show/952.html
+  - /items/952/
+  - /items/952
 collections: []
 date: '2019-07-23 22:36:23'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Peace of Lunéville with Austria. Confirmation of the main points of the Treaty of Campo Formio. France receives Left Bank of the Rhine.
 type: items
+url: /d/999/
 ---

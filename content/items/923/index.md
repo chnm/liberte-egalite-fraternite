@@ -2,6 +2,8 @@
 aliases:
   - /items/show/923
   - /items/show/923.html
+  - /items/923/
+  - /items/923
 collections: []
 date: '2019-07-23 22:36:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Law of 14 <i>Frimaire</i> on Revolutionary Government enacted. Institutes formally revolutionary government.
 type: items
+url: /d/970/
 ---

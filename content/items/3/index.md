@@ -2,6 +2,8 @@
 aliases:
   - /items/show/3
   - /items/show/3.html
+  - /items/3/
+  - /items/3
 collections: []
 date: '2019-07-23 22:26:18'
 draft: false
@@ -44,4 +46,5 @@ tags:
   - War
 title: Old Regime Provinces
 type: items
+url: /d/438/
 ---

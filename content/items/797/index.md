@@ -2,6 +2,8 @@
 aliases:
   - /items/show/797
   - /items/show/797.html
+  - /items/797/
+  - /items/797
 collections: []
 date: '2019-07-23 22:35:46'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte defeats Austria at Rivoli.
 type: items
+url: /d/844/
 ---

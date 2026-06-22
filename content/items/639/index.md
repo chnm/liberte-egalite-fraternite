@@ -2,6 +2,8 @@
 aliases:
   - /items/show/639
   - /items/show/639.html
+  - /items/639/
+  - /items/639
 collections: []
 date: '2019-07-23 22:35:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Babeuf is arrested and his Conspiracy of Equals is suppressed.
 type: items
+url: /d/686/
 ---

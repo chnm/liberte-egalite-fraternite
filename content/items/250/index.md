@@ -2,6 +2,8 @@
 aliases:
   - /items/show/250
   - /items/show/250.html
+  - /items/250/
+  - /items/250
 collections: []
 date: '2019-07-23 22:32:54'
 draft: false
@@ -80,6 +82,7 @@ tags:
   - Women
 title: Assassination of J. P. Marat
 type: items
+url: /d/542/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/300
   - /items/show/300.html
+  - /items/300/
+  - /items/300
 collections: []
 date: '2019-07-23 22:33:35'
 draft: false
@@ -51,6 +53,7 @@ tags:
   - War
 title: Balzac’s <i>The Chouans</i>
 type: items
+url: /d/584/
 ---
 
 {{< raw >}}

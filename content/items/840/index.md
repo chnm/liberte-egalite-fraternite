@@ -2,6 +2,8 @@
 aliases:
   - /items/show/840
   - /items/show/840.html
+  - /items/840/
+  - /items/840
 collections: []
 date: '2019-07-23 22:35:57'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A new Constitution is reported on by Boissy d’Anglas. It is accompanied by the assertion that those most worthy of governing are those who own property.
 type: items
+url: /d/887/
 ---

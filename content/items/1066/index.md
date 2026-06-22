@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1066
   - /items/show/1066.html
+  - /items/1066/
+  - /items/1066
 collections: []
 date: '2019-07-23 22:36:51'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Sans-culottes
 type: items
+url: /d/1112/
 ---

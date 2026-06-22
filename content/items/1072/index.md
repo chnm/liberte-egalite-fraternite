@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1072
   - /items/show/1072.html
+  - /items/1072/
+  - /items/1072
 collections: []
 date: '2019-07-23 22:36:53'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Suspensive Veto
 type: items
+url: /d/1118/
 ---

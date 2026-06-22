@@ -2,6 +2,8 @@
 aliases:
   - /items/show/613
   - /items/show/613.html
+  - /items/613/
+  - /items/613
 collections: []
 date: '2019-07-23 22:35:00'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - Text
 title: Lamoignon, "The Principles of the French Monarchy" (1787)
 type: items
+url: /d/237/
 ---
 
 {{< raw >}}

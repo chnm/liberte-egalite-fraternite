@@ -2,6 +2,8 @@
 aliases:
   - /items/show/827
   - /items/show/827.html
+  - /items/827/
+  - /items/827
 collections: []
 date: '2019-07-23 22:35:54'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: A revolt attempted by the Enragés in Paris fails.
 type: items
+url: /d/874/
 ---

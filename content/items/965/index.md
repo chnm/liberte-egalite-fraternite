@@ -2,6 +2,8 @@
 aliases:
   - /items/show/965
   - /items/show/965.html
+  - /items/965/
+  - /items/965
 collections: []
 date: '2019-07-23 22:36:26'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Peace Treaty of Tilsit; Franco–Russian alliance signed by Napoleon and Tsar Alexander I.
 type: items
+url: /d/1012/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/54
   - /items/show/54.html
+  - /items/54/
+  - /items/54
 collections: []
 date: '2019-07-23 22:27:27'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - The Terror
 title: Bust of Marat
 type: items
+url: /d/43/
 ---
 
 {{< raw >}}

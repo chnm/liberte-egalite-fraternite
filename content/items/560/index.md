@@ -2,6 +2,8 @@
 aliases:
   - /items/show/560
   - /items/show/560.html
+  - /items/560/
+  - /items/560
 collections: []
 date: '2019-07-23 22:34:45'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Society of the Friends of Blacks, "Address to the National Assembly in Favor of the Abolition of the Slave Trade" (5 February 1790)
 type: items
+url: /d/290/
 ---
 
 {{< raw >}}

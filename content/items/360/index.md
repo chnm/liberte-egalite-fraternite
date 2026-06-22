@@ -2,6 +2,8 @@
 aliases:
   - /items/show/360
   - /items/show/360.html
+  - /items/360/
+  - /items/360
 collections: []
 date: '2019-07-23 22:33:53'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Oath as Consul for Life (4 August 1802)
 type: items
+url: /d/507/
 ---
 
 {{< raw >}}

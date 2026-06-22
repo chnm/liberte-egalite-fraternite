@@ -2,6 +2,8 @@
 aliases:
   - /items/show/891
   - /items/show/891.html
+  - /items/891/
+  - /items/891
 collections: []
 date: '2019-07-23 22:36:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Release of large numbers of prisoners begins.
 type: items
+url: /d/938/
 ---

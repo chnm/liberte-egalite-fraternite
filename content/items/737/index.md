@@ -2,6 +2,8 @@
 aliases:
   - /items/show/737
   - /items/show/737.html
+  - /items/737/
+  - /items/737
 collections: []
 date: '2019-07-23 22:35:32'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Slave rebellion begins in Saint Domingue.
 type: items
+url: /d/784/
 ---

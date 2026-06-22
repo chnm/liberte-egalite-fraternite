@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1015
   - /items/show/1015.html
+  - /items/1015/
+  - /items/1015
 collections: []
 date: '2019-07-23 22:36:39'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Assembly of Notables
 type: items
+url: /d/1061/
 ---

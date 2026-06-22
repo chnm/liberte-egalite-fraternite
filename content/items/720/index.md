@@ -2,6 +2,8 @@
 aliases:
   - /items/show/720
   - /items/show/720.html
+  - /items/720/
+  - /items/720
 collections: []
 date: '2019-07-23 22:35:28'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The King concedes and orders the Nobles and the Clergy to join the National Assembly.
 type: items
+url: /d/767/
 ---

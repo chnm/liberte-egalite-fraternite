@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1042
   - /items/show/1042.html
+  - /items/1042/
+  - /items/1042
 collections: []
 date: '2019-07-23 22:36:45'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Feuillant
 type: items
+url: /d/1088/
 ---

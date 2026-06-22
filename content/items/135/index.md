@@ -2,6 +2,8 @@
 aliases:
   - /items/show/135
   - /items/show/135.html
+  - /items/135/
+  - /items/135
 collections: []
 date: '2019-07-23 22:30:08'
 draft: false
@@ -74,6 +76,7 @@ tags:
   - War
 title: French Victory at the Battle of Jemmappes
 type: items
+url: /d/128/
 ---
 
 {{< raw >}}

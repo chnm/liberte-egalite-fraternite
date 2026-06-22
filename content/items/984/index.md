@@ -2,6 +2,8 @@
 aliases:
   - /items/show/984
   - /items/show/984.html
+  - /items/984/
+  - /items/984
 collections: []
 date: '2019-07-23 22:36:31'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Barricades and street fighting in the east of Paris (June Days) in which workers of Paris fight authorities over the closure of national workshops that provided them charity.
 type: items
+url: /d/1031/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/798
   - /items/show/798.html
+  - /items/798/
+  - /items/798
 collections: []
 date: '2019-07-23 22:35:47'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Elections of Year V.
 type: items
+url: /d/845/
 ---

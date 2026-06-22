@@ -2,6 +2,8 @@
 aliases:
   - /items/show/559
   - /items/show/559.html
+  - /items/559/
+  - /items/559
 collections: []
 date: '2019-07-23 22:34:45'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Decree of the National Convention of 4 February 1794, Abolishing Slavery in all the Colonies
 type: items
+url: /d/291/
 ---
 
 {{< raw >}}

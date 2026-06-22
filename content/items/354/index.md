@@ -2,6 +2,8 @@
 aliases:
   - /items/show/354
   - /items/show/354.html
+  - /items/354/
+  - /items/354
 collections: []
 date: '2019-07-23 22:33:50'
 draft: false
@@ -45,6 +47,7 @@ tags:
   - War
 title: Proclamation to the Army of Egypt (22 June 1798)
 type: items
+url: /d/514/
 ---
 
 {{< raw >}}

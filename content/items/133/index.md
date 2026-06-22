@@ -2,6 +2,8 @@
 aliases:
   - /items/show/133
   - /items/show/133.html
+  - /items/133/
+  - /items/133
 collections: []
 date: '2019-07-23 22:30:04'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - The Terror
 title: Act of Justice
 type: items
+url: /d/126/
 ---
 
 {{< raw >}}

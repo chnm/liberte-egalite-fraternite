@@ -2,6 +2,8 @@
 aliases:
   - /items/show/587
   - /items/show/587.html
+  - /items/587/
+  - /items/587
 collections: []
 date: '2019-07-23 22:34:52'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: '"Memorandum to Her Majesty the Queen Concerning the Diamond Necklace Affair" (1786)'
 type: items
+url: /d/263/
 ---
 
 {{< raw >}}

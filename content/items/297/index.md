@@ -2,6 +2,8 @@
 aliases:
   - /items/show/297
   - /items/show/297.html
+  - /items/297/
+  - /items/297
 collections: []
 date: '2019-07-23 22:33:34'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - The Terror
 title: Hugo, <i>Ninety–Three</i>
 type: items
+url: /d/587/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/894
   - /items/show/894.html
+  - /items/894/
+  - /items/894
 collections: []
 date: '2019-07-23 22:36:09'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: General Pichegru suppresses the Germinal uprising.
 type: items
+url: /d/941/
 ---

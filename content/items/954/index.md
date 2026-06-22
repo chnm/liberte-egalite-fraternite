@@ -2,6 +2,8 @@
 aliases:
   - /items/show/954
   - /items/show/954.html
+  - /items/954/
+  - /items/954
 collections: []
 date: '2019-07-23 22:36:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Leclerc lands in Saint Domingue on a mission to quell the revolt of Toussaint–L’Ouverture.
 type: items
+url: /d/1001/
 ---

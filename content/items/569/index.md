@@ -2,6 +2,8 @@
 aliases:
   - /items/show/569
   - /items/show/569.html
+  - /items/569/
+  - /items/569
 collections: []
 date: '2019-07-23 22:34:48'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - Text
 title: Decree of the National Assembly Abolishing the Feudal System, 11 August 1789
 type: items
+url: /d/281/
 ---
 
 {{< raw >}}

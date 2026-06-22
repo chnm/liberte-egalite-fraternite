@@ -2,6 +2,8 @@
 aliases:
   - /items/show/75
   - /items/show/75.html
+  - /items/75/
+  - /items/75
 collections: []
 date: '2019-07-23 22:28:03'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - The Terror
 title: In Memory of Marat, Friend of the People, Assassinated 13 July, 1793
 type: items
+url: /d/64/
 ---
 
 {{< raw >}}

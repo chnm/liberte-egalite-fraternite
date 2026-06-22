@@ -2,6 +2,8 @@
 aliases:
   - /items/show/763
   - /items/show/763.html
+  - /items/763/
+  - /items/763
 collections: []
 date: '2019-07-23 22:35:38'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: '"Federalist" uprising begins.'
 type: items
+url: /d/810/
 ---

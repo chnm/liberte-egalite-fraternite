@@ -2,6 +2,8 @@
 aliases:
   - /items/show/143
   - /items/show/143.html
+  - /items/143/
+  - /items/143
 collections: []
 date: '2019-07-23 22:30:19'
 draft: false
@@ -64,6 +66,7 @@ tags:
   - Monarchy
 title: Louis the Sixteenth, King of France and of Navarre
 type: items
+url: /d/140/
 ---
 
 {{< raw >}}

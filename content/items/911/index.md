@@ -2,6 +2,8 @@
 aliases:
   - /items/show/911
   - /items/show/911.html
+  - /items/911/
+  - /items/911
 collections: []
 date: '2019-07-23 22:36:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Bonaparte raises the siege of Acre.
 type: items
+url: /d/958/
 ---

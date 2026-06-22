@@ -2,6 +2,8 @@
 aliases:
   - /items/show/279
   - /items/show/279.html
+  - /items/279/
+  - /items/279
 collections: []
 date: '2019-07-23 22:33:29'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - War
 title: Problems in Governing Egypt
 type: items
+url: /d/610/
 ---
 
 {{< raw >}}

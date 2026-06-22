@@ -2,6 +2,8 @@
 aliases:
   - /items/show/660
   - /items/show/660.html
+  - /items/660/
+  - /items/660
 collections: []
 date: '2019-07-23 22:35:14'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: All but one thousand émigrés are removed from the list.
 type: items
+url: /d/707/
 ---

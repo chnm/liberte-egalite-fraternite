@@ -2,6 +2,8 @@
 aliases:
   - /items/show/856
   - /items/show/856.html
+  - /items/856/
+  - /items/856
 collections: []
 date: '2019-07-23 22:36:01'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Emmanuel–Joseph Sieyès meets with Napoleon. They plan together a coup d’état.
 type: items
+url: /d/903/
 ---

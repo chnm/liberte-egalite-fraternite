@@ -2,6 +2,8 @@
 aliases:
   - /items/show/190
   - /items/show/190.html
+  - /items/190/
+  - /items/190
 collections: []
 date: '2019-07-23 22:31:21'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - The Terror
 title: 10 August 1792
 type: items
+url: /d/187/
 ---
 
 {{< raw >}}

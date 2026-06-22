@@ -2,6 +2,8 @@
 aliases:
   - /items/show/78
   - /items/show/78.html
+  - /items/78/
+  - /items/78
 collections: []
 date: '2019-07-23 22:28:11'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Sans-culottes
 title: British Liberty Tree
 type: items
+url: /d/68/
 ---
 
 {{< raw >}}

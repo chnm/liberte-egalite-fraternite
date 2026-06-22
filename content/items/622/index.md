@@ -2,6 +2,8 @@
 aliases:
   - /items/show/622
   - /items/show/622.html
+  - /items/622/
+  - /items/622
 collections: []
 date: '2019-07-23 22:35:03'
 draft: false
@@ -81,6 +83,7 @@ tags:
   - War
 title: The Marseillaise (War Song for the Army of the Rhine)
 type: items
+url: /d/625/
 ---
 
 {{< raw >}}

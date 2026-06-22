@@ -2,6 +2,8 @@
 aliases:
   - /items/show/808
   - /items/show/808.html
+  - /items/808/
+  - /items/808
 collections: []
 date: '2019-07-23 22:35:49'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Assembly issues treasury notes called <i>assignats</i> based on the value of nationalized church property. The first issue is of four hundred million.
 type: items
+url: /d/855/
 ---

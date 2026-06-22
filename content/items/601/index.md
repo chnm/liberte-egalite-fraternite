@@ -2,6 +2,8 @@
 aliases:
   - /items/show/601
   - /items/show/601.html
+  - /items/601/
+  - /items/601
 collections: []
 date: '2019-07-23 22:34:56'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Remonstrance of Court of Aides (1775)
 type: items
+url: /d/249/
 ---
 
 {{< raw >}}

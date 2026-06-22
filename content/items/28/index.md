@@ -2,6 +2,8 @@
 aliases:
   - /items/show/28
   - /items/show/28.html
+  - /items/28/
+  - /items/28
 collections: []
 date: '2019-07-23 22:26:58'
 draft: false
@@ -73,6 +75,7 @@ tags:
   - The Terror
 title: The Tragic End of Louis XVI
 type: items
+url: /d/16/
 ---
 
 {{< raw >}}

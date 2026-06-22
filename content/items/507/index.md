@@ -2,6 +2,8 @@
 aliases:
   - /items/show/507
   - /items/show/507.html
+  - /items/507/
+  - /items/507
 collections: []
 date: '2019-07-23 22:34:32'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: A Left–Wing Newspaper Continues the Attack on Slavery (October 1790)
 type: items
+url: /d/343/
 ---
 
 {{< raw >}}

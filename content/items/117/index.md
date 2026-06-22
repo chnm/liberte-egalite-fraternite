@@ -2,6 +2,8 @@
 aliases:
   - /items/show/117
   - /items/show/117.html
+  - /items/117/
+  - /items/117
 collections: []
 date: '2019-07-23 22:29:32'
 draft: false
@@ -83,6 +85,7 @@ tags:
   - The Terror
 title: Inside a Revolutionary Committee during the Reign of Terror
 type: items
+url: /d/110/
 ---
 
 {{< raw >}}

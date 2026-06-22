@@ -2,6 +2,8 @@
 aliases:
   - /items/show/572
   - /items/show/572.html
+  - /items/572/
+  - /items/572
 collections: []
 date: '2019-07-23 22:34:48'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - The US and Great Britain in Revolution
 title: 'Antislavery Agitation: Abbé Raynal, <i>Philosophical and Political History of the Settlements and Trade of the Europeans in the East and West Indies</i> (1770)'
 type: items
+url: /d/278/
 ---
 
 {{< raw >}}

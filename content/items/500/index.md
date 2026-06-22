@@ -2,6 +2,8 @@
 aliases:
   - /items/show/500
   - /items/show/500.html
+  - /items/500/
+  - /items/500
 collections: []
 date: '2019-07-23 22:34:29'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: Louis XV Asks the <i>Parlements</i> to Desist (1770)
 type: items
+url: /d/350/
 ---
 
 {{< raw >}}

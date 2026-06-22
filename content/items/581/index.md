@@ -2,6 +2,8 @@
 aliases:
   - /items/show/581
   - /items/show/581.html
+  - /items/581/
+  - /items/581
 collections: []
 date: '2019-07-23 22:34:51'
 draft: false
@@ -52,6 +54,7 @@ tags:
   - The US and Great Britain in Revolution
 title: <i>Declaration of Independence</i>, 1776
 type: items
+url: /d/269/
 ---
 
 {{< raw >}}

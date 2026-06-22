@@ -2,6 +2,8 @@
 aliases:
   - /items/show/394
   - /items/show/394.html
+  - /items/394/
+  - /items/394
 collections: []
 date: '2019-07-23 22:34:02'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Women
 title: 'Article from the <i>Encyclopedia</i>: "Woman"'
 type: items
+url: /d/469/
 ---
 
 {{< raw >}}

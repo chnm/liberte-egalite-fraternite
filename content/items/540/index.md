@@ -2,6 +2,8 @@
 aliases:
   - /items/show/540
   - /items/show/540.html
+  - /items/540/
+  - /items/540
 collections: []
 date: '2019-07-23 22:34:40'
 draft: false
@@ -47,6 +49,7 @@ tags:
   - Text
 title: 'Desmoulins: A Radical’s View of the Constitutional Monarch (May 1790)'
 type: items
+url: /d/310/
 ---
 
 {{< raw >}}

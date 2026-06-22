@@ -2,6 +2,8 @@
 aliases:
   - /items/show/566
   - /items/show/566.html
+  - /items/566/
+  - /items/566
 collections: []
 date: '2019-07-23 22:34:47'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Clermont–Tonnerre, "Speech on Religious Minorities and Questionable Professions" (23 December 1789)
 type: items
+url: /d/284/
 ---
 
 {{< raw >}}

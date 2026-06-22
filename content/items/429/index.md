@@ -2,6 +2,8 @@
 aliases:
   - /items/show/429
   - /items/show/429.html
+  - /items/429/
+  - /items/429
 collections: []
 date: '2019-07-23 22:34:11'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - War
 title: '"The Declaration of Pillnitz"'
 type: items
+url: /d/421/
 ---
 
 {{< raw >}}

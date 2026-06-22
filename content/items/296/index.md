@@ -2,6 +2,8 @@
 aliases:
   - /items/show/296
   - /items/show/296.html
+  - /items/296/
+  - /items/296
 collections: []
 date: '2019-07-23 22:33:34'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - The US and Great Britain in Revolution
 title: John Stuart Mill on the French Revolution
 type: items
+url: /d/588/
 ---
 
 {{< raw >}}

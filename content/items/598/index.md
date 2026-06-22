@@ -2,6 +2,8 @@
 aliases:
   - /items/show/598
   - /items/show/598.html
+  - /items/598/
+  - /items/598
 collections: []
 date: '2019-07-23 22:34:55'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Text
 title: Turgot, "Letter to the King on Finance" (1774)
 type: items
+url: /d/252/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/715
   - /items/show/715.html
+  - /items/715/
+  - /items/715
 collections: []
 date: '2019-07-23 22:35:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Parlement</i> of Paris demands the "forms of 1614."
 type: items
+url: /d/762/
 ---

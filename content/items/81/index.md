@@ -2,6 +2,8 @@
 aliases:
   - /items/show/81
   - /items/show/81.html
+  - /items/81/
+  - /items/81
 collections: []
 date: '2019-07-23 22:28:13'
 draft: false
@@ -72,4 +74,5 @@ tags:
   - Image
 title: Place Vendôme, The Greatest of Despots Overthrown by Freedom
 type: items
+url: /d/1135/
 ---

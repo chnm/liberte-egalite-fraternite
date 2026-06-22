@@ -2,6 +2,8 @@
 aliases:
   - /items/show/841
   - /items/show/841.html
+  - /items/841/
+  - /items/841
 collections: []
 date: '2019-07-23 22:35:57'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Chouans join 4,000 émigrés landed at Quiberon on the shores of Brittany by an English fleet. Defeated by General Hoche on July 21st.
 type: items
+url: /d/888/
 ---

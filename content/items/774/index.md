@@ -2,6 +2,8 @@
 aliases:
   - /items/show/774
   - /items/show/774.html
+  - /items/774/
+  - /items/774
 collections: []
 date: '2019-07-23 22:35:41'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: The Laws of Ventôse enacted; they authorize the seizure and redistribution of all property belonging to those suspected of working against the Republic.
 type: items
+url: /d/821/
 ---

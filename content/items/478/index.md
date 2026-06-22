@@ -2,6 +2,8 @@
 aliases:
   - /items/show/478
   - /items/show/478.html
+  - /items/478/
+  - /items/478
 collections: []
 date: '2019-07-23 22:34:24'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: Populace Awake
 type: items
+url: /d/372/
 ---
 
 {{< raw >}}

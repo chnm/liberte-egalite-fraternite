@@ -2,6 +2,8 @@
 aliases:
   - /items/show/287
   - /items/show/287.html
+  - /items/287/
+  - /items/287
 collections: []
 date: '2019-07-23 22:33:31'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: '"Memorandum on Local Government" (1775)'
 type: items
+url: /d/598/
 ---
 
 {{< raw >}}

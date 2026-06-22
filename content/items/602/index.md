@@ -2,6 +2,8 @@
 aliases:
   - /items/show/602
   - /items/show/602.html
+  - /items/602/
+  - /items/602
 collections: []
 date: '2019-07-23 22:34:57'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Legislation and Public Police Powers (1753)
 type: items
+url: /d/248/
 ---
 
 {{< raw >}}

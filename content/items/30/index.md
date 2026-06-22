@@ -2,6 +2,8 @@
 aliases:
   - /items/show/30
   - /items/show/30.html
+  - /items/30/
+  - /items/30
 collections: []
 date: '2019-07-23 22:27:03'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Napoleon Bonaparte
 title: Printed Cloth of the Directory and Napoleon
 type: items
+url: /d/18/
 ---
 
 {{< raw >}}

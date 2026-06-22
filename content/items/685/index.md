@@ -2,6 +2,8 @@
 aliases:
   - /items/show/685
   - /items/show/685.html
+  - /items/685/
+  - /items/685
 collections: []
 date: '2019-07-23 22:35:20'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Holland and northwest Germany (Hamburg, Breman, etc.) annexed. Now 130 departments in the French Empire.
 type: items
+url: /d/732/
 ---

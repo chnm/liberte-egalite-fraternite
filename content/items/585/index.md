@@ -2,6 +2,8 @@
 aliases:
   - /items/show/585
   - /items/show/585.html
+  - /items/585/
+  - /items/585
 collections: []
 date: '2019-07-23 22:34:52'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The US and Great Britain in Revolution
 title: The <i>Magna Carta</i>
 type: items
+url: /d/265/
 ---
 
 {{< raw >}}

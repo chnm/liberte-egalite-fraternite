@@ -2,6 +2,8 @@
 aliases:
   - /items/show/925
   - /items/show/925.html
+  - /items/925/
+  - /items/925
 collections: []
 date: '2019-07-23 22:36:17'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: <i>Sans–culotte</i> insurrection of 12 Germinal against the Convention, demanding bread and the <i>Constitution of 1793</i>.
 type: items
+url: /d/972/
 ---

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/576
   - /items/show/576.html
+  - /items/576/
+  - /items/576
 collections: []
 date: '2019-07-23 22:34:49'
 draft: false
@@ -50,6 +52,7 @@ tags:
   - Text
 title: Montesquieu, "The Spirit of the Laws"
 type: items
+url: /d/274/
 ---
 
 {{< raw >}}

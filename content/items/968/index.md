@@ -2,6 +2,8 @@
 aliases:
   - /items/show/968
   - /items/show/968.html
+  - /items/968/
+  - /items/968
 collections: []
 date: '2019-07-23 22:36:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Marriage of Napoleon with Marie–Louise, daughter of Francis II, emperor of Austria.
 type: items
+url: /d/1015/
 ---

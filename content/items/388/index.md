@@ -2,6 +2,8 @@
 aliases:
   - /items/show/388
   - /items/show/388.html
+  - /items/388/
+  - /items/388
 collections: []
 date: '2019-07-23 22:34:00'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - Women
 title: Condorcet, "On the Admission of Women to the Rights Of Citizenship" (1790)
 type: items
+url: /d/475/
 ---
 
 {{< raw >}}

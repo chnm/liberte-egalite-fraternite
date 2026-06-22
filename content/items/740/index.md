@@ -2,6 +2,8 @@
 aliases:
   - /items/show/740
   - /items/show/740.html
+  - /items/740/
+  - /items/740
 collections: []
 date: '2019-07-23 22:35:33'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: First session of the new Legislative Assembly under the Constitution of 1791.
 type: items
+url: /d/787/
 ---

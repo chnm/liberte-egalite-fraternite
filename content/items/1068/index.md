@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1068
   - /items/show/1068.html
+  - /items/1068/
+  - /items/1068
 collections: []
 date: '2019-07-23 22:36:52'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Seigneur
 type: items
+url: /d/1114/
 ---

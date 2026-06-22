@@ -2,6 +2,8 @@
 aliases:
   - /items/show/495
   - /items/show/495.html
+  - /items/495/
+  - /items/495
 collections: []
 date: '2019-07-23 22:34:28'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Arthur Young Views the Countryside
 type: items
+url: /d/355/
 ---
 
 {{< raw >}}

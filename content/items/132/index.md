@@ -2,6 +2,8 @@
 aliases:
   - /items/show/132
   - /items/show/132.html
+  - /items/132/
+  - /items/132
 collections: []
 date: '2019-07-23 22:30:02'
 draft: false
@@ -76,6 +78,7 @@ tags:
   - The Terror
 title: An Ordinary Guillotine
 type: items
+url: /d/125/
 ---
 
 {{< raw >}}

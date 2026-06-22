@@ -2,6 +2,8 @@
 aliases:
   - /items/show/460
   - /items/show/460.html
+  - /items/460/
+  - /items/460
 collections: []
 date: '2019-07-23 22:34:19'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: '<i>Champ de Mars</i>: Petitions of the Cordelier and Jacobin Clubs'
 type: items
+url: /d/390/
 ---
 
 {{< raw >}}

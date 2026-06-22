@@ -2,6 +2,8 @@
 aliases:
   - /items/show/653
   - /items/show/653.html
+  - /items/653/
+  - /items/653
 collections: []
 date: '2019-07-23 22:35:13'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: An assassination attempt on Bonaparte occurs in the rue Saint–Niçâise.
 type: items
+url: /d/700/
 ---

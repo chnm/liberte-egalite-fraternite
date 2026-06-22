@@ -2,6 +2,8 @@
 aliases:
   - /items/show/1019
   - /items/show/1019.html
+  - /items/1019/
+  - /items/1019
 collections: []
 date: '2019-07-23 22:36:40'
 draft: false
@@ -33,4 +35,5 @@ tags:
   - Glossary
 title: Bourbon
 type: items
+url: /d/1065/
 ---

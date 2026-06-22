@@ -2,6 +2,8 @@
 aliases:
   - /items/show/864
   - /items/show/864.html
+  - /items/864/
+  - /items/864
 collections: []
 date: '2019-07-23 22:36:03'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Promulgation of Papal Bull <i>Unigenitus</i> regarding Jansenism.
 type: items
+url: /d/911/
 ---

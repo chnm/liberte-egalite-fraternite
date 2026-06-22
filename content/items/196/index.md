@@ -2,6 +2,8 @@
 aliases:
   - /items/show/196
   - /items/show/196.html
+  - /items/196/
+  - /items/196
 collections: []
 date: '2019-07-23 22:31:24'
 draft: false
@@ -70,6 +72,7 @@ tags:
   - War
 title: Bonaparte Visiting the Hospital in Jaffa
 type: items
+url: /d/191/
 ---
 
 {{< raw >}}

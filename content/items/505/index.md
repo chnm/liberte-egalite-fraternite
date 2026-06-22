@@ -2,6 +2,8 @@
 aliases:
   - /items/show/505
   - /items/show/505.html
+  - /items/505/
+  - /items/505
 collections: []
 date: '2019-07-23 22:34:31'
 draft: false
@@ -46,6 +48,7 @@ tags:
   - Text
 title: Barnave, "Speech for the Colonial Committee of the National Assembly" (8 March 1790)
 type: items
+url: /d/345/
 ---
 
 {{< raw >}}

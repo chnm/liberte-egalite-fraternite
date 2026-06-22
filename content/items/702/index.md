@@ -2,6 +2,8 @@
 aliases:
   - /items/show/702
   - /items/show/702.html
+  - /items/702/
+  - /items/702
 collections: []
 date: '2019-07-23 22:35:24'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Remodeling of <i>parlements</i> by Maupeou.
 type: items
+url: /d/749/
 ---

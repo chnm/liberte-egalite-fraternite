@@ -2,6 +2,8 @@
 aliases:
   - /items/show/42
   - /items/show/42.html
+  - /items/42/
+  - /items/42
 collections: []
 date: '2019-07-23 22:27:15'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Women
 title: The Triumph of Liberty
 type: items
+url: /d/30/
 ---
 
 {{< raw >}}

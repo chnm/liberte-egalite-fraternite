@@ -2,6 +2,8 @@
 aliases:
   - /items/show/453
   - /items/show/453.html
+  - /items/453/
+  - /items/453
 collections: []
 date: '2019-07-23 22:34:17'
 draft: false
@@ -49,6 +51,7 @@ tags:
   - The Terror
 title: The Eleventh of Thermidor
 type: items
+url: /d/397/
 ---
 
 {{< raw >}}

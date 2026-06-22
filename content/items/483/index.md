@@ -2,6 +2,8 @@
 aliases:
   - /items/show/483
   - /items/show/483.html
+  - /items/483/
+  - /items/483
 collections: []
 date: '2019-07-23 22:34:25'
 draft: false
@@ -48,6 +50,7 @@ tags:
   - Text
 title: Abolition of Nobility
 type: items
+url: /d/367/
 ---
 
 {{< raw >}}

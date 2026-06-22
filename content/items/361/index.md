@@ -2,6 +2,8 @@
 aliases:
   - /items/show/361
   - /items/show/361.html
+  - /items/361/
+  - /items/361
 collections: []
 date: '2019-07-23 22:33:53'
 draft: false
@@ -44,6 +46,7 @@ tags:
   - Text
 title: Religious Conflicts after the Concordat (1803)
 type: items
+url: /d/506/
 ---
 
 {{< raw >}}

@@ -2,6 +2,8 @@
 aliases:
   - /items/show/130
   - /items/show/130.html
+  - /items/130/
+  - /items/130
 collections: []
 date: '2019-07-23 22:29:59'
 draft: false
@@ -72,6 +74,7 @@ tags:
   - The Terror
 title: The Calculating Patriot
 type: items
+url: /d/123/
 ---
 
 {{< raw >}}

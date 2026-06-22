@@ -2,6 +2,8 @@
 aliases:
   - /items/show/18
   - /items/show/18.html
+  - /items/18/
+  - /items/18
 collections: []
 date: '2019-07-23 22:26:31'
 draft: false
@@ -71,6 +73,7 @@ tags:
   - Religion
 title: Procession of Refractory Clergy
 type: items
+url: /d/6/
 ---
 
 {{< raw >}}

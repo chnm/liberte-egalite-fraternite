@@ -2,6 +2,8 @@
 aliases:
   - /items/show/793
   - /items/show/793.html
+  - /items/793/
+  - /items/793
 collections: []
 date: '2019-07-23 22:35:45'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Royal leader Charette executed.
 type: items
+url: /d/840/
 ---

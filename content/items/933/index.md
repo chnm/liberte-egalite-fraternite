@@ -2,6 +2,8 @@
 aliases:
   - /items/show/933
   - /items/show/933.html
+  - /items/933/
+  - /items/933
 collections: []
 date: '2019-07-23 22:36:19'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Legal system reorganized by Chancellor Maupeou. <i>Parlement</i> of Paris is split up and magistrates are appointed by the government.
 type: items
+url: /d/980/
 ---

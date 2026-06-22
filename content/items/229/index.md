@@ -2,6 +2,8 @@
 aliases:
   - /items/show/229
   - /items/show/229.html
+  - /items/229/
+  - /items/229
 collections: []
 date: '2019-07-23 22:32:18'
 draft: false
@@ -66,6 +68,7 @@ tags:
   - War
 title: Revenge taken by the Black Army for the Cruelties practised on them by the French
 type: items
+url: /d/225/
 ---
 
 {{< raw >}}

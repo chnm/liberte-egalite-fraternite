@@ -2,6 +2,8 @@
 aliases:
   - /items/show/970
   - /items/show/970.html
+  - /items/970/
+  - /items/970
 collections: []
 date: '2019-07-23 22:36:27'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: 'First Treaty of Paris: France is reduced to its 1792 frontiers.'
 type: items
+url: /d/1017/
 ---

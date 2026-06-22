@@ -2,6 +2,8 @@
 aliases:
   - /items/show/755
   - /items/show/755.html
+  - /items/755/
+  - /items/755
 collections: []
 date: '2019-07-23 22:35:37'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Food riots in Paris.
 type: items
+url: /d/802/
 ---

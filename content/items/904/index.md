@@ -2,6 +2,8 @@
 aliases:
   - /items/show/904
   - /items/show/904.html
+  - /items/904/
+  - /items/904
 collections: []
 date: '2019-07-23 22:36:12'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Return to the emergency laws of the Terror.
 type: items
+url: /d/951/
 ---

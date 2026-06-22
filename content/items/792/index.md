@@ -2,6 +2,8 @@
 aliases:
   - /items/show/792
   - /items/show/792.html
+  - /items/792/
+  - /items/792
 collections: []
 date: '2019-07-23 22:35:45'
 draft: false
@@ -36,4 +38,5 @@ tags:
   - Timeline
 title: Napoleon is named commander–in–chief of all French forces in Italy.
 type: items
+url: /d/839/
 ---
