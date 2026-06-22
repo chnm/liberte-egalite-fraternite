@@ -1,33 +1,24 @@
 {{/*
-  Dev-only "View original" link back to the live Omeka site.
+  Dev-only "View original on Omeka" link back to the live site, for visual
+  comparison during development. Mirrors the chnm/sustainability (hurricane)
+  pattern: renders ONLY under the `development` environment — `hugo server`, or
+  a build run with `--environment development` / `HUGO_ENVIRONMENT=development`.
+  A normal production build (`hugo`) omits it entirely, so the link never ships.
 
-  Renders ONLY under the `development` environment (`hugo server`, or a build
-  run with `--environment development` / `HUGO_ENVIRONMENT=development`). A
-  normal production build (`hugo`) omits it entirely, so the link never ships.
-
-  The original path mirrors the first alias each emitter writes:
-    items       -> {origin}/items/show/{id}
-    collections -> {origin}/collections/show/{id}
-    simple page -> {origin}/{slug}        (slug-based, not /show/{id})
+  This conversion preserved the live URL structure (CleanUrl `/d/<identifier>`
+  items, original exhibit/simple-page paths), so the original page lives at the
+  same path on the origin: `{origin}{.RelPermalink}`. Shown only on the content
+  types whose URL matches the live site (home, items, exhibits, simple pages),
+  not on Hugo-only browse/taxonomy pages.
 
   Pass the page context: {{ partial "original-source.html" . }}
 */}}
 {{ if hugo.IsDevelopment }}
   {{ $origin := site.Params.origin | strings.TrimSuffix "/" }}
-  {{ $id := .Params.id }}
-  {{ $type := .Params.type }}
-  {{ $slug := .Params.slug }}
-  {{ $path := "" }}
-  {{ if and $id (eq $type "items") }}
-    {{ $path = printf "/items/show/%v" $id }}
-  {{ else if and $id (eq $type "collections") }}
-    {{ $path = printf "/collections/show/%v" $id }}
-  {{ else if and $slug (eq $type "page") }}
-    {{ $path = printf "/%v" $slug }}
-  {{ end }}
-  {{ if and $origin $path }}
+  {{ $show := or .IsHome (in (slice "items" "exhibits" "page") .Params.type) }}
+  {{ if and $origin $show .RelPermalink }}
     <p class="dev-source-link">
-      <a href="{{ $origin }}{{ $path }}" rel="external nofollow">View original on Omeka&nbsp;↗</a>
+      <a href="{{ $origin }}{{ .RelPermalink }}" rel="external nofollow noopener" target="_blank">View original on Omeka&nbsp;&#8599;</a>
     </p>
   {{ end }}
 {{ end }}

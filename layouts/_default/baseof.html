@@ -9,6 +9,7 @@
   {{ partial "header.html" . }}
 
   <div id="content" role="main" tabindex="-1">
+    {{ partial "original-source.html" . }}
     {{ block "main" . }}{{ end }}
   </div><!-- end content -->
 
