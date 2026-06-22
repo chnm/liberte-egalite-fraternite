@@ -34,9 +34,9 @@
               {{ range .attachments }}
                 <div class="exhibit-item">
                   {{ if .image }}
-                    <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ .title }}" title="{{ .title }}"></a>
+                    <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
-                    <a class="exhibit-item-link" href="{{ .url }}">{{ .title }}</a>
+                    <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
                   {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
                 </div>
@@ -50,9 +50,9 @@
               {{ range .attachments }}
                 <div class="exhibit-item exhibit-gallery-item">
                   {{ if .image }}
-                    <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title }}" title="{{ .title }}"></a>
+                    <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
-                    <a class="exhibit-item-link" href="{{ .url }}">{{ .title }}</a>
+                    <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
                   {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
                 </div>

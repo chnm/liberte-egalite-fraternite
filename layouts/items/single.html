@@ -1,13 +1,13 @@
 {{ define "body-class" }}items show double{{ end }}
 {{ define "main" }}
 <div class="wrap">
-  <h1>{{ .Title }}{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
+  <h1>{{ .Title | safeHTML }}{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
 
   {{ with .Params.files }}
     <div id="item-images">
       {{ range . }}
         {{ if and .mime (hasPrefix .mime "image/") }}
-          <div class="item-file image"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ $.Title }}"></a></div>
+          <div class="item-file image"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ $.Title | plainify }}"></a></div>
         {{ else }}
           <div class="item-file"><a class="download-file" href="{{ .url }}">{{ or .original_filename "Download file" }}</a></div>
         {{ end }}
