@@ -53,3 +53,12 @@ html { scroll-padding-top: 1rem; }
   left: 0.5rem;
   top: 0.5rem;
 }
+
+/* Theme correction (not a11y): the vendored app.css references the paid
+   "Font Awesome 5 Pro" font for the text-item document icon before exhibit
+   links. We load Font Awesome 6 *Free*, so that icon rendered as a tofu/empty
+   generated box. Remap to the free solid family so the icon renders. */
+.layout-file-text .exhibit-item-link::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+}
