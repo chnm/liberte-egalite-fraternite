@@ -1,0 +1,18 @@
+baseURL = ""
+title = "LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION"
+languageCode = "en-us"
+disableKinds = ["RSS"]
+
+[params]
+  origin = "https://revolution.chnm.org"
+  site_name = "revolution"
+
+[taxonomies]
+  collection = "collections"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 50
+
+[markup.goldmark.renderer]
+  unsafe = true

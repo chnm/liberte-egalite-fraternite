@@ -1,0 +1,27 @@
+{
+  "chrome_options": {
+    "author": "",
+    "copyright": "",
+    "description": "",
+    "public_theme": "foundation",
+    "show_empty_elements": "0",
+    "site_title": "LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION",
+    "use_square_thumbnail": "1"
+  },
+  "description": "",
+  "site_title": "LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION",
+  "theme": "foundation",
+  "theme_options": {
+    "display_featured_collection": "1",
+    "display_featured_exhibit": "1",
+    "display_featured_item": "1",
+    "display_footer_copyright": "0",
+    "footer_text": "This site is a collaboration of the <a href=\"http://chnm.gmu.edu/\">Roy Rosenzweig Center for History and New Media</a> (George Mason University) and <a href=\"http://www.ashp.cuny.edu/\"> American Social History Project</a> (City University of New York), supported by grants from the Florence Gould Foundation and the <a href=\"http://www.neh.gov/\">National Endowment for the Humanities.</a>",
+    "homepage_background": null,
+    "homepage_text": "",
+    "item_browse_layout": "list",
+    "item_file_gallery": "1",
+    "item_show_columns": "double",
+    "logo": "67d23a0e4a55d8dd335ca21787ed29bf.png"
+  }
+}
