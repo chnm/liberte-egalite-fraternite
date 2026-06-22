@@ -1,6 +1,14 @@
 {{ define "body-class" }}page simple-page{{ end }}
 {{ define "main" }}
 <div id="primary">
+  <p id="simple-pages-breadcrumbs">
+    <nav aria-label="You are here:" role="navigation">
+      <ul class="breadcrumbs">
+        <li><a href="/">Home</a></li>
+        <li><span class="current" aria-current="page">{{ .Title }}</span></li>
+      </ul>
+    </nav>
+  </p>
   <article class="simple-page">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
