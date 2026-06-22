@@ -20,3 +20,4 @@
 </script>
 
 {{ if eq .Type "search" }}<script type="module" src="/js/search.js?v={{ os.ReadFile "static/js/search.js" | crypto.MD5 }}"></script>{{ end }}
+{{ if eq .Type "advsearch" }}<script src="/js/search-advanced.js?v={{ os.ReadFile "static/js/search-advanced.js" | crypto.MD5 }}"></script>{{ end }}

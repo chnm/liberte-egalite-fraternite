@@ -11,7 +11,7 @@
 {{ $order := .Params.order | default "asc" }}
 {{ $src := . }}
 {{ if .Params.sortby }}{{ $src = site.GetPage "/items" }}{{ end }}
-{{ $all := $src.RegularPages }}
+{{ $all := where $src.RegularPages "Type" "items" }}
 {{ $items := $all.ByTitle }}
 {{ if eq $sortBy "date" }}{{ $items = $all.ByParam "sortdate" }}{{ end }}
 {{ if eq $order "desc" }}{{ $items = $items.Reverse }}{{ end }}

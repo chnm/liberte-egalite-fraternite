@@ -1,0 +1,109 @@
+{{ define "body-class" }}items search advanced browse{{ end }}
+{{ define "main" }}
+{{ $items := where site.RegularPages "Type" "items" }}
+
+{{/* Build the client-side dataset and the Type options. */}}
+{{ $data := slice }}
+{{ $types := slice }}
+{{ range $items }}
+  {{ $dc := .Params.dublin_core }}
+  {{ $fields := dict }}
+  {{ range $f, $vals := $dc }}
+    {{ $t := "" }}{{ range $vals }}{{ $t = printf "%s %s" $t .text }}{{ end }}
+    {{ $t = $t | plainify | chomp }}
+    {{ if gt (len $t) 400 }}{{ $t = printf "%s…" (substr $t 0 400) }}{{ end }}
+    {{ $fields = merge $fields (dict $f $t) }}
+  {{ end }}
+  {{ $thumb := "" }}{{ with .Params.files }}{{ with index . 0 }}{{ $thumb = .thumb }}{{ end }}{{ end }}
+  {{ with .Params.item_type }}{{ if not (in $types .) }}{{ $types = $types | append . }}{{ end }}{{ end }}
+  {{ $id := .RelPermalink | strings.TrimPrefix "/d/" | strings.TrimSuffix "/" }}
+  {{ $data = $data | append (dict
+      "u" .RelPermalink
+      "t" (.Title | plainify)
+      "ty" (.Params.item_type | default "")
+      "f" (.Params.featured | default false)
+      "tg" (.Params.tags | default slice)
+      "co" (apply (.Params.collections | default slice) "string" ".")
+      "id" $id
+      "th" $thumb
+      "fields" $fields
+  ) }}
+{{ end }}
+
+{{ $dcFields := slice "Title" "Subject" "Description" "Creator" "Source" "Publisher" "Date" "Contributor" "Rights" "Relation" "Format" "Language" "Type" "Coverage" "Identifier" }}
+
+<div id="primary">
+  <h1 id="search-heading">Search Items</h1>
+
+  <form id="advanced-search-form" action="/items/search/" method="get">
+    <fieldset class="advanced-search-group">
+      <legend>Search for Keywords</legend>
+      <input type="text" name="search" id="keyword-search" value="">
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Narrow by Specific Fields</legend>
+      <div id="advanced-rows">
+        <div class="advanced-search-row grid-x">
+          <select name="advanced[0][element]" class="advanced-search-element cell medium-4">
+            <option value="">Select Below</option>
+            {{ range $dcFields }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+          </select>
+          <select name="advanced[0][type]" class="advanced-search-type cell medium-4">
+            <option value="contains">contains</option>
+            <option value="is exactly">is exactly</option>
+            <option value="does not contain">does not contain</option>
+            <option value="is empty">is empty</option>
+            <option value="is not empty">is not empty</option>
+          </select>
+          <input type="text" name="advanced[0][terms]" class="advanced-search-terms cell medium-4" value="">
+        </div>
+      </div>
+      <button type="button" id="add-field" class="button">Add a Field</button>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search by a range of identifiers (example: 1-4, 156, 79)</legend>
+      <input type="text" name="range" id="range" value="">
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Collection</legend>
+      <select name="collection" id="collection-search">
+        <option value="">Select Below</option>
+        {{ range $cid, $ctax := site.Taxonomies.collections }}
+          {{ $cp := site.GetPage (printf "/collections/%s" $cid) }}
+          <option value="{{ $cid }}">{{ with $cp }}{{ .Title }}{{ else }}Collection {{ $cid }}{{ end }}</option>
+        {{ end }}
+      </select>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Type</legend>
+      <select name="type" id="item-type-search">
+        <option value="">Select Below</option>
+        {{ range (sort $types) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+      </select>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Tags</legend>
+      <input type="text" name="tags" id="tag-search" value="">
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Featured/Non-Featured</legend>
+      <select name="featured" id="featured">
+        <option value="">Select Below</option>
+        <option value="1">Featured Items only</option>
+        <option value="0">Non-Featured Items only</option>
+      </select>
+    </fieldset>
+
+    <button type="submit" class="button" id="submit_search_advanced">Search for items</button>
+  </form>
+
+  <script type="application/json" id="adv-items">{{ $data | jsonify | safeJS }}</script>
+  <div id="search-results"></div>
+</div>
+{{ end }}
