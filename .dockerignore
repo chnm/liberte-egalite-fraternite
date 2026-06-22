@@ -1,0 +1,11 @@
+# Keep the build context lean and let the image build fresh.
+.git
+.gitignore
+/public/
+/public-deploy/
+/resources/
+/node_modules/
+.hugo_build.lock
+*.sqlite
+# Converter-owned artifacts (not consumed by the Hugo build).
+/omeka2hugo/
