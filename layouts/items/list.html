@@ -1,14 +1,35 @@
 {{ define "body-class" }}items browse{{ end }}
 {{ define "main" }}
-{{/* The date view lives at /items/date/ (sortby: date in its front matter) and
-     pulls the items from the main /items/ section. */}}
+{{/* Sorted views live at:
+       /items/            title  asc   (default)
+       /items/title-desc/ title  desc
+       /items/date/       date   asc
+       /items/date-desc/  date   desc
+     Each carries sortby/order in its front matter and pulls items from the
+     main /items/ section. */}}
 {{ $sortBy := .Params.sortby | default "title" }}
+{{ $order := .Params.order | default "asc" }}
 {{ $src := . }}
 {{ if .Params.sortby }}{{ $src = site.GetPage "/items" }}{{ end }}
 {{ $all := $src.RegularPages }}
 {{ $items := $all.ByTitle }}
 {{ if eq $sortBy "date" }}{{ $items = $all.ByParam "sortdate" }}{{ end }}
+{{ if eq $order "desc" }}{{ $items = $items.Reverse }}{{ end }}
 {{ $paginator := .Paginate $items 10 }}
+
+{{/* Per-field toggle target + current-direction caret. Clicking the active
+     field flips direction; clicking the other field sorts it ascending. */}}
+{{ $titleHref := "/items/" }}{{ $titleIcon := "" }}
+{{ if eq $sortBy "title" }}
+  {{ $titleHref = cond (eq $order "asc") "/items/title-desc/" "/items/" }}
+  {{ $titleIcon = cond (eq $order "asc") "fa-caret-up" "fa-caret-down" }}
+{{ end }}
+{{ $dateHref := "/items/date/" }}{{ $dateIcon := "" }}
+{{ if eq $sortBy "date" }}
+  {{ $dateHref = cond (eq $order "asc") "/items/date-desc/" "/items/date/" }}
+  {{ $dateIcon = cond (eq $order "asc") "fa-caret-up" "fa-caret-down" }}
+{{ end }}
+
 {{ $typeTags := dict "image" true "text" true "map" true "timeline" true "song" true "glossary" true }}
 <div id="revolution-wrap">
   <aside id="revolution-filters" aria-label="Browse filters">
@@ -32,8 +53,12 @@
       <div id="sort-links">
         <span class="sort-label">Sort by: </span>
         <ul id="sort-links-list">
-          <li{{ if eq $sortBy "title" }} class="current"{{ end }}><a href="/items/"{{ if eq $sortBy "title" }} aria-current="true"{{ end }}>Title</a></li>
-          <li{{ if eq $sortBy "date" }} class="current"{{ end }}><a href="/items/date/"{{ if eq $sortBy "date" }} aria-current="true"{{ end }}>Date</a></li>
+          <li class="{{ if eq $sortBy "title" }}current sorting {{ $order }}{{ end }}">
+            <a href="{{ $titleHref }}"{{ if eq $sortBy "title" }} title="Sorted {{ $order }}ending — click to reverse"{{ end }}>Title{{ with $titleIcon }} <i class="fas {{ . }}" aria-hidden="true"></i>{{ end }}</a>
+          </li>
+          <li class="{{ if eq $sortBy "date" }}current sorting {{ $order }}{{ end }}">
+            <a href="{{ $dateHref }}"{{ if eq $sortBy "date" }} title="Sorted {{ $order }}ending — click to reverse"{{ end }}>Date{{ with $dateIcon }} <i class="fas {{ . }}" aria-hidden="true"></i>{{ end }}</a>
+          </li>
         </ul>
       </div>
       {{ partial "browse-pagination.html" $paginator }}

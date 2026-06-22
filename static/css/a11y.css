@@ -62,3 +62,8 @@ html { scroll-padding-top: 1rem; }
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
 }
+
+/* The theme draws sort-direction arrows via .sorting.asc/.desc::after with the
+   paid Font Awesome 5 Pro font (renders as a tofu box). We draw our own caret
+   in the markup, so suppress the broken pseudo-element. */
+#sort-links-list .sorting::after { content: none; }
