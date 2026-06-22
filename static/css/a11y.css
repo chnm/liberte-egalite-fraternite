@@ -67,3 +67,22 @@ html { scroll-padding-top: 1rem; }
    paid Font Awesome 5 Pro font (renders as a tofu box). We draw our own caret
    in the markup, so suppress the broken pseudo-element. */
 #sort-links-list .sorting::after { content: none; }
+
+/* Header search form (replaces the original server-side Omeka search form). */
+.site-search-form { display: flex; gap: 0.5rem; align-items: stretch; }
+.site-search-form input[type="search"] { flex: 1 1 auto; margin: 0; }
+.site-search-form .button { margin: 0; white-space: nowrap; }
+
+/* Pagefind search UI — themed to the Foundation palette/fonts. */
+#search {
+  --pagefind-ui-primary: #9e0b0f;
+  --pagefind-ui-text: #0a0a0a;
+  --pagefind-ui-background: #fffdf1;
+  --pagefind-ui-border: #cacaca;
+  --pagefind-ui-tag: #f3efe0;
+  --pagefind-ui-font: "Alegreya", serif;
+  --pagefind-ui-border-radius: 2px;
+  --pagefind-ui-border-width: 1px;
+  display: block;
+  margin-top: 1rem;
+}

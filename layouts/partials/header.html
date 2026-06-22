@@ -23,6 +23,10 @@
   </nav>
 
   <div id="search-container" role="search" class="closed">
-    <div id="search"></div>
+    <form action="/search/" method="get" role="search" class="site-search-form">
+      <label class="show-for-sr" for="site-search">Search this site</label>
+      <input type="search" id="site-search" name="q" placeholder="Search this site…" autocomplete="off">
+      <button type="submit" class="button">Search</button>
+    </form>
   </div>
 </header>

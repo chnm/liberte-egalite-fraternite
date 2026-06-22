@@ -12,7 +12,7 @@
 <!-- Accessibility overrides (WCAG 2.2 AA), layered on app.css -->
 <link rel="stylesheet" href="/css/a11y.css?v={{ os.ReadFile "static/css/a11y.css" | crypto.MD5 }}" media="all">
 
-<!-- Pagefind search UI -->
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<!-- Pagefind search UI (search page only) -->
+{{ if eq .Type "search" }}<link rel="stylesheet" href="/pagefind/pagefind-ui.css">{{ end }}
 
 {{ if hugo.IsDevelopment }}<link rel="stylesheet" href="/css/dev.css?v={{ os.ReadFile "static/css/dev.css" | crypto.MD5 }}" media="all">{{ end }}
