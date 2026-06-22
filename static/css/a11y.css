@@ -68,21 +68,15 @@ html { scroll-padding-top: 1rem; }
    in the markup, so suppress the broken pseudo-element. */
 #sort-links-list .sorting::after { content: none; }
 
-/* Header search form (replaces the original server-side Omeka search form). */
-.site-search-form { display: flex; gap: 0.5rem; align-items: stretch; }
-.site-search-form input[type="search"] { flex: 1 1 auto; margin: 0; }
-.site-search-form .button { margin: 0; white-space: nowrap; }
-
-/* Pagefind search UI — themed to the Foundation palette/fonts. */
-#search {
-  --pagefind-ui-primary: #9e0b0f;
-  --pagefind-ui-text: #0a0a0a;
-  --pagefind-ui-background: #fffdf1;
-  --pagefind-ui-border: #cacaca;
-  --pagefind-ui-tag: #f3efe0;
-  --pagefind-ui-font: "Alegreya", serif;
-  --pagefind-ui-border-radius: 2px;
-  --pagefind-ui-border-width: 1px;
-  display: block;
-  margin-top: 1rem;
-}
+/* Search results (Pagefind, rendered by /js/search.js). The header search
+   form reuses the original theme IDs (#search-form etc.), so app.css styles it. */
+.search-meta { margin: 0 0 1rem; }
+.search-meta .label { margin-right: 0.4rem; }
+.search-results-table { width: 100%; border-collapse: collapse; }
+.search-results-table th,
+.search-results-table td { padding: 0.75rem 0.5rem; border-bottom: 1px solid #e6e6e6; vertical-align: top; text-align: left; }
+.search-results-table td.record-type { width: 8rem; white-space: nowrap; }
+.search-results-table .search-thumb { float: left; margin: 0 1rem 0.5rem 0; }
+.search-results-table .search-thumb img { max-width: 80px; height: auto; border: 1px solid #cacaca; }
+.search-results-table .excerpt { clear: none; margin-top: 0.25rem; font-size: 0.9rem; color: #595959; }
+.search-results-table .excerpt mark { background: #ffe69c; color: inherit; }

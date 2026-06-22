@@ -1,7 +1,9 @@
 {{ define "body-class" }}items show double{{ end }}
 {{ define "main" }}
 <div class="wrap">
-  <h1>{{ .Title | safeHTML }}{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
+  {{/* Pagefind result metadata: a clean title and a small thumbnail. */}}
+  {{ with .Params.files }}{{ with index . 0 }}{{ with .thumb }}<span data-pagefind-meta="image[data-img]" data-img="{{ . }}"></span>{{ end }}{{ end }}{{ end }}
+  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
 
   {{ with .Params.files }}
     <div id="item-images">
@@ -22,7 +24,7 @@
       {{ range $f := $order }}
         {{ with index $dc $f }}
           <div id="dublin-core-{{ $f | urlize }}" class="element">
-            <h3>{{ $f }}</h3>
+            <h3 data-pagefind-ignore>{{ $f }}</h3>
             {{ range . }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
           </div>
         {{ end }}
@@ -32,12 +34,12 @@
     {{ with .Params.item_type_metadata }}
       {{/* "Sortable Date" is admin-hidden on the live site (HideElements plugin);
            it backs the timeline but never displays publicly. */}}
-      {{ $hidden := slice "Sortable Date" }}
+      {{ $hidden := slice "sortable date" }}
       <div class="element-set">
         {{ range $f, $vals := . }}
-          {{ if not (in $hidden $f) }}
+          {{ if not (in $hidden (lower $f)) }}
             <div class="element">
-              <h3>{{ $f }}</h3>
+              <h3 data-pagefind-ignore>{{ $f }}</h3>
               {{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
             </div>
           {{ end }}
@@ -47,13 +49,13 @@
 
     {{ with .Params.tags }}
       <div id="item-tags" class="element">
-        <h3>Tags</h3>
+        <h3 data-pagefind-ignore>Tags</h3>
         <div class="element-text">{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="/tags/{{ $t | urlize }}/" rel="tag">{{ $t }}</a>{{ end }}</div>
       </div>
     {{ end }}
 
     <div id="item-citation" class="element">
-      <h3>Citation</h3>
+      <h3 data-pagefind-ignore>Citation</h3>
       <div class="element-text">{{ partial "citation.html" . }}</div>
     </div>
   </div>

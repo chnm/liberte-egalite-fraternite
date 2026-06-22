@@ -19,21 +19,4 @@
   });
 </script>
 
-{{ if eq .Type "search" }}
-<script src="/pagefind/pagefind-ui.js"></script>
-<script>
-  window.addEventListener('DOMContentLoaded', function () {
-    if (!window.PagefindUI) return;
-    var ui = new PagefindUI({
-      element: '#search',
-      showImages: true,
-      showSubResults: true,
-      showEmptyFilters: false,
-      pageSize: 10,
-    });
-    // Run the query passed from the header search form (/search/?q=...).
-    var q = new URLSearchParams(location.search).get('q');
-    if (q) { ui.triggerSearch(q); }
-  });
-</script>
-{{ end }}
+{{ if eq .Type "search" }}<script type="module" src="/js/search.js?v={{ os.ReadFile "static/js/search.js" | crypto.MD5 }}"></script>{{ end }}

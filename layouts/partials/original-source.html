@@ -17,7 +17,7 @@
   {{ $origin := site.Params.origin | strings.TrimSuffix "/" }}
   {{ $show := or .IsHome (in (slice "items" "exhibits" "page") .Params.type) }}
   {{ if and $origin $show .RelPermalink }}
-    <p class="dev-source-link">
+    <p class="dev-source-link" data-pagefind-ignore>
       <a href="{{ $origin }}{{ .RelPermalink }}" rel="external nofollow noopener" target="_blank">View original on Omeka&nbsp;&#8599;</a>
     </p>
   {{ end }}

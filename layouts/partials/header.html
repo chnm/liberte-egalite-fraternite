@@ -23,10 +23,22 @@
   </nav>
 
   <div id="search-container" role="search" class="closed">
-    <form action="/search/" method="get" role="search" class="site-search-form">
-      <label class="show-for-sr" for="site-search">Search this site</label>
-      <input type="search" id="site-search" name="q" placeholder="Search this site…" autocomplete="off">
-      <button type="submit" class="button">Search</button>
+    <form id="search-form" name="search-form" class="grid-x" action="/search/" method="get">
+      <input type="text" name="query" id="query" value="" title="Search" placeholder="Search" class="cell large-11">
+      <div id="advanced-form">
+        <fieldset id="query-types">
+          <legend class="show-for-sr">Search using this query type:</legend>
+          <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked>Keyword</label><label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>
+        </fieldset>
+        <fieldset id="record-types">
+          <legend class="show-for-sr">Search only these record types:</legend>
+          <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked> <label for="record_types-Item">Item</label>
+          <input type="checkbox" name="record_types[]" id="record_types-Exhibit" value="Exhibit" checked> <label for="record_types-Exhibit">Exhibit</label>
+          <input type="checkbox" name="record_types[]" id="record_types-Page" value="Page" checked> <label for="record_types-Page">Page</label>
+        </fieldset>
+        <p><a href="/items/">Advanced Search (Items only)</a></p>
+      </div>
+      <button name="submit_search" id="submit_search" type="submit" value="Search" class="cell large-1">Search</button>
     </form>
   </div>
 </header>
