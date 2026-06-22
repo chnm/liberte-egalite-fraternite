@@ -774,5 +774,5 @@ lastmod: ''
 slug: monarchy-falls
 title: Monarchy Falls
 type: exhibits
-weight: 5
+weight: 6
 ---

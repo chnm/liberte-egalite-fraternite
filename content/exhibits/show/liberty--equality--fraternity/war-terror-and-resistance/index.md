@@ -774,5 +774,5 @@ lastmod: ''
 slug: war-terror-and-resistance
 title: War, Terror, and Resistance to the Revolution
 type: exhibits
-weight: 6
+weight: 7
 ---

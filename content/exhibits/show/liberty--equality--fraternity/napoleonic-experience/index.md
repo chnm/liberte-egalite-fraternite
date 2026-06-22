@@ -628,5 +628,5 @@ lastmod: ''
 slug: napoleonic-experience
 title: The Napoleonic Experience
 type: exhibits
-weight: 8
+weight: 9
 ---

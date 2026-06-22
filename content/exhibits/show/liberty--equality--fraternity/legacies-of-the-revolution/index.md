@@ -452,5 +452,5 @@ lastmod: ''
 slug: legacies-of-the-revolution
 title: Legacies of the Revolution
 type: exhibits
-weight: 9
+weight: 10
 ---

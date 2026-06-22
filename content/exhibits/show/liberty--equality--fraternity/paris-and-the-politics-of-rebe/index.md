@@ -842,5 +842,5 @@ lastmod: ''
 slug: paris-and-the-politics-of-rebe
 title: Paris and the Politics of Rebellion
 type: exhibits
-weight: 3
+weight: 4
 ---

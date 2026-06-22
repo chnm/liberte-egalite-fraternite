@@ -416,5 +416,5 @@ lastmod: ''
 slug: enlightenment-and-human-rights
 title: The Enlightenment and Human Rights
 type: exhibits
-weight: 2
+weight: 3
 ---

@@ -396,5 +396,5 @@ lastmod: ''
 slug: monarchy-embattled
 title: Monarchy Embattled
 type: exhibits
-weight: 1
+weight: 2
 ---

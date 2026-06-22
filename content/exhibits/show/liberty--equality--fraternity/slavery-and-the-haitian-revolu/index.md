@@ -327,5 +327,5 @@ lastmod: ''
 slug: slavery-and-the-haitian-revolu
 title: Slavery and the Haitian Revolution
 type: exhibits
-weight: 7
+weight: 8
 ---

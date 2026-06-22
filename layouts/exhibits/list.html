@@ -1,24 +1,21 @@
 {{ define "body-class" }}exhibits summary{{ end }}
 {{ define "main" }}
-<div class="wrap">
-<article class="exhibit summary">
-  <h1>{{ .Title }}</h1>
-
-  {{ with .Content }}<div class="exhibit-description">{{ . }}</div>{{ end }}
-
-  {{ with .Pages.ByWeight }}
-    <nav class="exhibit-page-nav" aria-label="Exhibit pages">
-      <ul class="exhibit-pages" id="exhibit-pages">
-        {{ range . }}
+{{ $ordered := .Pages.ByWeight }}
+<div class="grid-x">
+  <nav id="exhibit-pages" class="cell small-12 medium-2" aria-label="Exhibit contents">
+    <div class="exhibit-tree-container">
+      <ul id="section-nav">
+        {{ range $ordered }}
           <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
-    </nav>
-  {{ end }}
+    </div>
+  </nav>
 
-  {{ with .Params.credits }}
-    <div class="exhibit-credits">{{ . | safeHTML }}</div>
-  {{ end }}
-</article>
+  <div id="exhibit-content" class="cell small-12 medium-8 medium-offset-1">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="exhibit-description">{{ . }}</div>{{ end }}
+    {{ with .Params.credits }}<div class="exhibit-credits">{{ . | safeHTML }}</div>{{ end }}
+  </div>
 </div>
 {{ end }}

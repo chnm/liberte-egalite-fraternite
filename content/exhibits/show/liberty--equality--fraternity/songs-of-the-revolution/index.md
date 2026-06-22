@@ -189,5 +189,5 @@ lastmod: ''
 slug: songs-of-the-revolution
 title: Songs of the Revolution
 type: exhibits
-weight: 10
+weight: 11
 ---

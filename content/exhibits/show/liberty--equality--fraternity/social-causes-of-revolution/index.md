@@ -456,5 +456,5 @@ lastmod: ''
 slug: social-causes-of-revolution
 title: Social Causes of the Revolution
 type: exhibits
-weight: 0
+weight: 1
 ---

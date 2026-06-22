@@ -485,5 +485,5 @@ lastmod: ''
 slug: women-and-the-revolution
 title: Women and the Revolution
 type: exhibits
-weight: 4
+weight: 5
 ---
