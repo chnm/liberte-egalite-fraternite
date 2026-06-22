@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '793'
+sortdate: '1796-03-29'
 tags:
   - Timeline
 title: Royal leader Charette executed.

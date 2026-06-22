@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '692'
+sortdate: '1814-05-03'
 tags:
   - Timeline
 title: Louis XVIII enters Paris. Bourbon dynasty restored.

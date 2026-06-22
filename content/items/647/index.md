@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '647'
+sortdate: '1800-02-07'
 tags:
   - Timeline
 title: On 18 Pluvôise Year VIII, results of the plebiscite are published and the Constitution of the Year VII is accepted.

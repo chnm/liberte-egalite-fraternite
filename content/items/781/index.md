@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '781'
+sortdate: '1794-09-18'
 tags:
   - Timeline
 title: A separation of Church and State is effected with the decree of the Convention that it will no longer pay salaries or expenses of the Church.

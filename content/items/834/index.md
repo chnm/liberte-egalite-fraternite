@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '834'
+sortdate: '1794-03-29'
 tags:
   - Timeline
 title: The arrest of Danton and the Dantonists ordered by the Committee of Public Safety and the Committee of General Security.

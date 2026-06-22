@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '769'
+sortdate: '1793-09-29'
 tags:
   - Timeline
 title: General Maximum introduced.

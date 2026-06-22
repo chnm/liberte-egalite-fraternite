@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '383'
+sortdate: '1793-02-24'
 tags:
   - Economic Conditions
   - Sans-culottes

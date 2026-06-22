@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '438'
+sortdate: '1789-12-12'
 tags:
   - Religion
   - Sans-culottes

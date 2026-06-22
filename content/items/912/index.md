@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '912'
+sortdate: '1799-10-09'
 tags:
   - Timeline
 title: Bonaparte returns secretly to France from Egypt, having deserted his army.

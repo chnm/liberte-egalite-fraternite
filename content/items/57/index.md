@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '57'
+sortdate: '1789-00-00'
 tags:
   - Economic Conditions
   - Enlightenment

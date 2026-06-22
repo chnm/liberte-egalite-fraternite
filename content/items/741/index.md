@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '741'
+sortdate: '1791-10-20'
 tags:
   - Timeline
 title: Brissot calls for war.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '430'
+sortdate: '1791-07-05'
 tags:
   - Counterrevolution
   - Europe in Revolution

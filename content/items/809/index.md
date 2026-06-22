@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '809'
+sortdate: '1790-06-19'
 tags:
   - Timeline
 title: All aristocratic, hereditary titles are abolished.

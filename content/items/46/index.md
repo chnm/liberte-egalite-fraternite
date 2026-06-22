@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '46'
+sortdate: '1877-00-00'
 tags:
   - Image
   - The Terror

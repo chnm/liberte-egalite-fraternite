@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1010'
+sortdate: '1789-06-20'
 tags:
   - Timeline
 title: 'Tennis Court Oath: After being locked out of their meeting room, deputies of the Third Estate assembled on a tennis court and swore not to separate until a constitutional regime was established.'

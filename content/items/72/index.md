@@ -64,6 +64,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '72'
+sortdate: '1939-07-14'
 tags:
   - Image
   - Public Opinion

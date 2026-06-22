@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '883'
+sortdate: '1793-08-04'
 tags:
   - Timeline
 title: The Constitution is ratified by 1,880,000 votes to 17,000.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '539'
+sortdate: '1790-12-29'
 tags:
   - Monarchy
   - Public Opinion

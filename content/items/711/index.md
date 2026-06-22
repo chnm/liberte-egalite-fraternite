@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '711'
+sortdate: '1787-08-00'
 tags:
   - Timeline
 title: Exile of <i>Parlements</i> of Paris and Bordeaux.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '754'
+sortdate: '1793-02-24'
 tags:
   - Timeline
 title: Decree conscripting 300,000 men.

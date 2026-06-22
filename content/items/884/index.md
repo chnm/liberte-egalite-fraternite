@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '884'
+sortdate: '1793-11-22'
 tags:
   - Timeline
 title: The first churches are closed in and around Paris following earlier efforts in the provinces.

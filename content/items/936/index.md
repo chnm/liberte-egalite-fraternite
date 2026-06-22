@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '936'
+sortdate: '1789-06-13'
 tags:
   - Timeline
 title: Three Poitevin <i>curés</i> decide to join the Third Estate, leaving the Chambers of the Clergy.

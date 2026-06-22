@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '676'
+sortdate: '1806-12-10'
 tags:
   - Timeline
 title: Opening of rabbinical conference that leads to the adoption of civil status for Jews.

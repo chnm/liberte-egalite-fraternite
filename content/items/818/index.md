@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '818'
+sortdate: '1792-08-11'
 tags:
   - Timeline
 title: The Legislative Assembly elects an Executive Council of six ministers to oversee the national election of representatives to the Convention. The Assembly also authorizes the arrest throughout France of suspected enemies of the Revolution. Royalist newspapers are prohibited.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '753'
+sortdate: '1793-02-01'
 tags:
   - Timeline
 title: The Convention declares war on Great Britain and the Netherlands.

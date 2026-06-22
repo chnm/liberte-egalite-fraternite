@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '869'
+sortdate: '1788-06-07'
 tags:
   - Timeline
 title: 'Revolt in Grenoble: the mob demands the reinstatement of the local <i>parlement</i>. Uprising also in Brittany.'

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '921'
+sortdate: '1793-08-23'
 tags:
   - Timeline
 title: Decree of <i>levée en masse</i> (universal obligation to national service).

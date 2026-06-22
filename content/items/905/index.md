@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '905'
+sortdate: '1798-04-00'
 tags:
   - Timeline
 title: Elections for the Councils begin, continue into May.

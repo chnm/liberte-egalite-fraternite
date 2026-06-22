@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '743'
+sortdate: '1792-04-25'
 tags:
   - Timeline
 title: First use of the guillotine.

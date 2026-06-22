@@ -31,6 +31,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1031'
+sortdate: '9999-99-99'
 tags:
   - Glossary
 title: Controller-General of Finances

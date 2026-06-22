@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '152'
+sortdate: '1789-00-00'
 tags:
   - Image
   - Nobility

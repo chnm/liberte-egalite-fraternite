@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '865'
+sortdate: '1757-01-05'
 tags:
   - Timeline
 title: Damiens attempts to assassinate Louis XV.

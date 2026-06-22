@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '789'
+sortdate: '1795-07-22'
 tags:
   - Timeline
 title: Peace Treaty of Basel concluded with Spain.

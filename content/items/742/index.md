@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '742'
+sortdate: '1791-11-09'
 tags:
   - Timeline
 title: Louis XVI vetoes decrees against émigrés, and refractory priests proposed by the Legislative Assembly.

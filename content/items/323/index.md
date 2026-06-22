@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '323'
+sortdate: '1919-00-00'
 tags:
   - Economic Conditions
   - Europe in Revolution

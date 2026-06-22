@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '772'
+sortdate: '1793-10-31'
 tags:
   - Timeline
 title: A number of Girondins are executed. Others had fled to the provinces.

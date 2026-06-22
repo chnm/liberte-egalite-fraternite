@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '408'
+sortdate: '1795-10-05'
 tags:
   - Napoleon Bonaparte
   - Text

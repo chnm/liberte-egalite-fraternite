@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '759'
+sortdate: '1793-03-21'
 tags:
   - Timeline
 title: Revolutionary Armies decreed; committees of surveillance are created in each commune. They are charged with investigating those suspected of being enemies or traitors to the nation.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '614'
+sortdate: '1766-03-03'
 tags:
   - Text
 title: The "Session of the Scourging" (3 March 1766)

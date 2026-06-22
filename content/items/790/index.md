@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '790'
+sortdate: '1795-08-22'
 tags:
   - Timeline
 title: Constitution of the Year III and Two Thirds Law approved.

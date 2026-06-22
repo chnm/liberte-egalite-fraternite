@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '633'
+sortdate: '1792-04-20'
 tags:
   - Timeline
 title: France declares war on the King of Hungary and Bohemia (the Austrian Francis II). Prussia joins with Austria.

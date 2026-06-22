@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '360'
+sortdate: '1802-08-04'
 tags:
   - Napoleon Bonaparte
   - Text

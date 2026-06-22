@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '616'
+sortdate: '1709-00-00'
 tags:
   - Text
 title: Bossuet, "The Nature and Properties of Royal Authority"

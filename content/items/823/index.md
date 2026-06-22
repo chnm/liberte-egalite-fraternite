@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '823'
+sortdate: '1792-12-01'
 tags:
   - Timeline
 title: Jacques Roux, a radical leader, makes one of several speeches in radical "sections" of Paris. Roux will become the leader of the Enragés, who demanded that the "aristocracy of the rich" as unfavorably as the nobility who had been stripped of their privileges in 1789. Jacques Roux and the Enragés would be attacked by the Girondists and the Jacobins, who both defended a central principle of the French Revolution, the right of property.

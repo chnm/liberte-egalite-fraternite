@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '752'
+sortdate: '1793-01-16'
 tags:
   - Timeline
 title: Death sentence for Louis XVI.

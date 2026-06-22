@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '586'
+sortdate: '1785-00-00'
 tags:
   - Popular Politics
   - Public Opinion

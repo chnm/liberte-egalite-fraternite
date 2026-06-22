@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '663'
+sortdate: '1802-08-04'
 tags:
   - Timeline
 title: Constitution of the Year X (16 Thermidor Year X).

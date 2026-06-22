@@ -74,6 +74,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '109'
+sortdate: '1793-01-21'
 tags:
   - Image
 title: The Execution of Louis XVI

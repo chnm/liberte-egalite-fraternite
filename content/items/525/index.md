@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '525'
+sortdate: '1792-12-27'
 tags:
   - Monarchy
   - Text

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '819'
+sortdate: '1792-08-13'
 tags:
   - Timeline
 title: The royal family is imprisoned.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '737'
+sortdate: '1791-08-22'
 tags:
   - Timeline
 title: Slave rebellion begins in Saint Domingue.

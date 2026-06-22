@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '858'
+sortdate: '1791-07-08'
 tags:
   - Timeline
 title: Voltaire’s remains moved to the Pantheon.

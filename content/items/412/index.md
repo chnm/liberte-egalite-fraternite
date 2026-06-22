@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '412'
+sortdate: '1794-07-27'
 tags:
   - Text
   - The Terror

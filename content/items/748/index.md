@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '748'
+sortdate: '1792-09-02'
 tags:
   - Timeline
 title: The September Massacres continue through 7 September.

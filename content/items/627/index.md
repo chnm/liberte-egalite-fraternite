@@ -57,6 +57,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '627'
+sortdate: '1795-01-00'
 tags:
   - Song
 title: The Alarm of the People

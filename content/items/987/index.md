@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '987'
+sortdate: '1856-00-00'
 tags:
   - Timeline
 title: Publication of Tocqueville’s <i>Old Régime and the French Regime</i> and Guizot’s <i>History of the English Revolution</i>.

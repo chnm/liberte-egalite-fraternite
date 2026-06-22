@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '435'
+sortdate: '1793-09-29'
 tags:
   - Clubs
   - Economic Conditions

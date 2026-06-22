@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '751'
+sortdate: '1792-11-06'
 tags:
   - Timeline
 title: French victory at Jemappes against Austria.

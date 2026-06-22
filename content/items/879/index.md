@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '879'
+sortdate: '1792-09-20'
 tags:
   - Timeline
 title: Legislature legalizes divorce.

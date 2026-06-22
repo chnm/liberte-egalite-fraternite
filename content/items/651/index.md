@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '651'
+sortdate: '1800-06-14'
 tags:
   - Timeline
 title: Bonaparte’s victory at Marengo; breakup of Second Coalition.

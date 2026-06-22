@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '894'
+sortdate: '1795-04-02'
 tags:
   - Timeline
 title: General Pichegru suppresses the Germinal uprising.

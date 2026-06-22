@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '568'
+sortdate: '1789-09-29'
 tags:
   - Middle Classes – Bourgeoisie
   - Nobility

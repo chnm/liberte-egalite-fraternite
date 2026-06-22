@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '851'
+sortdate: '1798-05-19'
 tags:
   - Timeline
 title: Expedition to Egypt leaves Toulon.

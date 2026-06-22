@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '705'
+sortdate: '1775-06-11'
 tags:
   - Timeline
 title: Coronation of Louis XVI.

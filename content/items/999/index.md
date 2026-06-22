@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '999'
+sortdate: '1789-08-11'
 tags:
   - Timeline
 title: Decree of the National Assembly abolishing the Feudal System.

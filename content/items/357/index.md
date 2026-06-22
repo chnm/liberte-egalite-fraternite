@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '357'
+sortdate: '1810-00-00'
 tags:
   - Napoleon Bonaparte
   - Nobility

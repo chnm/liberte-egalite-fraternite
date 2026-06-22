@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '856'
+sortdate: '1799-11-01'
 tags:
   - Timeline
 title: Emmanuel–Joseph Sieyès meets with Napoleon. They plan together a coup d’état.

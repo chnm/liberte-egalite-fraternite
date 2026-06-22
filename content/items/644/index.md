@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '644'
+sortdate: '1799-12-27'
 tags:
   - Timeline
 title: The Senate is installed.

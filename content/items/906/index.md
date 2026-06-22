@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '906'
+sortdate: '1798-07-21'
 tags:
   - Timeline
 title: French victory of the Pyramids against the Mamelukes.

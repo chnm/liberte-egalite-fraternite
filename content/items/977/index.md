@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '977'
+sortdate: '1818-12-00'
 tags:
   - Timeline
 title: End of the occupation of France by the allied armies.

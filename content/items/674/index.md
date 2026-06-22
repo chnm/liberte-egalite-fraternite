@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '674'
+sortdate: '1806-08-14'
 tags:
   - Timeline
 title: Creation of estates (majorats) for imperial nobles to provide sufficient income to maintain a noble lifestyle for worthy state servants regardless of birth or background.

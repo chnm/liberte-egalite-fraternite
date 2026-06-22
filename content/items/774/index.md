@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '774'
+sortdate: '1794-02-26'
 tags:
   - Timeline
 title: The Laws of Ventôse enacted; they authorize the seizure and redistribution of all property belonging to those suspected of working against the Republic.

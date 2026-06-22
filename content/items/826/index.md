@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '826'
+sortdate: '1793-03-00'
 tags:
   - Timeline
 title: Royalist and Catholic revolt begins in the Vendée and elsewhere in western France.

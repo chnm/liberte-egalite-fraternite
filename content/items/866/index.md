@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '866'
+sortdate: '1715-00-00'
 tags:
   - Timeline
 title: Death of Louis XIV and ascension of Louis XV.

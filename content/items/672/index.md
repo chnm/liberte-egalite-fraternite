@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '672'
+sortdate: '1805-12-02'
 tags:
   - Timeline
 title: Defeat of Austria at the Battle of Austerlitz. 1806–1807 defeat of Prussia and Russia, and breakup of Third Coalition.

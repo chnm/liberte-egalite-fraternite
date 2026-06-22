@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '483'
+sortdate: '1790-06-19'
 tags:
   - Middle Classes – Bourgeoisie
   - Monarchy

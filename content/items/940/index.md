@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '940'
+sortdate: '1796-04-12'
 tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Montenotte.

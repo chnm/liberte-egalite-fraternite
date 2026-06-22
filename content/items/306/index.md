@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '306'
+sortdate: '1791-00-00'
 tags:
   - Enlightenment
   - Popular Politics

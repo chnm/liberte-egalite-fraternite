@@ -37,6 +37,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '325'
+sortdate: '9999-99-99'
 tags:
   - Europe in Revolution
   - Popular Politics

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '830'
+sortdate: '1793-12-12'
 tags:
   - Timeline
 title: Although it continues sporadically, the important revolt in the Vendée is repressed.

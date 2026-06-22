@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '843'
+sortdate: '1796-03-27'
 tags:
   - Timeline
 title: Napoleon begins to prepare his own Italian campaign.

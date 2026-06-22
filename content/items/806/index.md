@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '806'
+sortdate: '1789-07-09'
 tags:
   - Timeline
 title: The National Assembly proclaims itself the Constituent National Assembly, with full authority and power to decree laws; their primary task is to draw up and adopt a constitution.

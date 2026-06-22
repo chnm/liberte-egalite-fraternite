@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '649'
+sortdate: '1800-02-14'
 tags:
   - Timeline
 title: Surrender of Cadoudal. Royalist insurgency in Western France is apparently pacified.

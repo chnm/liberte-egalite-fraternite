@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '730'
+sortdate: '1790-11-27'
 tags:
   - Timeline
 title: All public officials and priests are required to sign an oath of loyalty to the new French nation.

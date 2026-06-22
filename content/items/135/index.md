@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '135'
+sortdate: '1792-11-06'
 tags:
   - Image
   - Provinces

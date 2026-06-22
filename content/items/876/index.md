@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '876'
+sortdate: '1792-03-01'
 tags:
   - Timeline
 title: Death of Emperor Leopold II. His son Francis II succeeds him.

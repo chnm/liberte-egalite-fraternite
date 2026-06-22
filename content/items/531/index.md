@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '531'
+sortdate: '1792-08-10'
 tags:
   - Clubs
   - Monarchy

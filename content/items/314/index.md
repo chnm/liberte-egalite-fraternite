@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '314'
+sortdate: '1797-00-00'
 tags:
   - Text
 title: 'Saint Domingue: The Freedmen'

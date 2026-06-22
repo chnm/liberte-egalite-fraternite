@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '704'
+sortdate: '1774-08-24'
 tags:
   - Timeline
 title: Dismissal of Maupeou and Terray. Restoration of <i>parlements</i>.

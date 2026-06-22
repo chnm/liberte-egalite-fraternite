@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '376'
+sortdate: '1793-10-29'
 tags:
   - Clubs
   - Public Opinion

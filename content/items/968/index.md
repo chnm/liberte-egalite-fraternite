@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '968'
+sortdate: '1810-04-01'
 tags:
   - Timeline
 title: Marriage of Napoleon with Marie–Louise, daughter of Francis II, emperor of Austria.

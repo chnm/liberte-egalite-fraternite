@@ -93,6 +93,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '621'
+sortdate: '1792-08-00'
 tags:
   - Popular Politics
   - Public Opinion

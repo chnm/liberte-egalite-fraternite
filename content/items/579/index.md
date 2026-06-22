@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '579'
+sortdate: '1721-00-00'
 tags:
   - Enlightenment
   - Monarchy

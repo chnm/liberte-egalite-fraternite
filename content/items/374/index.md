@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '374'
+sortdate: '1793-11-17'
 tags:
   - Public Opinion
   - Sans-culottes

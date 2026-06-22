@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '787'
+sortdate: '1795-05-20'
 tags:
   - Timeline
 title: 'Uprising of Prairial (to May 23): Riots in the sections of Paris. The Convention is also invaded by demonstrators calling for bread and the enforcement of the <i>Constitution of 1793</i>. The army puts down these insurrections.'

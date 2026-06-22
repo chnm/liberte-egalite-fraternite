@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '673'
+sortdate: '1805-12-31'
 tags:
   - Timeline
 title: Republican calendar shelved (10 Nivôse Year XIV); return to old calendar.

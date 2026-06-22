@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '677'
+sortdate: '1807-03-02'
 tags:
   - Timeline
 title: Decrees made regarding the civil status of Jews and their choice of patronymics.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '986'
+sortdate: '1852-11-07'
 tags:
   - Timeline
 title: 'Senatus consultum modifying the constitution: re–establishment of the Empire under Napoleon III.'

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '828'
+sortdate: '1793-04-21'
 tags:
   - Timeline
 title: Robespierre, at the Jacobin Club, proposes a new version of the <i>Declaration of the Rights of Man and of the Citizen</i>.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '985'
+sortdate: '1851-12-02'
 tags:
   - Timeline
 title: Coup d’état by Louis–Napoleon Bonaparte, which a later plebiscite overwhelmingly accepts.

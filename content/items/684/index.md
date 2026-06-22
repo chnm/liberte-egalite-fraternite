@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '684'
+sortdate: '1810-02-17'
 tags:
   - Timeline
 title: Rome annexed to the French Empire. Napoleon’s heir shall bear the title King of Rome.

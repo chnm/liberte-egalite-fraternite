@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '881'
+sortdate: '1793-05-31'
 tags:
   - Timeline
 title: Uprising against the Girondins begins when <i>sans–culottes</i> demonstrate against the Girondin faction in the National Convention.

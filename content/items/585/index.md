@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '585'
+sortdate: '1215-06-15'
 tags:
   - Laws
   - Monarchy

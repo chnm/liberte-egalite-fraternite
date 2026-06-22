@@ -1,9 +1,14 @@
 {{ define "body-class" }}items browse{{ end }}
 {{ define "main" }}
-{{ $items := .Pages.ByTitle }}
+{{/* The date view lives at /items/date/ (sortby: date in its front matter) and
+     pulls the items from the main /items/ section. */}}
+{{ $sortBy := .Params.sortby | default "title" }}
+{{ $src := . }}
+{{ if .Params.sortby }}{{ $src = site.GetPage "/items" }}{{ end }}
+{{ $all := $src.RegularPages }}
+{{ $items := $all.ByTitle }}
+{{ if eq $sortBy "date" }}{{ $items = $all.ByParam "sortdate" }}{{ end }}
 {{ $paginator := .Paginate $items 10 }}
-{{/* The live "Filter by Type" surfaces the six media-format tags; the rest are
-     subject "topics". Both are tags, split here to match the original. */}}
 {{ $typeTags := dict "image" true "text" true "map" true "timeline" true "song" true "glossary" true }}
 <div id="revolution-wrap">
   <aside id="revolution-filters" aria-label="Browse filters">
@@ -22,14 +27,27 @@
   </aside>
 
   <div class="resources">
-    <h1>Browse Items <small>({{ len .Pages }} total)</small></h1>
-    {{ partial "browse-pagination.html" $paginator }}
+    <h1>Browse Items <small>({{ len $all }} total)</small></h1>
+    <div class="browse-controls">
+      <div id="sort-links">
+        <span class="sort-label">Sort by: </span>
+        <ul id="sort-links-list">
+          <li{{ if eq $sortBy "title" }} class="current"{{ end }}><a href="/items/"{{ if eq $sortBy "title" }} aria-current="true"{{ end }}>Title</a></li>
+          <li{{ if eq $sortBy "date" }} class="current"{{ end }}><a href="/items/date/"{{ if eq $sortBy "date" }} aria-current="true"{{ end }}>Date</a></li>
+        </ul>
+      </div>
+      {{ partial "browse-pagination.html" $paginator }}
+    </div>
+
     <div class="resource-list list">
       {{ range $paginator.Pages }}
         {{ partial "item-card.html" . }}
       {{ end }}
     </div>
-    {{ partial "browse-pagination.html" $paginator }}
+
+    <div class="browse-controls">
+      {{ partial "browse-pagination.html" $paginator }}
+    </div>
   </div>
 </div>
 {{ end }}

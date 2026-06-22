@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '613'
+sortdate: '1787-00-00'
 tags:
   - Text
 title: Lamoignon, "The Principles of the French Monarchy" (1787)

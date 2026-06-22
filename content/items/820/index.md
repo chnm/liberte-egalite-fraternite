@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '820'
+sortdate: '1792-08-15'
 tags:
   - Timeline
 title: In the West of France, Jean Cottereau, known as Jean Chouan, declares for the King and resists a call for volunteers. The revolt of the Chouans, to be connected to a larger revolt in the West against the Republic, begins.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '659'
+sortdate: '1802-04-14'
 tags:
   - Timeline
 title: Chateaubriand publishes <i>The Genius of Christianity</i>.

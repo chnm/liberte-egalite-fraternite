@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '10'
+sortdate: '9999-99-99'
 tags:
   - Map
 title: Haiti during the Revolution

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '796'
+sortdate: '1796-11-15'
 tags:
   - Timeline
 title: French victory at Arcola.

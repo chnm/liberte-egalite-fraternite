@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '707'
+sortdate: '1778-00-00'
 tags:
   - Timeline
 title: Franco–American alliance. France declares war on Great Britain. Death of Voltaire and Rousseau.

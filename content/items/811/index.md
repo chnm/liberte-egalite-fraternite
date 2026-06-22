@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '811'
+sortdate: '1791-07-06'
 tags:
   - Timeline
 title: The Emperor Leopold II appeals to other monarchs to join with him in demanding respect for the liberty and honor of Louis XVI.

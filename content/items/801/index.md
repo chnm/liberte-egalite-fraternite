@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '801'
+sortdate: '1787-04-00'
 tags:
   - Timeline
 title: Etienne Charles de Loménie de Brienne replaces Calonne as Controller–General of Finances.

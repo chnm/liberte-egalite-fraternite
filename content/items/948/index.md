@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '948'
+sortdate: '1799-01-26'
 tags:
   - Timeline
 title: Proclamation of the Parthenopean (Neapolitan) Republic.

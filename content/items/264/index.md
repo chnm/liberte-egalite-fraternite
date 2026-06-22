@@ -67,6 +67,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '264'
+sortdate: '1792-07-08'
 tags:
   - Enlightenment
   - Image

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '808'
+sortdate: '1789-12-19'
 tags:
   - Timeline
 title: The Assembly issues treasury notes called <i>assignats</i> based on the value of nationalized church property. The first issue is of four hundred million.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '767'
+sortdate: '1793-09-08'
 tags:
   - Timeline
 title: French victory at Hondschoote over an English–Hanoverian army.

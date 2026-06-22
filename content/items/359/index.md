@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '359'
+sortdate: '1804-12-00'
 tags:
   - Monarchy
   - Napoleon Bonaparte

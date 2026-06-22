@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1000'
+sortdate: '1794-02-04'
 tags:
   - Timeline
 title: Decree of the National Convention abolishes slavery in all colonies.

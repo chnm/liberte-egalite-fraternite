@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '720'
+sortdate: '1789-06-27'
 tags:
   - Timeline
 title: The King concedes and orders the Nobles and the Clergy to join the National Assembly.

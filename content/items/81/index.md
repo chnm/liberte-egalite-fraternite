@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '81'
+sortdate: '1792-00-00'
 tags:
   - Image
 title: Place Vendôme, The Greatest of Despots Overthrown by Freedom

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '713'
+sortdate: '1788-07-21'
 tags:
   - Timeline
 title: The assembly of the three orders of Dauphiné at Vizille.

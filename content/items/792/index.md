@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '792'
+sortdate: '1796-03-02'
 tags:
   - Timeline
 title: Napoleon is named commander–in–chief of all French forces in Italy.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '931'
+sortdate: '1798-03-00'
 tags:
   - Timeline
 title: Proclamation of Helvetic Republic by France.

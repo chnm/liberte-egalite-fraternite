@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '847'
+sortdate: '1797-09-00'
 tags:
   - Timeline
 title: Liquidation of the public debt by two–thirds with a system of coupons that, by the end of the December, in effect, simply invalidates two–thirds of what is owed to various public creditors.

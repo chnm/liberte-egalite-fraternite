@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '761'
+sortdate: '1793-04-06'
 tags:
   - Timeline
 title: Committee of Public Safety created by the Convention, attempting to deal with the radical movements of the Enragés, food shortages and riots, the revolt in the Vendée and in Brittany, recent defeats of its armies, and the desertion of its commanding general. This committee is charged with carrying out a policy of "terrorizing" all of France’s enemies within and without.

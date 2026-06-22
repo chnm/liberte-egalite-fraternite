@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '345'
+sortdate: '1812-11-00'
 tags:
   - Europe in Revolution
   - Napoleon Bonaparte

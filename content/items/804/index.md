@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '804'
+sortdate: '1789-07-12'
 tags:
   - Timeline
 title: Demonstrations and speeches take place at the Palais–Royal.

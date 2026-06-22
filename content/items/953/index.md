@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '953'
+sortdate: '1802-01-26'
 tags:
   - Timeline
 title: Bonaparte becomes president of the Italian Republic.

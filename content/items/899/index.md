@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '899'
+sortdate: '1795-10-21'
 tags:
   - Timeline
 title: Elections to the legislative Councils.

@@ -31,6 +31,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1025'
+sortdate: '9999-99-99'
 tags:
   - Glossary
 title: Committee of Public Safety

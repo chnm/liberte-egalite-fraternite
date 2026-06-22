@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '907'
+sortdate: '1799-03-04'
 tags:
   - Timeline
 title: Siege of Jaffa, held by the Turks.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '966'
+sortdate: '1808-05-00'
 tags:
   - Timeline
 title: Spanish Rebellion begins.

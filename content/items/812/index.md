@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '812'
+sortdate: '1791-09-03'
 tags:
   - Timeline
 title: The <i>Constitution of 1791</i> is proclaimed.

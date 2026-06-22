@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '872'
+sortdate: '1789-07-13'
 tags:
   - Timeline
 title: The electors of Paris form a standing committee and a citizens’ militia.

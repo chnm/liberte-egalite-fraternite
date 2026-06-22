@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '556'
+sortdate: '1793-10-29'
 tags:
   - Popular Politics
   - Sans-culottes

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '738'
+sortdate: '1791-08-27'
 tags:
   - Timeline
 title: The Declaration of Pillnitz. The rulers of Austria and Prussia agree to combine forces against the French Revolution. They insist that England participate before they will act.

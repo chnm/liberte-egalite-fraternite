@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '777'
+sortdate: '1794-06-01'
 tags:
   - Timeline
 title: British naval victory, the "Glorious First of June," establishes British control of the seas.

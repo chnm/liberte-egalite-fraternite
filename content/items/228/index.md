@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '228'
+sortdate: '1805-00-00'
 tags:
   - Image
 title: Toussaint L’Ouverture

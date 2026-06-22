@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '846'
+sortdate: '1797-09-02'
 tags:
   - Timeline
 title: A group of moderate and rightist delegates to the legislative Councils of the Five Hundred and of the Elders, members of the political club of Clichy, plan a coup d’état against the Directory.

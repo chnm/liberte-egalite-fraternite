@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '515'
+sortdate: '1687-05-06'
 tags:
   - Laws
   - Text

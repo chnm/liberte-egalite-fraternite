@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '763'
+sortdate: '1793-04-29'
 tags:
   - Timeline
 title: '"Federalist" uprising begins.'

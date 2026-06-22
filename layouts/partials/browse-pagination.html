@@ -1,19 +1,19 @@
-{{- /* Compact pagination for large listings (the item browse has 100+ pages).
-       Context: a Hugo Paginator. */ -}}
+{{- /* Pagination with a "Page N of M" jump box, matching the live browse.
+       Context: a Hugo Paginator. The page-jump form is wired up in scripts.html. */ -}}
 {{ with . }}
   {{ if gt .TotalPages 1 }}
-    <nav class="pagination-nav browse-controls" aria-label="Pagination">
-      <ul class="pagination">
-        <li class="pagination-previous{{ if not .HasPrev }} disabled{{ end }}">
-          {{ if .HasPrev }}<a href="{{ .Prev.URL }}" rel="prev">Previous</a>{{ else }}Previous{{ end }}
-        </li>
-        {{ if .HasPrev }}<li><a href="{{ .First.URL }}" aria-label="First page">1</a></li>{{ end }}
-        <li class="current" aria-current="page">Page {{ .PageNumber }} of {{ .TotalPages }}</li>
-        {{ if .HasNext }}<li><a href="{{ .Last.URL }}" aria-label="Last page">{{ .TotalPages }}</a></li>{{ end }}
-        <li class="pagination-next{{ if not .HasNext }} disabled{{ end }}">
-          {{ if .HasNext }}<a href="{{ .Next.URL }}" rel="next">Next</a>{{ else }}Next{{ end }}
-        </li>
-      </ul>
+    <nav class="pagination-nav" aria-label="Pagination">
+      <div class="pagination_previous">
+        {{ if .HasPrev }}<a rel="prev" href="{{ .Prev.URL }}" class="button" aria-label="Previous page" title="Previous page"><i class="fas fa-caret-left" aria-hidden="true"></i> Previous</a>{{ end }}
+      </div>
+      <div class="page-input">
+        <form data-base="{{ .First.URL }}">
+          Page <input type="number" name="page" min="1" max="{{ .TotalPages }}" value="{{ .PageNumber }}" aria-label="Go to page" title="Current page"><span class="total-count"> of {{ .TotalPages }}</span>
+        </form>
+      </div>
+      <div class="pagination_next">
+        {{ if .HasNext }}<a rel="next" href="{{ .Next.URL }}" class="button" aria-label="Next page" title="Next page">Next <i class="fas fa-caret-right" aria-hidden="true"></i></a>{{ end }}
+      </div>
     </nav>
   {{ end }}
 {{ end }}

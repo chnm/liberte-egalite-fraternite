@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '320'
+sortdate: '1798-00-00'
 tags:
   - Enlightenment
   - Europe in Revolution

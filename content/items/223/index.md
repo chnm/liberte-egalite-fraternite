@@ -67,6 +67,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '223'
+sortdate: '1794-00-00'
 tags:
   - Image
 title: Parisian Fishwives

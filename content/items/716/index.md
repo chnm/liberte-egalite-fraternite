@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '716'
+sortdate: '1788-10-05'
 tags:
   - Timeline
 title: Second Assembly of Notables (dissolved 12 December 1788).

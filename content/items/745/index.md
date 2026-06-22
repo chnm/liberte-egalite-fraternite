@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '745'
+sortdate: '1792-07-11'
 tags:
   - Timeline
 title: Decree of "Country in Danger."

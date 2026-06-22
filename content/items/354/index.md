@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '354'
+sortdate: '1798-06-22'
 tags:
   - Napoleon Bonaparte
   - Public Opinion

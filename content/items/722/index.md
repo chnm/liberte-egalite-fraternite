@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '722'
+sortdate: '1789-07-16'
 tags:
   - Timeline
 title: Necker is recalled. Troops advancing toward Paris and Versailles are withdrawn.

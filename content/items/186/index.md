@@ -71,6 +71,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '186'
+sortdate: '1793-10-16'
 tags:
   - Counterrevolution
   - Image

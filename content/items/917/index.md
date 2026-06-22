@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '917'
+sortdate: '1791-09-28'
 tags:
   - Timeline
 title: Abolition of slavery in France, but not in the colonies.

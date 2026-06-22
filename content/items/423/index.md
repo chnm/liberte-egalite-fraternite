@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '423'
+sortdate: '1793-06-00'
 tags:
   - Clubs
   - Popular Politics

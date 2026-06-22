@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '864'
+sortdate: '1713-00-00'
 tags:
   - Timeline
 title: Promulgation of Papal Bull <i>Unigenitus</i> regarding Jansenism.

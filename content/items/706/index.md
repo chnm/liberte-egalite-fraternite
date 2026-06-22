@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '706'
+sortdate: '1776-07-04'
 tags:
   - Timeline
 title: U.S. <i>Declaration of Independence</i>.

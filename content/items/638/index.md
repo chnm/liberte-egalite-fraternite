@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '638'
+sortdate: '1795-11-03'
 tags:
   - Timeline
 title: The Directory begins, 1795–1799, created by Constitution of the Year III.

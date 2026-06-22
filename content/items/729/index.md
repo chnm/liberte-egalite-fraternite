@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '729'
+sortdate: '1790-07-14'
 tags:
   - Timeline
 title: The first anniversary of the Revolution is celebrated on the fields of the <i>Champ de Mars, the Festival of the Federation.</i>

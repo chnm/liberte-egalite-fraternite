@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '991'
+sortdate: '1871-07-05'
 tags:
   - Timeline
 title: The Comte de Chambord (Henri V), back in France, refuses to abandon the royalist white flag.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '815'
+sortdate: '1792-03-10'
 tags:
   - Timeline
 title: Louis XVI removes the Count of Narbonne, Minister of War. All of his other ministers resign. Louis forms a new government, composed mostly of Jacobins.

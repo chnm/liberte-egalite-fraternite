@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '946'
+sortdate: '1796-09-08'
 tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Bassano.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '760'
+sortdate: '1793-04-05'
 tags:
   - Timeline
 title: General Dumouriez, the hero of Valmy, deserts to the Austrians. After several important defeats, General Dumouriez had proclaimed the Convention primarily responsible for them. Like Lafayette before him, Dumouriez had also attempted to urge his army to march with him upon Paris, where he would dissolve the Convention, but the army refused. After being summoned to Paris, Dumouriez flees to the enemy. This treason would bring in its path great suspicion of his allies in the Convention, the Girondins.

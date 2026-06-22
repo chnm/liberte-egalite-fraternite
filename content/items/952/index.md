@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '952'
+sortdate: '1801-02-09'
 tags:
   - Timeline
 title: Peace of Lunéville with Austria. Confirmation of the main points of the Treaty of Campo Formio. France receives Left Bank of the Rhine.

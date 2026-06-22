@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1004'
+sortdate: '1793-10-16'
 tags:
   - Timeline
 title: Marie Antoinette is guillotined.

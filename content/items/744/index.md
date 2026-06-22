@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '744'
+sortdate: '1792-06-20'
 tags:
   - Timeline
 title: Crowds invade the Tuileries to insist on removal of King.

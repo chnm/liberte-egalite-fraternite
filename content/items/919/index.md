@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '919'
+sortdate: '1792-08-09'
 tags:
   - Timeline
 title: A "Revolutionary commune" usurps the municipal government of Paris.

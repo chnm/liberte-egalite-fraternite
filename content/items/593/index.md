@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '593'
+sortdate: '1781-00-00'
 tags:
   - Monarchy
   - Public Opinion

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '728'
+sortdate: '1790-07-12'
 tags:
   - Timeline
 title: Adoption of the <i>Civil Constitution of the Clergy</i>.

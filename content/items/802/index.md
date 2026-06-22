@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '802'
+sortdate: '1789-01-00'
 tags:
   - Timeline
 title: Publication of <i>What is the Third Estate</i>? by the Abbé Sieyès. He claims that the Third Estate is essentially the Nation.

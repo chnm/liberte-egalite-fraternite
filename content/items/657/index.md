@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '657'
+sortdate: '1802-03-18'
 tags:
   - Timeline
 title: Bonaparte purges the Tribunate and Legislative Body to eliminate critics (27 Ventôse Year X).

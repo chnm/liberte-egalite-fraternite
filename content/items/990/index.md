@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '990'
+sortdate: '1871-05-10'
 tags:
   - Timeline
 title: 'Treaty of Frankfurt: France cedes to the Prussians Alsace and part of Lorraine and has to pay five billion francs in indemnity.'

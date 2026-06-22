@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '241'
+sortdate: '9999-99-99'
 tags:
   - Counterrevolution
   - Image

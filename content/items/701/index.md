@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '701'
+sortdate: '1770-05-07'
 tags:
   - Timeline
 title: Marriage of dauphin (future Louis XVI) to the Archduchess Marie Antoinette.

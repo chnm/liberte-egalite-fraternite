@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '363'
+sortdate: '1801-00-00'
 tags:
   - Laws
   - Napoleon Bonaparte

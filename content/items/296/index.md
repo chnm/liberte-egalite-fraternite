@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '296'
+sortdate: '1824-00-00'
 tags:
   - Enlightenment
   - Public Opinion

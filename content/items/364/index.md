@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '364'
+sortdate: '1800-00-00'
 tags:
   - Napoleon Bonaparte
   - Provinces

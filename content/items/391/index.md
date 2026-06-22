@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '391'
+sortdate: '1789-01-01'
 tags:
   - Economic Conditions
   - Monarchy

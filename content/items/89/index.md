@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '89'
+sortdate: 1787-1810
 tags:
   - Enlightenment
   - Image

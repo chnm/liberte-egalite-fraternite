@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '891'
+sortdate: '1794-08-05'
 tags:
   - Timeline
 title: Release of large numbers of prisoners begins.

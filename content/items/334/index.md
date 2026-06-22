@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '334'
+sortdate: '1792-01-08'
 tags:
   - Clubs
   - Counterrevolution

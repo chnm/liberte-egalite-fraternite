@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '817'
+sortdate: '1792-06-30'
 tags:
   - Timeline
 title: Singing Rouget de Lisle’s <i>War Hymn of the Army of the Rhine or La Marseillaise</i>, a battalion of National Guards from Marseilles arrives in Paris. Plans are made by a revolutionary committee to proceed toward the overthrow of the king.

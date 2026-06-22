@@ -69,6 +69,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '268'
+sortdate: '1840-00-00'
 tags:
   - Image
   - Napoleon Bonaparte

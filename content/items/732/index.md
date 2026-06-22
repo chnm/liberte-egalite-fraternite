@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '732'
+sortdate: '1791-06-14'
 tags:
   - Timeline
 title: Worker unions and strikes are prohibited by the Le Chapelier Law.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '736'
+sortdate: '1791-07-17'
 tags:
   - Timeline
 title: The Massacre of the <i>Champ de Mars</i>.

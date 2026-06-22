@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '691'
+sortdate: '1814-05-02'
 tags:
   - Timeline
 title: Louis XVIII offers reassurances to keep the revolutionary status quo in his Declaration of Saint–Ouen.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '695'
+sortdate: '1815-06-22'
 tags:
   - Timeline
 title: Napoleon’s second abdication.

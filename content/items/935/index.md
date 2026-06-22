@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '935'
+sortdate: '1785-00-00'
 tags:
   - Timeline
 title: Affair of the Diamond Necklace.

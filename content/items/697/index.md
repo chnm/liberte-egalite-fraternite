@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '697'
+sortdate: '1815-00-00'
 tags:
   - Timeline
 title: Bourbon Restoration (1815–1830).

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '735'
+sortdate: '1791-07-16'
 tags:
   - Timeline
 title: Reinstatement of Louis XVI.

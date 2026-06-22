@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '233'
+sortdate: '1792-12-21'
 tags:
   - Image
 title: French Liberty. British Slavery. Published December 21, 1792.

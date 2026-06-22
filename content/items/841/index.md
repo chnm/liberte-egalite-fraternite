@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '841'
+sortdate: '1795-06-26'
 tags:
   - Timeline
 title: The Chouans join 4,000 émigrés landed at Quiberon on the shores of Brittany by an English fleet. Defeated by General Hoche on July 21st.

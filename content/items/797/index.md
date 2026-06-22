@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '797'
+sortdate: '1797-01-14'
 tags:
   - Timeline
 title: Bonaparte defeats Austria at Rivoli.

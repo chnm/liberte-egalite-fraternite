@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '64'
+sortdate: '1797-00-00'
 tags:
   - Image
 title: French Democrats surprizing the Royal Runaways.

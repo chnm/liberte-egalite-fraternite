@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '670'
+sortdate: '1804-12-02'
 tags:
   - Timeline
 title: Coronation of Napoleon at Notre–Dame.

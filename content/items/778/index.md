@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '778'
+sortdate: '1794-06-10'
 tags:
   - Timeline
 title: The Law of 22 Prairial. Judicial procedures are accelerated in all accusations against enemies of the revolution. The Terror is re–enforced. Two–thirds of all executions by the Revolutionary Tribunal take place after this point.

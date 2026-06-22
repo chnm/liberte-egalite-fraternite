@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '749'
+sortdate: '1792-09-20'
 tags:
   - Timeline
 title: 'The French Army defeats the Prussians at Valmy. Goethe witnessed this battle and said of it: "On this day begins a new era in the history of the world."Last session of the Legislative Assembly.'

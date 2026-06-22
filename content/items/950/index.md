@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '950'
+sortdate: '1799-10-06'
 tags:
   - Timeline
 title: Victory of General Brune at Casticum, in the eastern Mediterranean against the British and the Russians.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '825'
+sortdate: '1793-02-00'
 tags:
   - Timeline
 title: Attacks on shops and food riots occur during a time of great scarcity. Continue through March.

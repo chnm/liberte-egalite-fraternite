@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '396'
+sortdate: '1794-11-17'
 tags:
   - Enlightenment
   - Laws

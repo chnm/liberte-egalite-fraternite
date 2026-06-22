@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '655'
+sortdate: '1801-04-12'
 tags:
   - Timeline
 title: Chateaubriand publishes <i>Atala</i>.

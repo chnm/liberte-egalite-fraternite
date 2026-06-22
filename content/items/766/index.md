@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '766'
+sortdate: '1793-07-13'
 tags:
   - Timeline
 title: Charlotte Corday assassinates Marat.

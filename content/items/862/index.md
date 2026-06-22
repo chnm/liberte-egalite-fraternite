@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '862'
+sortdate: '1764-00-00'
 tags:
   - Timeline
 title: Beginning of La Chalotais Affair (ends in 1766).

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '840'
+sortdate: '1795-06-23'
 tags:
   - Timeline
 title: A new Constitution is reported on by Boissy d’Anglas. It is accompanied by the assertion that those most worthy of governing are those who own property.

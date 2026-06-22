@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '978'
+sortdate: '1824-09-16'
 tags:
   - Timeline
 title: Death of Louis XVIII.

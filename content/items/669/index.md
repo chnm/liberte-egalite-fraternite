@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '669'
+sortdate: '1804-05-18'
 tags:
   - Timeline
 title: 28 Floréal Year XII, Constitution of the Year XII. Senatus–consultum proclaims Napoleon Emperor.

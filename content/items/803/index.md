@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '803'
+sortdate: '1789-06-19'
 tags:
   - Timeline
 title: A few liberal nobles and many clergy join the movement of the Third Estate.

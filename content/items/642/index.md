@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '642'
+sortdate: '1799-12-15'
 tags:
   - Timeline
 title: 24 Frimaire Year VIII, the constitution is proclaimed.

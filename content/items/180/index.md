@@ -66,6 +66,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '180'
+sortdate: '1793-00-00'
 tags:
   - Image
   - Monarchy

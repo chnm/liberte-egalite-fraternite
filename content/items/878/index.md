@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '878'
+sortdate: '1792-08-14'
 tags:
   - Timeline
 title: Distribution of communal land except for forest land. Sale of émigrés’ properties.

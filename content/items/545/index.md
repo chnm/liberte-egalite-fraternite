@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '545'
+sortdate: '1789-10-00'
 tags:
   - Counterrevolution
   - Text

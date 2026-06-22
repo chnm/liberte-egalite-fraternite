@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '351'
+sortdate: '1807-10-09'
 tags:
   - Europe in Revolution
   - Laws

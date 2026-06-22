@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '665'
+sortdate: '1802-01-04'
 tags:
   - Timeline
 title: Creation of 31 "senatoriates" (14 Nivôse Year X).

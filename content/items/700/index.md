@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '700'
+sortdate: '1764-00-00'
 tags:
   - Timeline
 title: Expulsion of Jesuits.

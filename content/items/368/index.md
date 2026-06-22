@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '368'
+sortdate: '1800-05-00'
 tags:
   - Middle Classes – Bourgeoisie
   - Public Opinion

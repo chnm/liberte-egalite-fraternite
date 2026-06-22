@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '854'
+sortdate: '1799-10-14'
 tags:
   - Timeline
 title: Final defeats of the rebel Chouans and Vendéens.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '980'
+sortdate: '1825-05-29'
 tags:
   - Timeline
 title: Coronation of Charles X in Reims.

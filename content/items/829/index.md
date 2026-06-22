@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '829'
+sortdate: '1793-09-21'
 tags:
   - Timeline
 title: All women are required by the Convention to wear the tricolored ribbon, insignia of the Republic.

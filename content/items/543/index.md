@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '543'
+sortdate: '1789-05-00'
 tags:
   - Text
   - The US and Great Britain in Revolution

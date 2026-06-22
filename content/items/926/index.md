@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '926'
+sortdate: '1795-05-23'
 tags:
   - Timeline
 title: Disarmament of Paris sections by the army.

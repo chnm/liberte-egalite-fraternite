@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '708'
+sortdate: '1786-08-20'
 tags:
   - Timeline
 title: Calonne presents reform proposals to Louis XVI.

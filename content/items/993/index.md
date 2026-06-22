@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '993'
+sortdate: '1880-07-06'
 tags:
   - Timeline
 title: The Republic adopts 14 July as the annual national festival.

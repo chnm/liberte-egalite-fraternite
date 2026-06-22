@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '634'
+sortdate: '1792-08-10'
 tags:
   - Timeline
 title: The Fall of the Monarchy. Popular assault on the Tuileries; Louis XVI deposed.

@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '189'
+sortdate: '1794-01-00'
 tags:
   - Image
   - Sans-culottes

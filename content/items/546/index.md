@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '546'
+sortdate: '1789-07-00'
 tags:
   - Middle Classes – Bourgeoisie
   - Popular Politics

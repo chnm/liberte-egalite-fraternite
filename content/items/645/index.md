@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '645'
+sortdate: '1799-12-28'
 tags:
   - Timeline
 title: Sunday church services are reopened.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '440'
+sortdate: '1790-05-10'
 tags:
   - Counterrevolution
   - Nobility

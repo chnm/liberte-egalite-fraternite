@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '799'
+sortdate: '1797-05-15'
 tags:
   - Timeline
 title: Venetian Republic occupied by France.

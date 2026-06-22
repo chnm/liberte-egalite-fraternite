@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '724'
+sortdate: '1789-08-04'
 tags:
   - Timeline
 title: The National Assembly abolishes most feudal privileges, including tax exemptions, tithes, obligatory labor on roads, and the payment of seigneurial dues.

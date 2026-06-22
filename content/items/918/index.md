@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '918'
+sortdate: '1792-08-03'
 tags:
   - Timeline
 title: Petition from 47 out of 48 Paris sections demands deposing the King.

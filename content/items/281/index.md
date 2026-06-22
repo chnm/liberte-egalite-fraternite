@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '281'
+sortdate: '1805-00-00'
 tags:
   - Counterrevolution
   - Napoleon Bonaparte

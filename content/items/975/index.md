@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '975'
+sortdate: '1815-09-26'
 tags:
   - Timeline
 title: The Holy Alliance between Russia, Prussia, and Austria is ended.

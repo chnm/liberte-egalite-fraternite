@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '631'
+sortdate: '1789-05-05'
 tags:
   - Timeline
 title: Deliberations of the Estates–General begin at Versailles.

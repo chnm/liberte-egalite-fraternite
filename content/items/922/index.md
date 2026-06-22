@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '922'
+sortdate: '1793-09-05'
 tags:
   - Timeline
 title: Parisian insurrection secures further radicalization of the war–effort by the Convention; "terror" is henceforth the order of the day.

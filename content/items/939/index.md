@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '939'
+sortdate: '1796-03-09'
 tags:
   - Timeline
 title: Bonaparte marries Joséphine Beauharnais.

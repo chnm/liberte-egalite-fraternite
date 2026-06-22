@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '893'
+sortdate: '1794-12-24'
 tags:
   - Timeline
 title: Abolition of the Maximum.

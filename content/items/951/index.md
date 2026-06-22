@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '951'
+sortdate: '1800-12-03'
 tags:
   - Timeline
 title: General Moreau defeats the Austrians at Hohenlinden.

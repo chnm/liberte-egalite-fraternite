@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '855'
+sortdate: '1799-10-23'
 tags:
   - Timeline
 title: Lucien Bonaparte, Napoleon’s brother, is elected president of the Council of the Five Hundred.

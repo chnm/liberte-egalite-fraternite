@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '810'
+sortdate: '1790-10-00'
 tags:
   - Timeline
 title: Louis XVI secretly explores a possible coalition with foreign powers to end the Revolution.

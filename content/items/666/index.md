@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '666'
+sortdate: '1803-04-12'
 tags:
   - Timeline
 title: 22 Germinal XI, laws passed concerning labor in manufactures, including the prohibition of workers’ coalitions.

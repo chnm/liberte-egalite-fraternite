@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '307'
+sortdate: '1797-12-13'
 tags:
   - Public Opinion
   - Text

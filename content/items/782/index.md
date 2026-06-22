@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '782'
+sortdate: '1794-11-12'
 tags:
   - Timeline
 title: Jacobin Club closed.

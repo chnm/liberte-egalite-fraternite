@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '882'
+sortdate: '1793-06-02'
 tags:
   - Timeline
 title: A second demonstration against the National Convention as an institution.

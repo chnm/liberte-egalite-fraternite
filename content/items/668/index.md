@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '668'
+sortdate: '1804-03-21'
 tags:
   - Timeline
 title: 30 Ventôse Year XII, the Duke d’Enghien is executed. Proclamation of the Civil Code or Code Napoleon.

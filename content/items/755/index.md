@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '755'
+sortdate: '1793-02-21'
 tags:
   - Timeline
 title: Food riots in Paris.

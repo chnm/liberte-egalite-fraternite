@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '101'
+sortdate: '1791-06-22'
 tags:
   - Image
   - Monarchy

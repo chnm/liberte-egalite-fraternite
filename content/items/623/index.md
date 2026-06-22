@@ -57,6 +57,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '623'
+sortdate: '1793-08-10'
 tags:
   - Popular Politics
   - Public Opinion

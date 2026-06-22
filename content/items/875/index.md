@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '875'
+sortdate: '1791-01-03'
 tags:
   - Timeline
 title: Priests refusing to take the oath are barred from exercising their ministry in public.

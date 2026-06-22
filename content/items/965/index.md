@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '965'
+sortdate: '1807-07-08'
 tags:
   - Timeline
 title: Peace Treaty of Tilsit; Franco–Russian alliance signed by Napoleon and Tsar Alexander I.

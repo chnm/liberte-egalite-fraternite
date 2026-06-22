@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '822'
+sortdate: '1792-11-19'
 tags:
   - Timeline
 title: The Convention declares its willingness to help all subjected peoples achieve their liberty.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '385'
+sortdate: '1792-02-00'
 tags:
   - Economic Conditions
   - Popular Politics

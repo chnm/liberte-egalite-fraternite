@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '976'
+sortdate: '1815-11-20'
 tags:
   - Timeline
 title: Second Treaty of Paris; France is now reduced to its 1790 frontiers.

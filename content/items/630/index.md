@@ -53,6 +53,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '630'
+sortdate: '1797-00-00'
 tags:
   - Song
 title: Funeral Hymn for General Hoche

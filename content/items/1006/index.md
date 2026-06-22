@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1006'
+sortdate: '1788-00-00'
 tags:
   - Timeline
 title: Founding the Society of the Friends of the Blacks.

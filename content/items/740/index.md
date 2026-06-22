@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '740'
+sortdate: '1791-10-01'
 tags:
   - Timeline
 title: First session of the new Legislative Assembly under the Constitution of 1791.

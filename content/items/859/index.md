@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '859'
+sortdate: '1809-04-23'
 tags:
   - Timeline
 title: Victory of Ratisbon against Austria.

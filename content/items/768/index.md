@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '768'
+sortdate: '1793-09-17'
 tags:
   - Timeline
 title: Passage of the Law of Suspects.

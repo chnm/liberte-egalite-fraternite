@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '734'
+sortdate: '1791-07-10'
 tags:
   - Timeline
 title: Leopold II’s Padua Circular.

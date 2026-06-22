@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '55'
+sortdate: '1793-00-00'
 tags:
   - Image
   - Popular Politics

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '981'
+sortdate: '1830-07-27'
 tags:
   - Timeline
 title: Overthrow of Charles X, the last monarch in France of the Bourbon dynasty.

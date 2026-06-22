@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '764'
+sortdate: '1793-05-04'
 tags:
   - Timeline
 title: First Maximum decreed.

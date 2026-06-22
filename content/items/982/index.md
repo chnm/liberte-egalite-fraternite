@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '982'
+sortdate: '1830-08-09'
 tags:
   - Timeline
 title: Louis–Philippe, king of the French, swears loyalty to the revised Charter.

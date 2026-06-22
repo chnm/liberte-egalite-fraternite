@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '957'
+sortdate: '1803-05-03'
 tags:
   - Timeline
 title: Sale of Louisiana to the United States.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '694'
+sortdate: '1815-03-01'
 tags:
   - Timeline
 title: Napoleon returns to France. Beginning of the Hundred Days.

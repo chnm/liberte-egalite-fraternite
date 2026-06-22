@@ -70,6 +70,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '183'
+sortdate: '1794-00-00'
 tags:
   - Counterrevolution
   - Image

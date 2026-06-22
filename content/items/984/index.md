@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '984'
+sortdate: '1848-06-23'
 tags:
   - Timeline
 title: Barricades and street fighting in the east of Paris (June Days) in which workers of Paris fight authorities over the closure of national workshops that provided them charity.

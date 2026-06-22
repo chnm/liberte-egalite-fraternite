@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '667'
+sortdate: '1803-12-01'
 tags:
   - Timeline
 title: Introduction of the <i>livret ouvrier</i> mandating that workers carry this "notebook" at all times and that his behavior and work performance would be recorded and tracked in it.

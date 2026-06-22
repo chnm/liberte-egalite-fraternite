@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '827'
+sortdate: '1793-03-09'
 tags:
   - Timeline
 title: A revolt attempted by the Enragés in Paris fails.

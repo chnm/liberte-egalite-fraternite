@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '560'
+sortdate: '1790-02-05'
 tags:
   - Enlightenment
   - Text

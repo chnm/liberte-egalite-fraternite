@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '683'
+sortdate: '1810-01-12'
 tags:
   - Timeline
 title: Marriage of Napoleon and Josephine annulled by the officiality (church court) of Paris.

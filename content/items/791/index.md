@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '791'
+sortdate: '1795-10-05'
 tags:
   - Timeline
 title: 'Uprising of Vendémiaire: Napoleon is instrumental in putting down a royalist revolt in Paris.'

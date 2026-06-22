@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '640'
+sortdate: '1797-09-04'
 tags:
   - Timeline
 title: Coup d’état of Fructidor. Ardent republicans expel moderates and neo–royalists from the Executive Directory and the two legislative councils.

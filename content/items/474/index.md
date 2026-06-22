@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '474'
+sortdate: '1792-03-09'
 tags:
   - Economic Conditions
   - Peasants

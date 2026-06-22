@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '944'
+sortdate: '1796-05-10'
 tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Lodi.

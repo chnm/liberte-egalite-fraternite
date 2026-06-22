@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '661'
+sortdate: '1802-05-19'
 tags:
   - Timeline
 title: Creation of the Legion of Honor.

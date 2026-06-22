@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '973'
+sortdate: '1815-07-08'
 tags:
   - Timeline
 title: Louis XVIII returns to Paris.

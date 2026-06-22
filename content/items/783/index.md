@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '783'
+sortdate: '1794-12-08'
 tags:
   - Timeline
 title: Surviving Girondins are reinstated.

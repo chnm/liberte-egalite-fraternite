@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '300'
+sortdate: '1829-00-00'
 tags:
   - Counterrevolution
   - Popular Politics

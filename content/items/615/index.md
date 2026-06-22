@@ -58,6 +58,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '615'
+sortdate: '1775-00-00'
 tags:
   - Text
 title: The Coronation of Louis XVI from the <i>Gazette of France</i> (1775)

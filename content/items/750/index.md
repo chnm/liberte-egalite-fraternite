@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '750'
+sortdate: '1792-09-22'
 tags:
   - Timeline
 title: Republic proclaimed.

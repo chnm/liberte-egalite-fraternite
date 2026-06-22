@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '911'
+sortdate: '1799-05-17'
 tags:
   - Timeline
 title: Bonaparte raises the siege of Acre.

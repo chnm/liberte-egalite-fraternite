@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '654'
+sortdate: '1801-01-05'
 tags:
   - Timeline
 title: 130 Jacobins deported by Senatus–consultum.

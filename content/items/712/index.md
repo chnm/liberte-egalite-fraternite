@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '712'
+sortdate: '1787-11-19'
 tags:
   - Timeline
 title: Royal Session in the <i>Parlement</i> of Paris.

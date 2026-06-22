@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '564'
+sortdate: '1790-01-28'
 tags:
   - Provinces
   - Religion

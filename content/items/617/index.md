@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '617'
+sortdate: '1773-00-00'
 tags:
   - Text
 title: Moreau, "On the Origins of the French Monarchy"

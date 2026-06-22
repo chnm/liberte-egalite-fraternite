@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '798'
+sortdate: '1797-04-18'
 tags:
   - Timeline
 title: Elections of Year V.

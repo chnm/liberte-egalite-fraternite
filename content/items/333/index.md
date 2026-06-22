@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '333'
+sortdate: '1791-02-27'
 tags:
   - Economic Conditions
   - Middle Classes – Bourgeoisie

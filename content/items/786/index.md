@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '786'
+sortdate: '1795-05-16'
 tags:
   - Timeline
 title: Treaty of The Hague, peace with the Netherlands and Prussia.

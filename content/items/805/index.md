@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '805'
+sortdate: '1789-07-07'
 tags:
   - Timeline
 title: The National Assembly appoints a committee of thirty members to draft a constitution.

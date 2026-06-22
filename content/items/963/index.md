@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '963'
+sortdate: '1807-02-07'
 tags:
   - Timeline
 title: Inconclusive battle of Eylau against the Prussians and Russians.

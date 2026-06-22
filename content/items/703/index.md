@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '703'
+sortdate: '1774-05-10'
 tags:
   - Timeline
 title: Death of Louis XV.

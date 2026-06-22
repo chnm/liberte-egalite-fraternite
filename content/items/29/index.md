@@ -82,6 +82,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '29'
+sortdate: '1789-07-17'
 tags:
   - Image
   - Popular Politics

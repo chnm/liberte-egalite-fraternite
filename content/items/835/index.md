@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '835'
+sortdate: '1794-06-04'
 tags:
   - Timeline
 title: The Abbé Grégoire submits his report on the necessity of eliminating regional dialects and patois in order to establish French as the national language.

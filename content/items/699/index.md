@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '699'
+sortdate: '1762-00-00'
 tags:
   - Timeline
 title: Publication of Rousseau’s <i>Emile</i> and <i>Social Contract</i>.

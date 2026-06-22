@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '961'
+sortdate: '1805-08-06'
 tags:
   - Timeline
 title: Dissolution of the Holy Roman Empire.

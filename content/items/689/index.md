@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '689'
+sortdate: '1813-10-16'
 tags:
   - Timeline
 title: Napoleon is defeated at Leipzig and withdraws from Germany.

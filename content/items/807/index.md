@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '807'
+sortdate: '1789-09-12'
 tags:
   - Timeline
 title: First appearance of Jean–Paul Marat’s <i>L’Ami du peuple (The Friend of the People)</i>, an eight–page daily newspaper–pamphlet, one of the most influential and radical publications of the Revolution.

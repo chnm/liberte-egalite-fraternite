@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '554'
+sortdate: '1948-12-10'
 tags:
   - Europe in Revolution
   - Laws

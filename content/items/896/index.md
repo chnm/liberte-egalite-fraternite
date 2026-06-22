@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '896'
+sortdate: '1795-09-23'
 tags:
   - Timeline
 title: Proclamation of the Constitution of Year III.

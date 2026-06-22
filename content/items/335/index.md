@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '335'
+sortdate: '1830-00-00'
 tags:
   - Napoleon Bonaparte
   - Public Opinion

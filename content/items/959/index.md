@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '959'
+sortdate: '1805-10-20'
 tags:
   - Timeline
 title: General Mack’s Austrian army surrenders at Ulm.

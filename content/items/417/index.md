@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '417'
+sortdate: '1793-10-00'
 tags:
   - Laws
   - Text

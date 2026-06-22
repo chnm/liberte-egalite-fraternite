@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '403'
+sortdate: '1797-09-09'
 tags:
   - Counterrevolution
   - Monarchy

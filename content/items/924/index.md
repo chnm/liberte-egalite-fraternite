@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '924'
+sortdate: '1794-05-18'
 tags:
   - Timeline
 title: French victory of Tourcoing over British who, from this point on seek to avoid facing French forces on land.

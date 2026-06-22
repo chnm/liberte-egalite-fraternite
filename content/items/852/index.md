@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '852'
+sortdate: '1798-08-01'
 tags:
   - Timeline
 title: Admiral Nelson defeats the French fleet at Aboukir Bay.

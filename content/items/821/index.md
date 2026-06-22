@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '821'
+sortdate: '1792-09-28'
 tags:
   - Timeline
 title: Georges Danton, one of the most influential of the revolutionary orators, declares at the Convention that the French Revolution is a revolution against <i>all</i> kings.

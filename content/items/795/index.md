@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '795'
+sortdate: '1796-08-05'
 tags:
   - Timeline
 title: French victory at Castiglione.

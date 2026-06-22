@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '288'
+sortdate: '1793-04-00'
 tags:
   - Laws
   - Public Opinion

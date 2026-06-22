@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '639'
+sortdate: '1796-05-10'
 tags:
   - Timeline
 title: Babeuf is arrested and his Conspiracy of Equals is suppressed.

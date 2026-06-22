@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '224'
+sortdate: '1791-00-00'
 tags:
   - Image
   - Public Opinion

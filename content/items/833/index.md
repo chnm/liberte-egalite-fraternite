@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '833'
+sortdate: '1794-02-05'
 tags:
   - Timeline
 title: Robespierre reports on the principles of political morality that should be respected by the Convention, in which he declares that the revolutionary government is based on both virtue and terror ". . . virtue without which terror is evil, terror without which virtue is powerless"

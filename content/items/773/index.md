@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '773'
+sortdate: '1793-11-10'
 tags:
   - Timeline
 title: Festival of Reason in Notre–Dame.

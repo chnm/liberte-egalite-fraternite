@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '632'
+sortdate: '1789-07-14'
 tags:
   - Timeline
 title: The Fall of the Bastille.

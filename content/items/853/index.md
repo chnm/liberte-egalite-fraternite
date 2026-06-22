@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '853'
+sortdate: '1799-06-18'
 tags:
   - Timeline
 title: After attacks and threats of accusation from the two Councils, two members of the Directory resign (La Révellière–Lepeaux and Merlin de Douai). Barras and Sieyès remain.

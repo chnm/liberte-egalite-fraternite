@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '945'
+sortdate: '1796-09-04'
 tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Roverdo.

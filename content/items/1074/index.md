@@ -31,6 +31,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1074'
+sortdate: '9999-99-99'
 tags:
   - Glossary
 title: Treaty of Campo-Formio

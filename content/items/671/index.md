@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '671'
+sortdate: '1805-10-21'
 tags:
   - Timeline
 title: Admiral Nelson’s victory at Trafalgar over France and Spain confirms British command of the sea.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '923'
+sortdate: '1793-12-04'
 tags:
   - Timeline
 title: Law of 14 <i>Frimaire</i> on Revolutionary Government enacted. Institutes formally revolutionary government.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '658'
+sortdate: '1802-03-27'
 tags:
   - Timeline
 title: Peace Treaty (Amiens) with Great Britain (4 Germinal Year X).

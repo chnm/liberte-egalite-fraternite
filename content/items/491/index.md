@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '491'
+sortdate: '1718-00-00'
 tags:
   - Economic Conditions
   - Text

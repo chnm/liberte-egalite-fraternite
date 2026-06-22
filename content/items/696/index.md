@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '696'
+sortdate: '1815-10-16'
 tags:
   - Timeline
 title: Napoleon in exile on the mid–Atlantic island of St. Helena.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1005'
+sortdate: '1821-05-05'
 tags:
   - Timeline
 title: Napoleon dies on the island of St. Helena.

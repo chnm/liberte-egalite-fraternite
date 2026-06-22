@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '775'
+sortdate: '1794-03-13'
 tags:
   - Timeline
 title: Arrest of the Hébertists.

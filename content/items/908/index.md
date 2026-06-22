@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '908'
+sortdate: '1799-03-19'
 tags:
   - Timeline
 title: Siege of Acre, held by the Turks.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '960'
+sortdate: '1805-12-26'
 tags:
   - Timeline
 title: Peace Treaty of Pressburg with Austria ends hostilities.

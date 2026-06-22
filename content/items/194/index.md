@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '194'
+sortdate: '1792-09-02'
 tags:
   - Image
 title: September 2 and 3, 1792

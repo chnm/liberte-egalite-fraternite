@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '746'
+sortdate: '1792-07-25'
 tags:
   - Timeline
 title: Paris sections remain in permanent session.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '814'
+sortdate: '1792-01-00'
 tags:
   - Timeline
 title: Inflation intensifies. Food riots occur in Paris. Both continue until March.

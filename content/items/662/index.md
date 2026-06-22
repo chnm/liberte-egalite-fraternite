@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '662'
+sortdate: '1802-08-02'
 tags:
   - Timeline
 title: 14 Thermidor Year X, Napoleon proclaimed Life Consulate.

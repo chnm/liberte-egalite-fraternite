@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '756'
+sortdate: '1793-03-07'
 tags:
   - Timeline
 title: The Convention declares war on Spain.

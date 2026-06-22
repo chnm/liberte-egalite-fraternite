@@ -67,6 +67,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '140'
+sortdate: '1819-11-00'
 tags:
   - Clubs
   - Image

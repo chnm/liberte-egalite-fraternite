@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '442'
+sortdate: '1792-12-06'
 tags:
   - Popular Politics
   - Public Opinion

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '969'
+sortdate: '1812-09-05'
 tags:
   - Timeline
 title: Battle of Moscow.

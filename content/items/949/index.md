@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '949'
+sortdate: '1799-09-25'
 tags:
   - Timeline
 title: General Masséna defeats the Russians and Austrians at Zurich. Russia and Austria evacuate Switzerland.

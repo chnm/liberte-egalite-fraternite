@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '933'
+sortdate: '1771-02-23'
 tags:
   - Timeline
 title: Legal system reorganized by Chancellor Maupeou. <i>Parlement</i> of Paris is split up and magistrates are appointed by the government.

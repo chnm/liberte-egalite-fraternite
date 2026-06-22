@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '652'
+sortdate: '1800-10-20'
 tags:
   - Timeline
 title: 48,000 émigrés are removed from list of 100,000.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '890'
+sortdate: '1794-06-08'
 tags:
   - Timeline
 title: Festival of the Supreme Being.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '897'
+sortdate: '1795-10-00'
 tags:
   - Timeline
 title: One hundred <i>livres</i>–assignats worth only 1.4 <i>livres</i> in metal currency.

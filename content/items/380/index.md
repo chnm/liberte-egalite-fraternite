@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '380'
+sortdate: '1791-02-12'
 tags:
   - Middle Classes – Bourgeoisie
   - Public Opinion

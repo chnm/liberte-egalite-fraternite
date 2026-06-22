@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '643'
+sortdate: '1799-12-22'
 tags:
   - Timeline
 title: The Council of State is installed.

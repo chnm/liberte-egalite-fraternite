@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '295'
+sortdate: '1808-00-00'
 tags:
   - Economic Conditions
   - Popular Politics

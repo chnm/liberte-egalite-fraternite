@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '485'
+sortdate: '1789-01-00'
 tags:
   - Enlightenment
   - Middle Classes – Bourgeoisie

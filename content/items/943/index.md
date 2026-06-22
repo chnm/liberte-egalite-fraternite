@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '943'
+sortdate: '1796-04-21'
 tags:
   - Timeline
 title: Bonaparte defeats the Piedmontese at Mondovi.

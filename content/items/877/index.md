@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '877'
+sortdate: '1792-07-27'
 tags:
   - Timeline
 title: Properties of émigrés confiscated.

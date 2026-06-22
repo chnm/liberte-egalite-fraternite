@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '785'
+sortdate: '1795-03-28'
 tags:
   - Timeline
 title: Fouquier–Tinville, the chief prosecutor of the Revolutionary Tribunal, is tried. Conviction and execution follow swiftly.

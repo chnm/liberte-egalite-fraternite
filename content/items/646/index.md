@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '646'
+sortdate: '1800-01-01'
 tags:
   - Timeline
 title: The Tribunal and the Legislative Body are installed.

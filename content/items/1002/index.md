@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1002'
+sortdate: '1815-06-18'
 tags:
   - Timeline
 title: Bonaparte defeated at Waterloo.

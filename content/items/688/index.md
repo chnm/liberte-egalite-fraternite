@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '688'
+sortdate: '1812-10-25'
 tags:
   - Timeline
 title: Retreat from Moscow begins.

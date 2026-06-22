@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '873'
+sortdate: '1789-07-17'
 tags:
   - Timeline
 title: The Prince de Condé and the Comte d’Artois emigrate.

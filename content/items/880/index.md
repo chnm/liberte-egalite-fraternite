@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '880'
+sortdate: '1792-12-10'
 tags:
   - Timeline
 title: Opening of Louis XVI’s trial by the National Convention.

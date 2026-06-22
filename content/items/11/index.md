@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '11'
+sortdate: '9999-99-99'
 tags:
   - Map
 title: The Moscow Campaign 1812

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '989'
+sortdate: '1871-03-28'
 tags:
   - Timeline
 title: Proclamation of the Paris Commune that refused to accept French peace negotiations with Germany.

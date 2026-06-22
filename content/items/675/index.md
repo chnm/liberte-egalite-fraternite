@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '675'
+sortdate: '1806-11-21'
 tags:
   - Timeline
 title: Napoleon proclaims the Continental Blockade, which prohibits trade with the British Isles.

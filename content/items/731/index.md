@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '731'
+sortdate: '1791-05-07'
 tags:
   - Timeline
 title: Debate on colonies and civil status of free coloreds begin.

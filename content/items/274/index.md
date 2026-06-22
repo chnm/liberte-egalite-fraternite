@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '274'
+sortdate: '1913-00-00'
 tags:
   - Clubs
   - Public Opinion

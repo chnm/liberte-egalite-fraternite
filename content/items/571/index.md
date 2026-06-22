@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '571'
+sortdate: '1789-01-01'
 tags:
   - Monarchy
   - Popular Politics

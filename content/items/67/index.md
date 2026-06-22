@@ -69,6 +69,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '67'
+sortdate: '1795-00-00'
 tags:
   - Image
   - Middle Classes – Bourgeoisie

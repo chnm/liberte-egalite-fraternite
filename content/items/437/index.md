@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '437'
+sortdate: '1704-02-05'
 tags:
   - Clubs
   - Enlightenment

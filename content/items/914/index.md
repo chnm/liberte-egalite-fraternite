@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '914'
+sortdate: '1799-11-10'
 tags:
   - Timeline
 title: After a chaotic session the remaining deputies elect Bonaparte, Sieyès and Ducos as consuls.

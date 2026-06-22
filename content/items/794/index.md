@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '794'
+sortdate: '1796-04-11'
 tags:
   - Timeline
 title: Invasion of Italy.

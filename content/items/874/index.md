@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '874'
+sortdate: '1789-07-15'
 tags:
   - Timeline
 title: Revolutionary municipalities and citizens’ guards are formed throughout the provinces. Process continues through August.

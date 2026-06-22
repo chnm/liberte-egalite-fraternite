@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '860'
+sortdate: '1793-10-30'
 tags:
   - Timeline
 title: Women’s clubs suppressed.

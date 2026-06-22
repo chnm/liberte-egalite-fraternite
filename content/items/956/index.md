@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '956'
+sortdate: '1802-04-18'
 tags:
   - Timeline
 title: Promulgation of the Concordat.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '998'
+sortdate: '1748-00-00'
 tags:
   - Timeline
 title: Montesquieu, <i>The Spirit of the Laws</i>.

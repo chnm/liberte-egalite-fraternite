@@ -57,6 +57,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '618'
+sortdate: '1790-07-14'
 tags:
   - Monarchy
   - Religion

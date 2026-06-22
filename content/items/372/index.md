@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '372'
+sortdate: '1794-09-11'
 tags:
   - Popular Politics
   - Text

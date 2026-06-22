@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '925'
+sortdate: '1795-04-01'
 tags:
   - Timeline
 title: <i>Sans–culotte</i> insurrection of 12 Germinal against the Convention, demanding bread and the <i>Constitution of 1793</i>.

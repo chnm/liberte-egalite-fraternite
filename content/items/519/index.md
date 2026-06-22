@@ -54,6 +54,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '519'
+sortdate: '1791-09-08'
 tags:
   - Counterrevolution
   - Monarchy

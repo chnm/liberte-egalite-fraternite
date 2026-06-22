@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '947'
+sortdate: '1796-12-00'
 tags:
   - Timeline
 title: The Irish Expedition (Hoche’s expedition against the British Isles) fails. A storm destroys the French fleet before it could reach Ireland.

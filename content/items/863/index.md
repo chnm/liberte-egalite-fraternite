@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '863'
+sortdate: '1754-00-00'
 tags:
   - Timeline
 title: Beginning of the Refusal of Sacraments Controversy (to 1756).

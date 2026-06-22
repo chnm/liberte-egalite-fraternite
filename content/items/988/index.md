@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '988'
+sortdate: '1870-09-04'
 tags:
   - Timeline
 title: Proclamation of the French Republic after defeat of Napoleon III by the Prussians.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '331'
+sortdate: '1789-08-11'
 tags:
   - Economic Conditions
   - Laws

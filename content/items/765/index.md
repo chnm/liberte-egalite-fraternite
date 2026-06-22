@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '765'
+sortdate: '1793-06-24'
 tags:
   - Timeline
 title: Constitution of 1793 is accepted by the Convention to be voted on in a national referendum.

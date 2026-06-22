@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '900'
+sortdate: '1795-10-31'
 tags:
   - Timeline
 title: Election of the Directors.

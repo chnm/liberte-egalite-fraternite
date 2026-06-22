@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '867'
+sortdate: '1769-08-15'
 tags:
   - Timeline
 title: Birth of Napoleon Bonaparte.

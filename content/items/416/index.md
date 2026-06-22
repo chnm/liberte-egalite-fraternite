@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '416'
+sortdate: '1794-06-08'
 tags:
   - Religion
   - Text

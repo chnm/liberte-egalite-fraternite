@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '718'
+sortdate: '1789-06-17'
 tags:
   - Timeline
 title: Accepting the proposition of the delegate Abbé Sieyès, the Third Estate proclaims itself "The National Assembly." It invites the other two Orders to join in this new body of the nation.

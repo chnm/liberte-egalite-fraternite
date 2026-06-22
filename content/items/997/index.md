@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '997'
+sortdate: '1690-00-00'
 tags:
   - Timeline
 title: John Locke, "Of Political or Civil Society."

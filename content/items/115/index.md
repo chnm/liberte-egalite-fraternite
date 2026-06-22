@@ -73,6 +73,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '115'
+sortdate: '1793-07-13'
 tags:
   - Image
   - The Terror

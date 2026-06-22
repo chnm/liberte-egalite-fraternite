@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '648'
+sortdate: '1800-02-13'
 tags:
   - Timeline
 title: The Bank of France is created.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1012'
+sortdate: '1789-12-00'
 tags:
   - Timeline
 title: France’s administration reorganized with the establishment of departments, districts, cantons, and communes.

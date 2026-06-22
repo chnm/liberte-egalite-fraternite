@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '653'
+sortdate: '1800-12-24'
 tags:
   - Timeline
 title: An assassination attempt on Bonaparte occurs in the rue Saint–Niçâise.

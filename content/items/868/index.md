@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '868'
+sortdate: '1787-11-19'
 tags:
   - Timeline
 title: Edict grants toleration to Protestants.

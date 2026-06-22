@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '983'
+sortdate: '1848-02-23'
 tags:
   - Timeline
 title: February Revolution in Paris. Orleans dynasty overthrown. The Second Republic declared.

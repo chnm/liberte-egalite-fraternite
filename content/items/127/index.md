@@ -61,6 +61,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '127'
+sortdate: '9999-99-99'
 tags:
   - Image
 title: Live Free or Die

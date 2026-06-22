@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '6'
+sortdate: '9999-99-99'
 tags:
   - Map
   - Napoleon Bonaparte

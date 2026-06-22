@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '698'
+sortdate: '1756-00-00'
 tags:
   - Timeline
 title: Seven Years War (ending 1763).

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '552'
+sortdate: '1795-00-00'
 tags:
   - Laws
   - Middle Classes – Bourgeoisie

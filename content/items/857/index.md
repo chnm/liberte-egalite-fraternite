@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '857'
+sortdate: '1799-12-15'
 tags:
   - Timeline
 title: 'The <i>Constitution of the Year VIII</i> (the fourth since 1791) is submitted for approval in a plebiscite. This constitution is not preceded by the <i>Declaration of the Rights of Man and of the Citizen</i>. In a preface announcing the new constitution the following is declared: "Citoyens, la Revolution est fixee aux principes qui Pont commencee: elle est finie." [Citizens, the Revolution is established upon its founding principles: the Revolution is over.]'

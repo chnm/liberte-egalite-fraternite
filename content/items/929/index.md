@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '929'
+sortdate: '1797-07-09'
 tags:
   - Timeline
 title: Cisalpine republic set up at Milan by France.

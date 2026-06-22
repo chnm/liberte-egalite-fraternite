@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '747'
+sortdate: '1792-08-19'
 tags:
   - Timeline
 title: Defection of Lafayette. Lafayette deserts the army and flees to Austria. General Dumouriez takes command of the Armies of the North. Prussian armies, including French émigrés, invade France.

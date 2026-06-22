@@ -74,6 +74,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '622'
+sortdate: '1792-00-00'
 tags:
   - Popular Politics
   - Provinces

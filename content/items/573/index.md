@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '573'
+sortdate: '1789-00-00'
 tags:
   - Enlightenment
   - Text

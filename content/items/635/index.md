@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '635'
+sortdate: '1793-01-21'
 tags:
   - Timeline
 title: Execution of Louis XVI.

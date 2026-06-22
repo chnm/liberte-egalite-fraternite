@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '725'
+sortdate: '1789-08-26'
 tags:
   - Timeline
 title: The National Assembly adopts the <i>Declaration of the Rights of Man and of the Citizen</i>.

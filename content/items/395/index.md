@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '395'
+sortdate: '1796-00-00'
 tags:
   - Economic Conditions
   - Nobility

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '902'
+sortdate: '1796-10-16'
 tags:
   - Timeline
 title: Proclamation of the Cispadane Republic at Bologna.

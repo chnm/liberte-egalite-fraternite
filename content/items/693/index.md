@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '693'
+sortdate: '1814-05-04'
 tags:
   - Timeline
 title: Napoleon sent into exile at island of Elba.

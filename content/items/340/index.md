@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '340'
+sortdate: '1815-06-15'
 tags:
   - Napoleon Bonaparte
   - Text

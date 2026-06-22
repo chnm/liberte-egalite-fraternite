@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '842'
+sortdate: '1795-10-26'
 tags:
   - Timeline
 title: Napoleon is named commander–in–chief of all armies within the boundaries of France.

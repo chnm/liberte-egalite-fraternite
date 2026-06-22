@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '710'
+sortdate: '1787-05-25'
 tags:
   - Timeline
 title: Assembly of Notables dissolved.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '839'
+sortdate: '1795-04-24'
 tags:
   - Timeline
 title: The so–called White Terror had been developing throughout April, since the first decree on April 10 calling for the disarming of all "terrorists," or supporters of Robespierre. In Lyons, many Jacobin prisoners are massacred. Many murders of former terrorists by royalists continue through June.

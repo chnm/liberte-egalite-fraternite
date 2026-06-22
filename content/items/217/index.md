@@ -72,6 +72,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '217'
+sortdate: '1815-00-00'
 tags:
   - Economic Conditions
   - Image

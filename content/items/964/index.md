@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '964'
+sortdate: '1807-06-14'
 tags:
   - Timeline
 title: Napoleon defeats the Russians at Friedland.

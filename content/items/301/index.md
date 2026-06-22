@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '301'
+sortdate: '1945-09-02'
 tags:
   - Popular Politics
   - Public Opinion

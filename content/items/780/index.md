@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '780'
+sortdate: '1794-08-01'
 tags:
   - Timeline
 title: Law of 22 Prairial repealed.

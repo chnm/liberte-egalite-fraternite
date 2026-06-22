@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '739'
+sortdate: '1791-09-14'
 tags:
   - Timeline
 title: Louis XVI accepts the constitution.

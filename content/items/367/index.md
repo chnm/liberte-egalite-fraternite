@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '367'
+sortdate: '1790-11-28'
 tags:
   - Nobility
   - Public Opinion

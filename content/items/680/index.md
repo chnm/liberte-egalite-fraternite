@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '680'
+sortdate: '1808-02-27'
 tags:
   - Timeline
 title: Invasion of Spain. From 1808–1813 there is war in Spain and Portugal.

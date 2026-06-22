@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '930'
+sortdate: '1798-02-15'
 tags:
   - Timeline
 title: Proclamation of Roman Republic by France.

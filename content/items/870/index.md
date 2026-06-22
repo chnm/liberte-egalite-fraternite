@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '870'
+sortdate: '1788-08-08'
 tags:
   - Timeline
 title: The Estates–General are convoked for 1 May 1789.

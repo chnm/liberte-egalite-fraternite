@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '898'
+sortdate: '1795-10-16'
 tags:
   - Timeline
 title: Bonaparte appointed major–general.

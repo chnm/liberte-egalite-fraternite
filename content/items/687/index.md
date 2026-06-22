@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '687'
+sortdate: '1812-05-24'
 tags:
   - Timeline
 title: Invasion of Russia.

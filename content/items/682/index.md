@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '682'
+sortdate: '1809-07-06'
 tags:
   - Timeline
 title: Victory of Wagram over Austria.

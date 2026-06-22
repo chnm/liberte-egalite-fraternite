@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1'
+sortdate: '9999-99-99'
 tags:
   - Map
   - Provinces

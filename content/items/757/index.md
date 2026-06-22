@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '757'
+sortdate: '1793-03-10'
 tags:
   - Timeline
 title: Revolutionary Tribunal created.

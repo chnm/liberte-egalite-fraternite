@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '784'
+sortdate: '1795-02-21'
 tags:
   - Timeline
 title: 'Freedom of worship officially restored: Separation of Church and State and freedom of religion are decreed.'

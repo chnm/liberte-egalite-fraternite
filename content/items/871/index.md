@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '871'
+sortdate: '1788-12-27'
 tags:
   - Timeline
 title: 'With the consent of the king, Necker agrees to the doubling of the Third Estate’s representation at the forthcoming meeting of the Estates–General: the Third Estate will now have as many deputies as the other two orders put together.'

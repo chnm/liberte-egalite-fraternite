@@ -10,5 +10,15 @@
     if (window.jQuery && jQuery.fn.foundation) {
       jQuery(document).foundation();
     }
+    // Browse "go to page N" jump box.
+    document.querySelectorAll('.page-input form').forEach(function (f) {
+      f.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var base = f.getAttribute('data-base') || '/';
+        var n = parseInt(f.elements.page.value, 10);
+        if (!n || n < 1) return;
+        window.location.href = (n === 1) ? base : base + 'page/' + n + '/';
+      });
+    });
   });
 </script>

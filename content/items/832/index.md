@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '832'
+sortdate: '1793-12-25'
 tags:
   - Timeline
 title: Robespierre delivers an important report on the principles of revolutionary government, which he describes as a necessary and provisional form of war against the enemies of liberty, to be distinguished from constitutional government, which conserves and protects liberty once firmly and peacefully established.

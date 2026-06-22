@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '942'
+sortdate: '1796-04-15'
 tags:
   - Timeline
 title: Bonaparte defeats the Austrians at Dego.

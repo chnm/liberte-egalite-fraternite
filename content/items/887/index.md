@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '887'
+sortdate: '1794-03-24'
 tags:
   - Timeline
 title: Execution of the Hébertists.

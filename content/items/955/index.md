@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '955'
+sortdate: '1802-04-03'
 tags:
   - Timeline
 title: <i>Articles organiques</i> concerning the Catholic and Protestant religions.

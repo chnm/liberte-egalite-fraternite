@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '979'
+sortdate: '1825-04-27'
 tags:
   - Timeline
 title: Law on compensation for the émigrés and victims of the Terror.

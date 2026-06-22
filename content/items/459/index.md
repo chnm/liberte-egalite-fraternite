@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '459'
+sortdate: '1792-08-10'
 tags:
   - Clubs
   - Middle Classes – Bourgeoisie

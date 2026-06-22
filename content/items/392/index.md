@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '392'
+sortdate: '1762-03-00'
 tags:
   - Middle Classes – Bourgeoisie
   - Religion

@@ -37,6 +37,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '290'
+sortdate: '9999-99-99'
 tags:
   - Counterrevolution
   - Monarchy

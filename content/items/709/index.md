@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '709'
+sortdate: '1787-02-22'
 tags:
   - Timeline
 title: The First Assembly of Notables. Raising taxes is discussed and rejected.

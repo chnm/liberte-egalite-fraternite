@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '909'
+sortdate: '1799-04-27'
 tags:
   - Timeline
 title: General Moreau is defeated at Cassano.

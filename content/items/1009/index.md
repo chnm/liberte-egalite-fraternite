@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1009'
+sortdate: '1944-00-00'
 tags:
   - Timeline
 title: Vote given to women in France.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '678'
+sortdate: '1807-08-19'
 tags:
   - Timeline
 title: Suppression of the Tribunate to eliminate governmental resistance to Napoleon.

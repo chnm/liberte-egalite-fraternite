@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '681'
+sortdate: '1808-03-01'
 tags:
   - Timeline
 title: Senatus–consultum organizes the imperial nobility.

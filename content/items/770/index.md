@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '770'
+sortdate: '1793-10-05'
 tags:
   - Timeline
 title: Introduction of the revolutionary calendar.

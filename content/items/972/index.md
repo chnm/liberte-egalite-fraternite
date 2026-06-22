@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '972'
+sortdate: '1815-06-24'
 tags:
   - Timeline
 title: Start of new White Terror in the Midi.

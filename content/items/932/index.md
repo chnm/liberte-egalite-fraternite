@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '932'
+sortdate: '1799-04-29'
 tags:
   - Timeline
 title: Austrians enter Milan; during the summer a succession of Russian and Austrian victories remove French power in Italy except for a besieged garrison at Genoa.

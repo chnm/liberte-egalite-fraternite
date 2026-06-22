@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '660'
+sortdate: '1802-04-26'
 tags:
   - Timeline
 title: All but one thousand émigrés are removed from the list.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '776'
+sortdate: '1794-04-05'
 tags:
   - Timeline
 title: Danton, Camille Desmoulins, and other Dantonists are guillotined.

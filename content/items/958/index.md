@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '958'
+sortdate: '1805-05-26'
 tags:
   - Timeline
 title: Napoleon is crowned King of Italy in Milan.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '928'
+sortdate: '1797-06-15'
 tags:
   - Timeline
 title: Ligurian republic set up at Genoa by France.

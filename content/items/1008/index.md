@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1008'
+sortdate: '1804-00-00'
 tags:
   - Timeline
 title: Haiti recognized as an independent republic, marking the first successful slave revolt in history.

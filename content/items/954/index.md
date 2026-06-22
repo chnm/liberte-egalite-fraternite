@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '954'
+sortdate: '1802-02-06'
 tags:
   - Timeline
 title: Leclerc lands in Saint Domingue on a mission to quell the revolt of Toussaint–L’Ouverture.

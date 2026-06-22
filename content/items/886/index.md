@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '886'
+sortdate: '1794-03-21'
 tags:
   - Timeline
 title: Opening of the trial of the Hébertists.

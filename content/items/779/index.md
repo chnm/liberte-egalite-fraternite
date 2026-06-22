@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '779'
+sortdate: '1794-06-26'
 tags:
   - Timeline
 title: French victory at Fleurus against Austria ends the threat of invasion.

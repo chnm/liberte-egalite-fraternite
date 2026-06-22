@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '904'
+sortdate: '1797-09-05'
 tags:
   - Timeline
 title: Return to the emergency laws of the Terror.

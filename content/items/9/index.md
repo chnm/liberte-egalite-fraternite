@@ -40,6 +40,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '9'
+sortdate: '9999-99-99'
 tags:
   - Counterrevolution
   - Map

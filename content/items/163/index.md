@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '163'
+sortdate: '1813-00-00'
 tags:
   - Europe in Revolution
   - Image

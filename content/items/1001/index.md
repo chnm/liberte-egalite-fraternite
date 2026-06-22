@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1001'
+sortdate: '1806-07-12'
 tags:
   - Timeline
 title: The Confederation of the Rhine created to replace the defunct Holy Roman Empire.

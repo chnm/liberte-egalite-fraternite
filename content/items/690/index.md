@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '690'
+sortdate: '1814-04-06'
 tags:
   - Timeline
 title: Bonaparte abdicates the throne at Fontainebleau. The Count of Provence (Louis XVIII) is offered the throne by the Senate.

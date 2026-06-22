@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '850'
+sortdate: '1798-05-11'
 tags:
   - Timeline
 title: The so–called coup d’état of 22 Floréal Year VI. The two councils invalidate totally or partially the elections in forty–eight out of ninety–six departments.

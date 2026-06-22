@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '992'
+sortdate: '1871-11-13'
 tags:
   - Timeline
 title: Thiers declares that the Republic exists and that it will be conservative.

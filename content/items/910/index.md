@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '910'
+sortdate: '1799-05-16'
 tags:
   - Timeline
 title: Election of Sieyès to the Directory.

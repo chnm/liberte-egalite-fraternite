@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '366'
+sortdate: '1796-06-05'
 tags:
   - Napoleon Bonaparte
   - Text

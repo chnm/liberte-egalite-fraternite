@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '927'
+sortdate: '1797-05-12'
 tags:
   - Timeline
 title: Democratic republic established by the Venetians.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '422'
+sortdate: '1793-06-10'
 tags:
   - Clubs
   - Laws

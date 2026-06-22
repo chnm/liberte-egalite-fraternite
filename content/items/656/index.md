@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '656'
+sortdate: '1801-07-15'
 tags:
   - Timeline
 title: Signing the Concordat with the Papacy (26 Messidor Year IX).

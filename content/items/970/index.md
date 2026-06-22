@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '970'
+sortdate: '1814-05-30'
 tags:
   - Timeline
 title: 'First Treaty of Paris: France is reduced to its 1792 frontiers.'

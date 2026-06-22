@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '938'
+sortdate: '1790-11-00'
 tags:
   - Timeline
 title: Publication of Edmund Burke’s <i>Reflections on the French Revolution</i>.

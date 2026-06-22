@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '920'
+sortdate: '1793-08-01'
 tags:
   - Timeline
 title: Adoption of the metric system.

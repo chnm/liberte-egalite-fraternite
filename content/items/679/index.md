@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '679'
+sortdate: '1807-10-11'
 tags:
   - Timeline
 title: Proclamation of the Commercial Code.

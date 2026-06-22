@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '916'
+sortdate: '1791-05-15'
 tags:
   - Timeline
 title: Black inhabitants of French colonies who are born of free parents are declared equal in civic rights with whites.

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '481'
+sortdate: '1789-00-00'
 tags:
   - Text
 title: Three Cahiers from Orléans

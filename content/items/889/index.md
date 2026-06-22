@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '889'
+sortdate: '1794-03-00'
 tags:
   - Timeline
 title: Waves of dechristianization continue through April.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '994'
+sortdate: '1215-06-15'
 tags:
   - Timeline
 title: <i>Magna Carta</i>.

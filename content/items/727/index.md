@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '727'
+sortdate: '1789-11-02'
 tags:
   - Timeline
 title: All church property is expropriated.

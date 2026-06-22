@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '328'
+sortdate: '1791-04-07'
 tags:
   - Nobility
   - Popular Politics

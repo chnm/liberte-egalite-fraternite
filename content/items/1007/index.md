@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1007'
+sortdate: '1793-08-00'
 tags:
   - Timeline
 title: Agents in Saint Domingue abolish slavery.

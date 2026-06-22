@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '837'
+sortdate: '1794-11-19'
 tags:
   - Timeline
 title: The American and British governments sign a treaty in London agreeing to blockade French shores, despite a treaty of Franco–American alliance signed in 1778.

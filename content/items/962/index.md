@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '962'
+sortdate: '1806-10-14'
 tags:
   - Timeline
 title: French victories at Jena and AuerstŠdt against Prussia.

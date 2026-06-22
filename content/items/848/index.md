@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '848'
+sortdate: '1797-10-17'
 tags:
   - Timeline
 title: The peace treaty of Campio Formio is signed with Austria.

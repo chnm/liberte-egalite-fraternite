@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '425'
+sortdate: '1793-08-25'
 tags:
   - Counterrevolution
   - Peasants

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '888'
+sortdate: '1794-04-02'
 tags:
   - Timeline
 title: Trial of the Dantonists.

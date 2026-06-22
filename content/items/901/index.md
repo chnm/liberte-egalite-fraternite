@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '901'
+sortdate: '1796-02-18'
 tags:
   - Timeline
 title: Ceremonial destruction of plates used for printing assignats.

@@ -31,6 +31,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '1048'
+sortdate: '9999-99-99'
 tags:
   - Glossary
 title: Jacobin Club

@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '272'
+sortdate: '1789-05-00'
 tags:
   - Economic Conditions
   - Public Opinion

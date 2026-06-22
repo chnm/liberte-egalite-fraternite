@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '636'
+sortdate: '1794-07-27'
 tags:
   - Timeline
 title: Fall of Robespierre, 9 Thermidor Year II.

@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '937'
+sortdate: '1789-07-22'
 tags:
   - Timeline
 title: Foulon de Doué and Bertier de Sauvigny are murdered in Paris.

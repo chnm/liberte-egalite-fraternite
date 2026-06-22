@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '967'
+sortdate: '1809-07-05'
 tags:
   - Timeline
 title: Arrest of Pope Pius VII.

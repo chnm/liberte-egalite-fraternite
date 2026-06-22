@@ -43,6 +43,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '393'
+sortdate: '1762-00-00'
 tags:
   - Enlightenment
   - Religion

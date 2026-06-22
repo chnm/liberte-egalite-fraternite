@@ -34,6 +34,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '800'
+sortdate: '1797-05-27'
 tags:
   - Timeline
 title: Gracchus Babeuf is guillotined.

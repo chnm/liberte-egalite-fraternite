@@ -69,6 +69,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '193'
+sortdate: '1838-00-00'
 tags:
   - Image
   - Provinces

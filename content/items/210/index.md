@@ -46,6 +46,7 @@ layout: single
 plugin_metadata: []
 related_items: []
 slug: '210'
+sortdate: '1928-00-00'
 tags:
   - Image
   - The US and Great Britain in Revolution
