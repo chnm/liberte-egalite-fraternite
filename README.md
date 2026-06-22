@@ -50,6 +50,17 @@ docker build --build-arg hugobuildargs="--minify --baseURL <url>" -t lef-revolut
 docker run -d -p 8080:80 lef-revolution
 ```
 
+### Development build (with "View original on Omeka" comparison links)
+
+Pass `--environment development` so each page (home, items, exhibits, simple
+pages) gets a dev-only "View original on Omeka ↗" link to the matching live URL,
+for visual comparison. Production builds omit it entirely.
+
+```sh
+hugo server                                   # local; links on
+docker build --build-arg hugobuildargs="--environment development --minify --baseURL <url>" -t lef-revolution-dev .
+```
+
 ## Accessibility — WCAG 2.2 AA
 
 The site targets **WCAG 2.2 Level AA**. An axe-core 4.11 audit (tags
