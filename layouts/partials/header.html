@@ -1,11 +1,28 @@
-<header class="site-header">
-  <a class="site-title" href="{{ "" | relURL }}">{{ site.Title }}</a>
-  <nav class="site-nav">
-    <a href="{{ "items/" | relURL }}">Items</a>
-    <a href="{{ "collections/" | relURL }}">Collections</a>
-    {{ with site.Taxonomies.tags }}{{ if . }}<a href="{{ "tags/" | relURL }}">Tags</a>{{ end }}{{ end }}
-    {{ with site.GetPage "/map" }}<a href="{{ "map/" | relURL }}">Map</a>{{ end }}
-    {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>
-    {{ end }}
+{{ $exhibit := "/exhibits/show/liberty--equality--fraternity/" }}
+<header role="banner">
+  <div id="site-title" class="top-bar-left">
+    <a href="/"><img src="/uploads/67d23a0e4a55d8dd335ca21787ed29bf.png" alt="{{ site.Title }}"></a>
+  </div>
+  <nav id="primary-nav" role="navigation" class="top-bar-right" aria-label="Primary">
+    <div class="title-bar" data-responsive-toggle="top-nav" data-hide-for="medium">
+      <button class="menu-icon" type="button" data-toggle aria-label="Open menu"><i class="fas fa-bars" aria-hidden="true"></i></button>
+      <button type="button" class="search-toggle button" aria-label="Toggle search"><i class="fas fa-search" aria-hidden="true"></i></button>
+    </div>
+    <ul id="top-nav" class="horizontal menu" data-responsive-menu="accordion medium-dropdown">
+      <li><a class="nav-header" href="{{ $exhibit }}">Explore</a></li>
+      <li><a class="nav-header" href="/items/">Browse</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-haspopup="true">About <b class="caret"></b></a>
+        <ul class="menu vertical">
+          <li><a href="/project-history/">Project History</a></li>
+          <li><a href="/faq/">FAQ</a></li>
+        </ul>
+      </li>
+      <li><a class="nav-header" href="https://ageofrevolutions.com/">Age of Revolutions</a></li>
+    </ul>
   </nav>
+
+  <div id="search-container" role="search" class="closed">
+    <div id="search"></div>
+  </div>
 </header>

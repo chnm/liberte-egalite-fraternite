@@ -1,5 +1,16 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} &middot; {{ site.Title }}{{ end }}</title>
 {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-{{ with resources.Get "css/site.css" }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
+<link rel="icon" href="/img/logo.png" type="image/png">
+
+<!-- Foundation 6.5.3 theme (vendored from the original Omeka "foundation" theme) -->
+<link rel="stylesheet" href="/css/app.css" media="all">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya|Playfair+Display+SC:900|Playfair+Display:900i&display=swap" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" media="all">
+
+<!-- Accessibility overrides (WCAG 2.2 AA), layered on app.css -->
+<link rel="stylesheet" href="/css/a11y.css" media="all">
+
+<!-- Pagefind search UI -->
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">

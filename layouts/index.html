@@ -1,0 +1,6 @@
+{{ define "body-class" }}page simple-page simple-page-home{{ end }}
+{{ define "main" }}
+<div id="primary">
+  {{ with site.GetPage "/home" }}{{ .Content }}{{ end }}
+</div>
+{{ end }}

@@ -1,13 +1,19 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
+<body class="{{ block "body-class" . }}page{{ end }}">
+  <a href="#content" id="skipnav">Skip to main content</a>
+
   {{ partial "header.html" . }}
-  <main class="container">
+
+  <div id="content" role="main" tabindex="-1">
     {{ block "main" . }}{{ end }}
-  </main>
+  </div><!-- end content -->
+
   {{ partial "footer.html" . }}
+
+  {{ partial "scripts.html" . }}
 </body>
 </html>

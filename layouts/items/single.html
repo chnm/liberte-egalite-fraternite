@@ -1,82 +1,61 @@
+{{ define "body-class" }}items show double{{ end }}
 {{ define "main" }}
-<article class="item">
-  <h1>{{ .Title }}</h1>
-  {{ partial "original-source.html" . }}
+<div class="wrap">
+  <h1>{{ .Title }}{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
 
   {{ with .Params.files }}
-    <div class="item-files">
+    <div id="item-images">
       {{ range . }}
-        <div class="item-file">
-          {{ if and .mime (hasPrefix .mime "image/") }}
-            <a href="{{ .url }}"><img src="{{ or .fullsize .url }}" alt=""></a>
-          {{ else }}
-            <a href="{{ .url }}">{{ or .original_filename .url }}</a>
-          {{ end }}
-        </div>
+        {{ if and .mime (hasPrefix .mime "image/") }}
+          <div class="item-file image"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ $.Title }}"></a></div>
+        {{ else }}
+          <div class="item-file"><a class="download-file" href="{{ .url }}">{{ or .original_filename "Download file" }}</a></div>
+        {{ end }}
       {{ end }}
     </div>
   {{ end }}
 
-  <div class="item-body">
-    {{ .Content }}
-  </div>
-
-  <h2>Metadata</h2>
-  <dl class="item-metadata">
-    {{ range $field, $vals := .Params.dublin_core }}
-      <dt>{{ $field }}</dt>
-      <dd>
-        {{ range $vals }}
-          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
+  <div id="item-metadata">
+    {{ $dc := .Params.dublin_core }}
+    {{ $order := slice "Title" "Subject" "Description" "Creator" "Source" "Publisher" "Date" "Contributor" "Rights" "Relation" "Format" "Language" "Type" "Coverage" "Identifier" }}
+    <div class="element-set">
+      {{ range $f := $order }}
+        {{ with index $dc $f }}
+          <div id="dublin-core-{{ $f | urlize }}" class="element">
+            <h3>{{ $f }}</h3>
+            {{ range . }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
+          </div>
         {{ end }}
-      </dd>
-    {{ end }}
-    {{ range $field, $vals := .Params.item_type_metadata }}
-      <dt>{{ $field }}</dt>
-      <dd>
-        {{ range $vals }}
-          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
-        {{ end }}
-      </dd>
-    {{ end }}
-  </dl>
+      {{ end }}
+    </div>
 
-  {{ with .Params.plugin_metadata }}
-    <h3>Additional metadata</h3>
-    <dl class="item-plugin-metadata">
-      {{ range . }}
-        <dt>{{ .set }}: {{ .field }}</dt>
-        <dd>
-          {{ range .values }}
-            {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
+    {{ with .Params.item_type_metadata }}
+      {{/* "Sortable Date" is admin-hidden on the live site (HideElements plugin);
+           it backs the timeline but never displays publicly. */}}
+      {{ $hidden := slice "Sortable Date" }}
+      <div class="element-set">
+        {{ range $f, $vals := . }}
+          {{ if not (in $hidden $f) }}
+            <div class="element">
+              <h3>{{ $f }}</h3>
+              {{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
+            </div>
           {{ end }}
-        </dd>
-      {{ end }}
-    </dl>
-  {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
 
-  {{ with .Params.geo }}
-    <h2>Location</h2>
-    <dl class="item-geo">
-      {{ with .address }}<dt>Address</dt><dd>{{ . }}</dd>{{ end }}
-      <dt>Coordinates</dt><dd>{{ .lat }}, {{ .lng }}</dd>
-    </dl>
-  {{ end }}
+    {{ with .Params.tags }}
+      <div id="item-tags" class="element">
+        <h3>Tags</h3>
+        <div class="element-text">{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="/tags/{{ $t | urlize }}/" rel="tag">{{ $t }}</a>{{ end }}</div>
+      </div>
+    {{ end }}
 
-  {{ with .Params.collections }}
-    <p>
-      <strong>Collection:</strong>
-      {{ range . }}
-        <a href="{{ (printf "collections/%s/" .) | relURL }}">{{ . }}</a>
-      {{ end }}
-    </p>
-  {{ end }}
-
-  {{ with .Params.tags }}
-    <p>
-      <strong>Tags:</strong>
-      {{ range . }}<a href="{{ (printf "tags/%s/" (. | urlize)) | relURL }}">{{ . }}</a> {{ end }}
-    </p>
-  {{ end }}
-</article>
+    <div id="item-citation" class="element">
+      <h3>Citation</h3>
+      <div class="element-text">{{ partial "citation.html" . }}</div>
+    </div>
+  </div>
+</div>
 {{ end }}

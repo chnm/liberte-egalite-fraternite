@@ -1,0 +1,55 @@
+/*
+ * Accessibility overrides layered on the vendored Foundation theme (app.css)
+ * to meet WCAG 2.2 AA. Loaded after app.css so these win.
+ */
+
+/* 1.4.1 Use of Color / link-in-text-block:
+   inline links in prose are red (#9e0b0f) but carry no non-color cue and have
+   only 2.36:1 contrast with the surrounding black text. Add an underline so
+   they're distinguishable without relying on color. Scoped to text contexts so
+   nav/buttons/thumbnail links are untouched. */
+#footer-text a,
+.exhibit-breadcrumb a,
+.element-text a,
+.exhibit-description a,
+.exhibit-credits a,
+#exhibit-blocks p a,
+.simple-page a,
+#primary p a {
+  text-decoration: underline;
+}
+
+/* 1.4.3 Contrast (Minimum): a few light-gray texts fall below the AA ratio on
+   the cream (#fffdf1) background. Darken them. */
+.item-type.subtitle { color: #6f6f6f; }   /* large/bold subtitle: was #cacaca (1.6:1) -> 4.9:1 */
+.note,
+.note p,
+.bib,
+.bib em { color: #595959; }               /* body text: was #8a8a8a (3.38:1) -> ~7:1 */
+
+/* 2.4.7 Focus Visible / 2.4.11 Focus Not Obscured: ensure a clearly visible
+   focus ring everywhere, and keep focused targets clear of any fixed chrome. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid #9e0b0f;
+  outline-offset: 2px;
+}
+html { scroll-padding-top: 1rem; }
+
+/* The skip link is visually hidden until focused, then clearly visible. */
+#skipnav {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  background: #9e0b0f;
+  color: #fff;
+  padding: 0.6rem 1rem;
+  text-decoration: underline;
+}
+#skipnav:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+}

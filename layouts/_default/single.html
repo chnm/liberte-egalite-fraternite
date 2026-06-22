@@ -1,9 +1,9 @@
+{{ define "body-class" }}page simple-page{{ end }}
 {{ define "main" }}
-<article>
-  <h1>{{ .Title }}</h1>
-  {{ partial "original-source.html" . }}
-  <div class="page-body">
+<div id="primary">
+  <article class="simple-page">
+    <h1>{{ .Title }}</h1>
     {{ .Content }}
-  </div>
-</article>
+  </article>
+</div>
 {{ end }}

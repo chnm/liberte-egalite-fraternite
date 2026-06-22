@@ -1,4 +1,6 @@
+{{ define "body-class" }}exhibits summary{{ end }}
 {{ define "main" }}
+<div class="wrap">
 <article class="exhibit summary">
   <h1>{{ .Title }}</h1>
 
@@ -18,4 +20,5 @@
     <div class="exhibit-credits">{{ . | safeHTML }}</div>
   {{ end }}
 </article>
+</div>
 {{ end }}

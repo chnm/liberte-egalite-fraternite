@@ -25,18 +25,18 @@ type: page
 <div class="features section">Do you want to study the connections between media in a period of upheaval? Or look at how a set of documents, visual prints, or songs represents and even reshapes the political debates of the time? The materials you need can be found here to study the relationships between different media as well as those between the media and the events depicted.
 <div class="row">
 <div class="feature">
-<div class="thumbnail-wrap"><img alt="essays.jpg" class="thumbnail" src="themes/foundation/img/essays.jpg"/></div>
+<div class="thumbnail-wrap"><img alt="essays.jpg" class="thumbnail" src="/img/essays.jpg"/></div>
 <h3><a href="https://ageofrevolutions.com">Discover Research From Multiple Scholars</a></h3>
 <p>You will also find links to essays by scholars on depictions of violence beyond the guillotine.</p>
 </div>
 <div class="feature">
-<div class="thumbnail-wrap"><img alt="map.jpg" class="thumbnail" src="themes/foundation/img/map.jpg"/></div>
-<h3><a href="items/browse?tags=Map">Understand Where the Revolution Happened</a></h3>
+<div class="thumbnail-wrap"><img alt="map.jpg" class="thumbnail" src="/img/map.jpg"/></div>
+<h3><a href="/tags/map/">Understand Where the Revolution Happened</a></h3>
 <p>Do not overlook the maps because they provide a different kind of perspective on events.</p>
 </div>
 <div class="feature">
-<div class="thumbnail-wrap"><img alt="timeline.jpg" class="thumbnail" src="themes/foundation/img/timeline.jpg"/></div>
-<h3><a href="neatline-time/timelines/show/1">Visualize the Events of the Revolution</a></h3>
+<div class="thumbnail-wrap"><img alt="timeline.jpg" class="thumbnail" src="/img/timeline.jpg"/></div>
+<h3><a href="/items/">Visualize the Events of the Revolution</a></h3>
 <p>The timeline can quickly reorient you if you are feeling lost in the revolution’s cascade of surprising twists and turns.</p>
 </div>
 </div>
