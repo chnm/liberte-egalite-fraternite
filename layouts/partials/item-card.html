@@ -1,0 +1,22 @@
+{{- /* One item row in a browse / taxonomy listing, matching the live Omeka markup. */ -}}
+{{- $icons := dict
+  "Text" "fa-file-lines" "Document" "fa-file-lines" "Still Image" "fa-image"
+  "Image" "fa-image" "Moving Image" "fa-film" "Sound" "fa-music" "Song" "fa-music"
+  "Map" "fa-map-location-dot" "Glossary" "fa-book" "Timeline" "fa-clock-rotate-left"
+  "Artwork" "fa-palette" "Hyperlink" "fa-link" "Lesson Plan" "fa-chalkboard"
+  "Person" "fa-user" "Event" "fa-calendar-days" "Interactive Resource" "fa-window-restore"
+  "Oral History" "fa-microphone" -}}
+{{- $date := "" -}}
+{{- with .Params.dublin_core }}{{ with index . "Date" }}{{ with index . 0 }}{{ $date = .text }}{{ end }}{{ end }}{{ end -}}
+<div class="item">
+  <div class="item-meta">
+    <h2>
+      {{ with .Params.item_type }}<i class="fas {{ index $icons . | default "fa-file" }}" aria-hidden="true" title="{{ . }}"></i> {{ end }}
+      <a href="{{ .RelPermalink }}" class="permalink">{{ .Title | safeHTML }}</a>
+      {{ with $date }}<span class="date">{{ . }}</span>{{ end }}
+    </h2>
+    {{ with .Params.tags }}
+      <div class="tags"><span class="tags secondary label">Tags</span> {{ range . }}<a href="/tags/{{ . | urlize }}/" rel="tag">{{ . }}</a> {{ end }}</div>
+    {{ end }}
+  </div>
+</div>

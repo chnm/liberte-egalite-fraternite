@@ -1,12 +1,35 @@
+{{ define "body-class" }}items browse{{ end }}
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-{{ $count := len .Pages }}
-<p class="terms-summary">{{ $count }} item{{ if ne $count 1 }}s{{ end }}</p>
-<ul class="page-list">
-  {{ range .Paginator.Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>
-{{ template "_internal/pagination.html" . }}
+{{ $items := .Pages.ByTitle }}
+{{ $paginator := .Paginate $items 10 }}
+{{/* The live "Filter by Type" surfaces the six media-format tags; the rest are
+     subject "topics". Both are tags, split here to match the original. */}}
+{{ $typeTags := dict "image" true "text" true "map" true "timeline" true "song" true "glossary" true }}
+<div id="revolution-wrap">
+  <aside id="revolution-filters" aria-label="Browse filters">
+    <h2>Browse by Type</h2>
+    <ul>
+      {{ range $name, $tax := site.Taxonomies.tags }}
+        {{ if index $typeTags (lower $name) }}<li><a href="/tags/{{ $name | urlize }}/">{{ $name }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
+      {{ end }}
+    </ul>
+    <h2>Browse by Topic</h2>
+    <ul>
+      {{ range $name, $tax := site.Taxonomies.tags }}
+        {{ if not (index $typeTags (lower $name)) }}<li><a href="/tags/{{ $name | urlize }}/">{{ $name }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
+      {{ end }}
+    </ul>
+  </aside>
+
+  <div class="resources">
+    <h1>Browse Items <small>({{ len .Pages }} total)</small></h1>
+    {{ partial "browse-pagination.html" $paginator }}
+    <div class="resource-list list">
+      {{ range $paginator.Pages }}
+        {{ partial "item-card.html" . }}
+      {{ end }}
+    </div>
+    {{ partial "browse-pagination.html" $paginator }}
+  </div>
+</div>
 {{ end }}

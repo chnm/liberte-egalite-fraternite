@@ -1,0 +1,19 @@
+{{- /* Compact pagination for large listings (the item browse has 100+ pages).
+       Context: a Hugo Paginator. */ -}}
+{{ with . }}
+  {{ if gt .TotalPages 1 }}
+    <nav class="pagination-nav browse-controls" aria-label="Pagination">
+      <ul class="pagination">
+        <li class="pagination-previous{{ if not .HasPrev }} disabled{{ end }}">
+          {{ if .HasPrev }}<a href="{{ .Prev.URL }}" rel="prev">Previous</a>{{ else }}Previous{{ end }}
+        </li>
+        {{ if .HasPrev }}<li><a href="{{ .First.URL }}" aria-label="First page">1</a></li>{{ end }}
+        <li class="current" aria-current="page">Page {{ .PageNumber }} of {{ .TotalPages }}</li>
+        {{ if .HasNext }}<li><a href="{{ .Last.URL }}" aria-label="Last page">{{ .TotalPages }}</a></li>{{ end }}
+        <li class="pagination-next{{ if not .HasNext }} disabled{{ end }}">
+          {{ if .HasNext }}<a href="{{ .Next.URL }}" rel="next">Next</a>{{ else }}Next{{ end }}
+        </li>
+      </ul>
+    </nav>
+  {{ end }}
+{{ end }}
