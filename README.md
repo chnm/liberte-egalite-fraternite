@@ -18,6 +18,8 @@ are intact.
 - **Simple pages** → `/faq/`, `/project-history/`, etc.
 - **Search** → a [Pagefind](https://pagefind.app) index built over the whole
   site (the original server-side search is replaced by it).
+- **Timeline** → `/neatline-time/timelines/show/1/` rebuilds the original
+  NeatlineTime "Timeline of the Revolution" (see below).
 - **Images / media** reference the live origin
   (`https://revolution.chnm.org/files/…`) rather than being vendored.
 
@@ -89,7 +91,38 @@ converter. Re-running the converter against a new dump will overwrite `layouts/`
 re-apply this theme (or restore `layouts/` from git) afterward. Generated
 **content** (`content/`, `static/uploads/`, `omeka2hugo/`) is safe to regenerate.
 
-## Deferred
+## Timeline
 
-- The NeatlineTime timeline (`/neatline-time/timelines/show/1`) is not yet
-  rebuilt; the "Timeline" nav entry is omitted until it is.
+`/neatline-time/timelines/show/1/` rebuilds the original NeatlineTime
+"Timeline of the Revolution". The original used the abandoned, inaccessible MIT
+SIMILE Timeline; this rebuild uses the maintained, keyboard/screen-reader
+friendly **vis-timeline** (loaded from a CDN, like Leaflet) and keeps the site's
+WCAG 2.2 AA / 0-violations guarantee.
+
+- **Data — generated from the item front matter at build time** (single source
+  of truth) by `layouts/timeline/single.html`. Every item whose `sortdate` is a
+  real date (i.e. not the `9999-99-99` "no date" sentinel) becomes an event —
+  **939**, matching the original. Each event derives its `start` from `sortdate`
+  (a `00` month/day → `01`), `title`/`description` from Dublin Core (description
+  truncated to ~200 chars, byte-identical to the original snippet), `link` from
+  the item's `/d/<id>/` URL, the type class from `item_type`, and the
+  square-thumbnail image from the item's first file.
+- **Accessible by construction.** The layout renders an ordered list of all 939
+  events (`#neatlinetime-events`) as the canonical, no-JS / screen-reader
+  content; each `<li>` carries the widget data in `data-*` attributes.
+  `static/js/timeline.js` reads those nodes to build the interactive widget as a
+  progressive enhancement — no separate data file, no duplicated iteration.
+- **Rendering.** Events show as colour-coded dots on a fixed-height band (a
+  density view, since ~a third of items are year-only and wide labels would pile
+  into an unreadable stack); the title appears on hover and on select, and the
+  full labelled list below is the reading view. Imprecise dates are spread
+  deterministically across the range actually known (their year, or month) by
+  `timeline.js` so they don't stack on a single pixel — the underlying item
+  dates are unchanged.
+- **Faithfulness note.** Two deliberate fixes over the original's date parser:
+  year-only items land within their year (vs. SIMILE's month-0 underflow,
+  e.g. `1793` → 30 Nov 1792), and the one ranged date (`1787-1810`, "Liberty")
+  lands at 1787 instead of the original's buggy 1970.
+
+The vis-timeline assets are CDN-loaded; vendor them into `static/js/` if offline
+builds are needed.

@@ -1,0 +1,96 @@
+{{ define "body-class" }}timeline page{{ end }}
+
+{{ define "main" }}
+{{- /* Event set: every item with a real sortable date (the 9999-99-99 sentinel
+       marks "no date"). This reproduces the original NeatlineTime timeline,
+       which plotted every item whose Dublin Core Date parsed — 939 events. */ -}}
+{{- $dated := slice -}}
+{{- range where site.RegularPages "Type" "items" -}}
+  {{- $sd := .Params.sortdate -}}
+  {{- if and $sd (ne (printf "%v" $sd) "9999-99-99") -}}
+    {{- $dated = $dated | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- $dated = sort $dated "Params.sortdate" -}}
+
+<div id="primary">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <link rel="stylesheet" href="https://unpkg.com/vis-timeline@7.7.3/styles/vis-timeline-graph2d.min.css" crossorigin="">
+  <style>
+    #neatlinetime-timeline { height: 460px; border: 1px solid #c8c8c8; margin: 1.5rem 0 .5rem; background: #fff; }
+    /* events render as coloured dots; type colours mirror the original NeatlineTime classnames */
+    #neatlinetime-timeline .vis-item.vis-dot { border-width: 6px; border-radius: 50%; }
+    .vis-item.still-image { border-color:#5f7d34; }
+    .vis-item.text        { border-color:#3f6498; }
+    .vis-item.sound       { border-color:#9a7a2e; }
+    .vis-item.event       { border-color:#9a3f3f; }
+    .vis-item.vis-selected.vis-dot { border-color:#000; box-shadow:0 0 5px rgba(0,0,0,.7); }
+    #timeline-legend { list-style:none; margin:.25rem 0 0; padding:0; font-size:.85rem; color:#444; }
+    #timeline-legend li { display:inline-block; margin-right:1.25rem; }
+    #timeline-legend .swatch { display:inline-block; width:.8em; height:.8em; margin-right:.35em; border:1px solid #777; vertical-align:middle; }
+    #timeline-detail { border:1px solid #c8c8c8; padding:1rem; margin:1rem 0 0; background:#fafafa; overflow:hidden; }
+    #timeline-detail img.detail-thumb { float:left; margin:0 1rem .5rem 0; max-width:96px; height:auto; }
+    #timeline-detail h2 { margin-top:0; font-size:1.15rem; }
+    .neatlinetime-events { margin-top:.5rem; }
+    .neatlinetime-events > li { margin-bottom:1rem; }
+    .neatlinetime-events .event-date { font-weight:700; }
+    .neatlinetime-events p { margin:.25rem 0 0; color:#333; }
+    /* Distinguish links from adjacent text without relying on colour (WCAG 1.4.1). */
+    .neatlinetime-events a, #timeline-detail a { text-decoration: underline; }
+  </style>
+
+  {{- /* The widget is a visual enhancement; the chronological list below is its
+         accessible, no-JS equivalent. role="img" + label keeps assistive tech
+         out of the non-keyboard-navigable widget and points it at the list. */ -}}
+  <div id="neatlinetime-timeline" role="img"
+       aria-label="Timeline visualization of {{ len $dated }} events from the French Revolution. The same events are listed in chronological order below."></div>
+
+  <ul id="timeline-legend" aria-hidden="true">
+    <li><span class="swatch" style="background:#f3d6d6;border-color:#9a3f3f"></span>Event</li>
+    <li><span class="swatch" style="background:#d8e4f3;border-color:#3f6498"></span>Text</li>
+    <li><span class="swatch" style="background:#e2ecd2;border-color:#6f8f3f"></span>Image</li>
+    <li><span class="swatch" style="background:#f6e6c8;border-color:#9a7a2e"></span>Sound</li>
+  </ul>
+
+  <div id="timeline-detail" hidden></div>
+
+  <h2 id="events-heading">All events in chronological order</h2>
+  <p>{{ len $dated }} events.</p>
+  <ol id="neatlinetime-events" class="neatlinetime-events" aria-describedby="events-heading" data-pagefind-ignore>
+    {{- range $dated }}
+      {{- $sd := printf "%v" .Params.sortdate -}}
+      {{- $year := substr $sd 0 4 -}}
+      {{- $mm := "01" -}}{{- $dd := "01" -}}
+      {{- /* precision = the granularity we actually know; "year"/"month" items
+             get spread within their range by the widget so they don't pile on
+             one pixel (≈a third of items are year-only). */ -}}
+      {{- $precision := "year" -}}
+      {{- if eq (len $sd) 10 -}}
+        {{- $p := split $sd "-" -}}
+        {{- $m2 := index $p 1 -}}{{- $d2 := index $p 2 -}}
+        {{- if ne $m2 "00" -}}{{- $mm = $m2 -}}{{- end -}}
+        {{- if ne $d2 "00" -}}{{- $dd = $d2 -}}{{- end -}}
+        {{- if and (ne $m2 "00") (ne $d2 "00") -}}{{- $precision = "day" -}}
+        {{- else if ne $m2 "00" -}}{{- $precision = "month" -}}{{- end -}}
+      {{- end -}}
+      {{- $start := printf "%s-%s-%s" $year $mm $dd -}}
+      {{- $slug := "" -}}{{- with .Params.item_type -}}{{- $slug = urlize . -}}{{- end -}}
+      {{- $image := "" -}}
+      {{- with .Params.files -}}{{- with index . 0 -}}{{- with .thumb -}}{{- $image = replace . "/thumbnails/" "/square_thumbnails/" -}}{{- end -}}{{- end -}}{{- end -}}
+      {{- $desc := "" -}}
+      {{- with .Params.dublin_core.Description -}}{{- with index . 0 -}}{{- $desc = .text | plainify | truncate 200 "…" -}}{{- end -}}{{- end -}}
+      {{- $dcdate := $start -}}
+      {{- with .Params.dublin_core.Date -}}{{- with index . 0 -}}{{- $dcdate = .text | plainify -}}{{- end -}}{{- end -}}
+    <li{{ with $slug }} class="{{ . }}"{{ end }} data-start="{{ $start }}" data-precision="{{ $precision }}" data-link="{{ .RelPermalink }}"{{ with $slug }} data-classname="{{ . }}"{{ end }}{{ with $image }} data-image="{{ . }}"{{ end }}>
+      <span class="event-date">{{ $dcdate }}</span> &middot;
+      <a href="{{ .RelPermalink }}">{{ .Title | plainify }}</a>
+      {{- with $desc }}
+      <p>{{ . }}</p>
+      {{- end }}
+    </li>
+    {{- end }}
+  </ol>
+</div>
+{{ end }}
