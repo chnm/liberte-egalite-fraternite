@@ -1,0 +1,34 @@
+name: "[revolution.chnm.org] Hugo Build, Release, Deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+
+jobs:
+
+  hugo-build-release-deploy:
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+    secrets: inherit
+    with:
+      runner_labels: '["self-hosted","IncusOS"]'
+      container-registry: "ghcr.io"
+      container-image-name: "revolution-website"
+
+      # This repo is a single Hugo site at the root (not a monorepo subdir),
+      # so the build context is the repository root.
+      hugo-context-root: "."
+      hugo-devl-url: "https://revolution.dev.chnm.gmu.edu"
+      hugo-prod-url: "https://revolution.dev.chnm.gmu.edu"
+
+      # The Dockerfile serves the built site from Caddy's /srv (not nginx's
+      # /usr/share/nginx/html/), so the reusable workflow must extract from /srv.
+      hugo-content-path: "/srv/"
+
+      build-artifact-name: "revolution-website"
+      release-tag-name-type: "iso"
+      tag-prefix: "revolution-"
+
+      website-devl-fqdn: "revolution.dev.chnm.gmu.edu"
+      website-prod-fqdn: "revolution.dev.chnm.gmu.edu"
