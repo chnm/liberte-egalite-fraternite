@@ -2,6 +2,7 @@ baseURL = ""
 title = "LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION"
 languageCode = "en-us"
 disableKinds = ["RSS"]
+titleCaseStyle = "firstupper"
 
 [params]
   origin = "https://revolution.chnm.org"

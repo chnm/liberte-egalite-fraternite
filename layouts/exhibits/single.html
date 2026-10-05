@@ -33,7 +33,9 @@
             <div class="exhibit-items {{ $pos }} size-{{ $size }} captions-{{ $cap }}">
               {{ range .attachments }}
                 <div class="exhibit-item">
-                  {{ if .image }}
+                  {{ if hasPrefix (.mime | default "") "audio/" }}
+                    <audio class="omeka-media" src="{{ .original }}" controls preload="none" aria-label="{{ .title | plainify }}"><a href="{{ .original }}">{{ .title | safeHTML }}</a></audio>
+                  {{ else if .image }}
                     <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
@@ -49,7 +51,9 @@
             <div class="gallery captions-{{ $cap }}">
               {{ range .attachments }}
                 <div class="exhibit-item exhibit-gallery-item">
-                  {{ if .image }}
+                  {{ if hasPrefix (.mime | default "") "audio/" }}
+                    <audio class="omeka-media" src="{{ .original }}" controls preload="none" aria-label="{{ .title | plainify }}"><a href="{{ .original }}">{{ .title | safeHTML }}</a></audio>
+                  {{ else if .image }}
                     <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
