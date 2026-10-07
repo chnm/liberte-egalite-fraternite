@@ -1,5 +1,18 @@
-{{ define "body-class" }}exhibits summary{{ end }}
+{{ define "body-class" }}exhibits {{ if .Params.is_exhibit }}summary{{ else }}browse{{ end }}{{ end }}
 {{ define "main" }}
+{{ if not .Params.is_exhibit }}
+{{/* /exhibits/: the live "Browse Exhibits" page. */}}
+{{ $exhibits := where (where site.Pages "Section" "exhibits") "Params.is_exhibit" true }}
+<h1>Browse Exhibits ({{ len $exhibits }} total)</h1>
+{{ range $i, $e := $exhibits }}
+  <div class="exhibit {{ if modBool $i 2 }}even{{ else }}odd{{ end }}">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{/* Decorative: the heading link goes to the same place. */}}
+    {{ with .Params.cover }}<a href="{{ $e.RelPermalink }}" class="image" tabindex="-1" aria-hidden="true"><img src="{{ . }}" alt=""></a>{{ end }}
+    {{ with .Content }}<div class="description">{{ . }}</div>{{ end }}
+  </div>
+{{ end }}
+{{ else }}
 {{ $ordered := .Pages.ByWeight }}
 <div class="grid-x">
   <nav id="exhibit-pages" class="cell small-12 medium-2" aria-label="Exhibit contents">
@@ -18,4 +31,5 @@
     {{ with .Params.credits }}<div class="exhibit-credits">{{ . | safeHTML }}</div>{{ end }}
   </div>
 </div>
+{{ end }}
 {{ end }}

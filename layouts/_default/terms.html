@@ -1,14 +1,22 @@
+{{- /* /tags/: the live /items/tags page (tag cloud under the Browse Items nav). */ -}}
+{{ define "body-class" }}items tags{{ end }}
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ $count := len .Data.Terms }}
-<p class="terms-summary">{{ $count }} {{ .Data.Singular }}{{ if ne $count 1 }}s{{ end }}</p>
-
-<ul class="terms-cloud">
-  {{ range .Data.Terms.Alphabetical }}
-    <li>
-      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-      <span class="terms-count">{{ .Count }}</span>
-    </li>
-  {{ end }}
-</ul>
+<h1>Browse Items</h1>
+<nav class="navigation items-nav secondary-nav" aria-label="Browse items">
+  <ul class="navigation">
+    <li><a href="/items/">Browse All</a></li>
+    <li class="active"><a href="{{ .RelPermalink }}" aria-current="page">Browse by Tag</a></li>
+    <li><a href="/items/search/">Search Items</a></li>
+  </ul>
+</nav>
+{{/* Omeka's tag_cloud(): popularity = count*9/max - 1 "v"s. */}}
+{{ $max := 0 }}{{ range .Data.Terms }}{{ $max = math.Max $max .Count }}{{ end }}
+<div class="hTagcloud">
+  <ul class="popularity">
+    {{ range .Data.Terms.Alphabetical }}
+      {{ $v := int (math.Max 0 (sub (div (mul .Count 9.0) $max) 1)) }}
+      <li class="{{ strings.Repeat $v "v" }}{{ if $v }}-{{ end }}popular"><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+</div>
 {{ end }}

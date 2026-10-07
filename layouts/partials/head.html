@@ -1,6 +1,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title | plainify }} &middot; {{ site.Title }}{{ end }}</title>
+{{- /* Live titles for pages that have no content file of their own. */ -}}
+{{- $titles := dict "/" "Home" "/exhibits" "Browse Exhibits" "/collections" "Browse Collections" "/tags" "Browse Items" -}}
+<title>{{ index $titles .Path | default (.Title | plainify) }} &middot; {{ site.Title }}</title>
 {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
 <link rel="icon" href="/img/logo.png" type="image/png">
 
