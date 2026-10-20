@@ -17,7 +17,11 @@ are intact.
 - **Exhibit** → `/exhibits/show/liberty--equality--fraternity/<page>/`.
 - **Simple pages** → `/faq/`, `/project-history/`, etc.
 - **Search** → a [Pagefind](https://pagefind.app) index built over the whole
-  site (the original server-side search is replaced by it).
+  site (the original server-side search is replaced by it). `/search/` takes a
+  query (`"quotes"` for a phrase) plus Item/Exhibit/Page types; the advanced
+  form (`/items/search/`) adds item type, collection and tag, which are Pagefind
+  filters tagged on item pages. Search needs the index, so test it on a full
+  build (`hugo && npx pagefind --site public`), not `hugo server`.
 - **Timeline** → `/neatline-time/timelines/show/1/` rebuilds the original
   NeatlineTime "Timeline of the Revolution" (see below).
 - **Images / media** reference the live origin

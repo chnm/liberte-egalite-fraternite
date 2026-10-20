@@ -1,7 +1,9 @@
 /*
- * Client-side site search using Pagefind's low-level API, driven by the
- * original Omeka search form (query + query_type + record_types[]). Renders a
- * "Search (N total)" results table like the original results page.
+ * Client-side site search using Pagefind's low-level API. Driven by the header
+ * form (query + record_types[]) and the advanced form (/items/search/), whose
+ * type/collection/tag params become Pagefind filters tagged on item pages.
+ * "Quoted phrases" are exact matches (Pagefind). Renders a "Search (N total)"
+ * results table like the original results page.
  */
 (function () {
   'use strict';
@@ -18,22 +20,24 @@
     });
   }
   var TYPES = ['Item', 'Exhibit', 'Page'];
+  // URL param -> Pagefind filter key (see items/single.html) and display label.
+  var FILTERS = { type: ['item_type', 'Type'], collection: ['collection', 'Collection'], tag: ['tag', 'Tag'] };
 
   function searchUrl(state, overrides) {
     var p = new URLSearchParams();
     if (state.query) p.set('query', state.query);
-    if (state.query_type) p.set('query_type', state.query_type);
     state.record_types.forEach(function (t) { p.append('record_types[]', t); });
+    for (var f in state.filters) p.set(f, state.filters[f]);
     for (var k in overrides) p.set(k, overrides[k]);
     return '/search/?' + p.toString();
   }
 
-  function pagination(state, page, pages) {
-    var nav = el('nav', { class: 'pagination-nav', 'aria-label': 'Pagination' });
+  function pagination(state, page, pages, label) {
+    var nav = el('nav', { class: 'pagination-nav', 'aria-label': label });
     var prev = el('div', { class: 'pagination_previous' });
     if (page > 1) prev.innerHTML = '<a class="button" rel="prev" href="' + searchUrl(state, { page: page - 1 }) + '"><i class="fas fa-caret-left" aria-hidden="true"></i> Previous</a>';
     var input = el('div', { class: 'page-input' });
-    input.innerHTML = '<form><label class="show-for-sr" for="search-page-jump">Go to page</label>Page <input type="number" id="search-page-jump" name="page" min="1" max="' + pages + '" value="' + page + '" aria-label="Go to page"><span class="total-count"> of ' + pages + '</span></form>';
+    input.innerHTML = '<form>Page <input type="number" name="page" min="1" max="' + pages + '" value="' + page + '" aria-label="Go to page"><span class="total-count"> of ' + pages + '</span></form>';
     input.querySelector('form').addEventListener('submit', function (e) {
       e.preventDefault();
       var n = parseInt(this.elements.page.value, 10);
@@ -52,51 +56,50 @@
 
     var qs = new URLSearchParams(location.search);
     var query = (qs.get('query') || qs.get('q') || '').trim();
-    var qtype = qs.get('query_type') || 'keyword';
     var rtypes = qs.getAll('record_types[]');
     if (!rtypes.length) rtypes = TYPES.slice();
     var page = Math.max(1, parseInt(qs.get('page') || '1', 10));
-    var state = { query: query, query_type: qtype, record_types: rtypes };
+    var filters = {}, pfFilters = {};
+    for (var f in FILTERS) { var v = (qs.get(f) || '').trim(); if (v) { filters[f] = v; pfFilters[FILTERS[f][0]] = v; } }
+    var state = { query: query, record_types: rtypes, filters: filters };
 
     // Reflect the request back into the header form.
     var qi = document.getElementById('query'); if (qi) qi.value = query;
-    var qt = document.getElementById('query_type-' + qtype); if (qt) qt.checked = true;
     TYPES.forEach(function (t) {
       var cb = document.getElementById('record_types-' + t);
       if (cb) cb.checked = rtypes.indexOf(t) !== -1;
     });
 
-    if (!query) { results.innerHTML = '<p>Enter a term in the search box above to search the site.</p>'; return; }
+    if (!query && !Object.keys(filters).length) { results.innerHTML = '<p>Enter a term in the search box above to search the site.</p>'; return; }
 
     results.innerHTML = '<p>Searching…</p>';
     var pf;
     try { pf = await import('/pagefind/pagefind.js'); }
     catch (err) { results.innerHTML = '<p>Search is unavailable.</p>'; return; }
 
-    // Boolean is treated as the default (all terms AND); exact match -> phrase.
-    var term = (qtype === 'exact_match') ? '"' + query + '"' : query;
-    var opts = {};
-    if (rtypes.length && rtypes.length < TYPES.length) opts.filters = { type: rtypes };
-    var search = await pf.search(term, opts);
-    var data = await Promise.all(search.results.map(function (r) { return r.data(); }));
+    if (rtypes.length && rtypes.length < TYPES.length) pfFilters.type = { any: rtypes };
+    // A null query with filters returns every page matching the filters.
+    var search = await pf.search(query || null, { filters: pfFilters });
+    var total = search.results.length;
 
-    if (heading) heading.innerHTML = 'Search <small>(' + data.length + ' total)</small>';
+    if (heading) heading.innerHTML = 'Search <small>(' + total + ' total)</small>';
 
     results.innerHTML = '';
     var meta = el('div', { class: 'search-meta' });
-    meta.appendChild(el('span', { class: 'label secondary' }, 'Query: ' + escapeHtml(query)));
-    meta.appendChild(el('span', { class: 'label secondary' }, 'Query type: ' + escapeHtml(qtype)));
+    if (query) meta.appendChild(el('span', { class: 'label secondary' }, 'Query: ' + escapeHtml(query)));
+    for (var k in filters) meta.appendChild(el('span', { class: 'label secondary' }, FILTERS[k][1] + ': ' + escapeHtml(filters[k])));
     meta.appendChild(el('span', { class: 'label secondary' }, 'Record types: ' + escapeHtml(rtypes.join(', ').toLowerCase())));
     results.appendChild(meta);
 
-    if (!data.length) { results.appendChild(el('p', {}, 'No results found for “' + escapeHtml(query) + '”.')); return; }
+    if (!total) { results.appendChild(el('p', {}, 'No results found.')); return; }
 
     var perPage = 10;
-    var pages = Math.max(1, Math.ceil(data.length / perPage));
+    var pages = Math.max(1, Math.ceil(total / perPage));
     page = Math.min(page, pages);
-    var slice = data.slice((page - 1) * perPage, page * perPage);
+    // Load result data only for the page shown.
+    var slice = await Promise.all(search.results.slice((page - 1) * perPage, page * perPage).map(function (r) { return r.data(); }));
 
-    results.appendChild(pagination(state, page, pages));
+    results.appendChild(pagination(state, page, pages, 'Pagination, top'));
 
     var table = el('table', { class: 'search-results-table' });
     table.innerHTML = '<thead><tr><th scope="col">Record Type</th><th scope="col">Title</th></tr></thead>';
@@ -104,7 +107,7 @@
     slice.forEach(function (d) {
       var type = (d.filters && d.filters.type && d.filters.type[0]) || 'Item';
       var img = d.meta && d.meta.image;
-      var thumb = img ? '<a class="search-thumb" href="' + d.url + '"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a>' : '';
+      var thumb = img ? '<a class="search-thumb" href="' + d.url + '" tabindex="-1" aria-hidden="true"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a>' : '';
       var title = escapeHtml((d.meta && d.meta.title) || 'Untitled');
       var tr = el('tr', { class: 'item' });
       tr.appendChild(el('td', { class: 'record-type' }, escapeHtml(type)));
@@ -114,7 +117,7 @@
     });
     table.appendChild(tbody);
     results.appendChild(table);
-    results.appendChild(pagination(state, page, pages));
+    results.appendChild(pagination(state, page, pages, 'Pagination, bottom'));
   }
 
   if (document.readyState !== 'loading') run();
