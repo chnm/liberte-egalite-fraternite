@@ -69,7 +69,7 @@
         </ul>
       </div>
       {{ end }}
-      {{ partial "browse-pagination.html" $paginator }}
+      {{ partial "browse-pagination.html" (dict "p" $paginator "label" "Pagination, top") }}
     </div>
 
     <div class="resource-list list">
@@ -79,7 +79,7 @@
     </div>
 
     <div class="browse-controls">
-      {{ partial "browse-pagination.html" $paginator }}
+      {{ partial "browse-pagination.html" (dict "p" $paginator "label" "Pagination, bottom") }}
     </div>
   </div>
 </div>

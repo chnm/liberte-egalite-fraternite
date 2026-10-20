@@ -65,10 +65,13 @@ docker build --build-arg hugobuildargs="--environment development --minify --bas
 
 ## Accessibility — WCAG 2.2 AA
 
-The site targets **WCAG 2.2 Level AA**. An axe-core 4.11 audit (tags
-`wcag2a, wcag2aa, wcag21a, wcag21aa, wcag22aa`) reports **0 violations** on the
-representative page types — home, an item (`/d/1/`), an exhibit page, and a
-simple page (`/faq/`). Specifics:
+The site targets **WCAG 2.2 Level AA**. An axe-core audit (tags
+`wcag2a, wcag2aa, wcag21a, wcag21aa, wcag22aa`) reports **0 violations** on every
+page type: home, browse (and sorted views), tag pages, `/tags/`, collections,
+exhibits browse/summary/page, items, advanced search, search results, timeline
+and simple pages. Automated checks cover only part of WCAG; the manual
+assessment (keyboard, reflow, screen reader, audio alternatives) is tracked in
+[#10](https://github.com/chnm/liberte-egalite-fraternite/issues/10). Specifics:
 
 - Inline prose links are underlined (1.4.1 — not distinguished by color alone).
 - Low-contrast grays were darkened to meet 1.4.3 (item-type subtitle; FAQ
