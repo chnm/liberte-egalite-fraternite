@@ -10,8 +10,10 @@
       {{ range . }}
         {{ if and .mime (hasPrefix .mime "image/") }}
           <div class="item-file image"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ $.Title | plainify }}"></a></div>
+        {{ else if and .mime (hasPrefix .mime "audio/") }}
+          <div class="item-file audio"><audio class="omeka-media" src="{{ .url }}" controls preload="none" aria-label="{{ $.Title | plainify }}"><a href="{{ .url }}">Download {{ $.Title | plainify }}</a></audio></div>
         {{ else }}
-          <div class="item-file"><a class="download-file" href="{{ .url }}">{{ or .original_filename "Download file" }}</a></div>
+          <div class="item-file"><a class="download-file" href="{{ .url }}">Download {{ $.Title | plainify }}</a></div>
         {{ end }}
       {{ end }}
     </div>
@@ -48,7 +50,9 @@
         {{ range . }}
           <div class="element">
             <h3 data-pagefind-ignore>{{ . }}</h3>
-            {{ range index $itm (lower .) }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
+            {{/* French-language fields (3.1.2). Caption is French where a Caption (English) exists. */}}
+            {{ $fr := or (eq . "Title (French)") (and (eq . "Caption") (index $itm "caption (english)")) }}
+            {{ range index $itm (lower .) }}<div class="element-text"{{ if $fr }} lang="fr"{{ end }}>{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
           </div>
         {{ end }}
       </div>
