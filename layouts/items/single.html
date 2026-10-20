@@ -3,7 +3,7 @@
 <div class="wrap">
   {{/* Pagefind result metadata: a clean title and a small thumbnail. */}}
   {{ with .Params.files }}{{ with index . 0 }}{{ with .thumb }}<span data-pagefind-meta="image[data-img]" data-img="{{ . }}"></span>{{ end }}{{ end }}{{ end }}
-  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
+  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle">{{ partial "item-type-icon.html" . }}<span class="show-for-sr">{{ . }}</span></small>{{ end }}</h1>
 
   {{ with .Params.files }}
     <div id="item-images">

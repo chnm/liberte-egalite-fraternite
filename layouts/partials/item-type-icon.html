@@ -1,0 +1,9 @@
+{{- /* Decorative Font Awesome icon for an item type. Context: the item_type string. */ -}}
+{{- $icons := dict
+  "Text" "fa-file-lines" "Document" "fa-file-lines" "Still Image" "fa-image"
+  "Image" "fa-image" "Moving Image" "fa-film" "Sound" "fa-music" "Song" "fa-music"
+  "Map" "fa-map-location-dot" "Glossary" "fa-book" "Timeline" "fa-clock-rotate-left"
+  "Artwork" "fa-palette" "Hyperlink" "fa-link" "Lesson Plan" "fa-chalkboard"
+  "Person" "fa-user" "Event" "fa-calendar-days" "Interactive Resource" "fa-window-restore"
+  "Oral History" "fa-microphone" -}}
+<i class="fas {{ index $icons . | default "fa-file" }}" aria-hidden="true" title="{{ . }}"></i>
