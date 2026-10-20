@@ -40,7 +40,8 @@
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
-                  {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
+                  {{/* A caption describes its own attachment; its links to the retired chnmdev.gmu.edu dev host (34, mostly songs) go to that item's page. */}}
+                  {{ $url := .url }}{{ with .caption }}<div class="exhibit-item-caption">{{ replaceRE `https?://chnmdev\.gmu\.edu/[^"]*` $url . | safeHTML }}</div>{{ end }}
                 </div>
               {{ end }}
             </div>
@@ -58,7 +59,8 @@
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
-                  {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
+                  {{/* A caption describes its own attachment; its links to the retired chnmdev.gmu.edu dev host (34, mostly songs) go to that item's page. */}}
+                  {{ $url := .url }}{{ with .caption }}<div class="exhibit-item-caption">{{ replaceRE `https?://chnmdev\.gmu\.edu/[^"]*` $url . | safeHTML }}</div>{{ end }}
                 </div>
               {{ end }}
             </div>

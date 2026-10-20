@@ -5,6 +5,20 @@
   document.addEventListener('DOMContentLoaded', function () {
     if (window.jQuery && jQuery.fn.foundation) {
       jQuery(document).foundation();
+      // About dropdown: Foundation 6.5 never sets aria-expanded on the toggle,
+      // and Escape sends focus to the first top-level item (4.1.2). Watch the
+      // submenu itself, and catch Escape in the capture phase because
+      // Foundation stops its propagation.
+      var toggle = document.querySelector('#top-nav .dropdown-toggle');
+      var sub = toggle && toggle.parentElement.querySelector('ul');
+      if (sub) {
+        var sync = function () { toggle.setAttribute('aria-expanded', sub.offsetParent ? 'true' : 'false'); };
+        sync();
+        new MutationObserver(sync).observe(sub, { attributes: true, attributeFilter: ['class', 'style'] });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && sub.contains(e.target)) setTimeout(function () { toggle.focus(); });
+        }, true);
+      }
     }
     // Browse "go to page N" jump box.
     document.querySelectorAll('.page-input form').forEach(function (f) {

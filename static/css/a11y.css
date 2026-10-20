@@ -35,6 +35,9 @@ h1 small,                                 /* "(N total)" counts: was #cacaca (1.
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,
+input[type]:focus-visible,  /* beats app.css [type='text']:focus { outline: none } */
+select:focus-visible,
+textarea:focus-visible,
 [tabindex]:focus-visible {
   outline: 3px solid #9e0b0f;
   outline-offset: 2px;
@@ -55,7 +58,25 @@ html { scroll-padding-top: 1rem; }
 #skipnav:focus {
   left: 0.5rem;
   top: 0.5rem;
+  /* undo app.css's visually-hidden clip, or it stays invisible when focused (2.4.7) */
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
 }
+
+/* 1.4.11 / 2.4.7: the red focus ring vanishes on the dark header image.
+   Use white in the header. */
+header a:focus-visible,
+header button:focus-visible,
+header input[type]:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 2px;
+}
+
+/* 1.4.10 Reflow: long URLs (Relation, citation, FAQ links) forced sideways
+   scrolling at 320px. */
+#content { overflow-wrap: break-word; }
 
 /* Theme correction (not a11y): the vendored app.css references the paid
    "Font Awesome 5 Pro" font for the text-item document icon before exhibit
