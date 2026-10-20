@@ -3,7 +3,7 @@
 <div class="wrap">
   {{/* Pagefind result metadata: a clean title and a small thumbnail. */}}
   {{ with .Params.files }}{{ with index . 0 }}{{ with .thumb }}<span data-pagefind-meta="image[data-img]" data-img="{{ . }}"></span>{{ end }}{{ end }}{{ end }}
-  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle">{{ . }}</small>{{ end }}</h1>
+  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle">{{ partial "item-type-icon.html" . }}<span class="show-for-sr">{{ . }}</span></small>{{ end }}</h1>
 
   {{ with .Params.files }}
     <div id="item-images">
@@ -33,19 +33,23 @@
       {{ end }}
     </div>
 
-    {{ with .Params.item_type_metadata }}
-      {{/* "Sortable Date" is admin-hidden on the live site (HideElements plugin);
-           it backs the timeline but never displays publicly. */}}
-      {{ $hidden := slice "sortable date" }}
+    {{/* Item Type Metadata in Omeka's display order. Hugo lowercases .Params map
+         keys (and maps are unordered), so labels and order come from this list.
+         "Sortable Date" is admin-hidden on the live site (HideElements plugin); it
+         backs the timeline but never displays publicly. */}}
+    {{ $itOrder := slice "Text" "Original Format" "Physical Dimensions" "Title (English)" "Title (French)" "Caption" "Caption (English)" "Transcription" }}
+    {{ $itm := .Params.item_type_metadata | default dict }}
+    {{ $known := slice "sortable date" }}{{ range $itOrder }}{{ $known = $known | append (lower .) }}{{ end }}
+    {{ range $k, $_ := $itm }}{{ if not (in $known $k) }}{{ warnf "%s: item type field %q isn't in $itOrder (layouts/items/single.html), so it won't display" $.File.Path $k }}{{ end }}{{ end }}
+    {{ $shown := slice }}{{ range $itOrder }}{{ if index $itm (lower .) }}{{ $shown = $shown | append . }}{{ end }}{{ end }}
+    {{ with $shown }}
       <h2 class="show-for-sr">{{ with $.Params.item_type }}{{ . }} {{ end }}Item Type Metadata</h2>
       <div class="element-set">
-        {{ range $f, $vals := . }}
-          {{ if not (in $hidden (lower $f)) }}
-            <div class="element">
-              <h3 data-pagefind-ignore>{{ $f }}</h3>
-              {{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
-            </div>
-          {{ end }}
+        {{ range . }}
+          <div class="element">
+            <h3 data-pagefind-ignore>{{ . }}</h3>
+            {{ range index $itm (lower .) }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
+          </div>
         {{ end }}
       </div>
     {{ end }}
@@ -61,6 +65,14 @@
       <h3 data-pagefind-ignore>Citation</h3>
       <div class="element-text">{{ partial "citation.html" . }}</div>
     </div>
+  </div>
+
+  {{/* Previous/next by Omeka item id, as on the live site. Hugo's Pages.Next/Prev
+       run against list order, hence the swap. */}}
+  {{ $byId := sort (where site.RegularPages "Type" "items") "Params.id" }}
+  <div class="item-pagination navigation">
+    {{ with $byId.Next . }}<div id="previous-item" class="previous"><a href="{{ .RelPermalink }}" class="button">&larr; Previous Item</a></div>{{ end }}
+    {{ with $byId.Prev . }}<div id="next-item" class="next"><a href="{{ .RelPermalink }}" class="button">Next Item &rarr;</a></div>{{ end }}
   </div>
 </div>
 {{ end }}
