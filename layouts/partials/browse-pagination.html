@@ -1,8 +1,9 @@
 {{- /* Pagination with a "Page N of M" jump box, matching the live browse.
-       Context: a Hugo Paginator. The page-jump form is wired up in scripts.html. */ -}}
-{{ with . }}
+       Context: dict "p" (a Hugo Paginator) and "label" (unique nav name per page, WCAG landmark-unique). The page-jump form is wired up in scripts.html. */ -}}
+{{ $label := .label }}
+{{ with .p }}
   {{ if gt .TotalPages 1 }}
-    <nav class="pagination-nav" aria-label="Pagination">
+    <nav class="pagination-nav" aria-label="{{ $label }}">
       <div class="pagination_previous">
         {{ if .HasPrev }}<a rel="prev" href="{{ .Prev.URL }}" class="button" aria-label="Previous page" title="Previous page"><i class="fas fa-caret-left" aria-hidden="true"></i> Previous</a>{{ end }}
       </div>

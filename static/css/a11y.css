@@ -22,7 +22,9 @@
 
 /* 1.4.3 Contrast (Minimum): a few light-gray texts fall below the AA ratio on
    the cream (#fffdf1) background. Darken them. */
-.item-type.subtitle { color: #6f6f6f; }   /* large/bold subtitle: was #cacaca (1.6:1) -> 4.9:1 */
+.item-type.subtitle { color: #6f6f6f; }
+h1 small,                                 /* "(N total)" counts: was #cacaca (1.6:1) */
+.resource-list .date { color: #6f6f6f; }  /* browse dates: was #8a8a8a (3.4:1) -> 4.9:1 */   /* large/bold subtitle: was #cacaca (1.6:1) -> 4.9:1 */
 .note,
 .note p,
 .bib,

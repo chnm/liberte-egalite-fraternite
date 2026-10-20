@@ -38,25 +38,25 @@
   <form id="advanced-search-form" action="/items/search/" method="get">
     <fieldset class="advanced-search-group">
       <legend>Search for Keywords</legend>
-      <input type="text" name="search" id="keyword-search" value="">
+      <input type="text" name="search" id="keyword-search" value="" aria-label="Search for keywords">
     </fieldset>
 
     <fieldset class="advanced-search-group">
       <legend>Narrow by Specific Fields</legend>
       <div id="advanced-rows">
         <div class="advanced-search-row grid-x">
-          <select name="advanced[0][element]" class="advanced-search-element cell medium-4">
+          <select name="advanced[0][element]" aria-label="Field" class="advanced-search-element cell medium-4">
             <option value="">Select Below</option>
             {{ range $dcFields }}<option value="{{ . }}">{{ . }}</option>{{ end }}
           </select>
-          <select name="advanced[0][type]" class="advanced-search-type cell medium-4">
+          <select name="advanced[0][type]" aria-label="Comparison" class="advanced-search-type cell medium-4">
             <option value="contains">contains</option>
             <option value="is exactly">is exactly</option>
             <option value="does not contain">does not contain</option>
             <option value="is empty">is empty</option>
             <option value="is not empty">is not empty</option>
           </select>
-          <input type="text" name="advanced[0][terms]" class="advanced-search-terms cell medium-4" value="">
+          <input type="text" name="advanced[0][terms]" aria-label="Search terms" class="advanced-search-terms cell medium-4" value="">
         </div>
       </div>
       <button type="button" id="add-field" class="button">Add a Field</button>
@@ -64,12 +64,12 @@
 
     <fieldset class="advanced-search-group">
       <legend>Search by a range of identifiers (example: 1-4, 156, 79)</legend>
-      <input type="text" name="range" id="range" value="">
+      <input type="text" name="range" id="range" value="" aria-label="Range of identifiers">
     </fieldset>
 
     <fieldset class="advanced-search-group">
       <legend>Search By Collection</legend>
-      <select name="collection" id="collection-search">
+      <select name="collection" id="collection-search" aria-label="Search by collection">
         <option value="">Select Below</option>
         {{ range $cid, $ctax := site.Taxonomies.collections }}
           {{ $cp := site.GetPage (printf "/collections/%s" $cid) }}
@@ -80,7 +80,7 @@
 
     <fieldset class="advanced-search-group">
       <legend>Search By Type</legend>
-      <select name="type" id="item-type-search">
+      <select name="type" id="item-type-search" aria-label="Search by type">
         <option value="">Select Below</option>
         {{ range (sort $types) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
       </select>
@@ -88,12 +88,12 @@
 
     <fieldset class="advanced-search-group">
       <legend>Search By Tags</legend>
-      <input type="text" name="tags" id="tag-search" value="">
+      <input type="text" name="tags" id="tag-search" value="" aria-label="Search by tags">
     </fieldset>
 
     <fieldset class="advanced-search-group">
       <legend>Featured/Non-Featured</legend>
-      <select name="featured" id="featured">
+      <select name="featured" id="featured" aria-label="Featured or non-featured">
         <option value="">Select Below</option>
         <option value="1">Featured Items only</option>
         <option value="0">Non-Featured Items only</option>
