@@ -15,8 +15,8 @@
       <a href="{{ .RelPermalink }}" class="permalink">{{ .Title | safeHTML }}</a>
       {{ with $date }}<span class="date">{{ . }}</span>{{ end }}
     </h2>
-    {{ with .Params.tags }}
-      <div class="tags"><span class="tags secondary label">Tags</span> {{ range . }}<a href="/tags/{{ . | urlize }}/" rel="tag">{{ . }}</a> {{ end }}</div>
+    {{ with .GetTerms "tags" }}
+      <div class="tags"><span class="tags secondary label">Tags</span> {{ range . }}<a href="{{ .RelPermalink }}" rel="tag">{{ .LinkTitle }}</a> {{ end }}</div>
     {{ end }}
   </div>
 </div>

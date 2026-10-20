@@ -36,13 +36,13 @@
     <h2>Browse by Type</h2>
     <ul>
       {{ range $name, $tax := site.Taxonomies.tags }}
-        {{ if index $typeTags (lower $name) }}<li><a href="/tags/{{ $name | urlize }}/">{{ $name }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
+        {{ if index $typeTags (lower $name) }}<li><a href="{{ $tax.Page.RelPermalink }}">{{ $tax.Page.LinkTitle }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
       {{ end }}
     </ul>
     <h2>Browse by Topic</h2>
     <ul>
       {{ range $name, $tax := site.Taxonomies.tags }}
-        {{ if not (index $typeTags (lower $name)) }}<li><a href="/tags/{{ $name | urlize }}/">{{ $name }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
+        {{ if not (index $typeTags (lower $name)) }}<li><a href="{{ $tax.Page.RelPermalink }}">{{ $tax.Page.LinkTitle }} <span class="count">({{ len $tax.Pages }})</span></a></li>{{ end }}
       {{ end }}
     </ul>
   </aside>

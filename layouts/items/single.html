@@ -47,10 +47,10 @@
       </div>
     {{ end }}
 
-    {{ with .Params.tags }}
+    {{ with .GetTerms "tags" }}
       <div id="item-tags" class="element">
         <h3 data-pagefind-ignore>Tags</h3>
-        <div class="element-text">{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="/tags/{{ $t | urlize }}/" rel="tag">{{ $t }}</a>{{ end }}</div>
+        <div class="element-text">{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ $t.RelPermalink }}" rel="tag">{{ $t.LinkTitle }}</a>{{ end }}</div>
       </div>
     {{ end }}
 
