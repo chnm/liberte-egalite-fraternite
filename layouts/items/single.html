@@ -7,7 +7,7 @@
   {{ with .Params.item_type }}<span data-pagefind-filter="item_type[data-v]" data-v="{{ . }}"></span>{{ end }}
   {{ range .Params.collections }}<span data-pagefind-filter="collection[data-v]" data-v="{{ . }}"></span>{{ end }}
   {{ range .GetTerms "tags" }}<span data-pagefind-filter="tag[data-v]" data-v="{{ .LinkTitle }}"></span>{{ end }}
-  <h1><span data-pagefind-meta="title">{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle" data-pagefind-ignore>{{ partial "item-type-icon.html" . }}<span class="show-for-sr">{{ . }}</span></small>{{ end }}</h1>
+  <h1><span data-pagefind-meta="title"{{ with .Params.title_lang }} lang="{{ . }}"{{ end }}>{{ .Title | safeHTML }}</span>{{ with .Params.item_type }} <small class="item-type subtitle" data-pagefind-ignore>{{ partial "item-type-icon.html" . }}<span class="show-for-sr">{{ . }}</span></small>{{ end }}</h1>
 
   {{ with .Params.files }}
     <div id="item-images">
@@ -35,7 +35,8 @@
             <h3 data-pagefind-ignore>{{ $f }}</h3>
             {{/* Keep the item URLs that lead Relation/Identifier values (".../revolution/d/N")
                  out of the search index, or "revolution" matches every item. */}}
-            {{ range . }}<div class="element-text">{{ $t := cond .html .text (htmlEscape .text) }}{{ replaceRE `^(https?://[^\s|<]+)` `<span data-pagefind-ignore>$1</span>` $t | safeHTML }}</div>{{ end }}
+            {{ $lang := cond (eq $f "Title") ($.Params.title_lang | default "") "" }}
+            {{ range . }}<div class="element-text"{{ with $lang }} lang="{{ . }}"{{ end }}>{{ $t := cond .html .text (htmlEscape .text) }}{{ replaceRE `^(https?://[^\s|<]+)` `<span data-pagefind-ignore>$1</span>` $t | safeHTML }}</div>{{ end }}
           </div>
         {{ end }}
       {{ end }}
@@ -58,7 +59,9 @@
             <h3 data-pagefind-ignore>{{ . }}</h3>
             {{/* French-language fields (3.1.2). Caption is French where a Caption (English) exists. */}}
             {{ $fr := or (eq . "Title (French)") (and (eq . "Caption") (index $itm "caption (english)")) }}
-            {{ range index $itm (lower .) }}<div class="element-text"{{ if $fr }} lang="fr"{{ end }}>{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
+            {{/* Song lyrics are a two-column table: French original, then the English translation. */}}
+            {{ $lyrics := eq . "Transcription" }}
+            {{ range index $itm (lower .) }}<div class="element-text"{{ if $fr }} lang="fr"{{ end }}>{{ if .html }}{{ cond $lyrics (replaceRE "<td>" "<td lang=\"fr\">" .text 1) .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}
           </div>
         {{ end }}
       </div>
