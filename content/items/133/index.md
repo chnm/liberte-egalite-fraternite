@@ -40,12 +40,12 @@ dublin_core:
       text: Act of Justice
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/61f27598988e90c78e627cbe0a0659cf.jpg
+  - fullsize: /files/fullsize/61f27598988e90c78e627cbe0a0659cf.jpg
     id: 155
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4554c43819436bdb7f60ddf6882f4d00.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/61f27598988e90c78e627cbe0a0659cf.jpg
-    url: https://revolution.chnm.org/files/original/61f27598988e90c78e627cbe0a0659cf.jpg
+    thumb: /files/thumbnails/61f27598988e90c78e627cbe0a0659cf.jpg
+    url: /files/original/61f27598988e90c78e627cbe0a0659cf.jpg
 geo:
 id: 133
 item_type: Still Image

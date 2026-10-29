@@ -37,12 +37,12 @@ dublin_core:
       text: The Death of Napoleon on St. Helena
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
+  - fullsize: /files/fullsize/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
     id: 227
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5e0a1b64cd8935ff6a7bce0fcc5cb7ce.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
-    url: https://revolution.chnm.org/files/original/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
+    thumb: /files/thumbnails/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
+    url: /files/original/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
 geo:
 id: 204
 item_type: Still Image

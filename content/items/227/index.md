@@ -40,18 +40,18 @@ dublin_core:
       text: The Barnyard
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4bd9d0ee1316c98124ae166a648449f9.jpg
+  - fullsize: /files/fullsize/4bd9d0ee1316c98124ae166a648449f9.jpg
     id: 249
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0eda9e2ffe24dd224e0267faf494a541.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4bd9d0ee1316c98124ae166a648449f9.jpg
-    url: https://revolution.chnm.org/files/original/4bd9d0ee1316c98124ae166a648449f9.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/acd48446e97db3c774f8bb322fc593a2.jpg
+    thumb: /files/thumbnails/4bd9d0ee1316c98124ae166a648449f9.jpg
+    url: /files/original/4bd9d0ee1316c98124ae166a648449f9.jpg
+  - fullsize: /files/fullsize/acd48446e97db3c774f8bb322fc593a2.jpg
     id: 250
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3ea45cdaa17e659161f4aa66269361b7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/acd48446e97db3c774f8bb322fc593a2.jpg
-    url: https://revolution.chnm.org/files/original/acd48446e97db3c774f8bb322fc593a2.jpg
+    thumb: /files/thumbnails/acd48446e97db3c774f8bb322fc593a2.jpg
+    url: /files/original/acd48446e97db3c774f8bb322fc593a2.jpg
 geo:
 id: 227
 item_type: Still Image

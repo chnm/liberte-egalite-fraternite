@@ -19,18 +19,18 @@ dublin_core:
       text: Paris in Revolution
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e19dad0c3807e3c24adca1225b84f03e.jpg
+  - fullsize: /files/fullsize/e19dad0c3807e3c24adca1225b84f03e.jpg
     id: 15
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d6bf74e912ee25007228305f171201a6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e19dad0c3807e3c24adca1225b84f03e.jpg
-    url: https://revolution.chnm.org/files/original/e19dad0c3807e3c24adca1225b84f03e.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/eb812f855b0d5bda5f0ba4049451c446.jpg
+    thumb: /files/thumbnails/e19dad0c3807e3c24adca1225b84f03e.jpg
+    url: /files/original/e19dad0c3807e3c24adca1225b84f03e.jpg
+  - fullsize: /files/fullsize/eb812f855b0d5bda5f0ba4049451c446.jpg
     id: 16
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0d208b135cbc382ebe4a4bd4312d6c7c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/eb812f855b0d5bda5f0ba4049451c446.jpg
-    url: https://revolution.chnm.org/files/original/eb812f855b0d5bda5f0ba4049451c446.jpg
+    thumb: /files/thumbnails/eb812f855b0d5bda5f0ba4049451c446.jpg
+    url: /files/original/eb812f855b0d5bda5f0ba4049451c446.jpg
 geo:
 id: 9
 item_type: Still Image

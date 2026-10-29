@@ -25,12 +25,12 @@ dublin_core:
       text: Louis XVI, King of the French, born 23 August 1754.
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ea1a9ffe1036e18783ea0c37132603d9.jpg
+  - fullsize: /files/fullsize/ea1a9ffe1036e18783ea0c37132603d9.jpg
     id: 231
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ff921c35764e517bd28743fabb800f3a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ea1a9ffe1036e18783ea0c37132603d9.jpg
-    url: https://revolution.chnm.org/files/original/ea1a9ffe1036e18783ea0c37132603d9.jpg
+    thumb: /files/thumbnails/ea1a9ffe1036e18783ea0c37132603d9.jpg
+    url: /files/original/ea1a9ffe1036e18783ea0c37132603d9.jpg
 geo:
 id: 209
 item_type: Still Image

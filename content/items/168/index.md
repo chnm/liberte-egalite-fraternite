@@ -28,12 +28,12 @@ dublin_core:
       text: Napoleon Is Unable to Digest Leipzig
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/65ed624ff20e8808794df3af06798c97.jpg
+  - fullsize: /files/fullsize/65ed624ff20e8808794df3af06798c97.jpg
     id: 192
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2a6d85fc969b3311dcd59c0784f6cd84.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/65ed624ff20e8808794df3af06798c97.jpg
-    url: https://revolution.chnm.org/files/original/65ed624ff20e8808794df3af06798c97.jpg
+    thumb: /files/thumbnails/65ed624ff20e8808794df3af06798c97.jpg
+    url: /files/original/65ed624ff20e8808794df3af06798c97.jpg
 geo:
 id: 168
 item_type: Still Image

@@ -40,18 +40,18 @@ dublin_core:
       text: President of a Revolutionary Committee After the Seal Is Taken Off
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
+  - fullsize: /files/fullsize/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
     id: 282
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7efdca772796a3a98c9ac23cde50fb1f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
-    url: https://revolution.chnm.org/files/original/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+    thumb: /files/thumbnails/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
+    url: /files/original/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
+  - fullsize: /files/fullsize/d6209d1579e7e1deb5a403a9a8b52f25.jpg
     id: 283
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9dd0edeab9b366005ce0dc651193dee.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d6209d1579e7e1deb5a403a9a8b52f25.jpg
-    url: https://revolution.chnm.org/files/original/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+    thumb: /files/thumbnails/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+    url: /files/original/d6209d1579e7e1deb5a403a9a8b52f25.jpg
 geo:
 id: 254
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: The Queen of Louis XVI King of France at the Guillotine, 16 October 1793
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4e9f575868da3ad3c600dbbb33a4f180.jpg
+  - fullsize: /files/fullsize/4e9f575868da3ad3c600dbbb33a4f180.jpg
     id: 211
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/85ecef51b01fc6db3f9ad544449d96bf.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4e9f575868da3ad3c600dbbb33a4f180.jpg
-    url: https://revolution.chnm.org/files/original/4e9f575868da3ad3c600dbbb33a4f180.jpg
+    thumb: /files/thumbnails/4e9f575868da3ad3c600dbbb33a4f180.jpg
+    url: /files/original/4e9f575868da3ad3c600dbbb33a4f180.jpg
 geo:
 id: 188
 item_type: Still Image

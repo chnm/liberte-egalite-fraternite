@@ -40,12 +40,12 @@ dublin_core:
       text: Fleeing by Design or the Perjurer Louis XVI
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/71a93de2bc3b5fda02b4277317f577f2.jpg
+  - fullsize: /files/fullsize/71a93de2bc3b5fda02b4277317f577f2.jpg
     id: 261
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/19d81c9b13be7e47019e0c56f94fa78a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/71a93de2bc3b5fda02b4277317f577f2.jpg
-    url: https://revolution.chnm.org/files/original/71a93de2bc3b5fda02b4277317f577f2.jpg
+    thumb: /files/thumbnails/71a93de2bc3b5fda02b4277317f577f2.jpg
+    url: /files/original/71a93de2bc3b5fda02b4277317f577f2.jpg
 geo:
 id: 237
 item_type: Still Image

@@ -44,12 +44,12 @@ dublin_core:
       text: The Death of Robespierre
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f59e6583db91e4948cdc41a6a2c80594.jpg
+  - fullsize: /files/fullsize/f59e6583db91e4948cdc41a6a2c80594.jpg
     id: 34
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/79753331c9430c6b7bfce009609cfb07.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f59e6583db91e4948cdc41a6a2c80594.jpg
-    url: https://revolution.chnm.org/files/original/f59e6583db91e4948cdc41a6a2c80594.jpg
+    thumb: /files/thumbnails/f59e6583db91e4948cdc41a6a2c80594.jpg
+    url: /files/original/f59e6583db91e4948cdc41a6a2c80594.jpg
 geo:
 id: 23
 item_type: Still Image

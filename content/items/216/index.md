@@ -42,12 +42,12 @@ dublin_core:
       text: Last Meeting of Louis XVI with His Family at the Temple Prison
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ef00e526bd5634b2b78b9f353896bf56.jpg
+  - fullsize: /files/fullsize/ef00e526bd5634b2b78b9f353896bf56.jpg
     id: 238
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/53f5c46785fccec88bbba53532d67026.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ef00e526bd5634b2b78b9f353896bf56.jpg
-    url: https://revolution.chnm.org/files/original/ef00e526bd5634b2b78b9f353896bf56.jpg
+    thumb: /files/thumbnails/ef00e526bd5634b2b78b9f353896bf56.jpg
+    url: /files/original/ef00e526bd5634b2b78b9f353896bf56.jpg
 geo:
 id: 216
 item_type: Still Image

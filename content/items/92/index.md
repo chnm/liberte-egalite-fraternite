@@ -40,12 +40,12 @@ dublin_core:
       text: Removal of the <em>Parlements</em>
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8e23a90543454ee8d75ced259e48397a.jpg
+  - fullsize: /files/fullsize/8e23a90543454ee8d75ced259e48397a.jpg
     id: 112
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/aa8e5fbf3185a341853487e140d03799.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8e23a90543454ee8d75ced259e48397a.jpg
-    url: https://revolution.chnm.org/files/original/8e23a90543454ee8d75ced259e48397a.jpg
+    thumb: /files/thumbnails/8e23a90543454ee8d75ced259e48397a.jpg
+    url: /files/original/8e23a90543454ee8d75ced259e48397a.jpg
 geo:
 id: 92
 item_type: Still Image

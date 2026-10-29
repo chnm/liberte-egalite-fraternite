@@ -40,12 +40,12 @@ dublin_core:
       text: The Seventh Incident of 14 July 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4cf51123a45167ff72319575b4cce527.jpg
+  - fullsize: /files/fullsize/4cf51123a45167ff72319575b4cce527.jpg
     id: 117
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d2d96061ab364a27964523d4d571228d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4cf51123a45167ff72319575b4cce527.jpg
-    url: https://revolution.chnm.org/files/original/4cf51123a45167ff72319575b4cce527.jpg
+    thumb: /files/thumbnails/4cf51123a45167ff72319575b4cce527.jpg
+    url: /files/original/4cf51123a45167ff72319575b4cce527.jpg
 geo:
 id: 97
 item_type: Still Image

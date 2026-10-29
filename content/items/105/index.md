@@ -44,12 +44,12 @@ dublin_core:
       text: Day of 10 August 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f000648997184a3746401d083aa39641.jpg
+  - fullsize: /files/fullsize/f000648997184a3746401d083aa39641.jpg
     id: 125
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8c38324fe290e624ea95a4ba2c7f4240.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f000648997184a3746401d083aa39641.jpg
-    url: https://revolution.chnm.org/files/original/f000648997184a3746401d083aa39641.jpg
+    thumb: /files/thumbnails/f000648997184a3746401d083aa39641.jpg
+    url: /files/original/f000648997184a3746401d083aa39641.jpg
 geo:
 id: 105
 item_type: Still Image

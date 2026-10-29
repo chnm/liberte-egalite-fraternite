@@ -37,12 +37,12 @@ dublin_core:
       text: A Memorable Day at Versailles
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f5f09f345100a42f7225a20e7796755f.jpg
+  - fullsize: /files/fullsize/f5f09f345100a42f7225a20e7796755f.jpg
     id: 260
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3bafd6be5a19e3fa5bcd781b0757d761.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f5f09f345100a42f7225a20e7796755f.jpg
-    url: https://revolution.chnm.org/files/original/f5f09f345100a42f7225a20e7796755f.jpg
+    thumb: /files/thumbnails/f5f09f345100a42f7225a20e7796755f.jpg
+    url: /files/original/f5f09f345100a42f7225a20e7796755f.jpg
 geo:
 id: 236
 item_type: Still Image

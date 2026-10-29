@@ -37,12 +37,12 @@ dublin_core:
       text: '"The Little Cartesian Devil": German Peasants Capturing the Little Devil Napoleon'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1efa42e897be12f5ff128826bde65c3e.jpg
+  - fullsize: /files/fullsize/1efa42e897be12f5ff128826bde65c3e.jpg
     id: 194
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6017bd4a3b9d3edb18995a3a76057a34.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1efa42e897be12f5ff128826bde65c3e.jpg
-    url: https://revolution.chnm.org/files/original/1efa42e897be12f5ff128826bde65c3e.jpg
+    thumb: /files/thumbnails/1efa42e897be12f5ff128826bde65c3e.jpg
+    url: /files/original/1efa42e897be12f5ff128826bde65c3e.jpg
 geo:
 id: 170
 item_type: Still Image

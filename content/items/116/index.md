@@ -28,12 +28,12 @@ dublin_core:
       text: The Assassination of Marat by Charlotte Corday
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
+  - fullsize: /files/fullsize/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
     id: 137
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b95b02dc775f47d9f8c7a3c4f36af0f4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
-    url: https://revolution.chnm.org/files/original/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
+    thumb: /files/thumbnails/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
+    url: /files/original/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
 geo:
 id: 116
 item_type: Still Image

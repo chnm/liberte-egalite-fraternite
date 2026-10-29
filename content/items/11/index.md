@@ -19,18 +19,18 @@ dublin_core:
       text: The Moscow Campaign 1812
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/064c41f9c80c727f229f473120871e75.jpg
+  - fullsize: /files/fullsize/064c41f9c80c727f229f473120871e75.jpg
     id: 18
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/083667de45b474bf7880bcdaca678fb1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/064c41f9c80c727f229f473120871e75.jpg
-    url: https://revolution.chnm.org/files/original/064c41f9c80c727f229f473120871e75.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/5afee0a8e413610e317f33319d87ff1c.jpg
+    thumb: /files/thumbnails/064c41f9c80c727f229f473120871e75.jpg
+    url: /files/original/064c41f9c80c727f229f473120871e75.jpg
+  - fullsize: /files/fullsize/5afee0a8e413610e317f33319d87ff1c.jpg
     id: 19
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1bd9465145b1ab899efcb1e6c0961c63.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5afee0a8e413610e317f33319d87ff1c.jpg
-    url: https://revolution.chnm.org/files/original/5afee0a8e413610e317f33319d87ff1c.jpg
+    thumb: /files/thumbnails/5afee0a8e413610e317f33319d87ff1c.jpg
+    url: /files/original/5afee0a8e413610e317f33319d87ff1c.jpg
 geo:
 id: 11
 item_type: Still Image

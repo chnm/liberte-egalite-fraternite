@@ -28,12 +28,12 @@ dublin_core:
       text: Robespierre 10 Thermidor—Exposition of 1877
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/75b4ec2ece89a74af3a81e90f6b802a5.jpg
+  - fullsize: /files/fullsize/75b4ec2ece89a74af3a81e90f6b802a5.jpg
     id: 58
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1c8c640fedce6943f77cba71a456fe1b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/75b4ec2ece89a74af3a81e90f6b802a5.jpg
-    url: https://revolution.chnm.org/files/original/75b4ec2ece89a74af3a81e90f6b802a5.jpg
+    thumb: /files/thumbnails/75b4ec2ece89a74af3a81e90f6b802a5.jpg
+    url: /files/original/75b4ec2ece89a74af3a81e90f6b802a5.jpg
 geo:
 id: 46
 item_type: Still Image

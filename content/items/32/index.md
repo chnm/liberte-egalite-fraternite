@@ -40,12 +40,12 @@ dublin_core:
       text: Refractory (Clergy) Going to the Promised Land
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/08f554a5c060bcab956fbdf92eab8e68.jpg
+  - fullsize: /files/fullsize/08f554a5c060bcab956fbdf92eab8e68.jpg
     id: 44
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9862fe56ebe0bd460bf8a4e3db53278b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/08f554a5c060bcab956fbdf92eab8e68.jpg
-    url: https://revolution.chnm.org/files/original/08f554a5c060bcab956fbdf92eab8e68.jpg
+    thumb: /files/thumbnails/08f554a5c060bcab956fbdf92eab8e68.jpg
+    url: /files/original/08f554a5c060bcab956fbdf92eab8e68.jpg
 geo:
 id: 32
 item_type: Still Image

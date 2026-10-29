@@ -40,12 +40,12 @@ dublin_core:
       text: Mr. de Lafayette, Commander of the Paris National Guard, Receives the City’s 'Sword for the Defense of Liberty'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+  - fullsize: /files/fullsize/3b2feaa58422d3a4388f0b9dda97ede6.jpg
     id: 230
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6374cb3fb744dd4c552f92ad7126a983.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3b2feaa58422d3a4388f0b9dda97ede6.jpg
-    url: https://revolution.chnm.org/files/original/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+    thumb: /files/thumbnails/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+    url: /files/original/3b2feaa58422d3a4388f0b9dda97ede6.jpg
 geo:
 id: 208
 item_type: Still Image

@@ -40,18 +40,18 @@ dublin_core:
       text: King and Queen as Two–headed Monster
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ced50d5c59932eddd2601c252f66e8c5.jpg
+  - fullsize: /files/fullsize/ced50d5c59932eddd2601c252f66e8c5.jpg
     id: 104
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8080b657027fd90b87b760e81baae1b4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ced50d5c59932eddd2601c252f66e8c5.jpg
-    url: https://revolution.chnm.org/files/original/ced50d5c59932eddd2601c252f66e8c5.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/9a7e890f60c9eec8b55f80301f423709.jpg
+    thumb: /files/thumbnails/ced50d5c59932eddd2601c252f66e8c5.jpg
+    url: /files/original/ced50d5c59932eddd2601c252f66e8c5.jpg
+  - fullsize: /files/fullsize/9a7e890f60c9eec8b55f80301f423709.jpg
     id: 105
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/441c16f76a3bceb3f6ff6a7c956d78d0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9a7e890f60c9eec8b55f80301f423709.jpg
-    url: https://revolution.chnm.org/files/original/9a7e890f60c9eec8b55f80301f423709.jpg
+    thumb: /files/thumbnails/9a7e890f60c9eec8b55f80301f423709.jpg
+    url: /files/original/9a7e890f60c9eec8b55f80301f423709.jpg
 geo:
 id: 86
 item_type: Still Image

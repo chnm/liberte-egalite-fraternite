@@ -37,12 +37,12 @@ dublin_core:
       text: Oath of the New Horaces
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+  - fullsize: /files/fullsize/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
     id: 177
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ec0472bc396288c2c71fddcbe650cb6c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
-    url: https://revolution.chnm.org/files/original/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+    thumb: /files/thumbnails/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+    url: /files/original/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
 geo:
 id: 153
 item_type: Still Image

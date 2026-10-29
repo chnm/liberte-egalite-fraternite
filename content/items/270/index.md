@@ -37,12 +37,12 @@ dublin_core:
       text: Republican Calendar
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
+  - fullsize: /files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
     id: 303
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4ed47dd5464eca37f1d14b9693990e8a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
-    url: https://revolution.chnm.org/files/original/321bc9b531656db563a80435e9faaf4b.jpg
+    thumb: /files/thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
+    url: /files/original/321bc9b531656db563a80435e9faaf4b.jpg
 geo:
 id: 270
 item_type: Still Image

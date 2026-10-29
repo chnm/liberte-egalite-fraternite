@@ -40,12 +40,12 @@ dublin_core:
       text: With the Help of Mr. de la Fayette, the French Nation Defeats Despotism
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1e701ad6023357f491c7ac13b2b86ce9.jpg
+  - fullsize: /files/fullsize/1e701ad6023357f491c7ac13b2b86ce9.jpg
     id: 181
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/28702671c776b06dfbaf895cc0c031a8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1e701ad6023357f491c7ac13b2b86ce9.jpg
-    url: https://revolution.chnm.org/files/original/1e701ad6023357f491c7ac13b2b86ce9.jpg
+    thumb: /files/thumbnails/1e701ad6023357f491c7ac13b2b86ce9.jpg
+    url: /files/original/1e701ad6023357f491c7ac13b2b86ce9.jpg
 geo:
 id: 157
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: The Indigo Plant Farm
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3e023b320ad5b42486ccbfe2e76741a5.jpg
+  - fullsize: /files/fullsize/3e023b320ad5b42486ccbfe2e76741a5.jpg
     id: 247
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/983794e330820bf133dee84ccd082386.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3e023b320ad5b42486ccbfe2e76741a5.jpg
-    url: https://revolution.chnm.org/files/original/3e023b320ad5b42486ccbfe2e76741a5.jpg
+    thumb: /files/thumbnails/3e023b320ad5b42486ccbfe2e76741a5.jpg
+    url: /files/original/3e023b320ad5b42486ccbfe2e76741a5.jpg
 geo:
 id: 225
 item_type: Still Image

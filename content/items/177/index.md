@@ -40,12 +40,12 @@ dublin_core:
       text: Image of the Attack of 20 June 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0a8cf66ca6c48e60a5c72b46e312f627.jpg
+  - fullsize: /files/fullsize/0a8cf66ca6c48e60a5c72b46e312f627.jpg
     id: 201
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bdcc113de7b79e36b20d6952441c4815.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0a8cf66ca6c48e60a5c72b46e312f627.jpg
-    url: https://revolution.chnm.org/files/original/0a8cf66ca6c48e60a5c72b46e312f627.jpg
+    thumb: /files/thumbnails/0a8cf66ca6c48e60a5c72b46e312f627.jpg
+    url: /files/original/0a8cf66ca6c48e60a5c72b46e312f627.jpg
 geo:
 id: 177
 item_type: Still Image

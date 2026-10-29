@@ -40,12 +40,12 @@ dublin_core:
       text: '"His Monument": Napoleon’s Past and Future Are Filled with Dead Bodies'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cf261ec52049b4ea2489594cde1440fd.jpg
+  - fullsize: /files/fullsize/cf261ec52049b4ea2489594cde1440fd.jpg
     id: 186
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/85682049a5e68149dc061fdb9c3d23bc.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cf261ec52049b4ea2489594cde1440fd.jpg
-    url: https://revolution.chnm.org/files/original/cf261ec52049b4ea2489594cde1440fd.jpg
+    thumb: /files/thumbnails/cf261ec52049b4ea2489594cde1440fd.jpg
+    url: /files/original/cf261ec52049b4ea2489594cde1440fd.jpg
 geo:
 id: 162
 item_type: Still Image

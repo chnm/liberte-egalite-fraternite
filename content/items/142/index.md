@@ -40,18 +40,18 @@ dublin_core:
       text: President of a Revolutionary Committee Distracting Himself with His Art While Waiting
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e18decf182e21feb0943fd5eae274f79.jpg
+  - fullsize: /files/fullsize/e18decf182e21feb0943fd5eae274f79.jpg
     id: 164
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f93e7fe813cd63fc73d60062033da608.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e18decf182e21feb0943fd5eae274f79.jpg
-    url: https://revolution.chnm.org/files/original/e18decf182e21feb0943fd5eae274f79.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/f453f2f0d3cdc14101962372e065210c.jpg
+    thumb: /files/thumbnails/e18decf182e21feb0943fd5eae274f79.jpg
+    url: /files/original/e18decf182e21feb0943fd5eae274f79.jpg
+  - fullsize: /files/fullsize/f453f2f0d3cdc14101962372e065210c.jpg
     id: 165
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6625a22d1d437c0313a61ac75354b2b9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f453f2f0d3cdc14101962372e065210c.jpg
-    url: https://revolution.chnm.org/files/original/f453f2f0d3cdc14101962372e065210c.jpg
+    thumb: /files/thumbnails/f453f2f0d3cdc14101962372e065210c.jpg
+    url: /files/original/f453f2f0d3cdc14101962372e065210c.jpg
 geo:
 id: 142
 item_type: Still Image

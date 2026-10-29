@@ -22,12 +22,12 @@ dublin_core:
       text: Commemorating the Revolution on Chinaware
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ae828ded7965e9aba47af3f6e0507f0b.jpg
+  - fullsize: /files/fullsize/ae828ded7965e9aba47af3f6e0507f0b.jpg
     id: 291
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/214df5f6a4343f29af4cb26b6814550e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ae828ded7965e9aba47af3f6e0507f0b.jpg
-    url: https://revolution.chnm.org/files/original/ae828ded7965e9aba47af3f6e0507f0b.jpg
+    thumb: /files/thumbnails/ae828ded7965e9aba47af3f6e0507f0b.jpg
+    url: /files/original/ae828ded7965e9aba47af3f6e0507f0b.jpg
 geo:
 id: 260
 item_type: Still Image

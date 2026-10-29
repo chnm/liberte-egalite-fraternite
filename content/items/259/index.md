@@ -44,18 +44,18 @@ dublin_core:
       text: National Assembly Relinquishes All Privileges
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ea78b8d6369aeef68170664bf901530a.jpg
+  - fullsize: /files/fullsize/ea78b8d6369aeef68170664bf901530a.jpg
     id: 289
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bb231ad06dc0d15d67cb1d0b9d46aab4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ea78b8d6369aeef68170664bf901530a.jpg
-    url: https://revolution.chnm.org/files/original/ea78b8d6369aeef68170664bf901530a.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+    thumb: /files/thumbnails/ea78b8d6369aeef68170664bf901530a.jpg
+    url: /files/original/ea78b8d6369aeef68170664bf901530a.jpg
+  - fullsize: /files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
     id: 290
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a169ca5a5861abde11783d1845cc27b9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
-    url: https://revolution.chnm.org/files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+    thumb: /files/thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+    url: /files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
 geo:
 id: 259
 item_type: Still Image

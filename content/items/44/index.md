@@ -28,12 +28,12 @@ dublin_core:
       text: Tyranny Tremble
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/dad054c919bd1e31c8b21b52385336e2.jpg
+  - fullsize: /files/fullsize/dad054c919bd1e31c8b21b52385336e2.jpg
     id: 56
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8f76cdfabe2e1583c0d1eb020ed1394a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/dad054c919bd1e31c8b21b52385336e2.jpg
-    url: https://revolution.chnm.org/files/original/dad054c919bd1e31c8b21b52385336e2.jpg
+    thumb: /files/thumbnails/dad054c919bd1e31c8b21b52385336e2.jpg
+    url: /files/original/dad054c919bd1e31c8b21b52385336e2.jpg
 geo:
 id: 44
 item_type: Still Image

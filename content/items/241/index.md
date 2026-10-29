@@ -25,12 +25,12 @@ dublin_core:
       text: Louis Leaves His Family
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/81a37ab471dbe9ceae4401e5205a5a67.jpg
+  - fullsize: /files/fullsize/81a37ab471dbe9ceae4401e5205a5a67.jpg
     id: 266
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/79b82e47ab13e310b2481172a368bcb6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/81a37ab471dbe9ceae4401e5205a5a67.jpg
-    url: https://revolution.chnm.org/files/original/81a37ab471dbe9ceae4401e5205a5a67.jpg
+    thumb: /files/thumbnails/81a37ab471dbe9ceae4401e5205a5a67.jpg
+    url: /files/original/81a37ab471dbe9ceae4401e5205a5a67.jpg
 geo:
 id: 241
 item_type: Still Image

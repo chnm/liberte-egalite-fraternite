@@ -28,12 +28,12 @@ dublin_core:
       text: Execrable Human Traffick, or The Affectionate Slaves
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4095da91a938530407034825cf041d5b.jpg
+  - fullsize: /files/fullsize/4095da91a938530407034825cf041d5b.jpg
     id: 255
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0749876d1ae895eb899e07b20407545e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4095da91a938530407034825cf041d5b.jpg
-    url: https://revolution.chnm.org/files/original/4095da91a938530407034825cf041d5b.jpg
+    thumb: /files/thumbnails/4095da91a938530407034825cf041d5b.jpg
+    url: /files/original/4095da91a938530407034825cf041d5b.jpg
 geo:
 id: 232
 item_type: Still Image

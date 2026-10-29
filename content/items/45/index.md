@@ -28,12 +28,12 @@ dublin_core:
       text: Sword of Sieyès
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/279c985e9f54f63e1afd74fd7829c7a8.jpg
+  - fullsize: /files/fullsize/279c985e9f54f63e1afd74fd7829c7a8.jpg
     id: 57
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/04247f3dda8ccbd5133cb126612e8162.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/279c985e9f54f63e1afd74fd7829c7a8.jpg
-    url: https://revolution.chnm.org/files/original/279c985e9f54f63e1afd74fd7829c7a8.jpg
+    thumb: /files/thumbnails/279c985e9f54f63e1afd74fd7829c7a8.jpg
+    url: /files/original/279c985e9f54f63e1afd74fd7829c7a8.jpg
 geo:
 id: 45
 item_type: Still Image

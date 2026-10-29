@@ -28,12 +28,12 @@ dublin_core:
       text: Progression of Napoleon’s Life
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/078266e453d418154057138175696856.jpg
+  - fullsize: /files/fullsize/078266e453d418154057138175696856.jpg
     id: 191
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8486af7243eb4da28b724f04e087c03c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/078266e453d418154057138175696856.jpg
-    url: https://revolution.chnm.org/files/original/078266e453d418154057138175696856.jpg
+    thumb: /files/thumbnails/078266e453d418154057138175696856.jpg
+    url: /files/original/078266e453d418154057138175696856.jpg
 geo:
 id: 167
 item_type: Still Image

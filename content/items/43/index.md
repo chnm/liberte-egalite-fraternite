@@ -40,12 +40,12 @@ dublin_core:
       text: Game of the Great Men, Minot the Elder
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/fb5320ce7b063510af3220ab5125c385.jpg
+  - fullsize: /files/fullsize/fb5320ce7b063510af3220ab5125c385.jpg
     id: 55
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/327d0fa11ae70b70a6cb8331d913a7e5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/fb5320ce7b063510af3220ab5125c385.jpg
-    url: https://revolution.chnm.org/files/original/fb5320ce7b063510af3220ab5125c385.jpg
+    thumb: /files/thumbnails/fb5320ce7b063510af3220ab5125c385.jpg
+    url: /files/original/fb5320ce7b063510af3220ab5125c385.jpg
 geo:
 id: 43
 item_type: Still Image

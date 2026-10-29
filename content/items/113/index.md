@@ -44,12 +44,12 @@ dublin_core:
       text: The Cap Français Fire
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/c907c543bf68eb3cda06463a6eed4477.jpg
+  - fullsize: /files/fullsize/c907c543bf68eb3cda06463a6eed4477.jpg
     id: 133
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6bcedd010e15e832a97a38677c2b85d0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/c907c543bf68eb3cda06463a6eed4477.jpg
-    url: https://revolution.chnm.org/files/original/c907c543bf68eb3cda06463a6eed4477.jpg
+    thumb: /files/thumbnails/c907c543bf68eb3cda06463a6eed4477.jpg
+    url: /files/original/c907c543bf68eb3cda06463a6eed4477.jpg
 geo:
 id: 113
 item_type: Still Image

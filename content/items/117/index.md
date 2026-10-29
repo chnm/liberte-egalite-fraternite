@@ -44,12 +44,12 @@ dublin_core:
       text: Inside a Revolutionary Committee during the Reign of Terror
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8cee01ce23e0333416ec1f49233ad382.jpg
+  - fullsize: /files/fullsize/8cee01ce23e0333416ec1f49233ad382.jpg
     id: 138
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/47232d20141baa93e401c82b4c5dbd85.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8cee01ce23e0333416ec1f49233ad382.jpg
-    url: https://revolution.chnm.org/files/original/8cee01ce23e0333416ec1f49233ad382.jpg
+    thumb: /files/thumbnails/8cee01ce23e0333416ec1f49233ad382.jpg
+    url: /files/original/8cee01ce23e0333416ec1f49233ad382.jpg
 geo:
 id: 117
 item_type: Still Image

@@ -4,10 +4,10 @@ aliases:
 blocks:
   - attachments:
       - caption: <p>Festival of National Unity</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/560ca01c6893f7e5189326257e8387f9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/560ca01c6893f7e5189326257e8387f9.jpg
+        fullsize: /files/fullsize/560ca01c6893f7e5189326257e8387f9.jpg
+        image: /files/square_thumbnails/560ca01c6893f7e5189326257e8387f9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/560ca01c6893f7e5189326257e8387f9.jpeg
+        original: /files/original/560ca01c6893f7e5189326257e8387f9.jpeg
         title: Festival of National Unity, 14 July 1939
         url: /d/61/
     layout: file-text
@@ -52,31 +52,31 @@ blocks:
     text: "<p>Burke's attack set off a firestorm of protest within Great Britain. His passing reference to the lower classes as \"the swinish multitude\" got him swift responses, with titles such as \"Hog's Wash\" and \"Pig's Meat\" and an \"Address to the Hon. Edmund Burke from the Swinish Multitude.\" The most effective response was that of Thomas Paine, the English author of the famous defense of the American cause, <em>Common Sense</em> (1776). Paine's <em>Rights of Man: Being an Answer to Mr. Burke's Attack on the French Revolution</em> (1791 and 1792) laid out a cogent defense of the use of reason in remaking the forms of government. Paine insisted that good government depended on establishing a constitution that guaranteed the natural rights of all men. In his view, Great Britain did not have a constitution; it had only a long history of fraudulent monarchical and aristocratic claims guaranteed by force. By 1793 Paine's attack on the English social and political establishment had sold some 200,000 copies, more than any other political polemic in English history. Paine's prestige became so great that he was elected to the National Convention despite the fact that he did not speak French.</p>"
   - attachments:
       - caption: <p>Mr. de Lafayette, Commander of the Paris National Guard</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/3b2feaa58422d3a4388f0b9dda97ede6.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+        fullsize: /files/fullsize/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+        image: /files/square_thumbnails/3b2feaa58422d3a4388f0b9dda97ede6.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+        original: /files/original/3b2feaa58422d3a4388f0b9dda97ede6.jpg
         title: Mr. de Lafayette, Commander of the Paris National Guard, Receives the City’s 'Sword for the Defense of Liberty'
         url: /d/206/
       - caption: <p>With the Help of Mr. de la Fayette, the French Nation Defeats Despotism</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1e701ad6023357f491c7ac13b2b86ce9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1e701ad6023357f491c7ac13b2b86ce9.jpg
+        fullsize: /files/fullsize/1e701ad6023357f491c7ac13b2b86ce9.jpg
+        image: /files/square_thumbnails/1e701ad6023357f491c7ac13b2b86ce9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1e701ad6023357f491c7ac13b2b86ce9.jpg
+        original: /files/original/1e701ad6023357f491c7ac13b2b86ce9.jpg
         title: With the Help of Mr. de la Fayette, the French Nation Defeats Despotism
         url: /d/154/
       - caption: <p>Washington and Lafayette in color</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/04f03cbfe22fbd0d9d38c198326dc335.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/04f03cbfe22fbd0d9d38c198326dc335.jpg
+        fullsize: /files/fullsize/04f03cbfe22fbd0d9d38c198326dc335.jpg
+        image: /files/square_thumbnails/04f03cbfe22fbd0d9d38c198326dc335.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/04f03cbfe22fbd0d9d38c198326dc335.jpg
+        original: /files/original/04f03cbfe22fbd0d9d38c198326dc335.jpg
         title: Washington and Lafayette in color (lithograph, n.d., ca. 1928)
         url: /d/208/
       - caption: <p>Statue of Lafayette—Le Puy</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/cefc73bfa2e57941c07ee5e76355bb8b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+        fullsize: /files/fullsize/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+        image: /files/square_thumbnails/cefc73bfa2e57941c07ee5e76355bb8b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+        original: /files/original/cefc73bfa2e57941c07ee5e76355bb8b.jpg
         title: Statue of Lafayette—Le Puy
         url: /d/204/
       - caption: ''
@@ -235,10 +235,10 @@ blocks:
     text: '<p>Socialists and communists had a more positive view of the French Revolution: they considered it an important harbinger of the future. However, they wanted to go beyond its tentative promises of individual rights and legal change within a constitutional order. Socialists and communists believed that the French Revolution had not gone far enough. The founders of communism as an international movement, Karl Marx and Friedrich Engels, both commented extensively on the French Revolution, hoping to find in those events important lessons for the future course not only of communism but of history itself.</p>'
   - attachments:
       - caption: <p>United States of America––New York––Solemn Inauguration of the Statue of Liberty</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
-        image: https://revolution.chnm.org/files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+        fullsize: /files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+        image: /files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+        original: /files/original/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
         title: United States of America––New York––Solemn Inauguration of the Statue of Liberty
         url: /d/212/
     layout: file-text
@@ -327,17 +327,17 @@ blocks:
       <p>Has the importance of the French Revolution now faded? In some ways, it has simply shifted. Scholars continue to be interested in the causes, course, and legacy of the French Revolution, but they have a wider view of it: not only do they seek its meaning in a broader range of events and activities, in the traditional arenas of diplomacy and high politics as well as in the newer ones of festivals, symbols, engravings, and songs. They also seek its significance in many more places, from Haiti and the other French colonies to Egypt, Russia, and wherever the French armies marched, indeed, to wherever the message of the Revolution was heard.</p>
   - attachments:
       - caption: <p>The Marseillaise</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        fullsize: /files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        image: /files/square_thumbnails/35f31ae7c9e56578ed1b0490356cdd77.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        original: /files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
         title: The Marseillaise
         url: /d/23/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/625">The Marseillaise</a></p>
-        fullsize: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
-        image: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        fullsize: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        image: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        original: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
         title: The Marseillaise (War Song for the Army of the Rhine)
         url: /d/625/
     layout: file-text
@@ -349,94 +349,94 @@ blocks:
       <p>Memories of the French Revolution of 1789 are not only historical in nature, but also constitute a living legacy. They are found in places, images, and objects. A few liberty trees still stand today, usually large oaks on the village square. Many people kept mementos of the Revolution, whether engravings, ribbons (in the form of cockades), crockery, even bits of the stones of the Bastille prison. Songs continued in popular memory. The sheer weight of these memories can be measured by the very large number of objects and images still in existence. The Bibliothèque Nationale in Paris houses some 30,000 engravings from the time of the French Revolution. Libraries in the United States have many thousands of them too. Museums all over France have material collections of crockery, ribbons, flags, swords, and clothing, all of which could serve as emblems of revolution—or counterrevolution. The Museum of the French Revolution in Vizille, France, has the most systematic and extensive of these collections, which we can only sample here.</p>
   - attachments:
       - caption: <p>Assembly of Notables, Held at Versailles</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/9a7e6d633ab14fe5be764c124f9448f4.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/9a7e6d633ab14fe5be764c124f9448f4.jpg
+        fullsize: /files/fullsize/9a7e6d633ab14fe5be764c124f9448f4.jpg
+        image: /files/square_thumbnails/9a7e6d633ab14fe5be764c124f9448f4.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/9a7e6d633ab14fe5be764c124f9448f4.jpg
+        original: /files/original/9a7e6d633ab14fe5be764c124f9448f4.jpg
         title: Assembly of Notables, Held at Versailles
         url: /d/83/
       - caption: <p>Burning the Guardhouse on the Pont Neuf</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/48a1e59b7af19923c7c9dccfa5786a5e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+        fullsize: /files/fullsize/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+        image: /files/square_thumbnails/48a1e59b7af19923c7c9dccfa5786a5e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+        original: /files/original/48a1e59b7af19923c7c9dccfa5786a5e.jpg
         title: Burning the Guardhouse on the Pont Neuf
         url: /d/85/
       - caption: <p>Speech in the Garden of the Palais–Royal</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+        fullsize: /files/fullsize/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+        image: /files/square_thumbnails/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+        original: /files/original/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
         title: Speech in the Garden of the Palais–Royal
         url: /d/647/
       - caption: <p>National Assembly Cancels Privileges</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        fullsize: /files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        image: /files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        original: /files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         title: National Assembly Relinquishes All Privileges
         url: /d/648/
       - caption: <p>Commemorating the Revolution on Chinaware</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/ae828ded7965e9aba47af3f6e0507f0b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/ae828ded7965e9aba47af3f6e0507f0b.jpg
+        fullsize: /files/fullsize/ae828ded7965e9aba47af3f6e0507f0b.jpg
+        image: /files/square_thumbnails/ae828ded7965e9aba47af3f6e0507f0b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/ae828ded7965e9aba47af3f6e0507f0b.jpg
+        original: /files/original/ae828ded7965e9aba47af3f6e0507f0b.jpg
         title: Commemorating the Revolution on Chinaware
         url: /d/649/
       - caption: '<p>Plate: Long Live the Nation</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/bf8445217b515328159d158471b11bf6.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/bf8445217b515328159d158471b11bf6.jpg
+        fullsize: /files/fullsize/bf8445217b515328159d158471b11bf6.jpg
+        image: /files/square_thumbnails/bf8445217b515328159d158471b11bf6.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/bf8445217b515328159d158471b11bf6.jpg
+        original: /files/original/bf8445217b515328159d158471b11bf6.jpg
         title: 'Plate: Long Live the Nation'
         url: /d/25/
       - caption: "<p>Plate: 'I Watch over the Nation'</p>"
-        fullsize: https://revolution.chnm.org/files/fullsize/639ef4e8ac3433b2173ef0defd69977a.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/639ef4e8ac3433b2173ef0defd69977a.jpg
+        fullsize: /files/fullsize/639ef4e8ac3433b2173ef0defd69977a.jpg
+        image: /files/square_thumbnails/639ef4e8ac3433b2173ef0defd69977a.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/639ef4e8ac3433b2173ef0defd69977a.jpg
+        original: /files/original/639ef4e8ac3433b2173ef0defd69977a.jpg
         title: "Plate: 'I Watch over the Nation.'"
         url: /d/26/
       - caption: '<p>Fan: Costumes of the Directory</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/2dfd852803020f8d6532fee03c55f26a.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/2dfd852803020f8d6532fee03c55f26a.jpg
+        fullsize: /files/fullsize/2dfd852803020f8d6532fee03c55f26a.jpg
+        image: /files/square_thumbnails/2dfd852803020f8d6532fee03c55f26a.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/2dfd852803020f8d6532fee03c55f26a.jpg
+        original: /files/original/2dfd852803020f8d6532fee03c55f26a.jpg
         title: 'Fan: Costumes of the Directory'
         url: /d/28/
       - caption: <p>Republican Calendar</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
+        fullsize: /files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
+        image: /files/square_thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/321bc9b531656db563a80435e9faaf4b.jpg
+        original: /files/original/321bc9b531656db563a80435e9faaf4b.jpg
         title: Republican Calendar
         url: /d/645/
       - caption: <p>Clock Faces</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/07924730fea09a7efca9dd241f9e9292.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/07924730fea09a7efca9dd241f9e9292.jpg
+        fullsize: /files/fullsize/07924730fea09a7efca9dd241f9e9292.jpg
+        image: /files/square_thumbnails/07924730fea09a7efca9dd241f9e9292.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/07924730fea09a7efca9dd241f9e9292.jpg
+        original: /files/original/07924730fea09a7efca9dd241f9e9292.jpg
         title: Clock Faces
         url: /d/40/
       - caption: <p>Gravy Boat with Phrygian Bonnet</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/e0d55ff009a05af0f6fbbae57902e13f.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/e0d55ff009a05af0f6fbbae57902e13f.jpg
+        fullsize: /files/fullsize/e0d55ff009a05af0f6fbbae57902e13f.jpg
+        image: /files/square_thumbnails/e0d55ff009a05af0f6fbbae57902e13f.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/e0d55ff009a05af0f6fbbae57902e13f.jpg
+        original: /files/original/e0d55ff009a05af0f6fbbae57902e13f.jpg
         title: Gravy Boat with Phrygian Bonnet
         url: /d/646/
       - caption: '<p>Plate: 1914–17 Quimper China</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/40626df7761f1870a54c2aac8355ee94.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/40626df7761f1870a54c2aac8355ee94.jpg
+        fullsize: /files/fullsize/40626df7761f1870a54c2aac8355ee94.jpg
+        image: /files/square_thumbnails/40626df7761f1870a54c2aac8355ee94.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/40626df7761f1870a54c2aac8355ee94.jpg
+        original: /files/original/40626df7761f1870a54c2aac8355ee94.jpg
         title: 'Plate: 1914–17 Quimper china'
         url: /d/29/
       - caption: '<p>Wallpaper: Unity, Indivisibility</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/2fda98228676cce61d27b6bd843b2ba3.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/2fda98228676cce61d27b6bd843b2ba3.jpg
+        fullsize: /files/fullsize/2fda98228676cce61d27b6bd843b2ba3.jpg
+        image: /files/square_thumbnails/2fda98228676cce61d27b6bd843b2ba3.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/2fda98228676cce61d27b6bd843b2ba3.jpg
+        original: /files/original/2fda98228676cce61d27b6bd843b2ba3.jpg
         title: 'Wallpaper: Unity, Indivisibility'
         url: /d/44/
     layout: gallery

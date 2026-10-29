@@ -40,12 +40,12 @@ dublin_core:
       text: Hell Broke Loose, or, The Murder of Louis
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cf5feaad045267d8de8d09342ed1985f.jpg
+  - fullsize: /files/fullsize/cf5feaad045267d8de8d09342ed1985f.jpg
     id: 78
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5b5b0dd848881939715b7deca6182a8d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cf5feaad045267d8de8d09342ed1985f.jpg
-    url: https://revolution.chnm.org/files/original/cf5feaad045267d8de8d09342ed1985f.jpg
+    thumb: /files/thumbnails/cf5feaad045267d8de8d09342ed1985f.jpg
+    url: /files/original/cf5feaad045267d8de8d09342ed1985f.jpg
 geo:
 id: 63
 item_type: Still Image

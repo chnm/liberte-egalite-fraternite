@@ -40,12 +40,12 @@ dublin_core:
       text: View of the Mound of Champ de la Reunion on the Festival That Was Celebrated in Honor of the Supreme Being
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/776659648c75a82aa8a6932df7493d62.jpg
+  - fullsize: /files/fullsize/776659648c75a82aa8a6932df7493d62.jpg
     id: 45
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7d4916d1e650e0aaf706fcdf7c21ecfc.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/776659648c75a82aa8a6932df7493d62.jpg
-    url: https://revolution.chnm.org/files/original/776659648c75a82aa8a6932df7493d62.jpg
+    thumb: /files/thumbnails/776659648c75a82aa8a6932df7493d62.jpg
+    url: /files/original/776659648c75a82aa8a6932df7493d62.jpg
 geo:
 id: 33
 item_type: Still Image

@@ -28,12 +28,12 @@ dublin_core:
       text: Washington and Lafayette in color (lithograph, n.d., ca. 1928)
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/04f03cbfe22fbd0d9d38c198326dc335.jpg
+  - fullsize: /files/fullsize/04f03cbfe22fbd0d9d38c198326dc335.jpg
     id: 232
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ad53c6eb9bd8085a266b0283ac4d06b9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/04f03cbfe22fbd0d9d38c198326dc335.jpg
-    url: https://revolution.chnm.org/files/original/04f03cbfe22fbd0d9d38c198326dc335.jpg
+    thumb: /files/thumbnails/04f03cbfe22fbd0d9d38c198326dc335.jpg
+    url: /files/original/04f03cbfe22fbd0d9d38c198326dc335.jpg
 geo:
 id: 210
 item_type: Still Image

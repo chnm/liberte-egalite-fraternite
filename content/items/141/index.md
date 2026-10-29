@@ -40,12 +40,12 @@ dublin_core:
       text: 'Opening of the Club of the Revolution: Circus Act'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/598a9ba1a4c7139aecda4041d320b313.jpg
+  - fullsize: /files/fullsize/598a9ba1a4c7139aecda4041d320b313.jpg
     id: 163
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/824c708f09e542a311d72ad955765acc.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/598a9ba1a4c7139aecda4041d320b313.jpg
-    url: https://revolution.chnm.org/files/original/598a9ba1a4c7139aecda4041d320b313.jpg
+    thumb: /files/thumbnails/598a9ba1a4c7139aecda4041d320b313.jpg
+    url: /files/original/598a9ba1a4c7139aecda4041d320b313.jpg
 geo:
 id: 141
 item_type: Still Image

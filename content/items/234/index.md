@@ -40,12 +40,12 @@ dublin_core:
       text: Arrival of the Royal Family in Paris on 6 October 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
+  - fullsize: /files/fullsize/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
     id: 257
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bf3a0729a1ce87d39998e7ce565b4926.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
-    url: https://revolution.chnm.org/files/original/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
+    thumb: /files/thumbnails/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
+    url: /files/original/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
 geo:
 id: 234
 item_type: Still Image

@@ -28,12 +28,12 @@ dublin_core:
       text: Triumph of the Year 1813
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/963a65b75c865e7c10fa9c3ee80ac196.jpg
+  - fullsize: /files/fullsize/963a65b75c865e7c10fa9c3ee80ac196.jpg
     id: 187
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7e0b3d8804166d53b990333547eb9923.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/963a65b75c865e7c10fa9c3ee80ac196.jpg
-    url: https://revolution.chnm.org/files/original/963a65b75c865e7c10fa9c3ee80ac196.jpg
+    thumb: /files/thumbnails/963a65b75c865e7c10fa9c3ee80ac196.jpg
+    url: /files/original/963a65b75c865e7c10fa9c3ee80ac196.jpg
 geo:
 id: 163
 item_type: Still Image

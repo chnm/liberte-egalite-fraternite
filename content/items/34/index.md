@@ -25,12 +25,12 @@ dublin_core:
       text: Reunion
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2a9f75920dba198aa305876dba8532e4.jpg
+  - fullsize: /files/fullsize/2a9f75920dba198aa305876dba8532e4.jpg
     id: 46
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/957c821abdec4c85aa8c001ae3da2af5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2a9f75920dba198aa305876dba8532e4.jpg
-    url: https://revolution.chnm.org/files/original/2a9f75920dba198aa305876dba8532e4.jpg
+    thumb: /files/thumbnails/2a9f75920dba198aa305876dba8532e4.jpg
+    url: /files/original/2a9f75920dba198aa305876dba8532e4.jpg
 geo:
 id: 34
 item_type: Still Image

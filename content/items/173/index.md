@@ -37,12 +37,12 @@ dublin_core:
       text: '"Celebrating Napoleon’s Birthday on the Island of St. Helena"'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+  - fullsize: /files/fullsize/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
     id: 197
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/99104d9a0b8a806e0ea3eee38b66a193.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
-    url: https://revolution.chnm.org/files/original/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+    thumb: /files/thumbnails/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+    url: /files/original/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
 geo:
 id: 173
 item_type: Still Image

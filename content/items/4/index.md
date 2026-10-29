@@ -19,12 +19,12 @@ dublin_core:
       text: Napoleon in Italy 1796–97
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+  - fullsize: /files/fullsize/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
     id: 7
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/fecb0015a9c45fad68251b4afe44a30f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
-    url: https://revolution.chnm.org/files/original/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+    thumb: /files/thumbnails/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+    url: /files/original/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
 geo:
 id: 4
 item_type: Still Image

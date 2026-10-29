@@ -40,12 +40,12 @@ dublin_core:
       text: Awakening of the Third Estate
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+  - fullsize: /files/fullsize/7955f10b9dc1e67f9346ffd6c980d78b.jpg
     id: 184
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/87ed26b13196156953590995b540714a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7955f10b9dc1e67f9346ffd6c980d78b.jpg
-    url: https://revolution.chnm.org/files/original/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+    thumb: /files/thumbnails/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+    url: /files/original/7955f10b9dc1e67f9346ffd6c980d78b.jpg
 geo:
 id: 160
 item_type: Still Image

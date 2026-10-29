@@ -25,12 +25,12 @@ dublin_core:
       text: Louis as No More Than a Man
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a30a551fe919119b70638990b5f67040.jpg
+  - fullsize: /files/fullsize/a30a551fe919119b70638990b5f67040.jpg
     id: 85
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/101e7d4eeeb917dc2fc424740e5f9b79.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a30a551fe919119b70638990b5f67040.jpg
-    url: https://revolution.chnm.org/files/original/a30a551fe919119b70638990b5f67040.jpg
+    thumb: /files/thumbnails/a30a551fe919119b70638990b5f67040.jpg
+    url: /files/original/a30a551fe919119b70638990b5f67040.jpg
 geo:
 id: 70
 item_type: Still Image

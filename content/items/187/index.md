@@ -40,12 +40,12 @@ dublin_core:
       text: The Queen Exhausted
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2c514ac404d69e05bfdd510429f25702.jpg
+  - fullsize: /files/fullsize/2c514ac404d69e05bfdd510429f25702.jpg
     id: 210
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/58d208d28e5eaf8b5a8eebc19f1914e0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2c514ac404d69e05bfdd510429f25702.jpg
-    url: https://revolution.chnm.org/files/original/2c514ac404d69e05bfdd510429f25702.jpg
+    thumb: /files/thumbnails/2c514ac404d69e05bfdd510429f25702.jpg
+    url: /files/original/2c514ac404d69e05bfdd510429f25702.jpg
 geo:
 id: 187
 item_type: Still Image

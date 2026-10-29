@@ -42,12 +42,12 @@ dublin_core:
       text: Fusillades at Lyon, Ordered by Collot–D’Herbois
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/accfbaa16d2c75d4925284552947a89f.jpg
+  - fullsize: /files/fullsize/accfbaa16d2c75d4925284552947a89f.jpg
     id: 140
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3b8349ea1c812ea896d940dda1c57bda.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/accfbaa16d2c75d4925284552947a89f.jpg
-    url: https://revolution.chnm.org/files/original/accfbaa16d2c75d4925284552947a89f.jpg
+    thumb: /files/thumbnails/accfbaa16d2c75d4925284552947a89f.jpg
+    url: /files/original/accfbaa16d2c75d4925284552947a89f.jpg
 geo:
 id: 119
 item_type: Still Image

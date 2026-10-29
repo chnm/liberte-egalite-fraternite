@@ -42,12 +42,12 @@ dublin_core:
       text: Bonaparte, First Consul of the French Republic, 18 Brumaire, Year VIII
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b5652273b93fc2b52df20bd0561f1183.jpg
+  - fullsize: /files/fullsize/b5652273b93fc2b52df20bd0561f1183.jpg
     id: 158
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9aae0117c1f76833704eb284fc6afb8b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b5652273b93fc2b52df20bd0561f1183.jpg
-    url: https://revolution.chnm.org/files/original/b5652273b93fc2b52df20bd0561f1183.jpg
+    thumb: /files/thumbnails/b5652273b93fc2b52df20bd0561f1183.jpg
+    url: /files/original/b5652273b93fc2b52df20bd0561f1183.jpg
 geo:
 id: 136
 item_type: Still Image

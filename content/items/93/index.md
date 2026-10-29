@@ -42,12 +42,12 @@ dublin_core:
       text: Burning the Guardhouse on the Pont Neuf
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+  - fullsize: /files/fullsize/48a1e59b7af19923c7c9dccfa5786a5e.jpg
     id: 113
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d9a18fe35855f420c0d6495b08a53010.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/48a1e59b7af19923c7c9dccfa5786a5e.jpg
-    url: https://revolution.chnm.org/files/original/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+    thumb: /files/thumbnails/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+    url: /files/original/48a1e59b7af19923c7c9dccfa5786a5e.jpg
 geo:
 id: 93
 item_type: Still Image

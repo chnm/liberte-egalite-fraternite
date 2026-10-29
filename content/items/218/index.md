@@ -40,12 +40,12 @@ dublin_core:
       text: March of the Powers Allied against France
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8e1ec75e5315ee078c013ca002c3297d.jpg
+  - fullsize: /files/fullsize/8e1ec75e5315ee078c013ca002c3297d.jpg
     id: 240
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/50423aebab263a81dd5f04e289552de3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8e1ec75e5315ee078c013ca002c3297d.jpg
-    url: https://revolution.chnm.org/files/original/8e1ec75e5315ee078c013ca002c3297d.jpg
+    thumb: /files/thumbnails/8e1ec75e5315ee078c013ca002c3297d.jpg
+    url: /files/original/8e1ec75e5315ee078c013ca002c3297d.jpg
 geo:
 id: 218
 item_type: Still Image

@@ -37,12 +37,12 @@ dublin_core:
       text: French Constitution, Rights of Man and Citizen
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+  - fullsize: /files/fullsize/1148ea364b1e24cf84585ddab8b4cc0b.jpg
     id: 81
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6da6a63dd25b701326b542e6b8fa8ca0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1148ea364b1e24cf84585ddab8b4cc0b.jpg
-    url: https://revolution.chnm.org/files/original/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+    thumb: /files/thumbnails/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+    url: /files/original/1148ea364b1e24cf84585ddab8b4cc0b.jpg
 geo:
 id: 66
 item_type: Still Image

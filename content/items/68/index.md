@@ -37,12 +37,12 @@ dublin_core:
       text: Allegory of Truth
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cec720a3addc13451b27b9f3bebc96d9.jpg
+  - fullsize: /files/fullsize/cec720a3addc13451b27b9f3bebc96d9.jpg
     id: 83
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/62becf2b04e5cb18587b880826d98bb4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cec720a3addc13451b27b9f3bebc96d9.jpg
-    url: https://revolution.chnm.org/files/original/cec720a3addc13451b27b9f3bebc96d9.jpg
+    thumb: /files/thumbnails/cec720a3addc13451b27b9f3bebc96d9.jpg
+    url: /files/original/cec720a3addc13451b27b9f3bebc96d9.jpg
 geo:
 id: 68
 item_type: Still Image

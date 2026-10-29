@@ -40,12 +40,12 @@ dublin_core:
       text: Procession of Refractory Clergy
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/139918602ac2c952a69b0162c4cb676d.jpg
+  - fullsize: /files/fullsize/139918602ac2c952a69b0162c4cb676d.jpg
     id: 27
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4af01ae8c04e973031a571d9626b21b6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/139918602ac2c952a69b0162c4cb676d.jpg
-    url: https://revolution.chnm.org/files/original/139918602ac2c952a69b0162c4cb676d.jpg
+    thumb: /files/thumbnails/139918602ac2c952a69b0162c4cb676d.jpg
+    url: /files/original/139918602ac2c952a69b0162c4cb676d.jpg
 geo:
 id: 18
 item_type: Still Image

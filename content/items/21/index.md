@@ -40,12 +40,12 @@ dublin_core:
       text: Taking of the Bastille
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/af9e017e3107024a7cf87ff436be459f.jpg
+  - fullsize: /files/fullsize/af9e017e3107024a7cf87ff436be459f.jpg
     id: 32
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f009084c8df25a54ca13df96d865951a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/af9e017e3107024a7cf87ff436be459f.jpg
-    url: https://revolution.chnm.org/files/original/af9e017e3107024a7cf87ff436be459f.jpg
+    thumb: /files/thumbnails/af9e017e3107024a7cf87ff436be459f.jpg
+    url: /files/original/af9e017e3107024a7cf87ff436be459f.jpg
 geo:
 id: 21
 item_type: Still Image

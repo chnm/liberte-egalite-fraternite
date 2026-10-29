@@ -40,12 +40,12 @@ dublin_core:
       text: A French Gentleman of the Court of Louis XVI. A French Gentleman of the Court of Egalité, 1799
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6cc584010338b6fcf7545ee6d94101a4.jpg
+  - fullsize: /files/fullsize/6cc584010338b6fcf7545ee6d94101a4.jpg
     id: 160
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/51a70eb81e361557ed8ccab34dd81877.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6cc584010338b6fcf7545ee6d94101a4.jpg
-    url: https://revolution.chnm.org/files/original/6cc584010338b6fcf7545ee6d94101a4.jpg
+    thumb: /files/thumbnails/6cc584010338b6fcf7545ee6d94101a4.jpg
+    url: /files/original/6cc584010338b6fcf7545ee6d94101a4.jpg
 geo:
 id: 138
 item_type: Still Image

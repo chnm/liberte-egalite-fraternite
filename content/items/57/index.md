@@ -40,12 +40,12 @@ dublin_core:
       text: Abuses to Suppress
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7616de8c2553dfcdacf0274a54bc2267.jpg
+  - fullsize: /files/fullsize/7616de8c2553dfcdacf0274a54bc2267.jpg
     id: 72
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a35ba1bfe676a569026b16e9d1503568.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7616de8c2553dfcdacf0274a54bc2267.jpg
-    url: https://revolution.chnm.org/files/original/7616de8c2553dfcdacf0274a54bc2267.jpg
+    thumb: /files/thumbnails/7616de8c2553dfcdacf0274a54bc2267.jpg
+    url: /files/original/7616de8c2553dfcdacf0274a54bc2267.jpg
 geo:
 id: 57
 item_type: Still Image

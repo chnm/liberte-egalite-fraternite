@@ -25,12 +25,12 @@ dublin_core:
       text: Description of the Chouans and other Counterrevolutionaries
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7d1122a0015184f5a76eca16cb8a30dc.jpg
+  - fullsize: /files/fullsize/7d1122a0015184f5a76eca16cb8a30dc.jpg
     id: 178
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1d9c12236d96aec0bce8269dffe3f656.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7d1122a0015184f5a76eca16cb8a30dc.jpg
-    url: https://revolution.chnm.org/files/original/7d1122a0015184f5a76eca16cb8a30dc.jpg
+    thumb: /files/thumbnails/7d1122a0015184f5a76eca16cb8a30dc.jpg
+    url: /files/original/7d1122a0015184f5a76eca16cb8a30dc.jpg
 geo:
 id: 154
 item_type: Still Image

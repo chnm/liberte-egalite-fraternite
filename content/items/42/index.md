@@ -40,12 +40,12 @@ dublin_core:
       text: The Triumph of Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/fa074ff2042d875c00b4a0bc5c367793.jpg
+  - fullsize: /files/fullsize/fa074ff2042d875c00b4a0bc5c367793.jpg
     id: 54
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/86b3a24cd3a34e9e13e39822e50c5151.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/fa074ff2042d875c00b4a0bc5c367793.jpg
-    url: https://revolution.chnm.org/files/original/fa074ff2042d875c00b4a0bc5c367793.jpg
+    thumb: /files/thumbnails/fa074ff2042d875c00b4a0bc5c367793.jpg
+    url: /files/original/fa074ff2042d875c00b4a0bc5c367793.jpg
 geo:
 id: 42
 item_type: Still Image

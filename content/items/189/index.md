@@ -28,12 +28,12 @@ dublin_core:
       text: Summoning to Execution
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/18feac7f32b741a9472d6e5f161c71b6.jpg
+  - fullsize: /files/fullsize/18feac7f32b741a9472d6e5f161c71b6.jpg
     id: 212
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/56ecfbdd40a8c05dbd1acbce695647f0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/18feac7f32b741a9472d6e5f161c71b6.jpg
-    url: https://revolution.chnm.org/files/original/18feac7f32b741a9472d6e5f161c71b6.jpg
+    thumb: /files/thumbnails/18feac7f32b741a9472d6e5f161c71b6.jpg
+    url: /files/original/18feac7f32b741a9472d6e5f161c71b6.jpg
 geo:
 id: 189
 item_type: Still Image

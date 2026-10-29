@@ -40,12 +40,12 @@ dublin_core:
       text: Departure of the Three Orders for Versailles
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a3cfb5d804848625728fff0a2365cf03.jpg
+  - fullsize: /files/fullsize/a3cfb5d804848625728fff0a2365cf03.jpg
     id: 182
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d039992636a4aedb3bd1191cf4c72ccd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a3cfb5d804848625728fff0a2365cf03.jpg
-    url: https://revolution.chnm.org/files/original/a3cfb5d804848625728fff0a2365cf03.jpg
+    thumb: /files/thumbnails/a3cfb5d804848625728fff0a2365cf03.jpg
+    url: /files/original/a3cfb5d804848625728fff0a2365cf03.jpg
 geo:
 id: 158
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: In Memory of Marat, Friend of the People, Assassinated 13 July, 1793
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/25159133255245d3b4aec25ee37412d1.jpg
+  - fullsize: /files/fullsize/25159133255245d3b4aec25ee37412d1.jpg
     id: 92
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/de0e5f42c1b9d1db8eaf4ed64b21671d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/25159133255245d3b4aec25ee37412d1.jpg
-    url: https://revolution.chnm.org/files/original/25159133255245d3b4aec25ee37412d1.jpg
+    thumb: /files/thumbnails/25159133255245d3b4aec25ee37412d1.jpg
+    url: /files/original/25159133255245d3b4aec25ee37412d1.jpg
 geo:
 id: 75
 item_type: Still Image

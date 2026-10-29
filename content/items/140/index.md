@@ -40,12 +40,12 @@ dublin_core:
       text: The Radical’s Arms. (No God! No Religion!! No King! No Constitution!!)
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6d3c24956146c9f46cfec2eb987ba059.jpg
+  - fullsize: /files/fullsize/6d3c24956146c9f46cfec2eb987ba059.jpg
     id: 162
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9357d205db12349dd0e9a471686e1997.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6d3c24956146c9f46cfec2eb987ba059.jpg
-    url: https://revolution.chnm.org/files/original/6d3c24956146c9f46cfec2eb987ba059.jpg
+    thumb: /files/thumbnails/6d3c24956146c9f46cfec2eb987ba059.jpg
+    url: /files/original/6d3c24956146c9f46cfec2eb987ba059.jpg
 geo:
 id: 140
 item_type: Still Image

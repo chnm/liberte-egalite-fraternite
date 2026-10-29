@@ -40,12 +40,12 @@ dublin_core:
       text: Louis as a Drinker
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6057e6b4a6c12fb260ab82ee7d546b99.jpg
+  - fullsize: /files/fullsize/6057e6b4a6c12fb260ab82ee7d546b99.jpg
     id: 73
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/94294418771bec4cda2feddac7d76535.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6057e6b4a6c12fb260ab82ee7d546b99.jpg
-    url: https://revolution.chnm.org/files/original/6057e6b4a6c12fb260ab82ee7d546b99.jpg
+    thumb: /files/thumbnails/6057e6b4a6c12fb260ab82ee7d546b99.jpg
+    url: /files/original/6057e6b4a6c12fb260ab82ee7d546b99.jpg
 geo:
 id: 58
 item_type: Still Image

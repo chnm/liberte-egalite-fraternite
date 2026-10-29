@@ -28,12 +28,12 @@ dublin_core:
       text: Retreat from Russia
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0a1000bcc0992406badd23f116f87dea.jpg
+  - fullsize: /files/fullsize/0a1000bcc0992406badd23f116f87dea.jpg
     id: 222
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/346ea9b0b316da0c44ab6540a5163b25.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0a1000bcc0992406badd23f116f87dea.jpg
-    url: https://revolution.chnm.org/files/original/0a1000bcc0992406badd23f116f87dea.jpg
+    thumb: /files/thumbnails/0a1000bcc0992406badd23f116f87dea.jpg
+    url: /files/original/0a1000bcc0992406badd23f116f87dea.jpg
 geo:
 id: 199
 item_type: Still Image

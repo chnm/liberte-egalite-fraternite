@@ -40,12 +40,12 @@ dublin_core:
       text: The Day of 21 July 1789; Scaling and Pillaging of the Hotel de Ville in Strasbourg
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4e33a9fc234a964325ee7f37a8509462.jpg
+  - fullsize: /files/fullsize/4e33a9fc234a964325ee7f37a8509462.jpg
     id: 26
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/27093a89bb609db4aa6fe7b25b4f20f7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4e33a9fc234a964325ee7f37a8509462.jpg
-    url: https://revolution.chnm.org/files/original/4e33a9fc234a964325ee7f37a8509462.jpg
+    thumb: /files/thumbnails/4e33a9fc234a964325ee7f37a8509462.jpg
+    url: /files/original/4e33a9fc234a964325ee7f37a8509462.jpg
 geo:
 id: 17
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: The Great Nausea of Monsignor
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
+  - fullsize: /files/fullsize/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
     id: 151
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4ed35d45d648077ac3f3107e1b0cfa06.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
-    url: https://revolution.chnm.org/files/original/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
+    thumb: /files/thumbnails/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
+    url: /files/original/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
 geo:
 id: 129
 item_type: Still Image

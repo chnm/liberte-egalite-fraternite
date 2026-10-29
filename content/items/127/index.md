@@ -34,12 +34,12 @@ dublin_core:
       text: Live Free or Die
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/829a4b5c0e6f67e21e911e98191540e3.jpg
+  - fullsize: /files/fullsize/829a4b5c0e6f67e21e911e98191540e3.jpg
     id: 149
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/df1e8c82dd31003bf0a846adad8749a0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/829a4b5c0e6f67e21e911e98191540e3.jpg
-    url: https://revolution.chnm.org/files/original/829a4b5c0e6f67e21e911e98191540e3.jpg
+    thumb: /files/thumbnails/829a4b5c0e6f67e21e911e98191540e3.jpg
+    url: /files/original/829a4b5c0e6f67e21e911e98191540e3.jpg
 geo:
 id: 127
 item_type: Still Image

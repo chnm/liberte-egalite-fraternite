@@ -37,12 +37,12 @@ dublin_core:
       text: '"The Exorcism": Ridding France of the Devil Napoleon'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+  - fullsize: /files/fullsize/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
     id: 193
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ae30768d8e5ceee1dea5e2ec499add39.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
-    url: https://revolution.chnm.org/files/original/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+    thumb: /files/thumbnails/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+    url: /files/original/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
 geo:
 id: 169
 item_type: Still Image

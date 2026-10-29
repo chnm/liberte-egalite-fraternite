@@ -25,12 +25,12 @@ dublin_core:
       text: Abstention Rate in Napoleonic Plebiscites
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/240dd34fce2eae37f157e4251f841f7e.jpg
+  - fullsize: /files/fullsize/240dd34fce2eae37f157e4251f841f7e.jpg
     id: 269
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f840b55b610c0d0e66f44989429ee4f4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/240dd34fce2eae37f157e4251f841f7e.jpg
-    url: https://revolution.chnm.org/files/original/240dd34fce2eae37f157e4251f841f7e.jpg
+    thumb: /files/thumbnails/240dd34fce2eae37f157e4251f841f7e.jpg
+    url: /files/original/240dd34fce2eae37f157e4251f841f7e.jpg
 geo:
 id: 244
 item_type: Still Image

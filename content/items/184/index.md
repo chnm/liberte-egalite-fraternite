@@ -25,12 +25,12 @@ dublin_core:
       text: Marie Antoinette Memorialized
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
+  - fullsize: /files/fullsize/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
     id: 207
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3df699e3759ec97459c19ed1a9baba62.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
-    url: https://revolution.chnm.org/files/original/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
+    thumb: /files/thumbnails/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
+    url: /files/original/33ac2c5d4f7765a1fc65c4b0fc14752b.jpg
 geo:
 id: 184
 item_type: Still Image

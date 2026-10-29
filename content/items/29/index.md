@@ -40,18 +40,18 @@ dublin_core:
       text: Demolition of the Bastille
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8035b32707922bcdf1f0289987d738e7.jpg
+  - fullsize: /files/fullsize/8035b32707922bcdf1f0289987d738e7.jpg
     id: 40
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/abff7f2333dc2f0f7eb1aaf8c69b209a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8035b32707922bcdf1f0289987d738e7.jpg
-    url: https://revolution.chnm.org/files/original/8035b32707922bcdf1f0289987d738e7.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/792192b6610d27173d8a18664d970736.jpg
+    thumb: /files/thumbnails/8035b32707922bcdf1f0289987d738e7.jpg
+    url: /files/original/8035b32707922bcdf1f0289987d738e7.jpg
+  - fullsize: /files/fullsize/792192b6610d27173d8a18664d970736.jpg
     id: 41
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f2b33a08fafd73a756a420814ed3e718.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/792192b6610d27173d8a18664d970736.jpg
-    url: https://revolution.chnm.org/files/original/792192b6610d27173d8a18664d970736.jpg
+    thumb: /files/thumbnails/792192b6610d27173d8a18664d970736.jpg
+    url: /files/original/792192b6610d27173d8a18664d970736.jpg
 geo:
 id: 29
 item_type: Still Image

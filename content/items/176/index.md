@@ -28,12 +28,12 @@ dublin_core:
       text: A Positive View?
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/44594d602d0a43cabc8c3a49aaab48af.jpg
+  - fullsize: /files/fullsize/44594d602d0a43cabc8c3a49aaab48af.jpg
     id: 200
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/035a0bced63da7ca3789d4517bb7e7e3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/44594d602d0a43cabc8c3a49aaab48af.jpg
-    url: https://revolution.chnm.org/files/original/44594d602d0a43cabc8c3a49aaab48af.jpg
+    thumb: /files/thumbnails/44594d602d0a43cabc8c3a49aaab48af.jpg
+    url: /files/original/44594d602d0a43cabc8c3a49aaab48af.jpg
 geo:
 id: 176
 item_type: Still Image

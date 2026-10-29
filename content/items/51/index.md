@@ -25,12 +25,12 @@ dublin_core:
       text: Clock Faces
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/07924730fea09a7efca9dd241f9e9292.jpg
+  - fullsize: /files/fullsize/07924730fea09a7efca9dd241f9e9292.jpg
     id: 64
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bc142790e33c0335d610a6ce60ac9595.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/07924730fea09a7efca9dd241f9e9292.jpg
-    url: https://revolution.chnm.org/files/original/07924730fea09a7efca9dd241f9e9292.jpg
+    thumb: /files/thumbnails/07924730fea09a7efca9dd241f9e9292.jpg
+    url: /files/original/07924730fea09a7efca9dd241f9e9292.jpg
 geo:
 id: 51
 item_type: Still Image

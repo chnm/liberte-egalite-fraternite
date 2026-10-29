@@ -40,12 +40,12 @@ dublin_core:
       text: Farewell Bastille
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2d71e62c84b8b115b94366ee1155b325.jpg
+  - fullsize: /files/fullsize/2d71e62c84b8b115b94366ee1155b325.jpg
     id: 180
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2b36352bcad6a16a7c3c853256634819.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2d71e62c84b8b115b94366ee1155b325.jpg
-    url: https://revolution.chnm.org/files/original/2d71e62c84b8b115b94366ee1155b325.jpg
+    thumb: /files/thumbnails/2d71e62c84b8b115b94366ee1155b325.jpg
+    url: /files/original/2d71e62c84b8b115b94366ee1155b325.jpg
 geo:
 id: 156
 item_type: Still Image

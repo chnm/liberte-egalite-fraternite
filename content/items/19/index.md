@@ -40,18 +40,18 @@ dublin_core:
       text: Aristocratic Occupations . . .
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/86a4996f0e2224952d7f700433c0edbe.jpg
+  - fullsize: /files/fullsize/86a4996f0e2224952d7f700433c0edbe.jpg
     id: 28
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2720d3de4a0bba4d7589a2b171eb0e88.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/86a4996f0e2224952d7f700433c0edbe.jpg
-    url: https://revolution.chnm.org/files/original/86a4996f0e2224952d7f700433c0edbe.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/5213928351fba9eee948a6b0c427fc98.jpg
+    thumb: /files/thumbnails/86a4996f0e2224952d7f700433c0edbe.jpg
+    url: /files/original/86a4996f0e2224952d7f700433c0edbe.jpg
+  - fullsize: /files/fullsize/5213928351fba9eee948a6b0c427fc98.jpg
     id: 29
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6a23817659f125c3f0d897b2aab11e43.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5213928351fba9eee948a6b0c427fc98.jpg
-    url: https://revolution.chnm.org/files/original/5213928351fba9eee948a6b0c427fc98.jpg
+    thumb: /files/thumbnails/5213928351fba9eee948a6b0c427fc98.jpg
+    url: /files/original/5213928351fba9eee948a6b0c427fc98.jpg
 geo:
 id: 19
 item_type: Still Image

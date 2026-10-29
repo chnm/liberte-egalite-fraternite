@@ -44,12 +44,12 @@ dublin_core:
       text: Battle for and Taking of Ratisbon, April 23, 1809
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/72317802c396d881f2812e4bc3d7ad35.jpg
+  - fullsize: /files/fullsize/72317802c396d881f2812e4bc3d7ad35.jpg
     id: 221
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c2649a33a802ac59cbf80995350ca9cf.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/72317802c396d881f2812e4bc3d7ad35.jpg
-    url: https://revolution.chnm.org/files/original/72317802c396d881f2812e4bc3d7ad35.jpg
+    thumb: /files/thumbnails/72317802c396d881f2812e4bc3d7ad35.jpg
+    url: /files/original/72317802c396d881f2812e4bc3d7ad35.jpg
 geo:
 id: 198
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: Monks Learning to Exercise.
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/afa661dad07b5956b8a09944adc6487d.jpg
+  - fullsize: /files/fullsize/afa661dad07b5956b8a09944adc6487d.jpg
     id: 242
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6dfa336dc317b80e94eeed1eed57a65f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/afa661dad07b5956b8a09944adc6487d.jpg
-    url: https://revolution.chnm.org/files/original/afa661dad07b5956b8a09944adc6487d.jpg
+    thumb: /files/thumbnails/afa661dad07b5956b8a09944adc6487d.jpg
+    url: /files/original/afa661dad07b5956b8a09944adc6487d.jpg
 geo:
 id: 220
 item_type: Still Image

@@ -37,12 +37,12 @@ dublin_core:
       text: Parisian Fishwives
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/08390987a72df101b43587260dbdfa3a.jpg
+  - fullsize: /files/fullsize/08390987a72df101b43587260dbdfa3a.jpg
     id: 245
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/93f68fbd25c3b0df92d041d14a9445a9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/08390987a72df101b43587260dbdfa3a.jpg
-    url: https://revolution.chnm.org/files/original/08390987a72df101b43587260dbdfa3a.jpg
+    thumb: /files/thumbnails/08390987a72df101b43587260dbdfa3a.jpg
+    url: /files/original/08390987a72df101b43587260dbdfa3a.jpg
 geo:
 id: 223
 item_type: Still Image

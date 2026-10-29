@@ -37,12 +37,12 @@ dublin_core:
       text: September 2 and 3, 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4a52439be403b8d229db927a332b105d.jpg
+  - fullsize: /files/fullsize/4a52439be403b8d229db927a332b105d.jpg
     id: 217
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/96ae586656b52c952b054797471fd6db.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4a52439be403b8d229db927a332b105d.jpg
-    url: https://revolution.chnm.org/files/original/4a52439be403b8d229db927a332b105d.jpg
+    thumb: /files/thumbnails/4a52439be403b8d229db927a332b105d.jpg
+    url: /files/original/4a52439be403b8d229db927a332b105d.jpg
 geo:
 id: 194
 item_type: Still Image

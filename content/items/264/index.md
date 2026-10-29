@@ -40,12 +40,12 @@ dublin_core:
       text: Transportation of Voltaire to the French Panthéon, 8 July 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/bd4c6b45e121027602e450a0128ee7c7.jpg
+  - fullsize: /files/fullsize/bd4c6b45e121027602e450a0128ee7c7.jpg
     id: 297
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f7f947c929995c6e9a1a3bc0ce2abb9f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/bd4c6b45e121027602e450a0128ee7c7.jpg
-    url: https://revolution.chnm.org/files/original/bd4c6b45e121027602e450a0128ee7c7.jpg
+    thumb: /files/thumbnails/bd4c6b45e121027602e450a0128ee7c7.jpg
+    url: /files/original/bd4c6b45e121027602e450a0128ee7c7.jpg
 geo:
 id: 264
 item_type: Still Image

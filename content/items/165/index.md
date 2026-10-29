@@ -25,12 +25,12 @@ dublin_core:
       text: '"This Is My Dear Son": Napoleon as Child of the Devil'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ef09457a728e824c4d7fd69f3122da32.jpg
+  - fullsize: /files/fullsize/ef09457a728e824c4d7fd69f3122da32.jpg
     id: 189
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/150b98988bf99858331b850f37800100.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ef09457a728e824c4d7fd69f3122da32.jpg
-    url: https://revolution.chnm.org/files/original/ef09457a728e824c4d7fd69f3122da32.jpg
+    thumb: /files/thumbnails/ef09457a728e824c4d7fd69f3122da32.jpg
+    url: /files/original/ef09457a728e824c4d7fd69f3122da32.jpg
 geo:
 id: 165
 item_type: Still Image

@@ -42,12 +42,12 @@ dublin_core:
       text: Louis XVI, King of France
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/280a9b180062426074360f2cbcd48206.jpg
+  - fullsize: /files/fullsize/280a9b180062426074360f2cbcd48206.jpg
     id: 204
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/fed51476c116a343eb3bd0841a998690.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/280a9b180062426074360f2cbcd48206.jpg
-    url: https://revolution.chnm.org/files/original/280a9b180062426074360f2cbcd48206.jpg
+    thumb: /files/thumbnails/280a9b180062426074360f2cbcd48206.jpg
+    url: /files/original/280a9b180062426074360f2cbcd48206.jpg
 geo:
 id: 180
 item_type: Still Image

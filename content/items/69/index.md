@@ -40,12 +40,12 @@ dublin_core:
       text: The Annoyance of Walking
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cbf4de359a80c988bd9df1ce81a543d8.jpg
+  - fullsize: /files/fullsize/cbf4de359a80c988bd9df1ce81a543d8.jpg
     id: 84
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8001de0e2b3197af063f86e11ae1467e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cbf4de359a80c988bd9df1ce81a543d8.jpg
-    url: https://revolution.chnm.org/files/original/cbf4de359a80c988bd9df1ce81a543d8.jpg
+    thumb: /files/thumbnails/cbf4de359a80c988bd9df1ce81a543d8.jpg
+    url: /files/original/cbf4de359a80c988bd9df1ce81a543d8.jpg
 geo:
 id: 69
 item_type: Still Image

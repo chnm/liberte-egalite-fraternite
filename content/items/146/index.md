@@ -40,18 +40,18 @@ dublin_core:
       text: We Must Hope That It Will Soon Be Over
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1fa72346e690ac448c20b670df17b4c5.jpg
+  - fullsize: /files/fullsize/1fa72346e690ac448c20b670df17b4c5.jpg
     id: 169
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1d740e48c098a33066f37ffd8b2f86e8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1fa72346e690ac448c20b670df17b4c5.jpg
-    url: https://revolution.chnm.org/files/original/1fa72346e690ac448c20b670df17b4c5.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/39b6ad8c3fc2de941878a275dd35bde5.jpg
+    thumb: /files/thumbnails/1fa72346e690ac448c20b670df17b4c5.jpg
+    url: /files/original/1fa72346e690ac448c20b670df17b4c5.jpg
+  - fullsize: /files/fullsize/39b6ad8c3fc2de941878a275dd35bde5.jpg
     id: 170
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/83260a2d0c07d12720d8e1c18d6f3dcd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/39b6ad8c3fc2de941878a275dd35bde5.jpg
-    url: https://revolution.chnm.org/files/original/39b6ad8c3fc2de941878a275dd35bde5.jpg
+    thumb: /files/thumbnails/39b6ad8c3fc2de941878a275dd35bde5.jpg
+    url: /files/original/39b6ad8c3fc2de941878a275dd35bde5.jpg
 geo:
 id: 146
 item_type: Still Image

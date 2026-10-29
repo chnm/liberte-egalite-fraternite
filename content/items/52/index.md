@@ -40,18 +40,18 @@ dublin_core:
       text: Promised Horrors of the French Invasion or Forcible Reasons for Negotiation of a Regicide Peace. Vide, The Authority of Edmund Burke
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4edc5df333c30aba7d987bda31e563d6.jpg
+  - fullsize: /files/fullsize/4edc5df333c30aba7d987bda31e563d6.jpg
     id: 65
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/67ee7841ca69c0192c977b0702952c41.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4edc5df333c30aba7d987bda31e563d6.jpg
-    url: https://revolution.chnm.org/files/original/4edc5df333c30aba7d987bda31e563d6.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/b374b47b25e8ba16c6a16b3c03d239fd.jpg
+    thumb: /files/thumbnails/4edc5df333c30aba7d987bda31e563d6.jpg
+    url: /files/original/4edc5df333c30aba7d987bda31e563d6.jpg
+  - fullsize: /files/fullsize/b374b47b25e8ba16c6a16b3c03d239fd.jpg
     id: 66
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/330eafabf19510fa3c787c1bde955d9e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b374b47b25e8ba16c6a16b3c03d239fd.jpg
-    url: https://revolution.chnm.org/files/original/b374b47b25e8ba16c6a16b3c03d239fd.jpg
+    thumb: /files/thumbnails/b374b47b25e8ba16c6a16b3c03d239fd.jpg
+    url: /files/original/b374b47b25e8ba16c6a16b3c03d239fd.jpg
 geo:
 id: 52
 item_type: Still Image

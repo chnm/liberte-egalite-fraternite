@@ -25,12 +25,12 @@ dublin_core:
       text: United States of America––New York––Solemn Inauguration of the Statue of Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+  - fullsize: /files/fullsize/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
     id: 236
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7158cbd36677f2fc3f7faee77dec9435.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
-    url: https://revolution.chnm.org/files/original/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+    thumb: /files/thumbnails/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+    url: /files/original/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
 geo:
 id: 214
 item_type: Still Image

@@ -22,12 +22,12 @@ dublin_core:
       text: 'Fan: Costumes of the Directory'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2dfd852803020f8d6532fee03c55f26a.jpg
+  - fullsize: /files/fullsize/2dfd852803020f8d6532fee03c55f26a.jpg
     id: 52
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0ee2d06b40dc6e2b8c701882c796b8b4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2dfd852803020f8d6532fee03c55f26a.jpg
-    url: https://revolution.chnm.org/files/original/2dfd852803020f8d6532fee03c55f26a.jpg
+    thumb: /files/thumbnails/2dfd852803020f8d6532fee03c55f26a.jpg
+    url: /files/original/2dfd852803020f8d6532fee03c55f26a.jpg
 geo:
 id: 40
 item_type: Still Image

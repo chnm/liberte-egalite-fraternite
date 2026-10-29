@@ -44,12 +44,12 @@ dublin_core:
       text: Reason
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/9115b2bb5824e99773f0566bf7978157.jpg
+  - fullsize: /files/fullsize/9115b2bb5824e99773f0566bf7978157.jpg
     id: 22
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/febbe65012049efe961e90e7cf3c2130.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9115b2bb5824e99773f0566bf7978157.jpg
-    url: https://revolution.chnm.org/files/original/9115b2bb5824e99773f0566bf7978157.jpg
+    thumb: /files/thumbnails/9115b2bb5824e99773f0566bf7978157.jpg
+    url: /files/original/9115b2bb5824e99773f0566bf7978157.jpg
 geo:
 id: 13
 item_type: Still Image

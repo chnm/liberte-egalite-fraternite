@@ -40,18 +40,18 @@ dublin_core:
       text: Louis Arrives in Hell
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/28a0b146911a89be77983fa16b9f4b43.jpg
+  - fullsize: /files/fullsize/28a0b146911a89be77983fa16b9f4b43.jpg
     id: 88
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6c013ed1106e698fdec6f0789e19b133.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/28a0b146911a89be77983fa16b9f4b43.jpg
-    url: https://revolution.chnm.org/files/original/28a0b146911a89be77983fa16b9f4b43.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
+    thumb: /files/thumbnails/28a0b146911a89be77983fa16b9f4b43.jpg
+    url: /files/original/28a0b146911a89be77983fa16b9f4b43.jpg
+  - fullsize: /files/fullsize/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
     id: 89
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/337ab22449a804f1d68b4f7b0b243947.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
-    url: https://revolution.chnm.org/files/original/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
+    thumb: /files/thumbnails/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
+    url: /files/original/cc2d1873ddb5eed8a070cd1ad54281c4.jpg
 geo:
 id: 73
 item_type: Still Image

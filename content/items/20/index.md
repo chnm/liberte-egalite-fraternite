@@ -42,18 +42,18 @@ dublin_core:
       text: Trial of Marie Antoinette of Austria
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/84370728987a79a6be1f96516d72a14c.jpg
+  - fullsize: /files/fullsize/84370728987a79a6be1f96516d72a14c.jpg
     id: 30
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b3c17e6d5040084f7253007b539adbf4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/84370728987a79a6be1f96516d72a14c.jpg
-    url: https://revolution.chnm.org/files/original/84370728987a79a6be1f96516d72a14c.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/7bdc3619d0bc9075d67317e5edc42295.jpg
+    thumb: /files/thumbnails/84370728987a79a6be1f96516d72a14c.jpg
+    url: /files/original/84370728987a79a6be1f96516d72a14c.jpg
+  - fullsize: /files/fullsize/7bdc3619d0bc9075d67317e5edc42295.jpg
     id: 31
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/95f3baf841ffea3ba8c50ace7cbc4015.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7bdc3619d0bc9075d67317e5edc42295.jpg
-    url: https://revolution.chnm.org/files/original/7bdc3619d0bc9075d67317e5edc42295.jpg
+    thumb: /files/thumbnails/7bdc3619d0bc9075d67317e5edc42295.jpg
+    url: /files/original/7bdc3619d0bc9075d67317e5edc42295.jpg
 geo:
 id: 20
 item_type: Still Image

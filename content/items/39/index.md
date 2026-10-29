@@ -25,12 +25,12 @@ dublin_core:
       text: Sword Hilt with Revolutionary Icons—Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/513bf662694a9b8c47676cb4a2eb2be8.jpg
+  - fullsize: /files/fullsize/513bf662694a9b8c47676cb4a2eb2be8.jpg
     id: 51
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/db61fb947cfdf2b8b6e58c068ba5a866.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/513bf662694a9b8c47676cb4a2eb2be8.jpg
-    url: https://revolution.chnm.org/files/original/513bf662694a9b8c47676cb4a2eb2be8.jpg
+    thumb: /files/thumbnails/513bf662694a9b8c47676cb4a2eb2be8.jpg
+    url: /files/original/513bf662694a9b8c47676cb4a2eb2be8.jpg
 geo:
 id: 39
 item_type: Still Image

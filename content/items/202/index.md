@@ -42,12 +42,12 @@ dublin_core:
       text: A Grateful France Proclaims Napoleon the First Emperor of the French
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/fc4644cca009221473dee667f03173f0.jpg
+  - fullsize: /files/fullsize/fc4644cca009221473dee667f03173f0.jpg
     id: 225
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/34865e90fcc71278b77615ae0a78ba6d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/fc4644cca009221473dee667f03173f0.jpg
-    url: https://revolution.chnm.org/files/original/fc4644cca009221473dee667f03173f0.jpg
+    thumb: /files/thumbnails/fc4644cca009221473dee667f03173f0.jpg
+    url: /files/original/fc4644cca009221473dee667f03173f0.jpg
 geo:
 id: 202
 item_type: Still Image

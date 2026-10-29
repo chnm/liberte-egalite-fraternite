@@ -25,12 +25,12 @@ dublin_core:
       text: Two Peasants Repairing a Cart
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4c6ae383f5451321bc46d42c6a54f27b.jpg
+  - fullsize: /files/fullsize/4c6ae383f5451321bc46d42c6a54f27b.jpg
     id: 110
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/94978949f382b76c8ca9a2d205eba773.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
-    url: https://revolution.chnm.org/files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    thumb: /files/thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    url: /files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
 geo:
 id: 90
 item_type: Still Image

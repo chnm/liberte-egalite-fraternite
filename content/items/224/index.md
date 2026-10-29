@@ -40,12 +40,12 @@ dublin_core:
       text: Slaves and Free Blacks in Saint Domingue
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1730f27f16356faad66284cfac0220a9.jpg
+  - fullsize: /files/fullsize/1730f27f16356faad66284cfac0220a9.jpg
     id: 246
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0c2903a49e1464bdff628c032173f1a6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1730f27f16356faad66284cfac0220a9.jpg
-    url: https://revolution.chnm.org/files/original/1730f27f16356faad66284cfac0220a9.jpg
+    thumb: /files/thumbnails/1730f27f16356faad66284cfac0220a9.jpg
+    url: /files/original/1730f27f16356faad66284cfac0220a9.jpg
 geo:
 id: 224
 item_type: Still Image

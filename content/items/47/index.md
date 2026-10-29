@@ -28,12 +28,12 @@ dublin_core:
       text: 20 June 1791, Anonymous Drawing
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1e0272b3b02aee0850e0e0a569bc2876.jpg
+  - fullsize: /files/fullsize/1e0272b3b02aee0850e0e0a569bc2876.jpg
     id: 59
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2b4dfcfe07c48811af7fb77811e176f2.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1e0272b3b02aee0850e0e0a569bc2876.jpg
-    url: https://revolution.chnm.org/files/original/1e0272b3b02aee0850e0e0a569bc2876.jpg
+    thumb: /files/thumbnails/1e0272b3b02aee0850e0e0a569bc2876.jpg
+    url: /files/original/1e0272b3b02aee0850e0e0a569bc2876.jpg
 geo:
 id: 47
 item_type: Still Image

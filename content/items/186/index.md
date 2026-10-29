@@ -44,12 +44,12 @@ dublin_core:
       text: Execution of Marie Antoinette (16 October 1793) at the Place de la Révolution
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2cddb4c3f5138760866c228ca845b4d9.jpg
+  - fullsize: /files/fullsize/2cddb4c3f5138760866c228ca845b4d9.jpg
     id: 209
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/13175a64657a78ff33f27722b70ed8e7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2cddb4c3f5138760866c228ca845b4d9.jpg
-    url: https://revolution.chnm.org/files/original/2cddb4c3f5138760866c228ca845b4d9.jpg
+    thumb: /files/thumbnails/2cddb4c3f5138760866c228ca845b4d9.jpg
+    url: /files/original/2cddb4c3f5138760866c228ca845b4d9.jpg
 geo:
 id: 186
 item_type: Still Image

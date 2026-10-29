@@ -44,12 +44,12 @@ dublin_core:
       text: Image of the Queen’s Defense
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/5aa1e34457c82621c9bd4655699a912a.jpg
+  - fullsize: /files/fullsize/5aa1e34457c82621c9bd4655699a912a.jpg
     id: 167
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4aa347e936ab7e8e7ffea50b37232af5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5aa1e34457c82621c9bd4655699a912a.jpg
-    url: https://revolution.chnm.org/files/original/5aa1e34457c82621c9bd4655699a912a.jpg
+    thumb: /files/thumbnails/5aa1e34457c82621c9bd4655699a912a.jpg
+    url: /files/original/5aa1e34457c82621c9bd4655699a912a.jpg
 geo:
 id: 144
 item_type: Still Image

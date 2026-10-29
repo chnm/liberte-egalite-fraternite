@@ -28,12 +28,12 @@ dublin_core:
       text: Printed Cloth of the Directory and Napoleon
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ea172212825893fd1a781cf357b85388.jpg
+  - fullsize: /files/fullsize/ea172212825893fd1a781cf357b85388.jpg
     id: 42
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/089a790130e0f0518552b656b819d6bf.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ea172212825893fd1a781cf357b85388.jpg
-    url: https://revolution.chnm.org/files/original/ea172212825893fd1a781cf357b85388.jpg
+    thumb: /files/thumbnails/ea172212825893fd1a781cf357b85388.jpg
+    url: /files/original/ea172212825893fd1a781cf357b85388.jpg
 geo:
 id: 30
 item_type: Still Image

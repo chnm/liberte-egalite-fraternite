@@ -19,18 +19,18 @@ dublin_core:
       text: Napoleon’s Egyptian Campaign—1798–99
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ecbd9b58b73ab901cb71998691e1d53c.jpg
+  - fullsize: /files/fullsize/ecbd9b58b73ab901cb71998691e1d53c.jpg
     id: 10
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/70c48227f299bdaa82d7678a5e4ec6d6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ecbd9b58b73ab901cb71998691e1d53c.jpg
-    url: https://revolution.chnm.org/files/original/ecbd9b58b73ab901cb71998691e1d53c.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/b4b475b02105bfe6c72652f975c900b4.jpg
+    thumb: /files/thumbnails/ecbd9b58b73ab901cb71998691e1d53c.jpg
+    url: /files/original/ecbd9b58b73ab901cb71998691e1d53c.jpg
+  - fullsize: /files/fullsize/b4b475b02105bfe6c72652f975c900b4.jpg
     id: 11
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/94f4204e2b191a56d6b71ff14672cce3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b4b475b02105bfe6c72652f975c900b4.jpg
-    url: https://revolution.chnm.org/files/original/b4b475b02105bfe6c72652f975c900b4.jpg
+    thumb: /files/thumbnails/b4b475b02105bfe6c72652f975c900b4.jpg
+    url: /files/original/b4b475b02105bfe6c72652f975c900b4.jpg
 geo:
 id: 6
 item_type: Still Image

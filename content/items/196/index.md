@@ -42,12 +42,12 @@ dublin_core:
       text: Bonaparte Visiting the Hospital in Jaffa
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+  - fullsize: /files/fullsize/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
     id: 219
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e63b9ba981c661df57f2f71ce48e54ec.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
-    url: https://revolution.chnm.org/files/original/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+    thumb: /files/thumbnails/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+    url: /files/original/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
 geo:
 id: 196
 item_type: Still Image

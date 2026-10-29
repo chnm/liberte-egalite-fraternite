@@ -40,12 +40,12 @@ dublin_core:
       text: Festival of Supreme Being
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+  - fullsize: /files/fullsize/128275148afdda3c5c2af4c7a0e0c7f8.jpg
     id: 141
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b3a6d0d376ecc0cfbbb26d8ce79a0a41.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/128275148afdda3c5c2af4c7a0e0c7f8.jpg
-    url: https://revolution.chnm.org/files/original/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+    thumb: /files/thumbnails/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+    url: /files/original/128275148afdda3c5c2af4c7a0e0c7f8.jpg
 geo:
 id: 120
 item_type: Still Image

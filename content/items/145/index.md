@@ -42,12 +42,12 @@ dublin_core:
       text: The King Accepting the Constitution amid the National Assembly, 14 September 1791
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/910ff7956dab33ea79be773427237fac.jpg
+  - fullsize: /files/fullsize/910ff7956dab33ea79be773427237fac.jpg
     id: 168
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/050605ec6e83e0caf8cfcc5e98681c67.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/910ff7956dab33ea79be773427237fac.jpg
-    url: https://revolution.chnm.org/files/original/910ff7956dab33ea79be773427237fac.jpg
+    thumb: /files/thumbnails/910ff7956dab33ea79be773427237fac.jpg
+    url: /files/original/910ff7956dab33ea79be773427237fac.jpg
 geo:
 id: 145
 item_type: Still Image

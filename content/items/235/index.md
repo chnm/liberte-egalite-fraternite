@@ -40,18 +40,18 @@ dublin_core:
       text: Triumph of the Parisian Army and the People
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7b9df3e048c3ca0874a3e44e72036e38.jpg
+  - fullsize: /files/fullsize/7b9df3e048c3ca0874a3e44e72036e38.jpg
     id: 258
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/176327b920a7c37b1181cd544ffe3400.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7b9df3e048c3ca0874a3e44e72036e38.jpg
-    url: https://revolution.chnm.org/files/original/7b9df3e048c3ca0874a3e44e72036e38.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/3a0e1223e679d7d770d58ed84ace23ef.jpg
+    thumb: /files/thumbnails/7b9df3e048c3ca0874a3e44e72036e38.jpg
+    url: /files/original/7b9df3e048c3ca0874a3e44e72036e38.jpg
+  - fullsize: /files/fullsize/3a0e1223e679d7d770d58ed84ace23ef.jpg
     id: 259
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1641cad4f18fb4639e54a92dd70019fb.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3a0e1223e679d7d770d58ed84ace23ef.jpg
-    url: https://revolution.chnm.org/files/original/3a0e1223e679d7d770d58ed84ace23ef.jpg
+    thumb: /files/thumbnails/3a0e1223e679d7d770d58ed84ace23ef.jpg
+    url: /files/original/3a0e1223e679d7d770d58ed84ace23ef.jpg
 geo:
 id: 235
 item_type: Still Image

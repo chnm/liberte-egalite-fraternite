@@ -42,12 +42,12 @@ dublin_core:
       text: Entry of the French into Holland
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/81178317740e19c76f721d43aa0cdb64.jpg
+  - fullsize: /files/fullsize/81178317740e19c76f721d43aa0cdb64.jpg
     id: 143
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2a62a1b2b3336b0a3c90e8cfcd55c3ad.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/81178317740e19c76f721d43aa0cdb64.jpg
-    url: https://revolution.chnm.org/files/original/81178317740e19c76f721d43aa0cdb64.jpg
+    thumb: /files/thumbnails/81178317740e19c76f721d43aa0cdb64.jpg
+    url: /files/original/81178317740e19c76f721d43aa0cdb64.jpg
 geo:
 id: 122
 item_type: Still Image

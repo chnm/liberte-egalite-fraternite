@@ -45,18 +45,18 @@ dublin_core:
       text: Madame Sans–Culotte
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d971bda7cb245a097e970a31332ba141.jpg
+  - fullsize: /files/fullsize/d971bda7cb245a097e970a31332ba141.jpg
     id: 278
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1f3b4b2153daf4766a13b2b8a7ec84e4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d971bda7cb245a097e970a31332ba141.jpg
-    url: https://revolution.chnm.org/files/original/d971bda7cb245a097e970a31332ba141.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
+    thumb: /files/thumbnails/d971bda7cb245a097e970a31332ba141.jpg
+    url: /files/original/d971bda7cb245a097e970a31332ba141.jpg
+  - fullsize: /files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
     id: 279
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0bc49987d4c0ff2f0223c1b67e12db2e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
-    url: https://revolution.chnm.org/files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
+    thumb: /files/thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
+    url: /files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
 geo:
 id: 251
 item_type: Still Image

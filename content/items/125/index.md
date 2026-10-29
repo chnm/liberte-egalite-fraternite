@@ -42,12 +42,12 @@ dublin_core:
       text: Scene of Directory Life, Men and Women from L’Optique du Jour, ou le foyer de Montansier
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/251969990231ed92832511882afb2bb0.jpg
+  - fullsize: /files/fullsize/251969990231ed92832511882afb2bb0.jpg
     id: 147
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ebabbf336f47ec9ae750f7dc7b4a61f8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/251969990231ed92832511882afb2bb0.jpg
-    url: https://revolution.chnm.org/files/original/251969990231ed92832511882afb2bb0.jpg
+    thumb: /files/thumbnails/251969990231ed92832511882afb2bb0.jpg
+    url: /files/original/251969990231ed92832511882afb2bb0.jpg
 geo:
 id: 125
 item_type: Still Image

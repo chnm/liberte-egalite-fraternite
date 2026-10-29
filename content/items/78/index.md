@@ -25,12 +25,12 @@ dublin_core:
       text: British Liberty Tree
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
+  - fullsize: /files/fullsize/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
     id: 96
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/74b3ae9f63c7de8faa3a8e3e1be2428f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
-    url: https://revolution.chnm.org/files/original/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
+    thumb: /files/thumbnails/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
+    url: /files/original/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
 geo:
 id: 78
 item_type: Still Image

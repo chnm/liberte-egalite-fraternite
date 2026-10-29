@@ -40,18 +40,18 @@ dublin_core:
       text: Louis Rides a Pig
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/31ceeeb93780364380288dc4e68d396f.jpg
+  - fullsize: /files/fullsize/31ceeeb93780364380288dc4e68d396f.jpg
     id: 293
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0ca7d81262199a21f48342f33826bb4f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/31ceeeb93780364380288dc4e68d396f.jpg
-    url: https://revolution.chnm.org/files/original/31ceeeb93780364380288dc4e68d396f.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/924d953a8c8aba3377fc2c3a66f663ac.jpg
+    thumb: /files/thumbnails/31ceeeb93780364380288dc4e68d396f.jpg
+    url: /files/original/31ceeeb93780364380288dc4e68d396f.jpg
+  - fullsize: /files/fullsize/924d953a8c8aba3377fc2c3a66f663ac.jpg
     id: 294
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e8aceca5e20f77f95a884c7189412bb1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/924d953a8c8aba3377fc2c3a66f663ac.jpg
-    url: https://revolution.chnm.org/files/original/924d953a8c8aba3377fc2c3a66f663ac.jpg
+    thumb: /files/thumbnails/924d953a8c8aba3377fc2c3a66f663ac.jpg
+    url: /files/original/924d953a8c8aba3377fc2c3a66f663ac.jpg
 geo:
 id: 262
 item_type: Still Image

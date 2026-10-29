@@ -39,12 +39,12 @@ dublin_core:
       text: The Voracious Oath
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0f3d3a4fc61b89c2c59e1522b80a4d02.jpg
+  - fullsize: /files/fullsize/0f3d3a4fc61b89c2c59e1522b80a4d02.jpg
     id: 86
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ca98c49527a772da250b6ae55a0ae9c5.jpeg
-    thumb: https://revolution.chnm.org/files/thumbnails/0f3d3a4fc61b89c2c59e1522b80a4d02.jpg
-    url: https://revolution.chnm.org/files/original/0f3d3a4fc61b89c2c59e1522b80a4d02.jpeg
+    thumb: /files/thumbnails/0f3d3a4fc61b89c2c59e1522b80a4d02.jpg
+    url: /files/original/0f3d3a4fc61b89c2c59e1522b80a4d02.jpeg
 geo:
 id: 71
 item_type: Still Image

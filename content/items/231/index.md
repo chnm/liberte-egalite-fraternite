@@ -40,12 +40,12 @@ dublin_core:
       text: The Mode of training Blood Hounds in St. Domingo, and of exercising them by Chasseurs
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
+  - fullsize: /files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
     id: 254
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9a8b220e4b8f322ed2c8abb1a9147efb.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
-    url: https://revolution.chnm.org/files/original/7e4a11acb4a350c853c3919d09da2186.jpg
+    thumb: /files/thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
+    url: /files/original/7e4a11acb4a350c853c3919d09da2186.jpg
 geo:
 id: 231
 item_type: Still Image

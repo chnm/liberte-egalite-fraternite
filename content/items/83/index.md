@@ -40,12 +40,12 @@ dublin_core:
       text: The Good Sans–Culotte
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/bf56137b1b8cd2edd38c5705286736db.jpg
+  - fullsize: /files/fullsize/bf56137b1b8cd2edd38c5705286736db.jpg
     id: 101
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9747b184b6f5dc754fdd5f1d5063267.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/bf56137b1b8cd2edd38c5705286736db.jpg
-    url: https://revolution.chnm.org/files/original/bf56137b1b8cd2edd38c5705286736db.jpg
+    thumb: /files/thumbnails/bf56137b1b8cd2edd38c5705286736db.jpg
+    url: /files/original/bf56137b1b8cd2edd38c5705286736db.jpg
 geo:
 id: 83
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: To Versailles, To Versailles!
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d03d1a219071607aa26f34fa8fbefa82.jpg
+  - fullsize: /files/fullsize/d03d1a219071607aa26f34fa8fbefa82.jpg
     id: 35
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5dd4929b042d6bf5ab1540d48470ddbc.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d03d1a219071607aa26f34fa8fbefa82.jpg
-    url: https://revolution.chnm.org/files/original/d03d1a219071607aa26f34fa8fbefa82.jpg
+    thumb: /files/thumbnails/d03d1a219071607aa26f34fa8fbefa82.jpg
+    url: /files/original/d03d1a219071607aa26f34fa8fbefa82.jpg
 geo:
 id: 24
 item_type: Still Image

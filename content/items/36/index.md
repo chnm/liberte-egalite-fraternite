@@ -42,12 +42,12 @@ dublin_core:
       text: A Democrat, or Reason and Philosophy
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+  - fullsize: /files/fullsize/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
     id: 48
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e7f9b59088f9cc30f5b652e7b2e9a653.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
-    url: https://revolution.chnm.org/files/original/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+    thumb: /files/thumbnails/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+    url: /files/original/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
 geo:
 id: 36
 item_type: Still Image

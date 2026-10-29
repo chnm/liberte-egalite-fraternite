@@ -44,12 +44,12 @@ dublin_core:
       text: Louis XVI Stopt [sic] in his Flight at Varennes
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3286bc6878e49f0ff11ca7da944dd1af.jpg
+  - fullsize: /files/fullsize/3286bc6878e49f0ff11ca7da944dd1af.jpg
     id: 124
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/dbf5d4d556da6506e422024b7c735aff.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3286bc6878e49f0ff11ca7da944dd1af.jpg
-    url: https://revolution.chnm.org/files/original/3286bc6878e49f0ff11ca7da944dd1af.jpg
+    thumb: /files/thumbnails/3286bc6878e49f0ff11ca7da944dd1af.jpg
+    url: /files/original/3286bc6878e49f0ff11ca7da944dd1af.jpg
 geo:
 id: 104
 item_type: Still Image

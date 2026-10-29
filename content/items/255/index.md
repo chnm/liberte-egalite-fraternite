@@ -40,12 +40,12 @@ dublin_core:
       text: Damiens Being Broken on the Wheel
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ef9486716308d77953e08fc9e7049259.jpg
+  - fullsize: /files/fullsize/ef9486716308d77953e08fc9e7049259.jpg
     id: 284
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/621f38d10d240f2ae39cb149406c4a18.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ef9486716308d77953e08fc9e7049259.jpg
-    url: https://revolution.chnm.org/files/original/ef9486716308d77953e08fc9e7049259.jpg
+    thumb: /files/thumbnails/ef9486716308d77953e08fc9e7049259.jpg
+    url: /files/original/ef9486716308d77953e08fc9e7049259.jpg
 geo:
 id: 255
 item_type: Still Image

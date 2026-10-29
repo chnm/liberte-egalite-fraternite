@@ -44,12 +44,12 @@ dublin_core:
       text: Assembly of Notables, Held at Versailles
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/9a7e6d633ab14fe5be764c124f9448f4.jpg
+  - fullsize: /files/fullsize/9a7e6d633ab14fe5be764c124f9448f4.jpg
     id: 111
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/440ea693c2116396e3704faccfd41af2.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9a7e6d633ab14fe5be764c124f9448f4.jpg
-    url: https://revolution.chnm.org/files/original/9a7e6d633ab14fe5be764c124f9448f4.jpg
+    thumb: /files/thumbnails/9a7e6d633ab14fe5be764c124f9448f4.jpg
+    url: /files/original/9a7e6d633ab14fe5be764c124f9448f4.jpg
 geo:
 id: 91
 item_type: Still Image

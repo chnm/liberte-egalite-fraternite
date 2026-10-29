@@ -25,12 +25,12 @@ dublin_core:
       text: The Queen in Paris
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/907e09e0ecb071f2c8da5669b1a0593b.jpg
+  - fullsize: /files/fullsize/907e09e0ecb071f2c8da5669b1a0593b.jpg
     id: 208
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b2e46cc225288380d514bd5107582ec6.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/907e09e0ecb071f2c8da5669b1a0593b.jpg
-    url: https://revolution.chnm.org/files/original/907e09e0ecb071f2c8da5669b1a0593b.jpg
+    thumb: /files/thumbnails/907e09e0ecb071f2c8da5669b1a0593b.jpg
+    url: /files/original/907e09e0ecb071f2c8da5669b1a0593b.jpg
 geo:
 id: 185
 item_type: Still Image

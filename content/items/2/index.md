@@ -19,18 +19,18 @@ dublin_core:
       text: Europe 1815
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+  - fullsize: /files/fullsize/3ca22ed79ee11d346ad3792bf9dd1019.jpg
     id: 3
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7ea3868a25614aeb9fd0319726e8cb3a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3ca22ed79ee11d346ad3792bf9dd1019.jpg
-    url: https://revolution.chnm.org/files/original/3ca22ed79ee11d346ad3792bf9dd1019.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
+    thumb: /files/thumbnails/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+    url: /files/original/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+  - fullsize: /files/fullsize/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
     id: 4
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8a95234b006933eeda4c2aa70a28e7ae.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
-    url: https://revolution.chnm.org/files/original/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
+    thumb: /files/thumbnails/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
+    url: /files/original/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
 geo:
 id: 2
 item_type: Still Image

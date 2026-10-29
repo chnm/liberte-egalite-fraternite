@@ -40,12 +40,12 @@ dublin_core:
       text: The Day after Waterloo
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+  - fullsize: /files/fullsize/0da1e0d6778bf9ac5e008a7de729c39d.jpg
     id: 223
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d6f8fffbf1c8b7ce9cb8681b7ece6df8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0da1e0d6778bf9ac5e008a7de729c39d.jpg
-    url: https://revolution.chnm.org/files/original/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+    thumb: /files/thumbnails/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+    url: /files/original/0da1e0d6778bf9ac5e008a7de729c39d.jpg
 geo:
 id: 200
 item_type: Still Image

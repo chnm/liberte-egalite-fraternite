@@ -40,12 +40,12 @@ dublin_core:
       text: Destruction of the French Colossus
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/790931517fda541b6690f3ea19dce9f7.jpg
+  - fullsize: /files/fullsize/790931517fda541b6690f3ea19dce9f7.jpg
     id: 77
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9ca9d02b7a5da9749ff5d2c1feb75e5a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/790931517fda541b6690f3ea19dce9f7.jpg
-    url: https://revolution.chnm.org/files/original/790931517fda541b6690f3ea19dce9f7.jpg
+    thumb: /files/thumbnails/790931517fda541b6690f3ea19dce9f7.jpg
+    url: /files/original/790931517fda541b6690f3ea19dce9f7.jpg
 geo:
 id: 62
 item_type: Still Image

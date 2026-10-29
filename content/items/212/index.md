@@ -42,12 +42,12 @@ dublin_core:
       text: Marie Antoinette Josephe Jeanne de Lorraine
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/921efb86f53117d326b80ec30c99a5ab.jpg
+  - fullsize: /files/fullsize/921efb86f53117d326b80ec30c99a5ab.jpg
     id: 234
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d2e91c3e0b1c54bcb717326dbe73381b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/921efb86f53117d326b80ec30c99a5ab.jpg
-    url: https://revolution.chnm.org/files/original/921efb86f53117d326b80ec30c99a5ab.jpg
+    thumb: /files/thumbnails/921efb86f53117d326b80ec30c99a5ab.jpg
+    url: /files/original/921efb86f53117d326b80ec30c99a5ab.jpg
 geo:
 id: 212
 item_type: Still Image

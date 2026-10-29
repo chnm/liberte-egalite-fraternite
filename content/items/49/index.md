@@ -47,18 +47,18 @@ dublin_core:
       text: Louis as Pig
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/c26fc8865a64b6055f3220ef121ac6e8.jpg
+  - fullsize: /files/fullsize/c26fc8865a64b6055f3220ef121ac6e8.jpg
     id: 61
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1170a1a13b89d15fde397ee9469b19b5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/c26fc8865a64b6055f3220ef121ac6e8.jpg
-    url: https://revolution.chnm.org/files/original/c26fc8865a64b6055f3220ef121ac6e8.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
+    thumb: /files/thumbnails/c26fc8865a64b6055f3220ef121ac6e8.jpg
+    url: /files/original/c26fc8865a64b6055f3220ef121ac6e8.jpg
+  - fullsize: /files/fullsize/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
     id: 62
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/23a543795af2561b1d690b4a15735486.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
-    url: https://revolution.chnm.org/files/original/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
+    thumb: /files/thumbnails/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
+    url: /files/original/e48b1a43282b2168b6cd6ae1a655dc3e.jpg
 geo:
 id: 49
 item_type: Still Image

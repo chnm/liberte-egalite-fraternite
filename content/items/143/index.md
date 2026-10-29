@@ -37,12 +37,12 @@ dublin_core:
       text: Louis the Sixteenth, King of France and of Navarre
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/54276177fbee49a13bd2ec51aedfc4d1.jpg
+  - fullsize: /files/fullsize/54276177fbee49a13bd2ec51aedfc4d1.jpg
     id: 166
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/adbb7f673747b696a807a104da8e7924.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/54276177fbee49a13bd2ec51aedfc4d1.jpg
-    url: https://revolution.chnm.org/files/original/54276177fbee49a13bd2ec51aedfc4d1.jpg
+    thumb: /files/thumbnails/54276177fbee49a13bd2ec51aedfc4d1.jpg
+    url: /files/original/54276177fbee49a13bd2ec51aedfc4d1.jpg
 geo:
 id: 143
 item_type: Still Image

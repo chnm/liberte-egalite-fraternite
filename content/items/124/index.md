@@ -44,18 +44,18 @@ dublin_core:
       text: Day of 13 Vendemaire of the Year 4
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ebb5b3e4deae9a13053d580e7875c281.jpg
+  - fullsize: /files/fullsize/ebb5b3e4deae9a13053d580e7875c281.jpg
     id: 145
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cae9012d13fe81d6cb435013d03cfd3d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ebb5b3e4deae9a13053d580e7875c281.jpg
-    url: https://revolution.chnm.org/files/original/ebb5b3e4deae9a13053d580e7875c281.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/358a2958acb063c56f5d96ab94fb247d.jpg
+    thumb: /files/thumbnails/ebb5b3e4deae9a13053d580e7875c281.jpg
+    url: /files/original/ebb5b3e4deae9a13053d580e7875c281.jpg
+  - fullsize: /files/fullsize/358a2958acb063c56f5d96ab94fb247d.jpg
     id: 146
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cb0fe8d320e0e3036fda699ea53e68ab.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/358a2958acb063c56f5d96ab94fb247d.jpg
-    url: https://revolution.chnm.org/files/original/358a2958acb063c56f5d96ab94fb247d.jpg
+    thumb: /files/thumbnails/358a2958acb063c56f5d96ab94fb247d.jpg
+    url: /files/original/358a2958acb063c56f5d96ab94fb247d.jpg
 geo:
 id: 124
 item_type: Still Image

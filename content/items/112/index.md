@@ -44,12 +44,12 @@ dublin_core:
       text: The Days of 31 May and 1–2 June 1793
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
+  - fullsize: /files/fullsize/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
     id: 132
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/594c57a3431dc8c964b1e62974e94caf.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
-    url: https://revolution.chnm.org/files/original/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
+    thumb: /files/thumbnails/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
+    url: /files/original/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
 geo:
 id: 112
 item_type: Still Image

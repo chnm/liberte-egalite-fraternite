@@ -40,12 +40,12 @@ dublin_core:
       text: The Tennis Court Oath at Versailles by Jacques–Louis David
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
+  - fullsize: /files/fullsize/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
     id: 302
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/72404386efd41d53c641eabea8633d91.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
-    url: https://revolution.chnm.org/files/original/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
+    thumb: /files/thumbnails/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
+    url: /files/original/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
 geo:
 id: 269
 item_type: Still Image

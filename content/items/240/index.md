@@ -25,12 +25,12 @@ dublin_core:
       text: The Pathos of Death
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
+  - fullsize: /files/fullsize/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
     id: 265
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/39164c17ca32ddaa170f47ff3a258235.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
-    url: https://revolution.chnm.org/files/original/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
+    thumb: /files/thumbnails/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
+    url: /files/original/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
 geo:
 id: 240
 item_type: Still Image

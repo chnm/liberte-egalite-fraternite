@@ -40,18 +40,18 @@ dublin_core:
       text: Speech in the Garden of the Palais–Royal
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3585616b91e3cccee9e69f6de270580c.jpg
+  - fullsize: /files/fullsize/3585616b91e3cccee9e69f6de270580c.jpg
     id: 287
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4755407ca3c9269be8346ddafee7ad9b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3585616b91e3cccee9e69f6de270580c.jpg
-    url: https://revolution.chnm.org/files/original/3585616b91e3cccee9e69f6de270580c.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+    thumb: /files/thumbnails/3585616b91e3cccee9e69f6de270580c.jpg
+    url: /files/original/3585616b91e3cccee9e69f6de270580c.jpg
+  - fullsize: /files/fullsize/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
     id: 288
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/81a741f2c9cc1dabd659362e8c9d8f4a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
-    url: https://revolution.chnm.org/files/original/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+    thumb: /files/thumbnails/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
+    url: /files/original/22aefe89d1d3fbf92b8a7ed31ec03998.jpg
 geo:
 id: 258
 item_type: Still Image

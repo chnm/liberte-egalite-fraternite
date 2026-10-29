@@ -46,12 +46,12 @@ dublin_core:
       text: Fusillade in the Faubourg St. Antoine, 28 April 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
+  - fullsize: /files/fullsize/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
     id: 115
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1651f2c900d5c244c5adebb4bfa7800f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
-    url: https://revolution.chnm.org/files/original/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
+    thumb: /files/thumbnails/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
+    url: /files/original/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
 geo:
 id: 95
 item_type: Still Image

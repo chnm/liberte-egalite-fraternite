@@ -42,12 +42,12 @@ dublin_core:
       text: Drowning in the Loire by Order of the Fierce Carrier
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d3de998792f2badea5b17b9d908ae0e1.jpg
+  - fullsize: /files/fullsize/d3de998792f2badea5b17b9d908ae0e1.jpg
     id: 139
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/39a146b468474574b5ea12669bf52615.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d3de998792f2badea5b17b9d908ae0e1.jpg
-    url: https://revolution.chnm.org/files/original/d3de998792f2badea5b17b9d908ae0e1.jpg
+    thumb: /files/thumbnails/d3de998792f2badea5b17b9d908ae0e1.jpg
+    url: /files/original/d3de998792f2badea5b17b9d908ae0e1.jpg
 geo:
 id: 118
 item_type: Still Image

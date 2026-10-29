@@ -40,12 +40,12 @@ dublin_core:
       text: Image of the King at the Festival of Federation
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/21f92f8174c1d795026df17c8e7a8a55.jpg
+  - fullsize: /files/fullsize/21f92f8174c1d795026df17c8e7a8a55.jpg
     id: 237
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b713923236f408811bab3cb7daa27fd3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/21f92f8174c1d795026df17c8e7a8a55.jpg
-    url: https://revolution.chnm.org/files/original/21f92f8174c1d795026df17c8e7a8a55.jpg
+    thumb: /files/thumbnails/21f92f8174c1d795026df17c8e7a8a55.jpg
+    url: /files/original/21f92f8174c1d795026df17c8e7a8a55.jpg
 geo:
 id: 215
 item_type: Still Image

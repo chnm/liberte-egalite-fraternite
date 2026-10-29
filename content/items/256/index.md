@@ -28,12 +28,12 @@ dublin_core:
       text: The Death of Marat
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/396b4dff0427befbfb9fbce85463d476.jpg
+  - fullsize: /files/fullsize/396b4dff0427befbfb9fbce85463d476.jpg
     id: 285
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ca18f7a58c528c25772cd5f2d9e45b92.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/396b4dff0427befbfb9fbce85463d476.jpg
-    url: https://revolution.chnm.org/files/original/396b4dff0427befbfb9fbce85463d476.jpg
+    thumb: /files/thumbnails/396b4dff0427befbfb9fbce85463d476.jpg
+    url: /files/original/396b4dff0427befbfb9fbce85463d476.jpg
 geo:
 id: 256
 item_type: Still Image

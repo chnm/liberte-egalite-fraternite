@@ -37,12 +37,12 @@ dublin_core:
       text: Place Vendôme, The Greatest of Despots Overthrown by Freedom
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/66a6c2fe53305d92fe37150d7876eef7.jpg
+  - fullsize: /files/fullsize/66a6c2fe53305d92fe37150d7876eef7.jpg
     id: 99
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2ab8ccf8ecc35c8d6117478b31d9b321.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/66a6c2fe53305d92fe37150d7876eef7.jpg
-    url: https://revolution.chnm.org/files/original/66a6c2fe53305d92fe37150d7876eef7.jpg
+    thumb: /files/thumbnails/66a6c2fe53305d92fe37150d7876eef7.jpg
+    url: /files/original/66a6c2fe53305d92fe37150d7876eef7.jpg
 geo:
 id: 81
 item_type: Still Image

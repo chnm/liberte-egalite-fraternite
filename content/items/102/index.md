@@ -42,12 +42,12 @@ dublin_core:
       text: Arrest of Louis Capet at Varennes, June 22, 1791
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/03421216dd968c7c0e00e4d50ac018be.jpg
+  - fullsize: /files/fullsize/03421216dd968c7c0e00e4d50ac018be.jpg
     id: 122
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ae1969e76b853f6eff07f7278872e428.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/03421216dd968c7c0e00e4d50ac018be.jpg
-    url: https://revolution.chnm.org/files/original/03421216dd968c7c0e00e4d50ac018be.jpg
+    thumb: /files/thumbnails/03421216dd968c7c0e00e4d50ac018be.jpg
+    url: /files/original/03421216dd968c7c0e00e4d50ac018be.jpg
 geo:
 id: 102
 item_type: Still Image

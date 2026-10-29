@@ -40,12 +40,12 @@ dublin_core:
       text: Vanguard of Women going to Versailles
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+  - fullsize: /files/fullsize/7b26b3ac40a7d346aca062a469fa7b8d.jpg
     id: 273
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/486dc2ec57e9e2794d6ecce90ada3ab1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7b26b3ac40a7d346aca062a469fa7b8d.jpg
-    url: https://revolution.chnm.org/files/original/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+    thumb: /files/thumbnails/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+    url: /files/original/7b26b3ac40a7d346aca062a469fa7b8d.jpg
 geo:
 id: 248
 item_type: Still Image

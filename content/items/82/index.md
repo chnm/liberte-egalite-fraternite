@@ -40,12 +40,12 @@ dublin_core:
       text: The Republic
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+  - fullsize: /files/fullsize/5e352d0f40ab2813fdef9b61f7265eeb.jpg
     id: 100
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/569db6d8c3a9d2a3665b5263d1e4d566.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5e352d0f40ab2813fdef9b61f7265eeb.jpg
-    url: https://revolution.chnm.org/files/original/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+    thumb: /files/thumbnails/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+    url: /files/original/5e352d0f40ab2813fdef9b61f7265eeb.jpg
 geo:
 id: 82
 item_type: Still Image

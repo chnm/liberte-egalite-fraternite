@@ -40,12 +40,12 @@ dublin_core:
       text: Rare Animals; or, the Transfer of the Royal Family from the Tuileries to the Temple. Champfleury, 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ec98cd9af2935165ff18a78ae4566a30.jpg
+  - fullsize: /files/fullsize/ec98cd9af2935165ff18a78ae4566a30.jpg
     id: 220
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0378ee14bb41abcdb2eb2436dafcb5af.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ec98cd9af2935165ff18a78ae4566a30.jpg
-    url: https://revolution.chnm.org/files/original/ec98cd9af2935165ff18a78ae4566a30.jpg
+    thumb: /files/thumbnails/ec98cd9af2935165ff18a78ae4566a30.jpg
+    url: /files/original/ec98cd9af2935165ff18a78ae4566a30.jpg
 geo:
 id: 197
 item_type: Still Image

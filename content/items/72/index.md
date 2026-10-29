@@ -40,12 +40,12 @@ dublin_core:
       text: Festival of National Unity, 14 July 1939
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/560ca01c6893f7e5189326257e8387f9.jpg
+  - fullsize: /files/fullsize/560ca01c6893f7e5189326257e8387f9.jpg
     id: 87
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c68fd620f50b09bd4db28903a1a4ba92.jpeg
-    thumb: https://revolution.chnm.org/files/thumbnails/560ca01c6893f7e5189326257e8387f9.jpg
-    url: https://revolution.chnm.org/files/original/560ca01c6893f7e5189326257e8387f9.jpeg
+    thumb: /files/thumbnails/560ca01c6893f7e5189326257e8387f9.jpg
+    url: /files/original/560ca01c6893f7e5189326257e8387f9.jpeg
 geo:
 id: 72
 item_type: Still Image

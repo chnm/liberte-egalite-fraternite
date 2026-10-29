@@ -37,12 +37,12 @@ dublin_core:
       text: The Fourth Incident of October 5, 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/274b1471ff7101c9610e352a2e6edb24.jpg
+  - fullsize: /files/fullsize/274b1471ff7101c9610e352a2e6edb24.jpg
     id: 173
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4c3f66a17c3a4fc54984074ea285a98f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/274b1471ff7101c9610e352a2e6edb24.jpg
-    url: https://revolution.chnm.org/files/original/274b1471ff7101c9610e352a2e6edb24.jpg
+    thumb: /files/thumbnails/274b1471ff7101c9610e352a2e6edb24.jpg
+    url: /files/original/274b1471ff7101c9610e352a2e6edb24.jpg
 geo:
 id: 149
 item_type: Still Image

@@ -19,12 +19,12 @@ dublin_core:
       text: Europe 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e02dada132ef183b4568d12515db6680.jpg
+  - fullsize: /files/fullsize/e02dada132ef183b4568d12515db6680.jpg
     id: 292
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f6955303675be2e83eab235b2206a7a8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e02dada132ef183b4568d12515db6680.jpg
-    url: https://revolution.chnm.org/files/original/e02dada132ef183b4568d12515db6680.jpg
+    thumb: /files/thumbnails/e02dada132ef183b4568d12515db6680.jpg
+    url: /files/original/e02dada132ef183b4568d12515db6680.jpg
 geo:
 id: 261
 item_type: Still Image

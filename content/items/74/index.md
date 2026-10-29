@@ -40,18 +40,18 @@ dublin_core:
       text: Taking of the Bastille
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
+  - fullsize: /files/fullsize/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
     id: 90
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a8508be800d163652b1c7bb10a14628d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
-    url: https://revolution.chnm.org/files/original/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
+    thumb: /files/thumbnails/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
+    url: /files/original/b894099ea6c7e7e8cbf6cd565549bf1b.jpg
+  - fullsize: /files/fullsize/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
     id: 91
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f9c1acd45f8966e3e43bfeb1c0f90828.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
-    url: https://revolution.chnm.org/files/original/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
+    thumb: /files/thumbnails/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
+    url: /files/original/b0b7095a3d5c9e7ec3c198a66e31affe.jpg
 geo:
 id: 74
 item_type: Still Image

@@ -42,12 +42,12 @@ dublin_core:
       text: Louis XVI, King of France, born 23 August 1754, beheaded 21 January 1793
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d13670ebefa27d3fbeb0dc7997581342.jpg
+  - fullsize: /files/fullsize/d13670ebefa27d3fbeb0dc7997581342.jpg
     id: 233
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9057c69bcb8a5e0c896463110749d41a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d13670ebefa27d3fbeb0dc7997581342.jpg
-    url: https://revolution.chnm.org/files/original/d13670ebefa27d3fbeb0dc7997581342.jpg
+    thumb: /files/thumbnails/d13670ebefa27d3fbeb0dc7997581342.jpg
+    url: /files/original/d13670ebefa27d3fbeb0dc7997581342.jpg
 geo:
 id: 211
 item_type: Still Image

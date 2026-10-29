@@ -40,12 +40,12 @@ dublin_core:
       text: The Third Incident of 14 July 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/294d6575d61f70b93636a3b23e142931.jpg
+  - fullsize: /files/fullsize/294d6575d61f70b93636a3b23e142931.jpg
     id: 172
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/54f6574016ec42e0d6fb5958e41007d7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/294d6575d61f70b93636a3b23e142931.jpg
-    url: https://revolution.chnm.org/files/original/294d6575d61f70b93636a3b23e142931.jpg
+    thumb: /files/thumbnails/294d6575d61f70b93636a3b23e142931.jpg
+    url: /files/original/294d6575d61f70b93636a3b23e142931.jpg
 geo:
 id: 148
 item_type: Still Image

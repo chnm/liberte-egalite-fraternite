@@ -28,12 +28,12 @@ dublin_core:
       text: The Blood of the Murdered Crying for Vengeance
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a7d15f8dde31c5cd935fd930574d9c16.jpg
+  - fullsize: /files/fullsize/a7d15f8dde31c5cd935fd930574d9c16.jpg
     id: 161
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b73b28c6dd51daeb66adff77c14b6f73.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a7d15f8dde31c5cd935fd930574d9c16.jpg
-    url: https://revolution.chnm.org/files/original/a7d15f8dde31c5cd935fd930574d9c16.jpg
+    thumb: /files/thumbnails/a7d15f8dde31c5cd935fd930574d9c16.jpg
+    url: /files/original/a7d15f8dde31c5cd935fd930574d9c16.jpg
 geo:
 id: 139
 item_type: Still Image

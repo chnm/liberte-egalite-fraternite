@@ -30,7 +30,7 @@ files:
     mime: audio/mpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ff27ea3cf32191b759e89994420845f4.mp3
     thumb:
-    url: https://revolution.chnm.org/files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
+    url: /files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
 geo:
 id: 626
 item_type: Sound

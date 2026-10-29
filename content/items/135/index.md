@@ -40,12 +40,12 @@ dublin_core:
       text: French Victory at the Battle of Jemmappes
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a047ffcd12fe331279f97d2c9929f03e.jpg
+  - fullsize: /files/fullsize/a047ffcd12fe331279f97d2c9929f03e.jpg
     id: 157
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/47903c87c93b1ea068e415395c34e520.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a047ffcd12fe331279f97d2c9929f03e.jpg
-    url: https://revolution.chnm.org/files/original/a047ffcd12fe331279f97d2c9929f03e.jpg
+    thumb: /files/thumbnails/a047ffcd12fe331279f97d2c9929f03e.jpg
+    url: /files/original/a047ffcd12fe331279f97d2c9929f03e.jpg
 geo:
 id: 135
 item_type: Still Image

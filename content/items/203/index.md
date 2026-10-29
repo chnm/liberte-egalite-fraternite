@@ -25,12 +25,12 @@ dublin_core:
       text: Congress of Vienna
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/118bf8660a03768d926b312b2dc4a39f.jpg
+  - fullsize: /files/fullsize/118bf8660a03768d926b312b2dc4a39f.jpg
     id: 226
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e5cda432390b800f29918e047243c3fd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/118bf8660a03768d926b312b2dc4a39f.jpg
-    url: https://revolution.chnm.org/files/original/118bf8660a03768d926b312b2dc4a39f.jpg
+    thumb: /files/thumbnails/118bf8660a03768d926b312b2dc4a39f.jpg
+    url: /files/original/118bf8660a03768d926b312b2dc4a39f.jpg
 geo:
 id: 203
 item_type: Still Image

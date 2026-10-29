@@ -22,12 +22,12 @@ dublin_core:
       text: 'Plate: Long Live the Nation'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/bf8445217b515328159d158471b11bf6.jpg
+  - fullsize: /files/fullsize/bf8445217b515328159d158471b11bf6.jpg
     id: 49
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1ce5202c697bd69047e0bac977dc84fe.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/bf8445217b515328159d158471b11bf6.jpg
-    url: https://revolution.chnm.org/files/original/bf8445217b515328159d158471b11bf6.jpg
+    thumb: /files/thumbnails/bf8445217b515328159d158471b11bf6.jpg
+    url: /files/original/bf8445217b515328159d158471b11bf6.jpg
 geo:
 id: 37
 item_type: Still Image

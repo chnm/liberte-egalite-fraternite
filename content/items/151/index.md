@@ -40,12 +40,12 @@ dublin_core:
       text: The Third Estate Marrying Priests with Nuns
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+  - fullsize: /files/fullsize/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
     id: 175
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bf9131465df601ab37c8fcdc09e6bdd3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
-    url: https://revolution.chnm.org/files/original/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+    thumb: /files/thumbnails/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+    url: /files/original/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
 geo:
 id: 151
 item_type: Still Image

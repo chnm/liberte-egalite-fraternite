@@ -40,18 +40,18 @@ dublin_core:
       text: Ah! Monsignor! It seems that they want us to give everything back, yet while in the game I had advised you to play trumps.
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/983d257e4bc3e3da135b465dda18c1ac.jpg
+  - fullsize: /files/fullsize/983d257e4bc3e3da135b465dda18c1ac.jpg
     id: 106
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/99165f7f9d9611fd442a8f6cf9dc7711.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/983d257e4bc3e3da135b465dda18c1ac.jpg
-    url: https://revolution.chnm.org/files/original/983d257e4bc3e3da135b465dda18c1ac.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/7e3303537acd2f64e751e7cb81f65595.jpg
+    thumb: /files/thumbnails/983d257e4bc3e3da135b465dda18c1ac.jpg
+    url: /files/original/983d257e4bc3e3da135b465dda18c1ac.jpg
+  - fullsize: /files/fullsize/7e3303537acd2f64e751e7cb81f65595.jpg
     id: 107
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bd17e9e279bea721d5d485d8b8cbad79.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7e3303537acd2f64e751e7cb81f65595.jpg
-    url: https://revolution.chnm.org/files/original/7e3303537acd2f64e751e7cb81f65595.jpg
+    thumb: /files/thumbnails/7e3303537acd2f64e751e7cb81f65595.jpg
+    url: /files/original/7e3303537acd2f64e751e7cb81f65595.jpg
 geo:
 id: 87
 item_type: Still Image

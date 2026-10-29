@@ -28,12 +28,12 @@ dublin_core:
       text: Attack on the Bastille
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0e964d9537b713e3feeb1e896a318485.jpg
+  - fullsize: /files/fullsize/0e964d9537b713e3feeb1e896a318485.jpg
     id: 215
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/baacf20f0b7d420d2c8d1b6692cc8e53.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0e964d9537b713e3feeb1e896a318485.jpg
-    url: https://revolution.chnm.org/files/original/0e964d9537b713e3feeb1e896a318485.jpg
+    thumb: /files/thumbnails/0e964d9537b713e3feeb1e896a318485.jpg
+    url: /files/original/0e964d9537b713e3feeb1e896a318485.jpg
 geo:
 id: 192
 item_type: Still Image

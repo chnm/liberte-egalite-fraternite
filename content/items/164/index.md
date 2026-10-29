@@ -25,12 +25,12 @@ dublin_core:
       text: 'I Am Called Cerberus but Am Also a Chameleon: Napoleon Being Sucked into Hell'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8b4848ab98808321f2a09d2d2a734e6c.jpg
+  - fullsize: /files/fullsize/8b4848ab98808321f2a09d2d2a734e6c.jpg
     id: 188
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e3d6a9b4a020149310133430b57e226b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8b4848ab98808321f2a09d2d2a734e6c.jpg
-    url: https://revolution.chnm.org/files/original/8b4848ab98808321f2a09d2d2a734e6c.jpg
+    thumb: /files/thumbnails/8b4848ab98808321f2a09d2d2a734e6c.jpg
+    url: /files/original/8b4848ab98808321f2a09d2d2a734e6c.jpg
 geo:
 id: 164
 item_type: Still Image

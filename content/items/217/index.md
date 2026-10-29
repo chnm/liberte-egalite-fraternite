@@ -45,12 +45,12 @@ dublin_core:
       text: People under the Old Regime
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/40d9654ae96b55d991ea90fa13429d41.jpg
+  - fullsize: /files/fullsize/40d9654ae96b55d991ea90fa13429d41.jpg
     id: 239
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/44c30844037f752bb03af9163ef5f66d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/40d9654ae96b55d991ea90fa13429d41.jpg
-    url: https://revolution.chnm.org/files/original/40d9654ae96b55d991ea90fa13429d41.jpg
+    thumb: /files/thumbnails/40d9654ae96b55d991ea90fa13429d41.jpg
+    url: /files/original/40d9654ae96b55d991ea90fa13429d41.jpg
 geo:
 id: 217
 item_type: Still Image

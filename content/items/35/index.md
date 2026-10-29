@@ -28,12 +28,12 @@ dublin_core:
       text: The Marseillaise
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
+  - fullsize: /files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
     id: 47
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d6b9f4e2678e7e8b78bbb4eea65e4b4c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/35f31ae7c9e56578ed1b0490356cdd77.jpg
-    url: https://revolution.chnm.org/files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
+    thumb: /files/thumbnails/35f31ae7c9e56578ed1b0490356cdd77.jpg
+    url: /files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
 geo:
 id: 35
 item_type: Still Image

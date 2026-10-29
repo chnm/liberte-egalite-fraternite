@@ -28,12 +28,12 @@ dublin_core:
       text: Son of Saint–Louis Going Up to Heaven . . .
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/476251d641dcaf600fd5106fd83facdd.jpg
+  - fullsize: /files/fullsize/476251d641dcaf600fd5106fd83facdd.jpg
     id: 205
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ccfe2989734da30cdc863963a2da2ba0.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/476251d641dcaf600fd5106fd83facdd.jpg
-    url: https://revolution.chnm.org/files/original/476251d641dcaf600fd5106fd83facdd.jpg
+    thumb: /files/thumbnails/476251d641dcaf600fd5106fd83facdd.jpg
+    url: /files/original/476251d641dcaf600fd5106fd83facdd.jpg
 geo:
 id: 182
 item_type: Still Image

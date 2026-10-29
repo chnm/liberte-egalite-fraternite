@@ -40,12 +40,12 @@ dublin_core:
       text: Marie Antoinette as a Serpent
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/829c5be8b81b0ae5889fd519eeada00e.jpg
+  - fullsize: /files/fullsize/829c5be8b81b0ae5889fd519eeada00e.jpg
     id: 63
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ddfd52a9d0b1119878d936ebdaa11dbd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/829c5be8b81b0ae5889fd519eeada00e.jpg
-    url: https://revolution.chnm.org/files/original/829c5be8b81b0ae5889fd519eeada00e.jpg
+    thumb: /files/thumbnails/829c5be8b81b0ae5889fd519eeada00e.jpg
+    url: /files/original/829c5be8b81b0ae5889fd519eeada00e.jpg
 geo:
 id: 50
 item_type: Still Image

@@ -25,12 +25,12 @@ dublin_core:
       text: An Emblematical View of the Constitutions of England and France
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/39948fcefed277361f96992e12449e7c.jpg
+  - fullsize: /files/fullsize/39948fcefed277361f96992e12449e7c.jpg
     id: 183
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d46c333b0d64393a26200dec2910639e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/39948fcefed277361f96992e12449e7c.jpg
-    url: https://revolution.chnm.org/files/original/39948fcefed277361f96992e12449e7c.jpg
+    thumb: /files/thumbnails/39948fcefed277361f96992e12449e7c.jpg
+    url: /files/original/39948fcefed277361f96992e12449e7c.jpg
 geo:
 id: 159
 item_type: Still Image

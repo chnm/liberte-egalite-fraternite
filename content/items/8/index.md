@@ -19,18 +19,18 @@ dublin_core:
       text: Revolutionary France 1799
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/664cd2ad8f4960f63aa303d052e5e67d.jpg
+  - fullsize: /files/fullsize/664cd2ad8f4960f63aa303d052e5e67d.jpg
     id: 13
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cb381de8963f94f0027d013941078e0f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/664cd2ad8f4960f63aa303d052e5e67d.jpg
-    url: https://revolution.chnm.org/files/original/664cd2ad8f4960f63aa303d052e5e67d.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/56e3fe717bca51bba4abb79b4e9a15d7.jpg
+    thumb: /files/thumbnails/664cd2ad8f4960f63aa303d052e5e67d.jpg
+    url: /files/original/664cd2ad8f4960f63aa303d052e5e67d.jpg
+  - fullsize: /files/fullsize/56e3fe717bca51bba4abb79b4e9a15d7.jpg
     id: 14
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a38ef713a39f8e712922e4db4f716e30.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/56e3fe717bca51bba4abb79b4e9a15d7.jpg
-    url: https://revolution.chnm.org/files/original/56e3fe717bca51bba4abb79b4e9a15d7.jpg
+    thumb: /files/thumbnails/56e3fe717bca51bba4abb79b4e9a15d7.jpg
+    url: /files/original/56e3fe717bca51bba4abb79b4e9a15d7.jpg
 geo:
 id: 8
 item_type: Still Image

@@ -44,12 +44,12 @@ dublin_core:
       text: General Federation of the French
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d7dd7d8dd375c861a8051af15c957a7e.jpg
+  - fullsize: /files/fullsize/d7dd7d8dd375c861a8051af15c957a7e.jpg
     id: 119
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/71fcbe51d4e0cc58ac7e1f1cec9b6225.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d7dd7d8dd375c861a8051af15c957a7e.jpg
-    url: https://revolution.chnm.org/files/original/d7dd7d8dd375c861a8051af15c957a7e.jpg
+    thumb: /files/thumbnails/d7dd7d8dd375c861a8051af15c957a7e.jpg
+    url: /files/original/d7dd7d8dd375c861a8051af15c957a7e.jpg
 geo:
 id: 99
 item_type: Still Image

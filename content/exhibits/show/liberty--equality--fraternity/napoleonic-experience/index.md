@@ -4,10 +4,10 @@ aliases:
 blocks:
   - attachments:
       - caption: <p>Progression of Napoleon’s Life</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/078266e453d418154057138175696856.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/078266e453d418154057138175696856.jpg
+        fullsize: /files/fullsize/078266e453d418154057138175696856.jpg
+        image: /files/square_thumbnails/078266e453d418154057138175696856.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/078266e453d418154057138175696856.jpg
+        original: /files/original/078266e453d418154057138175696856.jpg
         title: Progression of Napoleon’s Life
         url: /d/164/
     layout: file-text
@@ -17,52 +17,52 @@ blocks:
     text: <p>The bare facts of the life of Napoleon Bonaparte stagger the imagination and rival the plots of the most fantastic novels. Born in 1769 in Ajaccio, Corsica, just as that island was passing from the hands of the Republic of Genoa to those of France, Bonaparte attended a French military school for impoverished sons of the nobility. Unlike many French nobles, he supported the Revolution, and thanks to a combination of skill, luck, and patronage, he was given command of the Italian campaign in 1796 (at the ripe old age of 27!). He invaded Egypt in 1798, took charge of a new government in 1799, had himself named First Consul for Life in 1802, and crowned himself Emperor in 1804.</p>
   - attachments:
       - caption: <p>Map: Europe 1812</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/5ebbd155647e9e8222fd6b34087342fe.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/5ebbd155647e9e8222fd6b34087342fe.jpg
+        fullsize: /files/fullsize/5ebbd155647e9e8222fd6b34087342fe.jpg
+        image: /files/square_thumbnails/5ebbd155647e9e8222fd6b34087342fe.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/5ebbd155647e9e8222fd6b34087342fe.jpg
+        original: /files/original/5ebbd155647e9e8222fd6b34087342fe.jpg
         title: Europe 1812
         url: /d/427/
       - caption: <p>Europe 1815</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/3ca22ed79ee11d346ad3792bf9dd1019.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+        fullsize: /files/fullsize/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+        image: /files/square_thumbnails/3ca22ed79ee11d346ad3792bf9dd1019.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+        original: /files/original/3ca22ed79ee11d346ad3792bf9dd1019.jpg
         title: Europe 1815
         url: /d/437/
       - caption: <p>Departments of 1798</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d90c8c3c102bd0b17af5607410bc5cec.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        fullsize: /files/fullsize/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        image: /files/square_thumbnails/d90c8c3c102bd0b17af5607410bc5cec.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        original: /files/original/d90c8c3c102bd0b17af5607410bc5cec.jpg
         title: Departments of 1798
         url: /d/1127/
       - caption: <p>Revolutionary France 1799</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/664cd2ad8f4960f63aa303d052e5e67d.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/664cd2ad8f4960f63aa303d052e5e67d.jpg
+        fullsize: /files/fullsize/664cd2ad8f4960f63aa303d052e5e67d.jpg
+        image: /files/square_thumbnails/664cd2ad8f4960f63aa303d052e5e67d.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/664cd2ad8f4960f63aa303d052e5e67d.jpg
+        original: /files/original/664cd2ad8f4960f63aa303d052e5e67d.jpg
         title: Revolutionary France 1799
         url: /d/447/
       - caption: <p>The Moscow Campaign 1812</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/064c41f9c80c727f229f473120871e75.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/064c41f9c80c727f229f473120871e75.jpg
+        fullsize: /files/fullsize/064c41f9c80c727f229f473120871e75.jpg
+        image: /files/square_thumbnails/064c41f9c80c727f229f473120871e75.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/064c41f9c80c727f229f473120871e75.jpg
+        original: /files/original/064c41f9c80c727f229f473120871e75.jpg
         title: The Moscow Campaign 1812
         url: /d/1126/
       - caption: <p>Napoleon in Italy 1796–97</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+        fullsize: /files/fullsize/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+        image: /files/square_thumbnails/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
+        original: /files/original/2fe8ca4fcbeb8d40fe83f342864fc0cf.jpg
         title: Napoleon in Italy 1796–97
         url: /d/443/
       - caption: <p>Napoleon’s Egyptian Campaign—1798–99</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/ecbd9b58b73ab901cb71998691e1d53c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/ecbd9b58b73ab901cb71998691e1d53c.jpg
+        fullsize: /files/fullsize/ecbd9b58b73ab901cb71998691e1d53c.jpg
+        image: /files/square_thumbnails/ecbd9b58b73ab901cb71998691e1d53c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/ecbd9b58b73ab901cb71998691e1d53c.jpg
+        original: /files/original/ecbd9b58b73ab901cb71998691e1d53c.jpg
         title: Napoleon’s Egyptian Campaign—1798–99
         url: /d/445/
     layout: gallery
@@ -72,24 +72,24 @@ blocks:
     text: ''
   - attachments:
       - caption: <p>The Great Man</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/73908f2447df85cf0c052f28754b8ab5.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/73908f2447df85cf0c052f28754b8ab5.jpg
+        fullsize: /files/fullsize/73908f2447df85cf0c052f28754b8ab5.jpg
+        image: /files/square_thumbnails/73908f2447df85cf0c052f28754b8ab5.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/73908f2447df85cf0c052f28754b8ab5.jpg
+        original: /files/original/73908f2447df85cf0c052f28754b8ab5.jpg
         title: '"The Great Man"'
         url: /d/169/
       - caption: <p>The Great Heroism of the Nineteenth Century</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7e95034df4e824343a731ae61fc3403c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7e95034df4e824343a731ae61fc3403c.jpg
+        fullsize: /files/fullsize/7e95034df4e824343a731ae61fc3403c.jpg
+        image: /files/square_thumbnails/7e95034df4e824343a731ae61fc3403c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7e95034df4e824343a731ae61fc3403c.jpg
+        original: /files/original/7e95034df4e824343a731ae61fc3403c.jpg
         title: '"The Great Heroism of the Nineteenth Century"'
         url: /d/171/
       - caption: <p>Celebrating Napoleon’s Birthday on the Island of St. Helena</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+        fullsize: /files/fullsize/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+        image: /files/square_thumbnails/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+        original: /files/original/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
         title: '"Celebrating Napoleon’s Birthday on the Island of St. Helena"'
         url: /d/170/
     layout: file-text
@@ -101,10 +101,10 @@ blocks:
       <p>Napoleon created a new form of government in France, reshaped the boundaries of Europe, and influenced revolutionaries and nationalists the world over. Since his first days in power he aroused controversies that continue today. Was he a true son of the Enlightenment who modernized French government and brought the message of equality under the law wherever he went? Or was he an authoritarian military dictator who fought incessant wars and conquered territory in order to maintain his egomaniacal grip on power? There is abundant evidence for both views. The evidence is presented here under three main headings: domestic policies; foreign policies and wars; and his legacy.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/615">Song of the Marseillaise of the Federation of 10 August, Year II</a></p>
-        fullsize: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
-        image: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        fullsize: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        image: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        original: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
         title: Song of the Marseillaise of the Federation of 10 August, Year II
         url: /d/615/
       - caption: ''
@@ -123,10 +123,10 @@ blocks:
       <p>How did a young Corsican from a minor noble family, whose native language was not even French, become supreme ruler of one of the most important countries in Europe? The answer has to be sought in the impact of an expanding war on revolutionary politics. From 1792 to 1794, the French armies struggled to save the Republic from its foreign and internal enemies. In 1794 the tide turned, enabling France to go on the offensive and to carry the war to its neighbors rather than desperately fight to save itself. But war was expensive, and the Directory government (1795–99) encouraged its generals to exact tribute from the local populations they "liberated" in order to pay for the maintenance of the armies. While fighting far from France, the generals acted more and more on their own, paying their armies out of local treasure and overseeing the administration of conquered territories.</p>
   - attachments:
       - caption: <p>Day of Saint–Cloud, 18 Brumaire</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
+        fullsize: /files/fullsize/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
+        image: /files/square_thumbnails/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
+        original: /files/original/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
         title: Day of Saint–Cloud, 18 Brumaire, an 8 (9 November 1799)
         url: /d/536/
       - caption: ''
@@ -137,10 +137,10 @@ blocks:
         title: Napoleon’s Own Account of His Coup d’Etat (10 November 1799)
         url: /d/502/
       - caption: <p>The Saving of France</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/ad1af82f58b8ed63252a85afca1fd328.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/ad1af82f58b8ed63252a85afca1fd328.jpg
+        fullsize: /files/fullsize/ad1af82f58b8ed63252a85afca1fd328.jpg
+        image: /files/square_thumbnails/ad1af82f58b8ed63252a85afca1fd328.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/ad1af82f58b8ed63252a85afca1fd328.jpg
+        original: /files/original/ad1af82f58b8ed63252a85afca1fd328.jpg
         title: The Saving of France
         url: /d/120/
       - caption: ''
@@ -167,24 +167,24 @@ blocks:
       <p>Napoleon steadily gained support for the new regime by promising a regime of law and order and by making peace with the Catholic Church and its head, the pope. </p>
   - attachments:
       - caption: <p>Bonaparte, First Consul of the French Republic</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/b5652273b93fc2b52df20bd0561f1183.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/b5652273b93fc2b52df20bd0561f1183.jpg
+        fullsize: /files/fullsize/b5652273b93fc2b52df20bd0561f1183.jpg
+        image: /files/square_thumbnails/b5652273b93fc2b52df20bd0561f1183.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/b5652273b93fc2b52df20bd0561f1183.jpg
+        original: /files/original/b5652273b93fc2b52df20bd0561f1183.jpg
         title: Bonaparte, First Consul of the French Republic, 18 Brumaire, Year VIII
         url: /d/130/
       - caption: <p>The Mode of Training Blood Hounds in St. Domingo</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
+        fullsize: /files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
+        image: /files/square_thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7e4a11acb4a350c853c3919d09da2186.jpg
+        original: /files/original/7e4a11acb4a350c853c3919d09da2186.jpg
         title: The Mode of training Blood Hounds in St. Domingo, and of exercising them by Chasseurs
         url: /d/227/
       - caption: <p>The Mode of Exterminating the Black Army as Practiced by the French</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        fullsize: /files/fullsize/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        image: /files/square_thumbnails/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        original: /files/original/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
         title: The Mode of exterminating the Black Army as practised by the French
         url: /d/226/
     layout: file-text
@@ -201,17 +201,17 @@ blocks:
         title: Oath as Consul for Life (4 August 1802)
         url: /d/507/
       - caption: <p>Bonaparte, First Consul, Putting Away His Sword after the General Peace</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/da874f8ebcc847cab510d67a8bb0a5a7.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+        fullsize: /files/fullsize/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+        image: /files/square_thumbnails/da874f8ebcc847cab510d67a8bb0a5a7.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+        original: /files/original/da874f8ebcc847cab510d67a8bb0a5a7.jpg
         title: Bonaparte, First Consul, Putting Away His Sword after the General Peace
         url: /d/10/
       - caption: <p>Napoleon as a Roman on a Chariot of Victory</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+        fullsize: /files/fullsize/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+        image: /files/square_thumbnails/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+        original: /files/original/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
         title: Triumph of Napoleon, First Consul
         url: /d/196/
       - caption: ''
@@ -222,10 +222,10 @@ blocks:
         title: Napoleon’s Reasons for Making Himself Emperor (December 1804)
         url: /d/508/
       - caption: <p>A Grateful France Proclaims Napoleon the First Emperor of the French</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/fc4644cca009221473dee667f03173f0.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/fc4644cca009221473dee667f03173f0.jpg
+        fullsize: /files/fullsize/fc4644cca009221473dee667f03173f0.jpg
+        image: /files/square_thumbnails/fc4644cca009221473dee667f03173f0.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/fc4644cca009221473dee667f03173f0.jpg
+        original: /files/original/fc4644cca009221473dee667f03173f0.jpg
         title: A Grateful France Proclaims Napoleon the First Emperor of the French
         url: /d/197/
       - caption: ''
@@ -257,10 +257,10 @@ blocks:
         title: Voting in Toulouse, 1793–1815
         url: /d/512/
       - caption: <p>Abstention Rate in Napoleonic Plebiscites</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/240dd34fce2eae37f157e4251f841f7e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/240dd34fce2eae37f157e4251f841f7e.jpg
+        fullsize: /files/fullsize/240dd34fce2eae37f157e4251f841f7e.jpg
+        image: /files/square_thumbnails/240dd34fce2eae37f157e4251f841f7e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/240dd34fce2eae37f157e4251f841f7e.jpg
+        original: /files/original/240dd34fce2eae37f157e4251f841f7e.jpg
         title: Abstention Rate in Napoleonic Plebiscites
         url: /d/513/
       - caption: ''
@@ -304,10 +304,10 @@ blocks:
         title: Egyptian Misery Shatters French Hopes
         url: /d/611/
       - caption: <p>Bonaparte in Jaffa</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+        fullsize: /files/fullsize/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+        image: /files/square_thumbnails/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+        original: /files/original/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
         title: Bonaparte Visiting the Hospital in Jaffa
         url: /d/191/
       - caption: ''
@@ -318,17 +318,17 @@ blocks:
         title: 'In Search of Glory: Bonaparte’s Bulletins'
         url: /d/613/
       - caption: <p>Battle For and Taking of Ratisbon, April 23, 1809</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/72317802c396d881f2812e4bc3d7ad35.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/72317802c396d881f2812e4bc3d7ad35.jpg
+        fullsize: /files/fullsize/72317802c396d881f2812e4bc3d7ad35.jpg
+        image: /files/square_thumbnails/72317802c396d881f2812e4bc3d7ad35.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/72317802c396d881f2812e4bc3d7ad35.jpg
+        original: /files/original/72317802c396d881f2812e4bc3d7ad35.jpg
         title: Battle for and Taking of Ratisbon, April 23, 1809
         url: /d/193/
       - caption: <p>Sire, They Are My Sons and My Wife</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/3a222b570cc52c219b3b083957929d0c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/3a222b570cc52c219b3b083957929d0c.jpg
+        fullsize: /files/fullsize/3a222b570cc52c219b3b083957929d0c.jpg
+        image: /files/square_thumbnails/3a222b570cc52c219b3b083957929d0c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/3a222b570cc52c219b3b083957929d0c.jpg
+        original: /files/original/3a222b570cc52c219b3b083957929d0c.jpg
         title: Sire, They Are My Sons and My Wife
         url: /d/203/
     layout: file-text
@@ -354,17 +354,17 @@ blocks:
         title: The Confederation of the Rhine and the Dissolution of the Holy Roman Empire (1 August 1806)
         url: /d/516/
       - caption: <p>Meeting of the Emperors at Tilsit</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/bb8570535da565a35439da94a2104634.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/bb8570535da565a35439da94a2104634.jpg
+        fullsize: /files/fullsize/bb8570535da565a35439da94a2104634.jpg
+        image: /files/square_thumbnails/bb8570535da565a35439da94a2104634.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/bb8570535da565a35439da94a2104634.jpg
+        original: /files/original/bb8570535da565a35439da94a2104634.jpg
         title: Meeting of the Emperors at Tilsit
         url: /d/198/
       - caption: <p>The Royal and Imperial Family of Napoleon, the Greatest and First with That Name</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+        fullsize: /files/fullsize/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+        image: /files/square_thumbnails/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+        original: /files/original/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
         title: The Royal and Imperial Family of Napoleon, the Greatest and First with That Name
         url: /d/147/
       - caption: ''
@@ -424,10 +424,10 @@ blocks:
         title: The Effect of the Russian Winter Described by a General
         url: /d/523/
       - caption: <p>Retreat from Russia</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/0a1000bcc0992406badd23f116f87dea.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/0a1000bcc0992406badd23f116f87dea.jpg
+        fullsize: /files/fullsize/0a1000bcc0992406badd23f116f87dea.jpg
+        image: /files/square_thumbnails/0a1000bcc0992406badd23f116f87dea.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/0a1000bcc0992406badd23f116f87dea.jpg
+        original: /files/original/0a1000bcc0992406badd23f116f87dea.jpg
         title: Retreat from Russia
         url: /d/194/
     layout: file-text
@@ -459,80 +459,80 @@ blocks:
       <p>While the European powers were meeting to decide the terms of peace, Napoleon learned that many in France resented the changes introduced by the new Bourbon King, Louis XVIII. On 26 February 1815, he escaped with 1,100 men and returned to France to begin what became known as "the Hundred Days." Louis fled when unit after unit went over to Napoleon. The allies gathered their armies for another showdown; they outnumbered Napoleon two to one. On 18 June 1815, the final battle was engaged at Waterloo in Belgium. The Prussians joined up with the army under the command of the Duke of Wellington, victor over the French in Spain and Portugal, and together they defeated Napoleon, who abdicated again. This time he was sent off to distant Saint Helena in the South Atlantic, far from Europe. He died there six years later.</p>
   - attachments:
       - caption: <p>Triumph of the Year 1813</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/963a65b75c865e7c10fa9c3ee80ac196.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/963a65b75c865e7c10fa9c3ee80ac196.jpg
+        fullsize: /files/fullsize/963a65b75c865e7c10fa9c3ee80ac196.jpg
+        image: /files/square_thumbnails/963a65b75c865e7c10fa9c3ee80ac196.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/963a65b75c865e7c10fa9c3ee80ac196.jpg
+        original: /files/original/963a65b75c865e7c10fa9c3ee80ac196.jpg
         title: Triumph of the Year 1813
         url: /d/160/
       - caption: <p>Napoleon Is Unable to Digest Leipzig</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/65ed624ff20e8808794df3af06798c97.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/65ed624ff20e8808794df3af06798c97.jpg
+        fullsize: /files/fullsize/65ed624ff20e8808794df3af06798c97.jpg
+        image: /files/square_thumbnails/65ed624ff20e8808794df3af06798c97.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/65ed624ff20e8808794df3af06798c97.jpg
+        original: /files/original/65ed624ff20e8808794df3af06798c97.jpg
         title: Napoleon Is Unable to Digest Leipzig
         url: /d/165/
       - caption: <p>I Am Called Cerberus but Am Also a Chameleon</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8b4848ab98808321f2a09d2d2a734e6c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8b4848ab98808321f2a09d2d2a734e6c.jpg
+        fullsize: /files/fullsize/8b4848ab98808321f2a09d2d2a734e6c.jpg
+        image: /files/square_thumbnails/8b4848ab98808321f2a09d2d2a734e6c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8b4848ab98808321f2a09d2d2a734e6c.jpg
+        original: /files/original/8b4848ab98808321f2a09d2d2a734e6c.jpg
         title: 'I Am Called Cerberus but Am Also a Chameleon: Napoleon Being Sucked into Hell'
         url: /d/161/
       - caption: <p>This Is My Dear Son</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/ef09457a728e824c4d7fd69f3122da32.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/ef09457a728e824c4d7fd69f3122da32.jpg
+        fullsize: /files/fullsize/ef09457a728e824c4d7fd69f3122da32.jpg
+        image: /files/square_thumbnails/ef09457a728e824c4d7fd69f3122da32.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/ef09457a728e824c4d7fd69f3122da32.jpg
+        original: /files/original/ef09457a728e824c4d7fd69f3122da32.jpg
         title: '"This Is My Dear Son": Napoleon as Child of the Devil'
         url: /d/162/
       - caption: '<p>The Exorcism: Ridding France of the Devil Napoleon</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+        fullsize: /files/fullsize/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+        image: /files/square_thumbnails/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+        original: /files/original/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
         title: '"The Exorcism": Ridding France of the Devil Napoleon'
         url: /d/166/
       - caption: <p>The Little Cartesian Devil</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1efa42e897be12f5ff128826bde65c3e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1efa42e897be12f5ff128826bde65c3e.jpg
+        fullsize: /files/fullsize/1efa42e897be12f5ff128826bde65c3e.jpg
+        image: /files/square_thumbnails/1efa42e897be12f5ff128826bde65c3e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1efa42e897be12f5ff128826bde65c3e.jpg
+        original: /files/original/1efa42e897be12f5ff128826bde65c3e.jpg
         title: '"The Little Cartesian Devil": German Peasants Capturing the Little Devil Napoleon'
         url: /d/167/
       - caption: <p>The Song of the End</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/62a123ff1b126fd5025b9d9b3f3e186b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+        fullsize: /files/fullsize/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+        image: /files/square_thumbnails/62a123ff1b126fd5025b9d9b3f3e186b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+        original: /files/original/62a123ff1b126fd5025b9d9b3f3e186b.jpg
         title: '"The Song of the End": the Whole World Now Chases Him'
         url: /d/527/
       - caption: <p>Napoleon Is Now Reduced to a Manageable Size</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8b836059ad40b24840706462a27a2ae9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8b836059ad40b24840706462a27a2ae9.jpg
+        fullsize: /files/fullsize/8b836059ad40b24840706462a27a2ae9.jpg
+        image: /files/square_thumbnails/8b836059ad40b24840706462a27a2ae9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8b836059ad40b24840706462a27a2ae9.jpg
+        original: /files/original/8b836059ad40b24840706462a27a2ae9.jpg
         title: 'Six Part German Caricature: Napoleon Is Now Reduced to a Manageable Size!'
         url: /d/168/
       - caption: <p>Napoleon’s Past and Future Are Filled with Dead Bodies</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/cf261ec52049b4ea2489594cde1440fd.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/cf261ec52049b4ea2489594cde1440fd.jpg
+        fullsize: /files/fullsize/cf261ec52049b4ea2489594cde1440fd.jpg
+        image: /files/square_thumbnails/cf261ec52049b4ea2489594cde1440fd.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/cf261ec52049b4ea2489594cde1440fd.jpg
+        original: /files/original/cf261ec52049b4ea2489594cde1440fd.jpg
         title: '"His Monument": Napoleon’s Past and Future Are Filled with Dead Bodies'
         url: /d/159/
       - caption: <p>Debris of the French Army Returning to the Fatherland in June 1813</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/4ed6fb562a8ac7bb717f2f99e85477df.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/4ed6fb562a8ac7bb717f2f99e85477df.jpg
+        fullsize: /files/fullsize/4ed6fb562a8ac7bb717f2f99e85477df.jpg
+        image: /files/square_thumbnails/4ed6fb562a8ac7bb717f2f99e85477df.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/4ed6fb562a8ac7bb717f2f99e85477df.jpg
+        original: /files/original/4ed6fb562a8ac7bb717f2f99e85477df.jpg
         title: Debris of the French Army Returning to the Fatherland in June 1813
         url: /d/163/
       - caption: <p>The Emperor and the Imperial Guard on the Island of Elba</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/22b0d823d66965f3110f6f39201b8269.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/22b0d823d66965f3110f6f39201b8269.jpg
+        fullsize: /files/fullsize/22b0d823d66965f3110f6f39201b8269.jpg
+        image: /files/square_thumbnails/22b0d823d66965f3110f6f39201b8269.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/22b0d823d66965f3110f6f39201b8269.jpg
+        original: /files/original/22b0d823d66965f3110f6f39201b8269.jpg
         title: The Emperor and the Imperial Guard on the Island of Elba
         url: /d/200/
     layout: gallery
@@ -542,17 +542,17 @@ blocks:
     text: ''
   - attachments:
       - caption: <p>Congress of Vienna</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/118bf8660a03768d926b312b2dc4a39f.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/118bf8660a03768d926b312b2dc4a39f.jpg
+        fullsize: /files/fullsize/118bf8660a03768d926b312b2dc4a39f.jpg
+        image: /files/square_thumbnails/118bf8660a03768d926b312b2dc4a39f.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/118bf8660a03768d926b312b2dc4a39f.jpg
+        original: /files/original/118bf8660a03768d926b312b2dc4a39f.jpg
         title: Congress of Vienna
         url: /d/201/
       - caption: <p>Return from the Island of Elba</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+        fullsize: /files/fullsize/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+        image: /files/square_thumbnails/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+        original: /files/original/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
         title: Return from the Island of Elba
         url: /d/199/
       - caption: ''
@@ -563,10 +563,10 @@ blocks:
         title: The Battle of Waterloo as Recounted by one of Napoleon’s Personal Aides (June 1815)
         url: /d/528/
       - caption: <p>The Day after Waterloo</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/0da1e0d6778bf9ac5e008a7de729c39d.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+        fullsize: /files/fullsize/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+        image: /files/square_thumbnails/0da1e0d6778bf9ac5e008a7de729c39d.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+        original: /files/original/0da1e0d6778bf9ac5e008a7de729c39d.jpg
         title: The Day after Waterloo
         url: /d/195/
       - caption: ''

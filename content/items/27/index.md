@@ -40,12 +40,12 @@ dublin_core:
       text: Army of Jugs
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2589b9e881d9f8e23d584c9717514c8f.jpg
+  - fullsize: /files/fullsize/2589b9e881d9f8e23d584c9717514c8f.jpg
     id: 38
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/97dfe08f5d93285144eabf38138c6a47.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2589b9e881d9f8e23d584c9717514c8f.jpg
-    url: https://revolution.chnm.org/files/original/2589b9e881d9f8e23d584c9717514c8f.jpg
+    thumb: /files/thumbnails/2589b9e881d9f8e23d584c9717514c8f.jpg
+    url: /files/original/2589b9e881d9f8e23d584c9717514c8f.jpg
 geo:
 id: 27
 item_type: Still Image

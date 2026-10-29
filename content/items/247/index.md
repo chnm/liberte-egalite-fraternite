@@ -42,12 +42,12 @@ dublin_core:
       text: Battle of the Pyramids
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/23884b584bb950aa649eee94d8cfcbfa.jpg
+  - fullsize: /files/fullsize/23884b584bb950aa649eee94d8cfcbfa.jpg
     id: 272
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/936c4cf2d079f830a963c3e0f0ef154b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/23884b584bb950aa649eee94d8cfcbfa.jpg
-    url: https://revolution.chnm.org/files/original/23884b584bb950aa649eee94d8cfcbfa.jpg
+    thumb: /files/thumbnails/23884b584bb950aa649eee94d8cfcbfa.jpg
+    url: /files/original/23884b584bb950aa649eee94d8cfcbfa.jpg
 geo:
 id: 247
 item_type: Still Image

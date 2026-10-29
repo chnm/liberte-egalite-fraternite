@@ -25,12 +25,12 @@ dublin_core:
       text: 'Wallpaper: Unity, Indivisibility'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2fda98228676cce61d27b6bd843b2ba3.jpg
+  - fullsize: /files/fullsize/2fda98228676cce61d27b6bd843b2ba3.jpg
     id: 69
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/561c63b265c82585b9dd5f26f85bc87c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2fda98228676cce61d27b6bd843b2ba3.jpg
-    url: https://revolution.chnm.org/files/original/2fda98228676cce61d27b6bd843b2ba3.jpg
+    thumb: /files/thumbnails/2fda98228676cce61d27b6bd843b2ba3.jpg
+    url: /files/original/2fda98228676cce61d27b6bd843b2ba3.jpg
 geo:
 id: 55
 item_type: Still Image

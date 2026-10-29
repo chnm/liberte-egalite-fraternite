@@ -42,12 +42,12 @@ dublin_core:
       text: Triumph of Napoleon, First Consul
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+  - fullsize: /files/fullsize/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
     id: 224
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e30bab7c61201d4ba790a06ca2440d84.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
-    url: https://revolution.chnm.org/files/original/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+    thumb: /files/thumbnails/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+    url: /files/original/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
 geo:
 id: 201
 item_type: Still Image

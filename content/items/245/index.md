@@ -25,12 +25,12 @@ dublin_core:
       text: '"The Song of the End": the Whole World Now Chases Him'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+  - fullsize: /files/fullsize/62a123ff1b126fd5025b9d9b3f3e186b.jpg
     id: 270
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/932061f365a373d3d4b87a0cded46671.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/62a123ff1b126fd5025b9d9b3f3e186b.jpg
-    url: https://revolution.chnm.org/files/original/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+    thumb: /files/thumbnails/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+    url: /files/original/62a123ff1b126fd5025b9d9b3f3e186b.jpg
 geo:
 id: 245
 item_type: Still Image

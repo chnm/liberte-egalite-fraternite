@@ -25,12 +25,12 @@ dublin_core:
       text: A Foreign Tree
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b520831dfa8cd92a8a94338f25426183.jpg
+  - fullsize: /files/fullsize/b520831dfa8cd92a8a94338f25426183.jpg
     id: 97
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/da5b1f6952d24063ebf568431861924a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b520831dfa8cd92a8a94338f25426183.jpg
-    url: https://revolution.chnm.org/files/original/b520831dfa8cd92a8a94338f25426183.jpg
+    thumb: /files/thumbnails/b520831dfa8cd92a8a94338f25426183.jpg
+    url: /files/original/b520831dfa8cd92a8a94338f25426183.jpg
 geo:
 id: 79
 item_type: Still Image

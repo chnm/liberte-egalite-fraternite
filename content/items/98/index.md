@@ -40,12 +40,12 @@ dublin_core:
       text: Punishment of Foulon
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/33643bc9a1281c14e43bb3b195519dfd.jpg
+  - fullsize: /files/fullsize/33643bc9a1281c14e43bb3b195519dfd.jpg
     id: 118
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b61b71dbc4f2bd3b777dd8338da149fb.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/33643bc9a1281c14e43bb3b195519dfd.jpg
-    url: https://revolution.chnm.org/files/original/33643bc9a1281c14e43bb3b195519dfd.jpg
+    thumb: /files/thumbnails/33643bc9a1281c14e43bb3b195519dfd.jpg
+    url: /files/original/33643bc9a1281c14e43bb3b195519dfd.jpg
 geo:
 id: 98
 item_type: Still Image

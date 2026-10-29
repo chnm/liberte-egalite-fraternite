@@ -40,12 +40,12 @@ dublin_core:
       text: Mea Culpa of the Pope
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/444dc62b4927805c8da1346eacdb5584.jpg
+  - fullsize: /files/fullsize/444dc62b4927805c8da1346eacdb5584.jpg
     id: 36
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/94b70135599ec428a23c70c1314ac1bd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/444dc62b4927805c8da1346eacdb5584.jpg
-    url: https://revolution.chnm.org/files/original/444dc62b4927805c8da1346eacdb5584.jpg
+    thumb: /files/thumbnails/444dc62b4927805c8da1346eacdb5584.jpg
+    url: /files/original/444dc62b4927805c8da1346eacdb5584.jpg
 geo:
 id: 25
 item_type: Still Image

@@ -44,12 +44,12 @@ dublin_core:
       text: The Fountain of Regeneration
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/5c487f807a328b63021ee8ef55956228.jpg
+  - fullsize: /files/fullsize/5c487f807a328b63021ee8ef55956228.jpg
     id: 37
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5e05c71ad54359b51f466f576ef2c4b3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/5c487f807a328b63021ee8ef55956228.jpg
-    url: https://revolution.chnm.org/files/original/5c487f807a328b63021ee8ef55956228.jpg
+    thumb: /files/thumbnails/5c487f807a328b63021ee8ef55956228.jpg
+    url: /files/original/5c487f807a328b63021ee8ef55956228.jpg
 geo:
 id: 26
 item_type: Still Image

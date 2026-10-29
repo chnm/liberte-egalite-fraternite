@@ -43,18 +43,18 @@ dublin_core:
       text: Patience Monsignor Your Turn Will Come
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/36f7f4da1741e8bb5151a58300d966cf.jpg
+  - fullsize: /files/fullsize/36f7f4da1741e8bb5151a58300d966cf.jpg
     id: 295
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/196f92c3d08a993a158da77cf541cb47.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/36f7f4da1741e8bb5151a58300d966cf.jpg
-    url: https://revolution.chnm.org/files/original/36f7f4da1741e8bb5151a58300d966cf.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/a242b9dbb9652006cc5875c8a44bdb77.jpg
+    thumb: /files/thumbnails/36f7f4da1741e8bb5151a58300d966cf.jpg
+    url: /files/original/36f7f4da1741e8bb5151a58300d966cf.jpg
+  - fullsize: /files/fullsize/a242b9dbb9652006cc5875c8a44bdb77.jpg
     id: 296
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1503356bbcdea9d00860ec62f3f5acd8.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a242b9dbb9652006cc5875c8a44bdb77.jpg
-    url: https://revolution.chnm.org/files/original/a242b9dbb9652006cc5875c8a44bdb77.jpg
+    thumb: /files/thumbnails/a242b9dbb9652006cc5875c8a44bdb77.jpg
+    url: /files/original/a242b9dbb9652006cc5875c8a44bdb77.jpg
 geo:
 id: 263
 item_type: Still Image

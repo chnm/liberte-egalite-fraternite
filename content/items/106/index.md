@@ -40,12 +40,12 @@ dublin_core:
       text: Massacre of the Prisoners of St. Germain Abbey
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f39cf6cc60d05f254b2c9bf1232ada19.jpg
+  - fullsize: /files/fullsize/f39cf6cc60d05f254b2c9bf1232ada19.jpg
     id: 126
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c0542cb39cb11bc24ee27aa1d84a3185.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f39cf6cc60d05f254b2c9bf1232ada19.jpg
-    url: https://revolution.chnm.org/files/original/f39cf6cc60d05f254b2c9bf1232ada19.jpg
+    thumb: /files/thumbnails/f39cf6cc60d05f254b2c9bf1232ada19.jpg
+    url: /files/original/f39cf6cc60d05f254b2c9bf1232ada19.jpg
 geo:
 id: 106
 item_type: Still Image

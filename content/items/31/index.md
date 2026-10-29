@@ -40,12 +40,12 @@ dublin_core:
       text: The Fatherland in Danger
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7e31511a47cac915e63d909cf4b6935f.jpg
+  - fullsize: /files/fullsize/7e31511a47cac915e63d909cf4b6935f.jpg
     id: 43
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9c021e885587b4d92183e9aa3fa0ba9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7e31511a47cac915e63d909cf4b6935f.jpg
-    url: https://revolution.chnm.org/files/original/7e31511a47cac915e63d909cf4b6935f.jpg
+    thumb: /files/thumbnails/7e31511a47cac915e63d909cf4b6935f.jpg
+    url: /files/original/7e31511a47cac915e63d909cf4b6935f.jpg
 geo:
 id: 31
 item_type: Still Image

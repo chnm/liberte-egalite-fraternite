@@ -37,12 +37,12 @@ dublin_core:
       text: '"The Great Man"'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/73908f2447df85cf0c052f28754b8ab5.jpg
+  - fullsize: /files/fullsize/73908f2447df85cf0c052f28754b8ab5.jpg
     id: 196
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cee09626a1e21888ed96ba978567ae53.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/73908f2447df85cf0c052f28754b8ab5.jpg
-    url: https://revolution.chnm.org/files/original/73908f2447df85cf0c052f28754b8ab5.jpg
+    thumb: /files/thumbnails/73908f2447df85cf0c052f28754b8ab5.jpg
+    url: /files/original/73908f2447df85cf0c052f28754b8ab5.jpg
 geo:
 id: 172
 item_type: Still Image

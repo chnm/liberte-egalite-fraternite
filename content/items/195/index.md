@@ -40,12 +40,12 @@ dublin_core:
       text: Image of the King on Trial
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1bbd682399b0eecb7183900ed30fd4c9.jpg
+  - fullsize: /files/fullsize/1bbd682399b0eecb7183900ed30fd4c9.jpg
     id: 218
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c243e8d0f457a9f313b02bb3f32b4b2d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1bbd682399b0eecb7183900ed30fd4c9.jpg
-    url: https://revolution.chnm.org/files/original/1bbd682399b0eecb7183900ed30fd4c9.jpg
+    thumb: /files/thumbnails/1bbd682399b0eecb7183900ed30fd4c9.jpg
+    url: /files/original/1bbd682399b0eecb7183900ed30fd4c9.jpg
 geo:
 id: 195
 item_type: Still Image

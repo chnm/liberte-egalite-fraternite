@@ -41,12 +41,12 @@ dublin_core:
       text: The Execution of Louis XVI
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a7051026248a75adb6b64c452926487f.jpg
+  - fullsize: /files/fullsize/a7051026248a75adb6b64c452926487f.jpg
     id: 129
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/e0e0be90609925951e23d4d0fb02b4df.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a7051026248a75adb6b64c452926487f.jpg
-    url: https://revolution.chnm.org/files/original/a7051026248a75adb6b64c452926487f.jpg
+    thumb: /files/thumbnails/a7051026248a75adb6b64c452926487f.jpg
+    url: /files/original/a7051026248a75adb6b64c452926487f.jpg
 geo:
 id: 109
 item_type: Still Image

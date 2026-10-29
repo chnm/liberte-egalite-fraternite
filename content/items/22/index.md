@@ -40,12 +40,12 @@ dublin_core:
       text: Bonaparte, First Consul, Putting Away His Sword after the General Peace
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+  - fullsize: /files/fullsize/da874f8ebcc847cab510d67a8bb0a5a7.jpg
     id: 33
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c4b97b44d3384c33fd9611518a134123.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/da874f8ebcc847cab510d67a8bb0a5a7.jpg
-    url: https://revolution.chnm.org/files/original/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+    thumb: /files/thumbnails/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+    url: /files/original/da874f8ebcc847cab510d67a8bb0a5a7.jpg
 geo:
 id: 22
 item_type: Still Image

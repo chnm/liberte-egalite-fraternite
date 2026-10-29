@@ -28,12 +28,12 @@ dublin_core:
       text: Charlotte Corday
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cf769d33093e2e0c1b625184b5946475.jpg
+  - fullsize: /files/fullsize/cf769d33093e2e0c1b625184b5946475.jpg
     id: 199
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0b18f984117ed6194906191d86a20bb2.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cf769d33093e2e0c1b625184b5946475.jpg
-    url: https://revolution.chnm.org/files/original/cf769d33093e2e0c1b625184b5946475.jpg
+    thumb: /files/thumbnails/cf769d33093e2e0c1b625184b5946475.jpg
+    url: /files/original/cf769d33093e2e0c1b625184b5946475.jpg
 geo:
 id: 175
 item_type: Still Image

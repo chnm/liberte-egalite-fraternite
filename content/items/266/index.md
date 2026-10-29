@@ -25,12 +25,12 @@ dublin_core:
       text: Meeting of the Emperors at Tilsit
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/bb8570535da565a35439da94a2104634.jpg
+  - fullsize: /files/fullsize/bb8570535da565a35439da94a2104634.jpg
     id: 299
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5563cf7a415e040cf2a7e353418055d5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/bb8570535da565a35439da94a2104634.jpg
-    url: https://revolution.chnm.org/files/original/bb8570535da565a35439da94a2104634.jpg
+    thumb: /files/thumbnails/bb8570535da565a35439da94a2104634.jpg
+    url: /files/original/bb8570535da565a35439da94a2104634.jpg
 geo:
 id: 266
 item_type: Still Image

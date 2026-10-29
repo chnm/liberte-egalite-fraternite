@@ -39,12 +39,12 @@ dublin_core:
       text: Return from the Island of Elba
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+  - fullsize: /files/fullsize/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
     id: 300
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d67d5fe53f95cdba28b0868a6da2a360.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
-    url: https://revolution.chnm.org/files/original/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+    thumb: /files/thumbnails/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+    url: /files/original/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
 geo:
 id: 267
 item_type: Still Image

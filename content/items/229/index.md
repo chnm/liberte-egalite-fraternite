@@ -40,12 +40,12 @@ dublin_core:
       text: Revenge taken by the Black Army for the Cruelties practised on them by the French
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/238c2f9135236b8a0a66610d49bdd04f.jpg
+  - fullsize: /files/fullsize/238c2f9135236b8a0a66610d49bdd04f.jpg
     id: 252
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/57399ee6687dd1e1e9d5a32c73fa22c5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/238c2f9135236b8a0a66610d49bdd04f.jpg
-    url: https://revolution.chnm.org/files/original/238c2f9135236b8a0a66610d49bdd04f.jpg
+    thumb: /files/thumbnails/238c2f9135236b8a0a66610d49bdd04f.jpg
+    url: /files/original/238c2f9135236b8a0a66610d49bdd04f.jpg
 geo:
 id: 229
 item_type: Still Image

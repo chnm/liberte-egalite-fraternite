@@ -25,12 +25,12 @@ dublin_core:
       text: Sire, They Are My Sons and My Wife
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/3a222b570cc52c219b3b083957929d0c.jpg
+  - fullsize: /files/fullsize/3a222b570cc52c219b3b083957929d0c.jpg
     id: 228
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/12c8a5afa1d8c25de5d9b7f09062efc1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/3a222b570cc52c219b3b083957929d0c.jpg
-    url: https://revolution.chnm.org/files/original/3a222b570cc52c219b3b083957929d0c.jpg
+    thumb: /files/thumbnails/3a222b570cc52c219b3b083957929d0c.jpg
+    url: /files/original/3a222b570cc52c219b3b083957929d0c.jpg
 geo:
 id: 205
 item_type: Still Image

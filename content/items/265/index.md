@@ -42,12 +42,12 @@ dublin_core:
       text: Battle of Aboukir
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/dd24b69a18731b7600a37905cfb6128b.jpg
+  - fullsize: /files/fullsize/dd24b69a18731b7600a37905cfb6128b.jpg
     id: 298
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/7f912ac0f814c2a37d679a1fec854eab.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/dd24b69a18731b7600a37905cfb6128b.jpg
-    url: https://revolution.chnm.org/files/original/dd24b69a18731b7600a37905cfb6128b.jpg
+    thumb: /files/thumbnails/dd24b69a18731b7600a37905cfb6128b.jpg
+    url: /files/original/dd24b69a18731b7600a37905cfb6128b.jpg
 geo:
 id: 265
 item_type: Still Image

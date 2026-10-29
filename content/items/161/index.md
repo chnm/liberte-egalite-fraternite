@@ -40,12 +40,12 @@ dublin_core:
       text: They Had Them Too Long
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e1ea6172823f66c2c7ee81b4a397e067.jpg
+  - fullsize: /files/fullsize/e1ea6172823f66c2c7ee81b4a397e067.jpg
     id: 185
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6fa419031c9f221e63e2b28a293fb9af.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e1ea6172823f66c2c7ee81b4a397e067.jpg
-    url: https://revolution.chnm.org/files/original/e1ea6172823f66c2c7ee81b4a397e067.jpg
+    thumb: /files/thumbnails/e1ea6172823f66c2c7ee81b4a397e067.jpg
+    url: /files/original/e1ea6172823f66c2c7ee81b4a397e067.jpg
 geo:
 id: 161
 item_type: Still Image

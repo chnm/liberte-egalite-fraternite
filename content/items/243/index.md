@@ -25,12 +25,12 @@ dublin_core:
       text: Demographics of Saint Domingue
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/db13ef6e74126e7701a3250f986a3b38.jpg
+  - fullsize: /files/fullsize/db13ef6e74126e7701a3250f986a3b38.jpg
     id: 268
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1daae4cc1d116076348d74d365a8b0cd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/db13ef6e74126e7701a3250f986a3b38.jpg
-    url: https://revolution.chnm.org/files/original/db13ef6e74126e7701a3250f986a3b38.jpg
+    thumb: /files/thumbnails/db13ef6e74126e7701a3250f986a3b38.jpg
+    url: /files/original/db13ef6e74126e7701a3250f986a3b38.jpg
 geo:
 id: 243
 item_type: Still Image

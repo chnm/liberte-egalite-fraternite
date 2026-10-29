@@ -40,12 +40,12 @@ dublin_core:
       text: Arrest of the King at Varennes, 22 June 1791
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/46b6ed1b6d7efea5a5a644b55154a855.jpg
+  - fullsize: /files/fullsize/46b6ed1b6d7efea5a5a644b55154a855.jpg
     id: 121
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ee4f8c088c108d9adbf1b27891b01bf7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/46b6ed1b6d7efea5a5a644b55154a855.jpg
-    url: https://revolution.chnm.org/files/original/46b6ed1b6d7efea5a5a644b55154a855.jpg
+    thumb: /files/thumbnails/46b6ed1b6d7efea5a5a644b55154a855.jpg
+    url: /files/original/46b6ed1b6d7efea5a5a644b55154a855.jpg
 geo:
 id: 101
 item_type: Still Image

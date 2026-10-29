@@ -37,12 +37,12 @@ dublin_core:
       text: French Democrats surprizing the Royal Runaways.
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1441cfae93b0ca5054855e48c64a9390.jpg
+  - fullsize: /files/fullsize/1441cfae93b0ca5054855e48c64a9390.jpg
     id: 79
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ad878c604c0b5cb619737f7c8d39bd9f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1441cfae93b0ca5054855e48c64a9390.jpg
-    url: https://revolution.chnm.org/files/original/1441cfae93b0ca5054855e48c64a9390.jpg
+    thumb: /files/thumbnails/1441cfae93b0ca5054855e48c64a9390.jpg
+    url: /files/original/1441cfae93b0ca5054855e48c64a9390.jpg
 geo:
 id: 64
 item_type: Still Image

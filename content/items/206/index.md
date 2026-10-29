@@ -25,12 +25,12 @@ dublin_core:
       text: Statue of Lafayette—Le Puy
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+  - fullsize: /files/fullsize/cefc73bfa2e57941c07ee5e76355bb8b.jpg
     id: 229
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/99e9dfe74389dcb62f73e4c692274863.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cefc73bfa2e57941c07ee5e76355bb8b.jpg
-    url: https://revolution.chnm.org/files/original/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+    thumb: /files/thumbnails/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+    url: /files/original/cefc73bfa2e57941c07ee5e76355bb8b.jpg
 geo:
 id: 206
 item_type: Still Image

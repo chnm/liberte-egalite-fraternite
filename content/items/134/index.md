@@ -40,12 +40,12 @@ dublin_core:
       text: Noble Act of 500,000 Republicans
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2f6fb8e5ff154c1e2347694fbe800aac.jpg
+  - fullsize: /files/fullsize/2f6fb8e5ff154c1e2347694fbe800aac.jpg
     id: 156
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4cd29e23426ea737f3a76c462094803a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2f6fb8e5ff154c1e2347694fbe800aac.jpg
-    url: https://revolution.chnm.org/files/original/2f6fb8e5ff154c1e2347694fbe800aac.jpg
+    thumb: /files/thumbnails/2f6fb8e5ff154c1e2347694fbe800aac.jpg
+    url: /files/original/2f6fb8e5ff154c1e2347694fbe800aac.jpg
 geo:
 id: 134
 item_type: Still Image

@@ -40,12 +40,12 @@ dublin_core:
       text: Long Live Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b524df5593c40c2bc1002dbd206559e1.jpg
+  - fullsize: /files/fullsize/b524df5593c40c2bc1002dbd206559e1.jpg
     id: 171
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/fdc47776021614bd907ea0d418eafa23.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b524df5593c40c2bc1002dbd206559e1.jpg
-    url: https://revolution.chnm.org/files/original/b524df5593c40c2bc1002dbd206559e1.jpg
+    thumb: /files/thumbnails/b524df5593c40c2bc1002dbd206559e1.jpg
+    url: /files/original/b524df5593c40c2bc1002dbd206559e1.jpg
 geo:
 id: 147
 item_type: Still Image

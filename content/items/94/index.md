@@ -42,12 +42,12 @@ dublin_core:
       text: Louis XVI distributes aid to the Poor
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f71d8c542505317d149260001b872d07.jpg
+  - fullsize: /files/fullsize/f71d8c542505317d149260001b872d07.jpg
     id: 114
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0044909886aee19f075a98543d8c8876.jpeg
-    thumb: https://revolution.chnm.org/files/thumbnails/f71d8c542505317d149260001b872d07.jpg
-    url: https://revolution.chnm.org/files/original/f71d8c542505317d149260001b872d07.jpeg
+    thumb: /files/thumbnails/f71d8c542505317d149260001b872d07.jpg
+    url: /files/original/f71d8c542505317d149260001b872d07.jpeg
 geo:
 id: 94
 item_type: Still Image

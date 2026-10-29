@@ -42,12 +42,12 @@ dublin_core:
       text: The Emperor and the Imperial Guard on the Island of Elba
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/22b0d823d66965f3110f6f39201b8269.jpg
+  - fullsize: /files/fullsize/22b0d823d66965f3110f6f39201b8269.jpg
     id: 301
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/1e107bae55fb3cdcd0493de41ca3ca3f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/22b0d823d66965f3110f6f39201b8269.jpg
-    url: https://revolution.chnm.org/files/original/22b0d823d66965f3110f6f39201b8269.jpg
+    thumb: /files/thumbnails/22b0d823d66965f3110f6f39201b8269.jpg
+    url: /files/original/22b0d823d66965f3110f6f39201b8269.jpg
 geo:
 id: 268
 item_type: Still Image

@@ -40,18 +40,18 @@ dublin_core:
       text: Louis as a Drunkard
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
+  - fullsize: /files/fullsize/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
     id: 263
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/fd02160427b6290ce3b102ba37bf4205.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
-    url: https://revolution.chnm.org/files/original/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/b69e927b72809b7ec0516211a6b160c6.jpg
+    thumb: /files/thumbnails/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
+    url: /files/original/6ffb9a7afbf97d8c685b2b99bf31e308.jpg
+  - fullsize: /files/fullsize/b69e927b72809b7ec0516211a6b160c6.jpg
     id: 264
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f71b2b5344a3ddc6b27cfdb3b345f6c1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b69e927b72809b7ec0516211a6b160c6.jpg
-    url: https://revolution.chnm.org/files/original/b69e927b72809b7ec0516211a6b160c6.jpg
+    thumb: /files/thumbnails/b69e927b72809b7ec0516211a6b160c6.jpg
+    url: /files/original/b69e927b72809b7ec0516211a6b160c6.jpg
 geo:
 id: 239
 item_type: Still Image
