@@ -1,0 +1,13 @@
+{{- /* Image filename (no extension) -> alt text, from the alt.en that
+       chnm/sustainability's generate-alt-text.py --front-matter writes into
+       items' files: entries. Keyed by filename so exhibit thumbnails
+       (square_thumbnails/<hash>.jpg) reuse their item image's description.
+       Call with partialCached "image-alts.html" . "all". */ -}}
+{{- $m := dict -}}
+{{- range where site.RegularPages "Type" "items" -}}
+  {{- range .Params.files -}}
+    {{- $u := .url -}}
+    {{- with .alt -}}{{- with .en -}}{{- $m = merge $m (dict (path.BaseName $u) .) -}}{{- end -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $m -}}

@@ -1,5 +1,6 @@
 {{ define "body-class" }}exhibits show{{ end }}
 {{ define "main" }}
+{{ $alts := partialCached "image-alts.html" . "all" }}
 {{ $exhibitURL := printf "/exhibits/show/%s/" .Params.exhibit_slug }}
 {{ $ordered := .CurrentSection.Pages.ByWeight }}
 {{ $cur := .RelPermalink }}
@@ -36,7 +37,7 @@
                   {{ if hasPrefix (.mime | default "") "audio/" }}
                     <audio class="omeka-media" src="{{ .original }}" controls preload="none" aria-label="{{ .title | plainify }}"><a href="{{ .original }}">{{ .title | safeHTML }}</a></audio>
                   {{ else if .image }}
-                    <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
+                    <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ (index $alts (path.BaseName .image)) | default (.title | plainify) }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
@@ -55,7 +56,7 @@
                   {{ if hasPrefix (.mime | default "") "audio/" }}
                     <audio class="omeka-media" src="{{ .original }}" controls preload="none" aria-label="{{ .title | plainify }}"><a href="{{ .original }}">{{ .title | safeHTML }}</a></audio>
                   {{ else if .image }}
-                    <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title | plainify }}" title="{{ .title | plainify }}"></a>
+                    <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ (index $alts (path.BaseName .image)) | default (.title | plainify) }}" title="{{ .title | plainify }}"></a>
                   {{ else }}
                     <a class="exhibit-item-link" href="{{ .url }}">{{ .title | safeHTML }}</a>
                   {{ end }}
