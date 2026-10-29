@@ -115,13 +115,19 @@ WCAG 2.2 AA / 0-violations guarantee.
   content; each `<li>` carries the widget data in `data-*` attributes.
   `static/js/timeline.js` reads those nodes to build the interactive widget as a
   progressive enhancement — no separate data file, no duplicated iteration.
-- **Rendering.** Events show as colour-coded dots on a fixed-height band (a
-  density view, since ~a third of items are year-only and wide labels would pile
-  into an unreadable stack); the title appears on hover and on select, and the
-  full labelled list below is the reading view. Imprecise dates are spread
-  deterministically across the range actually known (their year, or month) by
-  `timeline.js` so they don't stack on a single pixel — the underlying item
-  dates are unchanged.
+- **Rendering.** Recreates the original SIMILE widget (NeatlineTime's band
+  settings and CSS): a 200px **detail band** of gold dots with event titles,
+  stacked into rows, months at 100px (opens on 1 Jan 1789, can't zoom out past
+  about a year), over a 50px purple **overview band** with a tick per event,
+  years at 200px, and the detail span highlighted. The two bands are linked:
+  dragging either moves both. Clicking an event opens a popup like SIMILE's
+  info bubble (thumbnail, linked title, description, date). Rows that don't fit
+  the band are cut off, as on live; the list below has every event. Two
+  deliberate differences: zoom is Ctrl+wheel (live hijacked the plain wheel), and
+  Earlier/Later/Zoom buttons give a non-drag alternative (WCAG 2.2 SC 2.5.7).
+  Imprecise dates are spread deterministically across the range actually known
+  (their year, or month) by `timeline.js` so they don't stack on a single
+  pixel; the underlying item dates are unchanged.
 - **Faithfulness note.** Two deliberate fixes over the original's date parser:
   year-only items land within their year (vs. SIMILE's month-0 underflow,
   e.g. `1793` → 30 Nov 1792), and the one ranged date (`1787-1810`, "Liberty")
