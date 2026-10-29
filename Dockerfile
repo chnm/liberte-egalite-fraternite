@@ -36,6 +36,8 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 :80 {
         root * /srv
         encode gzip zstd
+        # Legacy Omeka URL redirects (301): static/redirects.caddy ships in public/.
+        import /srv/redirects.caddy
         file_server
 }
 EOF

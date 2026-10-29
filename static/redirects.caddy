@@ -1,0 +1,121 @@
+# redirects.caddy: legacy Omeka Classic URL redirects for revolution.chnm.org (301).
+#
+# Hugo copies this file from static/ into public/, which deploys to
+# /srv/redirects.caddy, where the Caddyfile imports it (as on rrchnm.org).
+#
+# Hugo already covers the plain-path legacy URLs with alias pages:
+# /items/show/N, /collections/show/N, /neatline-time/timelines/show/1, the
+# simple pages, and their .html forms. This file handles what Hugo can't:
+# query strings (/items/browse?tags=..., ?page=N, ?sort_field=...) and
+# path patterns (exhibit item pages).
+#
+# Order matters: the redir directives below fire in source order, first match
+# wins, so the specific /items/browse cases come before the catch-all.
+
+# --- Omeka index pages -> Hugo listings ---
+map {path} {page_target} {
+	default ""
+	/items/tags /tags/
+	/items/tags/ /tags/
+	/collections/browse /collections/
+	/collections/browse/ /collections/
+	/exhibits/browse /exhibits/
+	/exhibits/browse/ /exhibits/
+	/exhibits/tags /exhibits/
+	/exhibits/tags/ /exhibits/
+}
+
+# --- /items/browse?tags=<Tag> -> /tags/<slug>/ (Hugo term pages) ---
+# Tag names are as linked on the live site; slugs are Hugo's (note the en dash).
+map {query.tags} {tag_target} {
+	default ""
+	"Clubs"                                  /tags/clubs/
+	"Counterrevolution"                      /tags/counterrevolution/
+	"Economic Conditions"                    /tags/economic-conditions/
+	"Enlightenment"                          /tags/enlightenment/
+	"Europe in Revolution"                   /tags/europe-in-revolution/
+	"Glossary"                               /tags/glossary/
+	"Image"                                  /tags/image/
+	"Laws"                                   /tags/laws/
+	"Map"                                    /tags/map/
+	"Middle Classes – Bourgeoisie"           /tags/middle-classes--bourgeoisie/
+	"Monarchy"                               /tags/monarchy/
+	"Napoleon Bonaparte"                     /tags/napoleon-bonaparte/
+	"Nobility"                               /tags/nobility/
+	"Peasants"                               /tags/peasants/
+	"Popular Politics"                       /tags/popular-politics/
+	"Provinces"                              /tags/provinces/
+	"Public Opinion"                         /tags/public-opinion/
+	"Religion"                               /tags/religion/
+	"Sans-culottes"                          /tags/sans-culottes/
+	"Song"                                   /tags/song/
+	"Text"                                   /tags/text/
+	"The Terror"                             /tags/the-terror/
+	"The US and Great Britain in Revolution" /tags/the-us-and-great-britain-in-revolution/
+	"Timeline"                               /tags/timeline/
+	"War"                                    /tags/war/
+	"Women"                                  /tags/women/
+}
+
+# --- /items/browse sort order -> the pre-built sorted views ---
+map "{query.sort_field}|{query.sort_dir}" {browse_base} {
+	default /items/
+	"Dublin Core,Title|d"                /items/title-desc/
+	"Item Type Metadata,Sortable Date|"  /items/date/
+	"Item Type Metadata,Sortable Date|a" /items/date/
+	"Item Type Metadata,Sortable Date|d" /items/date-desc/
+}
+
+@browse path /items/browse /items/browse/
+
+# Feeds (?output=rss2|atom|...): the static site has no item feed.
+@feed {
+	path /items/browse /items/browse/
+	query output=*
+}
+redir @feed /items/ 301
+
+# Keyword searches -> Pagefind search (search.js reads ?search= as the query).
+@browseSearch {
+	path /items/browse /items/browse/ /items/search /items/search/
+	query search=*
+}
+redir @browseSearch /search/?{query}&record_types%5B%5D=Item 301
+
+# Site search without the trailing slash: keep the query string.
+@siteSearch path /search
+redir @siteSearch /search/?{query} 301
+
+@tagPage {
+	path /items/browse /items/browse/
+	expression `{tag_target} != "" && {query.page} != ""`
+}
+redir @tagPage {tag_target}page/{query.page}/ 301
+
+@tag {
+	path /items/browse /items/browse/
+	expression `{tag_target} != ""`
+}
+redir @tag {tag_target} 301
+
+@collection {
+	path /items/browse /items/browse/
+	query collection=*
+}
+redir @collection /collections/{query.collection}/ 301
+
+@browsePage {
+	path /items/browse /items/browse/
+	query page=*
+}
+redir @browsePage {browse_base}page/{query.page}/ 301
+
+# Anything else on /items/browse (sorting alone, unknown filters) -> listing.
+redir @browse {browse_base} 301
+
+# Exhibit item pages -> the item (via Hugo's /items/show/N alias).
+@exhibitItem path_regexp exhibitItem ^/exhibits/show/[^/]+/item/([0-9]+)/?$
+redir @exhibitItem /items/show/{re.exhibitItem.1}/ 301
+
+@pageTarget expression `{page_target} != ""`
+redir @pageTarget {page_target} 301

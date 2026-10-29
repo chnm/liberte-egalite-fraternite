@@ -55,8 +55,12 @@
     if (!results) return;
 
     var qs = new URLSearchParams(location.search);
-    var query = (qs.get('query') || qs.get('q') || '').trim();
-    var rtypes = qs.getAll('record_types[]');
+    // ?search= comes from legacy Omeka item-search URLs (see static/redirects.caddy).
+    var query = (qs.get('query') || qs.get('q') || qs.get('search') || '').trim();
+    // Legacy Omeka record types: ExhibitPage/SimplePagesPage map to ours; File/Collection have no equivalent.
+    var LEGACY = { ExhibitPage: 'Exhibit', SimplePagesPage: 'Page' };
+    var rtypes = qs.getAll('record_types[]').map(function (t) { return LEGACY[t] || t; })
+      .filter(function (t, i, a) { return TYPES.indexOf(t) !== -1 && a.indexOf(t) === i; });
     if (!rtypes.length) rtypes = TYPES.slice();
     var page = Math.max(1, parseInt(qs.get('page') || '1', 10));
     var filters = {}, pfFilters = {};
