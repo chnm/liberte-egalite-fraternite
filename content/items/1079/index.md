@@ -88,5 +88,6 @@ slug: '1079'
 sortdate: '9999-99-99'
 tags: []
 title: 'Calendrier républicain... : an III : [estampe] / P.L. Debucourt del. et sculp.'
+title_lang: fr
 type: items
 ---
