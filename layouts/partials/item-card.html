@@ -13,7 +13,7 @@
   <div class="item-meta">
     <h2>
       {{ with .Params.item_type }}{{ partial "item-type-icon.html" . }} {{ end }}
-      <a href="{{ .RelPermalink }}" class="permalink">{{ .Title | safeHTML }}</a>
+      <a href="{{ .RelPermalink }}" class="permalink"{{ with .Params.title_lang }} lang="{{ . }}"{{ end }}>{{ .Title | safeHTML }}</a>
       {{ with $date }}<span class="date">{{ . }}</span>{{ end }}
     </h2>
     {{ with $desc }}<div class="item-description">{{ . }}</div>{{ end }}

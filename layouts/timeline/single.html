@@ -110,7 +110,7 @@
       {{- with .Params.dublin_core.Date -}}{{- with index . 0 -}}{{- $dcdate = .text | plainify -}}{{- end -}}{{- end -}}
     <li{{ with $slug }} class="{{ . }}"{{ end }} data-start="{{ $start }}" data-precision="{{ $precision }}" data-link="{{ .RelPermalink }}"{{ with $slug }} data-classname="{{ . }}"{{ end }}{{ with $image }} data-image="{{ . }}"{{ end }}>
       <span class="event-date">{{ $dcdate }}</span> &middot;
-      <a href="{{ .RelPermalink }}">{{ .Title | plainify }}</a>
+      <a href="{{ .RelPermalink }}"{{ with .Params.title_lang }} lang="{{ . }}"{{ end }}>{{ .Title | plainify }}</a>
       {{- with $desc }}
       <p>{{ . }}</p>
       {{- end }}

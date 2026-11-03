@@ -35,6 +35,7 @@ sortdate: '9999-99-99'
 tags:
   - Glossary
 title: Cahier de doléances
+title_lang: fr
 type: items
 url: /d/1067/
 ---
