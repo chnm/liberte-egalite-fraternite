@@ -34,9 +34,11 @@
           <div id="dublin-core-{{ $f | urlize }}" class="element">
             <h3 data-pagefind-ignore>{{ $f }}</h3>
             {{/* Keep the item URLs that lead Relation/Identifier values (".../revolution/d/N")
-                 out of the search index, or "revolution" matches every item. */}}
+                 out of the search index, or "revolution" matches every item.
+                 Some values carry real markup (<em>, citation links) but are flagged
+                 html: false; honour markup whatever the flag (#22). */}}
             {{ $lang := cond (eq $f "Title") ($.Params.title_lang | default "") "" }}
-            {{ range . }}<div class="element-text"{{ with $lang }} lang="{{ . }}"{{ end }}>{{ $t := cond .html .text (htmlEscape .text) }}{{ replaceRE `^(https?://[^\s|<]+)` `<span data-pagefind-ignore>$1</span>` $t | safeHTML }}</div>{{ end }}
+            {{ range . }}<div class="element-text"{{ with $lang }} lang="{{ . }}"{{ end }}>{{ $t := cond (or .html (findRE `</?[a-z]+[ >]` .text 1)) .text (htmlEscape .text) }}{{ replaceRE `^(https?://[^\s|<]+)` `<span data-pagefind-ignore>$1</span>` $t | safeHTML }}</div>{{ end }}
           </div>
         {{ end }}
       {{ end }}
