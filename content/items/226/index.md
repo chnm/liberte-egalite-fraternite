@@ -40,12 +40,14 @@ dublin_core:
       text: The Sugar Mill
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f0f069d7a44ac9841f703994ef659521.jpg
+  - fullsize: /files/fullsize/f0f069d7a44ac9841f703994ef659521.jpg
     id: 248
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c1a94683b85d68c3fed55e3af4a99ae5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f0f069d7a44ac9841f703994ef659521.jpg
-    url: https://revolution.chnm.org/files/original/f0f069d7a44ac9841f703994ef659521.jpg
+    thumb: /files/thumbnails/f0f069d7a44ac9841f703994ef659521.jpg
+    url: /files/original/f0f069d7a44ac9841f703994ef659521.jpg
+    alt:
+      en: "An 18th-century engraving of a Saint Domingue sugar plantation, showing enslaved workers operating a cane-grinding mill and tending boiling vats under a thatched shelter, while an armed overseer supervises amid tropical palms."
 geo:
 id: 226
 item_type: Still Image

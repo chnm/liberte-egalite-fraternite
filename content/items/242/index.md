@@ -44,12 +44,14 @@ dublin_core:
       text: Siege and Taking of the City of Lyon
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/07df8aa278c1c0a81434faf1faff6a37.jpg
+  - fullsize: /files/fullsize/07df8aa278c1c0a81434faf1faff6a37.jpg
     id: 267
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0959f41960de155be558d27f382c38bb.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/07df8aa278c1c0a81434faf1faff6a37.jpg
-    url: https://revolution.chnm.org/files/original/07df8aa278c1c0a81434faf1faff6a37.jpg
+    thumb: /files/thumbnails/07df8aa278c1c0a81434faf1faff6a37.jpg
+    url: /files/original/07df8aa278c1c0a81434faf1faff6a37.jpg
+    alt:
+      en: "Engraving of French Republican troops with cannons and tents encamped on hills overlooking Lyon during its 1793 siege, smoke rising from distant fortifications under a cloudy sky."
 geo:
 id: 242
 item_type: Still Image

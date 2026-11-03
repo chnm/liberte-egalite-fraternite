@@ -1,7 +1,7 @@
 ---
 aliases:
   - /exhibits/show/liberty--equality--fraternity.html
-cover: https://revolution.chnm.org/files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
+cover: /files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
 credits: ''
 date: '2019-07-23 22:36:55'
 draft: false

@@ -42,12 +42,14 @@ dublin_core:
       text: The Saving of France
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/ad1af82f58b8ed63252a85afca1fd328.jpg
+  - fullsize: /files/fullsize/ad1af82f58b8ed63252a85afca1fd328.jpg
     id: 148
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4e118aa4ef0a01033190ea505fbaa6eb.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/ad1af82f58b8ed63252a85afca1fd328.jpg
-    url: https://revolution.chnm.org/files/original/ad1af82f58b8ed63252a85afca1fd328.jpg
+    thumb: /files/thumbnails/ad1af82f58b8ed63252a85afca1fd328.jpg
+    url: /files/original/ad1af82f58b8ed63252a85afca1fd328.jpg
+    alt:
+      en: "Napoleon pulls France from the edge of a cliff away from a chained, torch-bearing figure of Fanaticism, while allegorical women holding scales and abundance welcome her, as an angel and imp look on."
 geo:
 id: 126
 item_type: Still Image

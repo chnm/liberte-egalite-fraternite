@@ -40,12 +40,14 @@ dublin_core:
       text: Image of the King’s Departure
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f856da1461935dcf32942140423a62a4.jpg
+  - fullsize: /files/fullsize/f856da1461935dcf32942140423a62a4.jpg
     id: 120
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/84f3c9e2c8562af8835ca86a4eb5666e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f856da1461935dcf32942140423a62a4.jpg
-    url: https://revolution.chnm.org/files/original/f856da1461935dcf32942140423a62a4.jpg
+    thumb: /files/thumbnails/f856da1461935dcf32942140423a62a4.jpg
+    url: /files/original/f856da1461935dcf32942140423a62a4.jpg
+    alt:
+      en: "Engraving of a cloaked family group, one man carrying a sleeping child, crossing a shadowy Paris street past a lantern-bearing guard toward a waiting carriage at night."
 geo:
 id: 100
 item_type: Still Image

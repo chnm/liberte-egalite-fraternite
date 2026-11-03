@@ -40,12 +40,14 @@ dublin_core:
       text: Execution of Louis XVI, January 21, 1793, 10:22 in the morning
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e58417d58287d6d674dad7e4277fa8ff.jpg
+  - fullsize: /files/fullsize/e58417d58287d6d674dad7e4277fa8ff.jpg
     id: 206
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b51d0a3155f04dd0fa2ed13c08573716.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e58417d58287d6d674dad7e4277fa8ff.jpg
-    url: https://revolution.chnm.org/files/original/e58417d58287d6d674dad7e4277fa8ff.jpg
+    thumb: /files/thumbnails/e58417d58287d6d674dad7e4277fa8ff.jpg
+    url: /files/original/e58417d58287d6d674dad7e4277fa8ff.jpg
+    alt:
+      en: "Louis XVI, hands bound and coat removed, stands on the scaffold with his confessor as an executioner holds up his severed head; armed troops and mounted officers surround the platform."
 geo:
 id: 183
 item_type: Still Image

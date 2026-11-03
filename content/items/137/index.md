@@ -25,12 +25,14 @@ dublin_core:
       text: Gallic Declaration of War, or, Bumbardment of all Europe
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/f13ba490f61400d8a8115a4fef096ca9.jpg
+  - fullsize: /files/fullsize/f13ba490f61400d8a8115a4fef096ca9.jpg
     id: 159
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c95c0760fc44b589f788e327d9d6e3ab.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/f13ba490f61400d8a8115a4fef096ca9.jpg
-    url: https://revolution.chnm.org/files/original/f13ba490f61400d8a8115a4fef096ca9.jpg
+    thumb: /files/thumbnails/f13ba490f61400d8a8115a4fef096ca9.jpg
+    url: /files/original/f13ba490f61400d8a8115a4fef096ca9.jpg
+    alt:
+      en: "A satirical engraving shows cannon-like figures firing flatulence as cannon fire from a ship labeled \"National Assembly,\" with European monarchs and a giant eagle reacting in alarm across the scene."
 geo:
 id: 137
 item_type: Still Image

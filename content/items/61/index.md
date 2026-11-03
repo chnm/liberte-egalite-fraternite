@@ -25,12 +25,14 @@ dublin_core:
       text: Saucière with Phrygian Bonnet
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/91bb7f21a427ea321eda53a433717a79.jpg
+  - fullsize: /files/fullsize/91bb7f21a427ea321eda53a433717a79.jpg
     id: 76
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b87bd4858d4ae7b91fded011e2628b2a.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/91bb7f21a427ea321eda53a433717a79.jpg
-    url: https://revolution.chnm.org/files/original/91bb7f21a427ea321eda53a433717a79.jpg
+    thumb: /files/thumbnails/91bb7f21a427ea321eda53a433717a79.jpg
+    url: /files/original/91bb7f21a427ea321eda53a433717a79.jpg
+    alt:
+      en: "An ornate porcelain sauceboat with a curling handle shaped like a Phrygian cap, decorated with floral sprays, gilt borders, and oval medallions framing painted birds."
 geo:
 id: 61
 item_type: Still Image

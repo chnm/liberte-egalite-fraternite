@@ -44,12 +44,14 @@ dublin_core:
       text: The King Returns to Paris
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/6548cff0fac0d395a6784da4a27c07d1.jpg
+  - fullsize: /files/fullsize/6548cff0fac0d395a6784da4a27c07d1.jpg
     id: 235
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/2848b88095bbe99f9bb8f70ef606a90b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/6548cff0fac0d395a6784da4a27c07d1.jpg
-    url: https://revolution.chnm.org/files/original/6548cff0fac0d395a6784da4a27c07d1.jpg
+    thumb: /files/thumbnails/6548cff0fac0d395a6784da4a27c07d1.jpg
+    url: /files/original/6548cff0fac0d395a6784da4a27c07d1.jpg
+    alt:
+      en: "Engraving of a royal carriage departing the Château de Versailles on 6 October 1789, flanked by cheering crowds and ranks of soldiers firing an artillery salute amid rising smoke."
 geo:
 id: 213
 item_type: Still Image

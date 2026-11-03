@@ -42,12 +42,14 @@ dublin_core:
       text: Costumes of the Council of Five Hundred
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2f3184e21e15075c2d9284ec5e2eacd1.jpg
+  - fullsize: /files/fullsize/2f3184e21e15075c2d9284ec5e2eacd1.jpg
     id: 82
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/dc784ad64366fad915cd08d5bda3336d.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2f3184e21e15075c2d9284ec5e2eacd1.jpg
-    url: https://revolution.chnm.org/files/original/2f3184e21e15075c2d9284ec5e2eacd1.jpg
+    thumb: /files/thumbnails/2f3184e21e15075c2d9284ec5e2eacd1.jpg
+    url: /files/original/2f3184e21e15075c2d9284ec5e2eacd1.jpg
+    alt:
+      en: "Hand-colored engraving depicting robed members of the Council of Five Hundred seated in rows within a columned hall, as a presiding officer in classical dress gestures from an elevated rostrum."
 geo:
 id: 67
 item_type: Still Image

@@ -40,12 +40,14 @@ dublin_core:
       text: Toussaint L’Ouverture
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/9307e72fbc91b72447298f17abedeb21.jpg
+  - fullsize: /files/fullsize/9307e72fbc91b72447298f17abedeb21.jpg
     id: 251
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/4f680e43019431235a27639b1a88561f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9307e72fbc91b72447298f17abedeb21.jpg
-    url: https://revolution.chnm.org/files/original/9307e72fbc91b72447298f17abedeb21.jpg
+    thumb: /files/thumbnails/9307e72fbc91b72447298f17abedeb21.jpg
+    url: /files/original/9307e72fbc91b72447298f17abedeb21.jpg
+    alt:
+      en: "Hand-colored engraving of Toussaint L'Ouverture in military uniform and plumed hat, holding a curved sword and document, with troops and tents visible in the hilly landscape behind him."
 geo:
 id: 228
 item_type: Still Image

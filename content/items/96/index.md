@@ -44,12 +44,14 @@ dublin_core:
       text: Taking of Weapons at the Invalides
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
+  - fullsize: /files/fullsize/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
     id: 116
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3ecb2c442f2e8cbdaab1ccfc6c0f277c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
-    url: https://revolution.chnm.org/files/original/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
+    thumb: /files/thumbnails/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
+    url: /files/original/0c05ba71bf099af6db27c4ce4efdb7c4.jpg
+    alt:
+      en: "Engraving of a large crowd surging across an open esplanade toward the domed Invalides building, with scattered figures and guards amid a dramatic cloud-filled sky, captioned \"Prise des Armes aux Invalides.\""
 geo:
 id: 96
 item_type: Still Image

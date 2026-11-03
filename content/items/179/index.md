@@ -28,12 +28,14 @@ dublin_core:
       text: Louis XVI and His Family (20 January 1793)
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/de08a329f8fd7ce87444cdfc674be82e.jpg
+  - fullsize: /files/fullsize/de08a329f8fd7ce87444cdfc674be82e.jpg
     id: 203
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5260bf65bebaa4cb1922d7252f1dc218.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/de08a329f8fd7ce87444cdfc674be82e.jpg
-    url: https://revolution.chnm.org/files/original/de08a329f8fd7ce87444cdfc674be82e.jpg
+    thumb: /files/thumbnails/de08a329f8fd7ce87444cdfc674be82e.jpg
+    url: /files/original/de08a329f8fd7ce87444cdfc674be82e.jpg
+    alt:
+      en: "King Louis XVI embraces his weeping wife and children in a candlelit room while a uniformed guard stands watch by the door, during his final family visit before execution."
 geo:
 id: 179
 item_type: Still Image

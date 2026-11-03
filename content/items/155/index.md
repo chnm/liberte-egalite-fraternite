@@ -40,12 +40,14 @@ dublin_core:
       text: I Was Sure We Would Have Our Turn
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/86977a69fb8b624861965907840c6be4.jpg
+  - fullsize: /files/fullsize/86977a69fb8b624861965907840c6be4.jpg
     id: 179
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/47f658812286fb461117463689ab491f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/86977a69fb8b624861965907840c6be4.jpg
-    url: https://revolution.chnm.org/files/original/86977a69fb8b624861965907840c6be4.jpg
+    thumb: /files/thumbnails/86977a69fb8b624861965907840c6be4.jpg
+    url: /files/original/86977a69fb8b624861965907840c6be4.jpg
+    alt:
+      en: "A peasant rides atop a clergyman and nobleman bent over as a human horse, brandishing a sword and dead game while declaring \"Vive le Roi, Vive la Nation,\" with the caption \"J'savois ben qu'j'aurions not tour\" below."
 geo:
 id: 155
 item_type: Still Image

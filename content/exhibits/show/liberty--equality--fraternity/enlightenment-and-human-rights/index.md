@@ -4,10 +4,10 @@ aliases:
 blocks:
   - attachments:
       - caption: <p>French Constitution, Rights of Man and Citizen</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1148ea364b1e24cf84585ddab8b4cc0b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+        fullsize: /files/fullsize/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+        image: /files/square_thumbnails/1148ea364b1e24cf84585ddab8b4cc0b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+        original: /files/original/1148ea364b1e24cf84585ddab8b4cc0b.jpg
         title: French Constitution, Rights of Man and Citizen
         url: /d/55/
     layout: file-text
@@ -26,17 +26,17 @@ blocks:
         title: <i>Declaration of the Rights of Man and Citizen</i>, 26 August 1789
         url: /d/295/
       - caption: <p>Reason</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/9115b2bb5824e99773f0566bf7978157.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/9115b2bb5824e99773f0566bf7978157.jpg
+        fullsize: /files/fullsize/9115b2bb5824e99773f0566bf7978157.jpg
+        image: /files/square_thumbnails/9115b2bb5824e99773f0566bf7978157.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/9115b2bb5824e99773f0566bf7978157.jpg
+        original: /files/original/9115b2bb5824e99773f0566bf7978157.jpg
         title: Reason
         url: /d/1/
       - caption: <p>Liberty</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+        fullsize: /files/fullsize/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+        image: /files/square_thumbnails/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+        original: /files/original/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
         title: Liberty
         url: /d/4/
       - caption: ''
@@ -138,10 +138,10 @@ blocks:
         title: Voltaire, Selections from the <i>Philosophical Dictionary</i>
         url: /d/273/
       - caption: <p>Transportation of Voltaire to the French Panthéon</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/bd4c6b45e121027602e450a0128ee7c7.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/bd4c6b45e121027602e450a0128ee7c7.jpg
+        fullsize: /files/fullsize/bd4c6b45e121027602e450a0128ee7c7.jpg
+        image: /files/square_thumbnails/bd4c6b45e121027602e450a0128ee7c7.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/bd4c6b45e121027602e450a0128ee7c7.jpg
+        original: /files/original/bd4c6b45e121027602e450a0128ee7c7.jpg
         title: Transportation of Voltaire to the French Panthéon, 8 July 1792
         url: /d/138/
     layout: file-text
@@ -240,10 +240,10 @@ blocks:
         title: Decree of the National Assembly Abolishing the Feudal System, 11 August 1789
         url: /d/281/
       - caption: <p><span>National Assembly Relinquishes Privileges</span></p>
-        fullsize: https://revolution.chnm.org/files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        fullsize: /files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        image: /files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        original: /files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         title: National Assembly Relinquishes All Privileges
         url: /d/648/
     layout: file-text
@@ -253,17 +253,17 @@ blocks:
     text: <p>As the notion of rights spread, it became increasingly radical. When King Louis XVI called the Estates-General to meet in 1789, he inadvertently released a torrent of complaints about the future of the country in the form of pamphlets. One of the most influential of these pamphlets was written by a clergyman, Abbé Sieyès. In "What Is the Third Estate?", he offered a fundamentally new vision of French society in which position would be determined by usefulness, not birth. In short, he attacked the concept of a hereditary nobility. Sieyès's pamphlet helped clear the way for the views that would be expressed in the<em> Declaration of the Rights of Man and Citizen.</em></p>
   - attachments:
       - caption: <p>Equality</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/042637d4456d4f3efb1b44d8c8bc60f9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/042637d4456d4f3efb1b44d8c8bc60f9.jpg
+        fullsize: /files/fullsize/042637d4456d4f3efb1b44d8c8bc60f9.jpg
+        image: /files/square_thumbnails/042637d4456d4f3efb1b44d8c8bc60f9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/042637d4456d4f3efb1b44d8c8bc60f9.jpg
+        original: /files/original/042637d4456d4f3efb1b44d8c8bc60f9.jpg
         title: Equality
         url: /d/3/
       - caption: <p>Fraternity</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8c0616479b03b2f71338e2b41e902e13.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8c0616479b03b2f71338e2b41e902e13.jpg
+        fullsize: /files/fullsize/8c0616479b03b2f71338e2b41e902e13.jpg
+        image: /files/square_thumbnails/8c0616479b03b2f71338e2b41e902e13.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8c0616479b03b2f71338e2b41e902e13.jpg
+        original: /files/original/8c0616479b03b2f71338e2b41e902e13.jpg
         title: Fraternity
         url: /d/2/
     layout: file-text
@@ -287,10 +287,10 @@ blocks:
         title: Robespierre, "Speech Denouncing the New Conditions of Eligibility," 22 October 1789
         url: /d/283/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/items/show/3306">It'll Be Okay</a></p>
-        fullsize: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
-        image: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        fullsize: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        image: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        original: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         title: It’ll Be Okay
         url: /d/623/
       - caption: ''

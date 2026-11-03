@@ -37,12 +37,14 @@ dublin_core:
       text: The Royal and Imperial Family of Napoleon, the Greatest and First with That Name
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+  - fullsize: /files/fullsize/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
     id: 174
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6f7f7e661d55d4b49afec15b7a8425b3.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
-    url: https://revolution.chnm.org/files/original/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+    thumb: /files/thumbnails/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+    url: /files/original/9329a92b1a31a4a5f0b3906b5e9606cc.jpg
+    alt:
+      en: "Allegorical print with an eagle and winged goddess atop five oval portraits of Napoleon's family members in military and royal dress, surrounded by flags, cherubs, and a serpent, titled \"Famille Impériale et Royale de Napoléon le Grand Premier du Nom.\""
 geo:
 id: 150
 item_type: Still Image

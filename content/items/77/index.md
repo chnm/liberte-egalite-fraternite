@@ -40,12 +40,14 @@ dublin_core:
       text: The Roman Aristocrat
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/93d3f02ec07952c546840d19ff07b021.jpg
+  - fullsize: /files/fullsize/93d3f02ec07952c546840d19ff07b021.jpg
     id: 95
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c6cfc95ef7f45efe8ae9add4339a7816.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/93d3f02ec07952c546840d19ff07b021.jpg
-    url: https://revolution.chnm.org/files/original/93d3f02ec07952c546840d19ff07b021.jpg
+    thumb: /files/thumbnails/93d3f02ec07952c546840d19ff07b021.jpg
+    url: /files/original/93d3f02ec07952c546840d19ff07b021.jpg
+    alt:
+      en: "A towering crowned figure in scaled armor holds a balance scale weighing a small commoner, while a bloated clergyman and nobleman ride a pig nearby, satirizing revolutionary-era voting qualifications and aristocratic privilege."
 geo:
 id: 77
 item_type: Still Image

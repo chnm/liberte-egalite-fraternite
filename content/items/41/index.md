@@ -25,12 +25,14 @@ dublin_core:
       text: 'Plate: 1914–17 Quimper china'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/40626df7761f1870a54c2aac8355ee94.jpg
+  - fullsize: /files/fullsize/40626df7761f1870a54c2aac8355ee94.jpg
     id: 53
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d537d10a960266de388b03fc887e75ea.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/40626df7761f1870a54c2aac8355ee94.jpg
-    url: https://revolution.chnm.org/files/original/40626df7761f1870a54c2aac8355ee94.jpg
+    thumb: /files/thumbnails/40626df7761f1870a54c2aac8355ee94.jpg
+    url: /files/original/40626df7761f1870a54c2aac8355ee94.jpg
+    alt:
+      en: "Commemorative Quimper china plate with a wavy red-white-blue rim, laurel wreath encircling a sword adorned with ribbons, flanked by the dates 1914 and 1917."
 geo:
 id: 41
 item_type: Still Image

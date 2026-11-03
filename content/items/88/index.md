@@ -40,12 +40,14 @@ dublin_core:
       text: Siege of the Tuileries
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/223fb33fc00d11991b0df8c68c4f8a33.jpg
+  - fullsize: /files/fullsize/223fb33fc00d11991b0df8c68c4f8a33.jpg
     id: 108
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9ab0a405df68fb7d697788cf8403cb0c.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/223fb33fc00d11991b0df8c68c4f8a33.jpg
-    url: https://revolution.chnm.org/files/original/223fb33fc00d11991b0df8c68c4f8a33.jpg
+    thumb: /files/thumbnails/223fb33fc00d11991b0df8c68c4f8a33.jpg
+    url: /files/original/223fb33fc00d11991b0df8c68c4f8a33.jpg
+    alt:
+      en: "Hand-colored engraving of the storming of the Tuileries Palace, showing armed crowds, cannons firing, and soldiers clashing in the courtyard before the grand palace facade under a smoke-filled sky."
 geo:
 id: 88
 item_type: Still Image

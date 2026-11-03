@@ -40,12 +40,14 @@ dublin_core:
       text: Watch Yourself or You’ll Be a Product for Sale
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/98727eac2b4639c92018946483bf7155.jpg
+  - fullsize: /files/fullsize/98727eac2b4639c92018946483bf7155.jpg
     id: 80
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d1cf0eba727048355aba5dfaaa752409.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/98727eac2b4639c92018946483bf7155.jpg
-    url: https://revolution.chnm.org/files/original/98727eac2b4639c92018946483bf7155.jpg
+    thumb: /files/thumbnails/98727eac2b4639c92018946483bf7155.jpg
+    url: /files/original/98727eac2b4639c92018946483bf7155.jpg
+    alt:
+      en: "Hand-colored French caricature titled \"Garde à vous No.1, ou le Sérail en Boutique,\" showing modestly dressed women outside a shop window while scantily clad women recline inside for men's attention."
 geo:
 id: 65
 item_type: Still Image

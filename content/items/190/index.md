@@ -28,12 +28,14 @@ dublin_core:
       text: 10 August 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/38a250b7ba5494273f8472bf80cb9f0e.jpg
+  - fullsize: /files/fullsize/38a250b7ba5494273f8472bf80cb9f0e.jpg
     id: 213
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c89d56531f1c455473555741ee89f62e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/38a250b7ba5494273f8472bf80cb9f0e.jpg
-    url: https://revolution.chnm.org/files/original/38a250b7ba5494273f8472bf80cb9f0e.jpg
+    thumb: /files/thumbnails/38a250b7ba5494273f8472bf80cb9f0e.jpg
+    url: /files/original/38a250b7ba5494273f8472bf80cb9f0e.jpg
+    alt:
+      en: "Engraving of armed revolutionaries marching with flags and cannon past the Tuileries Palace on August 10, 1792, with bodies lying on the ground amid smoke in the background."
 geo:
 id: 190
 item_type: Still Image

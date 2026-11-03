@@ -19,18 +19,22 @@ dublin_core:
       text: Wars of Resistance 1793–95
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/93e8615362aceaf7df6e9265e2baba5b.jpg
+  - fullsize: /files/fullsize/93e8615362aceaf7df6e9265e2baba5b.jpg
     id: 8
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5f1ba2d009d136bbcca519108a837e98.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/93e8615362aceaf7df6e9265e2baba5b.jpg
-    url: https://revolution.chnm.org/files/original/93e8615362aceaf7df6e9265e2baba5b.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/d5d4490bf331911e5c578bb35f390449.jpg
+    thumb: /files/thumbnails/93e8615362aceaf7df6e9265e2baba5b.jpg
+    url: /files/original/93e8615362aceaf7df6e9265e2baba5b.jpg
+    alt:
+      en: "Map of France highlighting regions of counter-revolutionary uprising, with Chouans and Vendée areas marked in the west and cities like Lyons, Toulon, and Marseilles noted as federalist revolt centers."
+  - fullsize: /files/fullsize/d5d4490bf331911e5c578bb35f390449.jpg
     id: 9
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/89d8c427e975fcd2dc1ca4b1cc553614.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d5d4490bf331911e5c578bb35f390449.jpg
-    url: https://revolution.chnm.org/files/original/d5d4490bf331911e5c578bb35f390449.jpg
+    thumb: /files/thumbnails/d5d4490bf331911e5c578bb35f390449.jpg
+    url: /files/original/d5d4490bf331911e5c578bb35f390449.jpg
+    alt:
+      en: "Map of France marking centers of counter-revolutionary resistance (1793–95), including Chouans in Brittany and Vendée uprisings, with cities like Lyons, Toulon, and Marseilles labeled as revolt sites."
 geo:
 id: 5
 item_type: Still Image

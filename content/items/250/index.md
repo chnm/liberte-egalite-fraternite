@@ -42,18 +42,22 @@ dublin_core:
       text: Assassination of J. P. Marat
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/a837fd51aeca08612c93fec606e27d61.jpg
+  - fullsize: /files/fullsize/a837fd51aeca08612c93fec606e27d61.jpg
     id: 276
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/68d24d230827d515870b27984f53c381.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/a837fd51aeca08612c93fec606e27d61.jpg
-    url: https://revolution.chnm.org/files/original/a837fd51aeca08612c93fec606e27d61.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/68b1a5c8972440afde69a342f1c6d20b.jpg
+    thumb: /files/thumbnails/a837fd51aeca08612c93fec606e27d61.jpg
+    url: /files/original/a837fd51aeca08612c93fec606e27d61.jpg
+    alt:
+      en: "Print depicting the aftermath of Marat's assassination: his pale body slumped in a boot-shaped bath while officials begin an inquest and guards escort Charlotte Corday from the room."
+  - fullsize: /files/fullsize/68b1a5c8972440afde69a342f1c6d20b.jpg
     id: 277
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a1e18b799b73a2b97d6d92adb79179e9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/68b1a5c8972440afde69a342f1c6d20b.jpg
-    url: https://revolution.chnm.org/files/original/68b1a5c8972440afde69a342f1c6d20b.jpg
+    thumb: /files/thumbnails/68b1a5c8972440afde69a342f1c6d20b.jpg
+    url: /files/original/68b1a5c8972440afde69a342f1c6d20b.jpg
+    alt:
+      en: "Engraving depicting Marat's lifeless body slumped in a boot-shaped bath, while armed men escort Charlotte Corday from the room and officials begin recording the scene at a nearby desk."
 geo:
 id: 250
 item_type: Still Image

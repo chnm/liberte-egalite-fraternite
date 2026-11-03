@@ -37,12 +37,14 @@ dublin_core:
       text: Parisian Fishwives
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/08390987a72df101b43587260dbdfa3a.jpg
+  - fullsize: /files/fullsize/08390987a72df101b43587260dbdfa3a.jpg
     id: 245
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/93f68fbd25c3b0df92d041d14a9445a9.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/08390987a72df101b43587260dbdfa3a.jpg
-    url: https://revolution.chnm.org/files/original/08390987a72df101b43587260dbdfa3a.jpg
+    thumb: /files/thumbnails/08390987a72df101b43587260dbdfa3a.jpg
+    url: /files/original/08390987a72df101b43587260dbdfa3a.jpg
+    alt:
+      en: "Three Parisian fishwives march together, one carrying a pike topped with a flag, another waving a hat overhead, as a crowd cheers behind them before a cityscape with church spires."
 geo:
 id: 223
 item_type: Still Image

@@ -40,12 +40,14 @@ dublin_core:
       text: Festival of Supreme Being
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+  - fullsize: /files/fullsize/128275148afdda3c5c2af4c7a0e0c7f8.jpg
     id: 141
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b3a6d0d376ecc0cfbbb26d8ce79a0a41.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/128275148afdda3c5c2af4c7a0e0c7f8.jpg
-    url: https://revolution.chnm.org/files/original/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+    thumb: /files/thumbnails/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+    url: /files/original/128275148afdda3c5c2af4c7a0e0c7f8.jpg
+    alt:
+      en: "Hand-colored engraving of the Festival of the Supreme Being at the Champ de Mars, showing a large artificial mountain topped with a statue and tree, surrounded by crowds, flags, and a procession."
 geo:
 id: 120
 item_type: Still Image

@@ -40,12 +40,14 @@ dublin_core:
       text: The Joyous Accord
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/7fd8175dc9f5011c38cd9222fefd5822.jpg
+  - fullsize: /files/fullsize/7fd8175dc9f5011c38cd9222fefd5822.jpg
     id: 67
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/adad7ab41e3dc8eb73b0acb0ce9ada7b.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/7fd8175dc9f5011c38cd9222fefd5822.jpg
-    url: https://revolution.chnm.org/files/original/7fd8175dc9f5011c38cd9222fefd5822.jpg
+    thumb: /files/thumbnails/7fd8175dc9f5011c38cd9222fefd5822.jpg
+    url: /files/original/7fd8175dc9f5011c38cd9222fefd5822.jpg
+    alt:
+      en: "Two hand-colored engravings: top shows three men of different estates toasting together at a table under a tree, \"Le Joyeux Accord\"; bottom shows three figures clasping hands over a pillar reading \"Je Tiens Mon Pied de Boeuf.\""
 geo:
 id: 53
 item_type: Still Image

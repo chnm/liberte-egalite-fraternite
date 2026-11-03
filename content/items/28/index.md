@@ -42,12 +42,14 @@ dublin_core:
       text: The Tragic End of Louis XVI
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8bf113356ab414c1e09c9f13bce02f89.jpg
+  - fullsize: /files/fullsize/8bf113356ab414c1e09c9f13bce02f89.jpg
     id: 39
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/15473831f329c53fbc518dde668e526e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8bf113356ab414c1e09c9f13bce02f89.jpg
-    url: https://revolution.chnm.org/files/original/8bf113356ab414c1e09c9f13bce02f89.jpg
+    thumb: /files/thumbnails/8bf113356ab414c1e09c9f13bce02f89.jpg
+    url: /files/original/8bf113356ab414c1e09c9f13bce02f89.jpg
+    alt:
+      en: "Engraving of Louis XVI's execution by guillotine before a vast crowd, with the executioner holding aloft the severed head as another figure raises a Phrygian cap on a pike."
 geo:
 id: 28
 item_type: Still Image

@@ -44,12 +44,14 @@ dublin_core:
       text: Robespierre Laid on the Table of the Committee of Public Safety
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e76287911d8f9b34cd875076ff52b718.jpg
+  - fullsize: /files/fullsize/e76287911d8f9b34cd875076ff52b718.jpg
     id: 142
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c1dfbc1d1323302980beaa0a57e642df.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e76287911d8f9b34cd875076ff52b718.jpg
-    url: https://revolution.chnm.org/files/original/e76287911d8f9b34cd875076ff52b718.jpg
+    thumb: /files/thumbnails/e76287911d8f9b34cd875076ff52b718.jpg
+    url: /files/original/e76287911d8f9b34cd875076ff52b718.jpg
+    alt:
+      en: "Engraving of Robespierre, wounded and semi-conscious, being carried into a chamber of the Committee of Public Safety as armed soldiers and officials look on, with a wounded man lying on the floor nearby."
 geo:
 id: 121
 item_type: Still Image

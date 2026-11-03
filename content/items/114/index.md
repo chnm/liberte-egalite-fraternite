@@ -41,12 +41,14 @@ dublin_core:
       text: Attack of Nantes by the Vendéans
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1e03e6633e6960937992c10945c853e5.jpg
+  - fullsize: /files/fullsize/1e03e6633e6960937992c10945c853e5.jpg
     id: 134
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/271b74a2c9c5776ffc0d37f9abee05b5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1e03e6633e6960937992c10945c853e5.jpg
-    url: https://revolution.chnm.org/files/original/1e03e6633e6960937992c10945c853e5.jpg
+    thumb: /files/thumbnails/1e03e6633e6960937992c10945c853e5.jpg
+    url: /files/original/1e03e6633e6960937992c10945c853e5.jpg
+    alt:
+      en: "Engraving of Vendéan rebel forces attacking the city of Nantes on June 29, 1793, with soldiers and cannon in the foreground and the city's skyline and smoke rising in the distance."
 geo:
 id: 114
 item_type: Still Image

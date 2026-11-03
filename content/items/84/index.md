@@ -40,12 +40,14 @@ dublin_core:
       text: <span>A Second Jean d'Arc, or the Assassination of Marat by Charlotte Cordé of Caen in Normandy on Sunday July 14 1793</span>
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
+  - fullsize: /files/fullsize/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
     id: 102
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/821b100ff0cd13db2eab03956968acb5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
-    url: https://revolution.chnm.org/files/original/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
+    thumb: /files/thumbnails/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
+    url: /files/original/0efaf413ba8a9e09e03a35d930a5a2ec.jpg
+    alt:
+      en: "Hand-colored caricature of Charlotte Corday holding a bloody knife while Marat lies wounded and sprawled on the ground, with handwritten captions above describing the assassination."
 geo:
 id: 84
 item_type: Still Image

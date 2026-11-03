@@ -40,12 +40,14 @@ dublin_core:
       text: An Ordinary Guillotine
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
+  - fullsize: /files/fullsize/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
     id: 154
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/c1d9493a254f39c64cbe6729dddb0de7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
-    url: https://revolution.chnm.org/files/original/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
+    thumb: /files/thumbnails/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
+    url: /files/original/bf5eef70ba1d3eb6e077fccc41d3c2f7.jpg
+    alt:
+      en: "An engraving of a guillotine on a raised wooden platform with steps, labeled \"La Véritable Guillotine Ordinaire, Ha! Le Bon Soutien pour la Liberté!\""
 geo:
 id: 132
 item_type: Still Image

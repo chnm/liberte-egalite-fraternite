@@ -4,17 +4,17 @@ aliases:
 blocks:
   - attachments:
       - caption: '<p>Map: Europe 1789</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/e02dada132ef183b4568d12515db6680.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/e02dada132ef183b4568d12515db6680.jpg
+        fullsize: /files/fullsize/e02dada132ef183b4568d12515db6680.jpg
+        image: /files/square_thumbnails/e02dada132ef183b4568d12515db6680.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/e02dada132ef183b4568d12515db6680.jpg
+        original: /files/original/e02dada132ef183b4568d12515db6680.jpg
         title: Europe 1789
         url: /d/425/
       - caption: '<p>Map: Old Regime Provinces</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/648c03368fee08e463ce3ecfa82cc144.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
+        fullsize: /files/fullsize/648c03368fee08e463ce3ecfa82cc144.jpg
+        image: /files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/648c03368fee08e463ce3ecfa82cc144.jpg
+        original: /files/original/648c03368fee08e463ce3ecfa82cc144.jpg
         title: Old Regime Provinces
         url: /d/438/
       - caption: ''
@@ -118,10 +118,10 @@ blocks:
         title: The Sentence against Damiens (1757)
         url: /d/242/
       - caption: <p><span>Damiens Being Broken on the Wheel</span></p>
-        fullsize: https://revolution.chnm.org/files/fullsize/ef9486716308d77953e08fc9e7049259.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/ef9486716308d77953e08fc9e7049259.jpg
+        fullsize: /files/fullsize/ef9486716308d77953e08fc9e7049259.jpg
+        image: /files/square_thumbnails/ef9486716308d77953e08fc9e7049259.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/ef9486716308d77953e08fc9e7049259.jpg
+        original: /files/original/ef9486716308d77953e08fc9e7049259.jpg
         title: Damiens Being Broken on the Wheel
         url: /d/602/
     layout: file-text
@@ -227,10 +227,10 @@ blocks:
         title: Edict Creating "Superior Councils" (23 February 1771)
         url: /d/351/
       - caption: <p>Removal of the <em>Parlements</em></p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8e23a90543454ee8d75ced259e48397a.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8e23a90543454ee8d75ced259e48397a.jpg
+        fullsize: /files/fullsize/8e23a90543454ee8d75ced259e48397a.jpg
+        image: /files/square_thumbnails/8e23a90543454ee8d75ced259e48397a.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8e23a90543454ee8d75ced259e48397a.jpg
+        original: /files/original/8e23a90543454ee8d75ced259e48397a.jpg
         title: Removal of the <em>Parlements</em>
         url: /d/84/
     layout: file-text
@@ -241,10 +241,10 @@ blocks:
     text: "<p>The crisis did not end until four years later, when Louis XV died suddenly of smallpox and his successor Louis XVI recalled the former magistrates to their seats, setting off a new round of protests. While continuing as before to proclaim their loyalty to the monarchy, the magistrates once again defended their traditional \"liberties\" against the \"reform\" plans of the new King's ministers. Amid these controversies, a lesser court responsible for collecting taxes on food and drink also protested fiscal policies, but now these magistrates added an explosive new wrinkle to their objections. In his policy-making decisions, this court claimed, the King needed to rely not just on the <em>Parlements</em> but on \"publicity\": that is, the views of the \"public\" in making policy.</p>"
   - attachments:
       - caption: <p>Louis the Sixteenth, King of France and of Navarre</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/54276177fbee49a13bd2ec51aedfc4d1.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/54276177fbee49a13bd2ec51aedfc4d1.jpg
+        fullsize: /files/fullsize/54276177fbee49a13bd2ec51aedfc4d1.jpg
+        image: /files/square_thumbnails/54276177fbee49a13bd2ec51aedfc4d1.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/54276177fbee49a13bd2ec51aedfc4d1.jpg
+        original: /files/original/54276177fbee49a13bd2ec51aedfc4d1.jpg
         title: Louis the Sixteenth, King of France and of Navarre
         url: /d/140/
       - caption: ''
@@ -283,10 +283,10 @@ blocks:
     text: <p>Other supporters of the monarchy believed that the King alone responded to "public opinion" rather than personal interest, while still others turned to Enlightenment theories of law to assert that monarchs held power "naturally" and thus for the general good. At the same time, successive ministers proposed that the monarchy could improve its governance by instituting proportional land taxes, elective regional assemblies, and cutting the budget. In all these ways, its supporters sought to maintain the monarchy, not just on traditional grounds, but by updating it to make it more efficient and progressive.</p>
   - attachments:
       - caption: <p>Louis XVI distributes aid to the Poor</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/f71d8c542505317d149260001b872d07.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/f71d8c542505317d149260001b872d07.jpg
+        fullsize: /files/fullsize/f71d8c542505317d149260001b872d07.jpg
+        image: /files/square_thumbnails/f71d8c542505317d149260001b872d07.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/f71d8c542505317d149260001b872d07.jpeg
+        original: /files/original/f71d8c542505317d149260001b872d07.jpeg
         title: Louis XVI distributes aid to the Poor
         url: /d/86/
       - caption: ''

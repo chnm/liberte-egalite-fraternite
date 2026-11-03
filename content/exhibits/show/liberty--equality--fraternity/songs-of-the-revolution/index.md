@@ -12,10 +12,10 @@ blocks:
       <p>For clarity, we may divide these thousands of compositions into two rough categories: hymns and songs. Hymns were more formal in both composition and performance. Each hymn had its own music, which was usually orchestrated, and learned, memorized poetic lyrics. Further, hymns were most often performed during festivals. Songs, on the other hand, were casual compositions that consisted of new verses rhymed (often poorly) to a well-known tune. These compositions were most popular among amateurs, who sang them in streets, parks, cafés, and public squares. What hymns and songs had in common was their ability to circulate political information and opinions through a society that was only partly literate. Catchy tunes helped listeners remember instructive or polemical lyrics as they inspired political passions and military fervor.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/614">Te Deum for the Federation</a></p>
-        fullsize: https://revolution.chnm.org/files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
-        image: https://revolution.chnm.org/files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
+        fullsize: /files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
+        image: /files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
+        original: /files/original/6c810da2ea8754e6a877d7de1109ba5c.mp3
         title: Te Deum for the Federation of July 14, 1790 at the Champ de Mars
         url: /d/614/
     layout: file-text
@@ -27,10 +27,10 @@ blocks:
       <p> </p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/623">Change is coming</a></p>
-        fullsize: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
-        image: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        fullsize: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        image: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        original: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         title: It’ll Be Okay
         url: /d/623/
     layout: file-text
@@ -42,10 +42,10 @@ blocks:
       <p> </p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/622">Lamenting the King</a></p>
-        fullsize: https://revolution.chnm.org/files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
-        image: https://revolution.chnm.org/files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
+        fullsize: /files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
+        image: /files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
+        original: /files/original/e20f382dbbcd61ca21c8a350d6ed42fb.mp3
         title: Oh Richard, Oh, My King!
         url: /d/622/
     layout: file-text
@@ -55,10 +55,10 @@ blocks:
     text: <p>Social and political tensions did not disappear, however. Rather, as they intensified, royalists adopted their own anthem: <em>O Richard, ô mon Roi.</em> <em>O Richard</em> was an operatic aria that claimed the king had been abandoned by all but the most faithful. Meanwhile, revolutionaries throughout France continued to perform <em>Ça Ira</em> under all kinds of political circumstances, often in direct opposition to royalists singing <em>O Richard</em>. Used in increasingly contestatory ways, <em>Ça ira</em>'s cheerily optimistic lyrics gave way to a verse that exhorted listeners to "hang the aristocrats"; such performances encouraged pro-revolutionary, educated elites to reconsider their disdain for popular singing. Many began to express a new faith in the ability of street songs to arouse and sustain revolutionary fervor.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/624">The Revolution will win</a></p>
-        fullsize: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
-        image: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        fullsize: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        image: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        original: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
         title: The Carmagnole
         url: /d/624/
     layout: file-text
@@ -68,24 +68,24 @@ blocks:
     text: <p>When war was declared in the spring of 1792, revolutionaries began to search for a more serious composition to accompany soldiers into battle. Although Jean-Claude Rouget de Lisle composed the famous <em>Marseillaise</em> (originally known as "The War Song of the Army of the Rhine") in April, it did not become popular until troops from Marseilles brought it to Paris that summer. Renowned for their revolutionary enthusiasm and their contribution to the insurrection of 10 August, the volunteers from Marseilles taught others the rousing new anthem, whose title would evoke their role in its popularization.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/625">The Marseillaise</a></p>
-        fullsize: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
-        image: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        fullsize: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        image: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/7786f49a56b101b5926876058c5b7db8.mp3
+        original: /files/original/7786f49a56b101b5926876058c5b7db8.mp3
         title: The Marseillaise (War Song for the Army of the Rhine)
         url: /d/625/
       - caption: <p>Renoir's <em>La Marseillaise </em>(1938)</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
-        image: https://revolution.chnm.org/files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        fullsize: /files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        image: /files/fullsize/35f31ae7c9e56578ed1b0490356cdd77.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
+        original: /files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
         title: The Marseillaise
         url: /d/23/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/615">An alternative version</a></p>
-        fullsize: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
-        image: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        fullsize: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        image: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
+        original: /files/original/8ff3cd93420acd395da66d3abd2c0893.mp3
         title: Song of the Marseillaise of the Federation of 10 August, Year II
         url: /d/615/
     layout: file-text
@@ -95,17 +95,17 @@ blocks:
     text: <p>As revolutionaries embarked on the republican experiment after the August overthrow of the monarchy, musical culture reached its zenith. The <em>Marseillaise</em>, with its learned lyrics and martial tune, lent new seriousness to popular singing practices; this was one of the few compositions of the Revolution that was equally successful as both hymn and popular song. Meanwhile, republican celebrations of the <em>sans-culottes</em> raised the status of all kinds of "popular culture." Singing and song-writing were practiced widely. <em>Sans-culottes</em> sang in clubs and popular societies; private citizens composed songs that celebrated republican virtues; booksellers claimed that simply to buy their revolutionary songbooks was a patriotic act; theaters organized performances of music that commemorated revolutionary events or celebrated republican "martyrs," such as Jean-Paul Marat and Michel Le Pelletier. Hymns also reflected the concerns of the new era by celebrating current events and by shedding the liturgical associations of earlier years. Hymns, like the one Ponce-Denis-Echouard Lebrun composed to celebrate the first anniversary of the King's execution, now evoked the example of the ancients or a deist Supreme Being rather than delivering thanks to a traditional Christian god.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/621">Commemorating martyrs</a></p>
-        fullsize: https://revolution.chnm.org/files/original/3dec66bfd0806a7e682811be1697203d.mp3
-        image: https://revolution.chnm.org/files/original/3dec66bfd0806a7e682811be1697203d.mp3
+        fullsize: /files/original/3dec66bfd0806a7e682811be1697203d.mp3
+        image: /files/original/3dec66bfd0806a7e682811be1697203d.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/3dec66bfd0806a7e682811be1697203d.mp3
+        original: /files/original/3dec66bfd0806a7e682811be1697203d.mp3
         title: Patriotic Song on the Unveiling of the Busts of Marat and Le Pelletier (1793)
         url: /d/621/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/616">The King is dead!</a></p>
-        fullsize: https://revolution.chnm.org/files/original/e0bf6e60afb51a5e066573e35446261b.mp3
-        image: https://revolution.chnm.org/files/original/e0bf6e60afb51a5e066573e35446261b.mp3
+        fullsize: /files/original/e0bf6e60afb51a5e066573e35446261b.mp3
+        image: /files/original/e0bf6e60afb51a5e066573e35446261b.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/e0bf6e60afb51a5e066573e35446261b.mp3
+        original: /files/original/e0bf6e60afb51a5e066573e35446261b.mp3
         title: Hymn of 21 January
         url: /d/616/
     layout: file-text
@@ -115,10 +115,10 @@ blocks:
     text: <p>By this time, almost all revolutionaries praised singing as an ideal means to rouse republican enthusiasm. Songs and hymns allowed performers to proclaim revolutionary ideals and unified audiences; singing was available to literate and illiterate alike; the simplest tune could carry a sense of the Revolution into the most mundane tasks of daily life. And because singing could also be a group activity, it helped to affirm the collective solidarity of those participating. But even in the midst of this musical frenzy, some officials worried about certain aspects of popular songs. In particular, moderate deputies to the National Convention who hoped to normalize political life and demobilize popular activists in the winter of 1793–94, worried that singing encouraged the very activism they were trying to quell. </p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/617">Death to the tyrant!</a></p>
-        fullsize: https://revolution.chnm.org/files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
-        image: https://revolution.chnm.org/files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
+        fullsize: /files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
+        image: /files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
+        original: /files/original/660dde92794c95d3ff0f1b1e9f9207bf.mp3
         title: Hymn of 9 Thermidor
         url: /d/617/
     layout: file-text
@@ -128,10 +128,10 @@ blocks:
     text: "<p>Concerns about the relationship between singing and unofficial activism only intensified after Robespierre's fall on 9 Thermidor. As growing numbers of people expressed anger at the political extremes of a period they were coming to call \"the Terror,\" a new song emerged: <em>The Alarm of the People</em> [<em>Le Réveil du Peuple</em>]. <em>The Alarm</em> became the anthem of young reactionaries who called themselves \"gilded youth.\" A highly visible presence in many cities, the \"gilded youth\" terrorized café and theater owners whose establishments still displayed symbols of radical republicanism. That such episodes of popular violence were often accompanied by performances of <em>The Alarm of the People</em>, or by battles between singers of <em>The Alarm</em> and singers of the <em>Marseillaise</em> or other patriotic songs, seemed proof positive to anxious officials that singing was an incitation to lawlessness and violence.</p>"
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/626">The Alarm of the People</a></p>
-        fullsize: https://revolution.chnm.org/files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
-        image: https://revolution.chnm.org/files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
+        fullsize: /files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
+        image: /files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
+        original: /files/original/61a714b6b864e6cbc9e8e5d07ce4635d.mp3
         title: The Alarm of the People
         url: /d/626/
     layout: file-text
@@ -147,24 +147,24 @@ blocks:
     text: <p>The final years of the Revolution witnessed a depoliticization of songs and hymns that paralleled the declining political activism of most French men and women. At the upper reaches of society, educated poets and composers produced pastoral, romantic, or comic songs purged of any trace of political opinion. Working people gathered in bars and cafés to sing drinking songs or revolutionary songs that were simply old favorites. In all popular arenas, the only topical songs were those that celebrated France's victorious armies and the increasingly famous General Napoleon Bonaparte.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/618">A celebration of marriage</a></p>
-        fullsize: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
-        image: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        fullsize: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        image: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        original: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
         title: Hymn for the Festival of Marriage
         url: /d/618/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/619">Honoring the elderly</a></p>
-        fullsize: https://revolution.chnm.org/files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
-        image: https://revolution.chnm.org/files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
+        fullsize: /files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
+        image: /files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
+        original: /files/original/ce93478bbdf1b1a2f97814c9425af1fe.mp3
         title: Song for the Festival of Old Age
         url: /d/619/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/620">Funeral Hymn for General Hoche</a></p>
-        fullsize: https://revolution.chnm.org/files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
-        image: https://revolution.chnm.org/files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
+        fullsize: /files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
+        image: /files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
+        original: /files/original/5a5d884c81f387a565cbe63a8a182a21.mp3
         title: Funeral Hymn for General Hoche
         url: /d/620/
     layout: file-text

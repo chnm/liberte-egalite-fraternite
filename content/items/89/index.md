@@ -28,12 +28,14 @@ dublin_core:
       text: Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/03e5de32ae10b6376091295e5591da6b.jpg
+  - fullsize: /files/fullsize/03e5de32ae10b6376091295e5591da6b.jpg
     id: 109
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/40383009e6c1273c8b8e5e4b6620a398.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/03e5de32ae10b6376091295e5591da6b.jpg
-    url: https://revolution.chnm.org/files/original/03e5de32ae10b6376091295e5591da6b.jpg
+    thumb: /files/thumbnails/03e5de32ae10b6376091295e5591da6b.jpg
+    url: /files/original/03e5de32ae10b6376091295e5591da6b.jpg
+    alt:
+      en: "A seated woman personifying Liberty raises a red Phrygian cap atop a pike, wearing a blue tunic and brown skirt, with a scroll resting against her chair."
 geo:
 id: 89
 item_type: Still Image

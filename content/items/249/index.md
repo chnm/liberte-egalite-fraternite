@@ -40,18 +40,22 @@ dublin_core:
       text: Memorable Day at Versailles, 5 October 1789
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/40e5baf84980cc5c09ff920f293c0e15.jpg
+  - fullsize: /files/fullsize/40e5baf84980cc5c09ff920f293c0e15.jpg
     id: 274
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/d842724a0a8854e36d7f29ffb7211a8e.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/40e5baf84980cc5c09ff920f293c0e15.jpg
-    url: https://revolution.chnm.org/files/original/40e5baf84980cc5c09ff920f293c0e15.jpg
-  - fullsize: https://revolution.chnm.org/files/fullsize/71c118c2446c2e46a00c6ab078010573.jpg
+    thumb: /files/thumbnails/40e5baf84980cc5c09ff920f293c0e15.jpg
+    url: /files/original/40e5baf84980cc5c09ff920f293c0e15.jpg
+    alt:
+      en: "Colored engraving of jubilant men and women riding a cannon carriage pulled by horses, waving branches and a tricolor flag, celebrating the October 1789 march on Versailles."
+  - fullsize: /files/fullsize/71c118c2446c2e46a00c6ab078010573.jpg
     id: 275
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/498f484daabd7e7668f74515984efdfd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/71c118c2446c2e46a00c6ab078010573.jpg
-    url: https://revolution.chnm.org/files/original/71c118c2446c2e46a00c6ab078010573.jpg
+    thumb: /files/thumbnails/71c118c2446c2e46a00c6ab078010573.jpg
+    url: /files/original/71c118c2446c2e46a00c6ab078010573.jpg
+    alt:
+      en: "Hand-colored engraving of a horse-drawn cannon cart carrying celebrating men and women in period dress, waving poplar branches, with a man on horseback leading the way, titled \"Journée Mémorable de Versailles, 5 Octobre 1789.\""
 geo:
 id: 249
 item_type: Still Image

@@ -4,31 +4,31 @@ aliases:
 blocks:
   - attachments:
       - caption: <p>"Haiti During the Revolution"</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8dbba201845e9e18eb7d5b97ea598da9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8dbba201845e9e18eb7d5b97ea598da9.jpg
+        fullsize: /files/fullsize/8dbba201845e9e18eb7d5b97ea598da9.jpg
+        image: /files/square_thumbnails/8dbba201845e9e18eb7d5b97ea598da9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8dbba201845e9e18eb7d5b97ea598da9.jpg
+        original: /files/original/8dbba201845e9e18eb7d5b97ea598da9.jpg
         title: Haiti during the Revolution
         url: /d/1125/
       - caption: <p>"Demographics of Saint Domingue"</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/db13ef6e74126e7701a3250f986a3b38.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/db13ef6e74126e7701a3250f986a3b38.jpg
+        fullsize: /files/fullsize/db13ef6e74126e7701a3250f986a3b38.jpg
+        image: /files/square_thumbnails/db13ef6e74126e7701a3250f986a3b38.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/db13ef6e74126e7701a3250f986a3b38.jpg
+        original: /files/original/db13ef6e74126e7701a3250f986a3b38.jpg
         title: Demographics of Saint Domingue
         url: /d/500/
       - caption: <p>"Execrable Human Traffick, or The Affectionate Slaves"</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/4095da91a938530407034825cf041d5b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/4095da91a938530407034825cf041d5b.jpg
+        fullsize: /files/fullsize/4095da91a938530407034825cf041d5b.jpg
+        image: /files/square_thumbnails/4095da91a938530407034825cf041d5b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/4095da91a938530407034825cf041d5b.jpg
+        original: /files/original/4095da91a938530407034825cf041d5b.jpg
         title: Execrable Human Traffick, or The Affectionate Slaves
         url: /d/228/
       - caption: <p>"Slaves and Free Blacks in Saint Domingue"</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1730f27f16356faad66284cfac0220a9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1730f27f16356faad66284cfac0220a9.jpg
+        fullsize: /files/fullsize/1730f27f16356faad66284cfac0220a9.jpg
+        image: /files/square_thumbnails/1730f27f16356faad66284cfac0220a9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1730f27f16356faad66284cfac0220a9.jpg
+        original: /files/original/1730f27f16356faad66284cfac0220a9.jpg
         title: Slaves and Free Blacks in Saint Domingue
         url: /d/220/
       - caption: ''
@@ -81,24 +81,24 @@ blocks:
         title: The Slaves from Africa
         url: /d/569/
       - caption: <p>The Indigo Plant Farm</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/3e023b320ad5b42486ccbfe2e76741a5.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/3e023b320ad5b42486ccbfe2e76741a5.jpg
+        fullsize: /files/fullsize/3e023b320ad5b42486ccbfe2e76741a5.jpg
+        image: /files/square_thumbnails/3e023b320ad5b42486ccbfe2e76741a5.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/3e023b320ad5b42486ccbfe2e76741a5.jpg
+        original: /files/original/3e023b320ad5b42486ccbfe2e76741a5.jpg
         title: The Indigo Plant Farm
         url: /d/221/
       - caption: <p>The Sugar Mill</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/f0f069d7a44ac9841f703994ef659521.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/f0f069d7a44ac9841f703994ef659521.jpg
+        fullsize: /files/fullsize/f0f069d7a44ac9841f703994ef659521.jpg
+        image: /files/square_thumbnails/f0f069d7a44ac9841f703994ef659521.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/f0f069d7a44ac9841f703994ef659521.jpg
+        original: /files/original/f0f069d7a44ac9841f703994ef659521.jpg
         title: The Sugar Mill
         url: /d/222/
       - caption: <p>The Barnyard</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/4bd9d0ee1316c98124ae166a648449f9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/4bd9d0ee1316c98124ae166a648449f9.jpg
+        fullsize: /files/fullsize/4bd9d0ee1316c98124ae166a648449f9.jpg
+        image: /files/square_thumbnails/4bd9d0ee1316c98124ae166a648449f9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/4bd9d0ee1316c98124ae166a648449f9.jpg
+        original: /files/original/4bd9d0ee1316c98124ae166a648449f9.jpg
         title: The Barnyard
         url: /d/223/
       - caption: ''
@@ -214,10 +214,10 @@ blocks:
         title: Kersaint, "Discussion of Troubles in the Colonies" (28 March 1792)
         url: /d/346/
       - caption: <p>The Cap Français Fire</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/c907c543bf68eb3cda06463a6eed4477.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/c907c543bf68eb3cda06463a6eed4477.jpg
+        fullsize: /files/fullsize/c907c543bf68eb3cda06463a6eed4477.jpg
+        image: /files/square_thumbnails/c907c543bf68eb3cda06463a6eed4477.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/c907c543bf68eb3cda06463a6eed4477.jpg
+        original: /files/original/c907c543bf68eb3cda06463a6eed4477.jpg
         title: The Cap Français Fire
         url: /d/106/
       - caption: ''
@@ -228,10 +228,10 @@ blocks:
         title: Toussaint L’Ouverture in <i>An Historical Account of the Black Empire of Hayti</i>
         url: /d/347/
       - caption: <p>Toussaint L’Ouverture</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/9307e72fbc91b72447298f17abedeb21.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/9307e72fbc91b72447298f17abedeb21.jpg
+        fullsize: /files/fullsize/9307e72fbc91b72447298f17abedeb21.jpg
+        image: /files/square_thumbnails/9307e72fbc91b72447298f17abedeb21.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/9307e72fbc91b72447298f17abedeb21.jpg
+        original: /files/original/9307e72fbc91b72447298f17abedeb21.jpg
         title: Toussaint L’Ouverture
         url: /d/224/
       - caption: ''
@@ -242,24 +242,24 @@ blocks:
         title: The French Return from <i>An Historical Account of the Black Empire of Hayti</i>
         url: /d/608/
       - caption: <p>The Mode of Training Blood Hounds in St. Domingo</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
+        fullsize: /files/fullsize/7e4a11acb4a350c853c3919d09da2186.jpg
+        image: /files/square_thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7e4a11acb4a350c853c3919d09da2186.jpg
+        original: /files/original/7e4a11acb4a350c853c3919d09da2186.jpg
         title: The Mode of training Blood Hounds in St. Domingo, and of exercising them by Chasseurs
         url: /d/227/
       - caption: <p>The Mode of Exterminating the Black Army as Practised by the French</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        fullsize: /files/fullsize/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        image: /files/square_thumbnails/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+        original: /files/original/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
         title: The Mode of exterminating the Black Army as practised by the French
         url: /d/226/
       - caption: <p>Revenge Taken by the Black Army for the Cruelties Practised on Them by the French</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/238c2f9135236b8a0a66610d49bdd04f.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/238c2f9135236b8a0a66610d49bdd04f.jpg
+        fullsize: /files/fullsize/238c2f9135236b8a0a66610d49bdd04f.jpg
+        image: /files/square_thumbnails/238c2f9135236b8a0a66610d49bdd04f.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/238c2f9135236b8a0a66610d49bdd04f.jpg
+        original: /files/original/238c2f9135236b8a0a66610d49bdd04f.jpg
         title: Revenge taken by the Black Army for the Cruelties practised on them by the French
         url: /d/225/
       - caption: ''

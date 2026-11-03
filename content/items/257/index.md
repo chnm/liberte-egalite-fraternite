@@ -22,12 +22,14 @@ dublin_core:
       text: Gravy Boat with Phrygian Bonnet
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/e0d55ff009a05af0f6fbbae57902e13f.jpg
+  - fullsize: /files/fullsize/e0d55ff009a05af0f6fbbae57902e13f.jpg
     id: 286
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/ace4c44028bcc84256de7ee3516acad7.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/e0d55ff009a05af0f6fbbae57902e13f.jpg
-    url: https://revolution.chnm.org/files/original/e0d55ff009a05af0f6fbbae57902e13f.jpg
+    thumb: /files/thumbnails/e0d55ff009a05af0f6fbbae57902e13f.jpg
+    url: /files/original/e0d55ff009a05af0f6fbbae57902e13f.jpg
+    alt:
+      en: "Porcelain sauce boat with a curled gilt handle shaped like a Phrygian cap, decorated with cobalt blue bands, gilt foliage, and painted medallions of pink roses and floral wreaths."
 geo:
 id: 257
 item_type: Still Image

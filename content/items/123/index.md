@@ -44,12 +44,14 @@ dublin_core:
       text: Day of 1 Prairial of the Year III
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/1efcbdedc6d1621f64925b2fa16e7211.jpg
+  - fullsize: /files/fullsize/1efcbdedc6d1621f64925b2fa16e7211.jpg
     id: 144
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9e3d1a14301a755daf4cf2d032e09375.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/1efcbdedc6d1621f64925b2fa16e7211.jpg
-    url: https://revolution.chnm.org/files/original/1efcbdedc6d1621f64925b2fa16e7211.jpg
+    thumb: /files/thumbnails/1efcbdedc6d1621f64925b2fa16e7211.jpg
+    url: /files/original/1efcbdedc6d1621f64925b2fa16e7211.jpg
+    alt:
+      en: "Engraving of a chaotic crowd storming the French National Convention chamber on 1 Prairial, Year III, with armed men and women surrounding deputies amid tiered galleries filled with spectators."
 geo:
 id: 123
 item_type: Still Image

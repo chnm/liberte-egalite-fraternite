@@ -40,12 +40,14 @@ dublin_core:
       text: Through Me You Are All Brothers
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/53d894b6ae65573c950d8fa84bad68a3.jpg
+  - fullsize: /files/fullsize/53d894b6ae65573c950d8fa84bad68a3.jpg
     id: 176
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f699cdd759d5f8cbb9ecbadc226fe2ea.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/53d894b6ae65573c950d8fa84bad68a3.jpg
-    url: https://revolution.chnm.org/files/original/53d894b6ae65573c950d8fa84bad68a3.jpg
+    thumb: /files/thumbnails/53d894b6ae65573c950d8fa84bad68a3.jpg
+    url: /files/original/53d894b6ae65573c950d8fa84bad68a3.jpg
+    alt:
+      en: "The Virgin, holding a cross with radiating light, blesses three kneeling figures representing clergy, nobility, and the Third Estate, while a serpent-tailed hooded figure clutches at the clergy and noble, resisting their unity."
 geo:
 id: 152
 item_type: Still Image

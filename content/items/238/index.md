@@ -40,12 +40,14 @@ dublin_core:
       text: Foundation of the Republic, August 10, 1792
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
+  - fullsize: /files/fullsize/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
     id: 262
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/5e869c099543eff39be62fd44f9cf8a1.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
-    url: https://revolution.chnm.org/files/original/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
+    thumb: /files/thumbnails/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
+    url: /files/original/2f0a45268b61fbb5e8fc4b7b172e8ea6.jpg
+    alt:
+      en: "Hand-colored engraving of chaotic hand-to-hand combat on cobblestones before a palace, with fallen soldiers, cannon, smoke, and a flag-bearing crowd clashing during the storming on August 10, 1792."
 geo:
 id: 238
 item_type: Still Image

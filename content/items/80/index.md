@@ -40,12 +40,14 @@ dublin_core:
       text: Louis XVI, King of the French
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/b831daf02e4b0edd6b0de94836b4f3c1.jpg
+  - fullsize: /files/fullsize/b831daf02e4b0edd6b0de94836b4f3c1.jpg
     id: 98
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/856e2e22e7fb634ad05ab680c183497f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/b831daf02e4b0edd6b0de94836b4f3c1.jpg
-    url: https://revolution.chnm.org/files/original/b831daf02e4b0edd6b0de94836b4f3c1.jpg
+    thumb: /files/thumbnails/b831daf02e4b0edd6b0de94836b4f3c1.jpg
+    url: /files/original/b831daf02e4b0edd6b0de94836b4f3c1.jpg
+    alt:
+      en: "Stippled portrait of Louis XVI in royal regalia and decorations, wearing a red Phrygian cap of liberty, with inscriptions noting his birth, marriage, coronation, and the cap's presentation in 1792."
 geo:
 id: 80
 item_type: Still Image

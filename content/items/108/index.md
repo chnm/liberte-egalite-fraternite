@@ -40,12 +40,14 @@ dublin_core:
       text: Massacre of the Prisoners
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/aaa52d1469594dc5e61686c3733f1d8e.jpg
+  - fullsize: /files/fullsize/aaa52d1469594dc5e61686c3733f1d8e.jpg
     id: 128
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/071f445a4a6c96d48d0ff5239ac37dd2.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/aaa52d1469594dc5e61686c3733f1d8e.jpg
-    url: https://revolution.chnm.org/files/original/aaa52d1469594dc5e61686c3733f1d8e.jpg
+    thumb: /files/thumbnails/aaa52d1469594dc5e61686c3733f1d8e.jpg
+    url: /files/original/aaa52d1469594dc5e61686c3733f1d8e.jpg
+    alt:
+      en: "Two engraved scenes of the September Massacres show armed crowds attacking and killing prisoners outside the Chatelet and Bicêtre, with bodies strewn on the ground before fortress-like buildings."
 geo:
 id: 108
 item_type: Still Image

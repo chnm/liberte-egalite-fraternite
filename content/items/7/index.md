@@ -19,12 +19,14 @@ dublin_core:
       text: War in the Netherlands—1792–94
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/199042955509e1d9f85152324ea16c4a.jpg
+  - fullsize: /files/fullsize/199042955509e1d9f85152324ea16c4a.jpg
     id: 12
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/f45e947183fd5a978ae617c3357af6b4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/199042955509e1d9f85152324ea16c4a.jpg
-    url: https://revolution.chnm.org/files/original/199042955509e1d9f85152324ea16c4a.jpg
+    thumb: /files/thumbnails/199042955509e1d9f85152324ea16c4a.jpg
+    url: /files/original/199042955509e1d9f85152324ea16c4a.jpg
+    alt:
+      en: "Map of the Austrian and United Netherlands bordering France, marking battle sites such as Neerwinden, Fleurus, Jemappes, and Wattignes, with cities including Brussels, Antwerp, Calais, and Paris."
 geo:
 id: 7
 item_type: Still Image

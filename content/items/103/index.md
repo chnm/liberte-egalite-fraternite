@@ -44,12 +44,14 @@ dublin_core:
       text: Return from Varennes, Arrival of Louis Capet in Paris
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/55055f92a794a7a9088be048b8030ec8.jpg
+  - fullsize: /files/fullsize/55055f92a794a7a9088be048b8030ec8.jpg
     id: 123
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/884047aa5f2785e30e0497bb9fb045cd.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/55055f92a794a7a9088be048b8030ec8.jpg
-    url: https://revolution.chnm.org/files/original/55055f92a794a7a9088be048b8030ec8.jpg
+    thumb: /files/thumbnails/55055f92a794a7a9088be048b8030ec8.jpg
+    url: /files/original/55055f92a794a7a9088be048b8030ec8.jpg
+    alt:
+      en: "Engraving of Louis XVI's carriage, escorted by troops and crowds, passing a large building on the return to Paris from Varennes, 25 June 1791."
 geo:
 id: 103
 item_type: Still Image

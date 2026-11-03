@@ -40,12 +40,14 @@ dublin_core:
       text: Nine Emigrants Go to the Guillotine
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/69620f9ca4e20d697ae4480dc98bebe1.jpg
+  - fullsize: /files/fullsize/69620f9ca4e20d697ae4480dc98bebe1.jpg
     id: 153
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8ff39dc4e18a4a6d1bcbfc8ba8f4e967.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/69620f9ca4e20d697ae4480dc98bebe1.jpg
-    url: https://revolution.chnm.org/files/original/69620f9ca4e20d697ae4480dc98bebe1.jpg
+    thumb: /files/thumbnails/69620f9ca4e20d697ae4480dc98bebe1.jpg
+    url: /files/original/69620f9ca4e20d697ae4480dc98bebe1.jpg
+    alt:
+      en: "Engraving of a guillotine execution in a French town square, with condemned men on the scaffold and in a cart, surrounded by armed soldiers and a watching crowd."
 geo:
 id: 131
 item_type: Still Image

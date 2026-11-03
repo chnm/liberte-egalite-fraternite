@@ -37,12 +37,14 @@ dublin_core:
       text: French Liberty. British Slavery. Published December 21, 1792.
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/192963faa90ddff788ce5211f9c14a03.jpg
+  - fullsize: /files/fullsize/192963faa90ddff788ce5211f9c14a03.jpg
     id: 256
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/dec34e719cd06d52d326e77b7171dae5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/192963faa90ddff788ce5211f9c14a03.jpg
-    url: https://revolution.chnm.org/files/original/192963faa90ddff788ce5211f9c14a03.jpg
+    thumb: /files/thumbnails/192963faa90ddff788ce5211f9c14a03.jpg
+    url: /files/original/192963faa90ddff788ce5211f9c14a03.jpg
+    alt:
+      en: "Gillray's 1792 satirical print contrasts a gaunt, ragged French revolutionary gnawing on raw onions by a bare hearth with a plump, well-dressed Englishman feasting on roast beef, mocking claims of French \"liberty.\""
 geo:
 id: 233
 item_type: Still Image

@@ -40,12 +40,14 @@ dublin_core:
       text: The Counterrevolution
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/8997d5d3b81db9d30578037d6e6ee910.jpg
+  - fullsize: /files/fullsize/8997d5d3b81db9d30578037d6e6ee910.jpg
     id: 241
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b0dee9c0562808caa6e25f9c63ee3675.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/8997d5d3b81db9d30578037d6e6ee910.jpg
-    url: https://revolution.chnm.org/files/original/8997d5d3b81db9d30578037d6e6ee910.jpg
+    thumb: /files/thumbnails/8997d5d3b81db9d30578037d6e6ee910.jpg
+    url: /files/original/8997d5d3b81db9d30578037d6e6ee910.jpg
+    alt:
+      en: "A satirical engraving titled \"La Contre Révolution\" showing a ragtag procession of nobles, clergy, and soldiers with banners and weapons marching across a rocky landscape toward a fortified cliff."
 geo:
 id: 219
 item_type: Still Image

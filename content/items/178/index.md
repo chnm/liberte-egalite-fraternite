@@ -25,12 +25,14 @@ dublin_core:
       text: Louis XVI
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d4ff383895c05532f7a80b174dd2b3ab.jpg
+  - fullsize: /files/fullsize/d4ff383895c05532f7a80b174dd2b3ab.jpg
     id: 202
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/af17b3ac67952d765652355c90e14ed5.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d4ff383895c05532f7a80b174dd2b3ab.jpg
-    url: https://revolution.chnm.org/files/original/d4ff383895c05532f7a80b174dd2b3ab.jpg
+    thumb: /files/thumbnails/d4ff383895c05532f7a80b174dd2b3ab.jpg
+    url: /files/original/d4ff383895c05532f7a80b174dd2b3ab.jpg
+    alt:
+      en: "Oval portrait of King Louis XVI with powdered wig, wearing an ermine-trimmed robe decorated with gold fleur-de-lis and royal decorations, set within a gilded frame."
 geo:
 id: 178
 item_type: Still Image

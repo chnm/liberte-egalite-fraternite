@@ -42,12 +42,14 @@ dublin_core:
       text: Liberty
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+  - fullsize: /files/fullsize/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
     id: 25
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3acfbc241c7ed8faad1081b47aeca35f.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
-    url: https://revolution.chnm.org/files/original/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+    thumb: /files/thumbnails/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+    url: /files/original/cd830df4f421f1d0b3426eeabc8ea6c1.jpg
+    alt:
+      en: "Engraving of a woman in a toga and Phrygian cap personifying Liberty, seated with a staff and broken chains, within an oval frame, titled \"La Liberté.\""
 geo:
 id: 16
 item_type: Still Image

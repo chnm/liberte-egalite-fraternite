@@ -40,12 +40,14 @@ dublin_core:
       text: Active Citizen/Passive Citizen
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/d4fe493332d8fe17a175c906a0f6d880.jpg
+  - fullsize: /files/fullsize/d4fe493332d8fe17a175c906a0f6d880.jpg
     id: 103
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/62c40feb11ae01b933db5857943b2dca.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/d4fe493332d8fe17a175c906a0f6d880.jpg
-    url: https://revolution.chnm.org/files/original/d4fe493332d8fe17a175c906a0f6d880.jpg
+    thumb: /files/thumbnails/d4fe493332d8fe17a175c906a0f6d880.jpg
+    url: /files/original/d4fe493332d8fe17a175c906a0f6d880.jpg
+    alt:
+      en: "A hand-colored print shows a laborer in rustic dress holding a shovel beside a noble gesturing toward a curtain, with two gentlemen in fine coats behind him, labeled \"Active Citizen\" and \"Passive Citizen.\""
 geo:
 id: 85
 item_type: Still Image

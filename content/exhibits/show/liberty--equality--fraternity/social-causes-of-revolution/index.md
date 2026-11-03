@@ -4,17 +4,17 @@ aliases:
 blocks:
   - attachments:
       - caption: '<p>Map: Old Regime Provinces</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/648c03368fee08e463ce3ecfa82cc144.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
+        fullsize: /files/fullsize/648c03368fee08e463ce3ecfa82cc144.jpg
+        image: /files/square_thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/648c03368fee08e463ce3ecfa82cc144.jpg
+        original: /files/original/648c03368fee08e463ce3ecfa82cc144.jpg
         title: Old Regime Provinces
         url: /d/438/
       - caption: '<p>Map: Departments of 1798</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/d90c8c3c102bd0b17af5607410bc5cec.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        fullsize: /files/fullsize/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        image: /files/square_thumbnails/d90c8c3c102bd0b17af5607410bc5cec.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d90c8c3c102bd0b17af5607410bc5cec.jpg
+        original: /files/original/d90c8c3c102bd0b17af5607410bc5cec.jpg
         title: Departments of 1798
         url: /d/1127/
       - caption: ''
@@ -32,10 +32,10 @@ blocks:
         title: Poverty in Auvergne
         url: /d/354/
       - caption: <p>Two Peasants Repairing a Cart</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/4c6ae383f5451321bc46d42c6a54f27b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
+        fullsize: /files/fullsize/4c6ae383f5451321bc46d42c6a54f27b.jpg
+        image: /files/square_thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
+        original: /files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
         title: Two Peasants Repairing a Cart
         url: /d/82/
       - caption: ''
@@ -53,10 +53,10 @@ blocks:
         title: The Traditional Order Defended
         url: /d/363/
       - caption: <p>People under the Old Regime</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/40d9654ae96b55d991ea90fa13429d41.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/40d9654ae96b55d991ea90fa13429d41.jpg
+        fullsize: /files/fullsize/40d9654ae96b55d991ea90fa13429d41.jpg
+        image: /files/square_thumbnails/40d9654ae96b55d991ea90fa13429d41.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/40d9654ae96b55d991ea90fa13429d41.jpg
+        original: /files/original/40d9654ae96b55d991ea90fa13429d41.jpg
         title: People under the Old Regime
         url: /d/215/
       - caption: ''
@@ -139,59 +139,59 @@ blocks:
       <p>The purpose of such pamphlets was not merely to win greater representation for the Third Estate. Their authors were making the case for a new concept of society, in which commoners, especially the educated middle classes, had the same value as the other orders. Despite the social rifts surrounding the political debate of mid-1789, most contemporaries fervently sought social unity. This suggests that social unrest may not necessarily have been the basic cause of the outbreak of the Revolution. Indeed, one wonders if the nobility's fear of losing its privileges, rather than the assertiveness of the middle classes, might have been the most important factor in the events that followed. </p>
   - attachments:
       - caption: <p>The Joyous Accord</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7fd8175dc9f5011c38cd9222fefd5822.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7fd8175dc9f5011c38cd9222fefd5822.jpg
+        fullsize: /files/fullsize/7fd8175dc9f5011c38cd9222fefd5822.jpg
+        image: /files/square_thumbnails/7fd8175dc9f5011c38cd9222fefd5822.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7fd8175dc9f5011c38cd9222fefd5822.jpg
+        original: /files/original/7fd8175dc9f5011c38cd9222fefd5822.jpg
         title: The Joyous Accord
         url: /d/42/
       - caption: <p>General Federation of the French</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d7dd7d8dd375c861a8051af15c957a7e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d7dd7d8dd375c861a8051af15c957a7e.jpg
+        fullsize: /files/fullsize/d7dd7d8dd375c861a8051af15c957a7e.jpg
+        image: /files/square_thumbnails/d7dd7d8dd375c861a8051af15c957a7e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d7dd7d8dd375c861a8051af15c957a7e.jpg
+        original: /files/original/d7dd7d8dd375c861a8051af15c957a7e.jpg
         title: General Federation of the French
         url: /d/93/
       - caption: <p>Through Me You Are All Brothers</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/53d894b6ae65573c950d8fa84bad68a3.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/53d894b6ae65573c950d8fa84bad68a3.jpg
+        fullsize: /files/fullsize/53d894b6ae65573c950d8fa84bad68a3.jpg
+        image: /files/square_thumbnails/53d894b6ae65573c950d8fa84bad68a3.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/53d894b6ae65573c950d8fa84bad68a3.jpg
+        original: /files/original/53d894b6ae65573c950d8fa84bad68a3.jpg
         title: Through Me You Are All Brothers
         url: /d/149/
       - caption: <p>Reunion</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/2a9f75920dba198aa305876dba8532e4.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/2a9f75920dba198aa305876dba8532e4.jpg
+        fullsize: /files/fullsize/2a9f75920dba198aa305876dba8532e4.jpg
+        image: /files/square_thumbnails/2a9f75920dba198aa305876dba8532e4.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/2a9f75920dba198aa305876dba8532e4.jpg
+        original: /files/original/2a9f75920dba198aa305876dba8532e4.jpg
         title: Reunion
         url: /d/22/
       - caption: <p>Awakening of the Third Estate</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7955f10b9dc1e67f9346ffd6c980d78b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+        fullsize: /files/fullsize/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+        image: /files/square_thumbnails/7955f10b9dc1e67f9346ffd6c980d78b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+        original: /files/original/7955f10b9dc1e67f9346ffd6c980d78b.jpg
         title: Awakening of the Third Estate
         url: /d/157/
       - caption: <p>I Was Sure We Would Have Our Turn</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/86977a69fb8b624861965907840c6be4.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/86977a69fb8b624861965907840c6be4.jpg
+        fullsize: /files/fullsize/86977a69fb8b624861965907840c6be4.jpg
+        image: /files/square_thumbnails/86977a69fb8b624861965907840c6be4.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/86977a69fb8b624861965907840c6be4.jpg
+        original: /files/original/86977a69fb8b624861965907840c6be4.jpg
         title: I Was Sure We Would Have Our Turn
         url: /d/152/
       - caption: <p>Oath of the New Horaces</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+        fullsize: /files/fullsize/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+        image: /files/square_thumbnails/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+        original: /files/original/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
         title: Oath of the New Horaces
         url: /d/150/
       - caption: <p>We Must Hope That It Will Soon Be Over</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/39b6ad8c3fc2de941878a275dd35bde5.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/39b6ad8c3fc2de941878a275dd35bde5.jpg
+        fullsize: /files/fullsize/39b6ad8c3fc2de941878a275dd35bde5.jpg
+        image: /files/square_thumbnails/39b6ad8c3fc2de941878a275dd35bde5.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/39b6ad8c3fc2de941878a275dd35bde5.jpg
+        original: /files/original/39b6ad8c3fc2de941878a275dd35bde5.jpg
         title: We Must Hope That It Will Soon Be Over
         url: /d/144/
     layout: gallery
@@ -203,10 +203,10 @@ blocks:
     text: ''
   - attachments:
       - caption: <p>National Assembly Relinquishes All Privileges</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        fullsize: /files/fullsize/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        image: /files/square_thumbnails/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
+        original: /files/original/43f7c679bd676bd489eb0ed9f9ba1e87.jpg
         title: National Assembly Relinquishes All Privileges
         url: /d/648/
       - caption: ''
@@ -224,17 +224,17 @@ blocks:
         title: Abolition of Nobility
         url: /d/367/
       - caption: <p>The Welcoming of a Marquis in Hell</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/b0c03d3585e3b82c7dd65525506dde99.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/b0c03d3585e3b82c7dd65525506dde99.jpg
+        fullsize: /files/fullsize/b0c03d3585e3b82c7dd65525506dde99.jpg
+        image: /files/square_thumbnails/b0c03d3585e3b82c7dd65525506dde99.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/b0c03d3585e3b82c7dd65525506dde99.jpg
+        original: /files/original/b0c03d3585e3b82c7dd65525506dde99.jpg
         title: The Welcoming of a Marquis in Hell
         url: /d/121/
       - caption: <p>The Crushed Aristocracy</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/a52c9974c9f9d6dc5669c786333bdd68.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/a52c9974c9f9d6dc5669c786333bdd68.jpg
+        fullsize: /files/fullsize/a52c9974c9f9d6dc5669c786333bdd68.jpg
+        image: /files/square_thumbnails/a52c9974c9f9d6dc5669c786333bdd68.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/a52c9974c9f9d6dc5669c786333bdd68.jpg
+        original: /files/original/a52c9974c9f9d6dc5669c786333bdd68.jpg
         title: The Crushed Aristocracy
         url: /d/219/
       - caption: ''
@@ -259,10 +259,10 @@ blocks:
         title: 'Cahiers from Rural Districts: Attack on Seigneurial Dues'
         url: /d/375/
       - caption: <p>Departure of the Three Orders for Versailles</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/a3cfb5d804848625728fff0a2365cf03.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/a3cfb5d804848625728fff0a2365cf03.jpg
+        fullsize: /files/fullsize/a3cfb5d804848625728fff0a2365cf03.jpg
+        image: /files/square_thumbnails/a3cfb5d804848625728fff0a2365cf03.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/a3cfb5d804848625728fff0a2365cf03.jpg
+        original: /files/original/a3cfb5d804848625728fff0a2365cf03.jpg
         title: Departure of the Three Orders for Versailles
         url: /d/155/
       - caption: ''
@@ -287,38 +287,38 @@ blocks:
         title: Le Chapelier Law
         url: /d/370/
       - caption: <p>Abuses to Suppress</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7616de8c2553dfcdacf0274a54bc2267.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7616de8c2553dfcdacf0274a54bc2267.jpg
+        fullsize: /files/fullsize/7616de8c2553dfcdacf0274a54bc2267.jpg
+        image: /files/square_thumbnails/7616de8c2553dfcdacf0274a54bc2267.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7616de8c2553dfcdacf0274a54bc2267.jpg
+        original: /files/original/7616de8c2553dfcdacf0274a54bc2267.jpg
         title: Abuses to Suppress
         url: /d/46/
       - caption: <p>Active Citizen/Passive Citizen</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d4fe493332d8fe17a175c906a0f6d880.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d4fe493332d8fe17a175c906a0f6d880.jpg
+        fullsize: /files/fullsize/d4fe493332d8fe17a175c906a0f6d880.jpg
+        image: /files/square_thumbnails/d4fe493332d8fe17a175c906a0f6d880.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d4fe493332d8fe17a175c906a0f6d880.jpg
+        original: /files/original/d4fe493332d8fe17a175c906a0f6d880.jpg
         title: Active Citizen/Passive Citizen
         url: /d/75/
       - caption: <p>Madame Sans-Culotte</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        fullsize: /files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        image: /files/square_thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        original: /files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
         title: Madame Sans–Culotte
         url: /d/543/
       - caption: <p>The Good Sans-Culotte</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/bf56137b1b8cd2edd38c5705286736db.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/bf56137b1b8cd2edd38c5705286736db.jpg
+        fullsize: /files/fullsize/bf56137b1b8cd2edd38c5705286736db.jpg
+        image: /files/square_thumbnails/bf56137b1b8cd2edd38c5705286736db.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/bf56137b1b8cd2edd38c5705286736db.jpg
+        original: /files/original/bf56137b1b8cd2edd38c5705286736db.jpg
         title: The Good Sans–Culotte
         url: /d/73/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/623">It'll Be Okay</a></p>
-        fullsize: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
-        image: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        fullsize: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        image: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/6065fb6222c2bf384793c899d78b5e68.mp3
+        original: /files/original/6065fb6222c2bf384793c899d78b5e68.mp3
         title: It’ll Be Okay
         url: /d/623/
       - caption: ''
@@ -336,31 +336,31 @@ blocks:
         title: Manifesto of the Enragés
         url: /d/557/
       - caption: <p>Inside a Revolutionary Committee During the Reign of Terror</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/8cee01ce23e0333416ec1f49233ad382.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/8cee01ce23e0333416ec1f49233ad382.jpg
+        fullsize: /files/fullsize/8cee01ce23e0333416ec1f49233ad382.jpg
+        image: /files/square_thumbnails/8cee01ce23e0333416ec1f49233ad382.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/8cee01ce23e0333416ec1f49233ad382.jpg
+        original: /files/original/8cee01ce23e0333416ec1f49233ad382.jpg
         title: Inside a Revolutionary Committee during the Reign of Terror
         url: /d/110/
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/624">The Carmagnole</a></p>
-        fullsize: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
-        image: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        fullsize: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        image: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
+        original: /files/original/10dd9e7fe707f8c2e68cf3a797621bcc.mp3
         title: The Carmagnole
         url: /d/624/
       - caption: <p>President of a Revolutionary Committee Distracting Himself With His Art While Waiting</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/f453f2f0d3cdc14101962372e065210c.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/f453f2f0d3cdc14101962372e065210c.jpg
+        fullsize: /files/fullsize/f453f2f0d3cdc14101962372e065210c.jpg
+        image: /files/square_thumbnails/f453f2f0d3cdc14101962372e065210c.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/f453f2f0d3cdc14101962372e065210c.jpg
+        original: /files/original/f453f2f0d3cdc14101962372e065210c.jpg
         title: President of a Revolutionary Committee Distracting Himself with His Art While Waiting
         url: /d/136/
       - caption: <p>President of a Revolutionary Committee After the Seal Is Taken Off</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d6209d1579e7e1deb5a403a9a8b52f25.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+        fullsize: /files/fullsize/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+        image: /files/square_thumbnails/d6209d1579e7e1deb5a403a9a8b52f25.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+        original: /files/original/d6209d1579e7e1deb5a403a9a8b52f25.jpg
         title: President of a Revolutionary Committee After the Seal Is Taken Off
         url: /d/601/
       - caption: ''
@@ -385,31 +385,31 @@ blocks:
         title: 4 August Decrees
         url: /d/366/
       - caption: <p>A Democrat, or Reason and Philosophy</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+        fullsize: /files/fullsize/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+        image: /files/square_thumbnails/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
+        original: /files/original/fb98d5334a0924bf2b18343e5aaa6c8e.jpg
         title: A Democrat, or Reason and Philosophy
         url: /d/24/
       - caption: <p>The Radical’s Arms</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/6d3c24956146c9f46cfec2eb987ba059.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/6d3c24956146c9f46cfec2eb987ba059.jpg
+        fullsize: /files/fullsize/6d3c24956146c9f46cfec2eb987ba059.jpg
+        image: /files/square_thumbnails/6d3c24956146c9f46cfec2eb987ba059.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/6d3c24956146c9f46cfec2eb987ba059.jpg
+        original: /files/original/6d3c24956146c9f46cfec2eb987ba059.jpg
         title: The Radical’s Arms. (No God! No Religion!! No King! No Constitution!!)
         url: /d/134/
       - caption: <p>The Third Estate Marrying Priests with Nuns</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+        fullsize: /files/fullsize/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+        image: /files/square_thumbnails/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+        original: /files/original/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
         title: The Third Estate Marrying Priests with Nuns
         url: /d/148/
       - caption: <p>Monks Learning to Exercise</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/afa661dad07b5956b8a09944adc6487d.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/afa661dad07b5956b8a09944adc6487d.jpg
+        fullsize: /files/fullsize/afa661dad07b5956b8a09944adc6487d.jpg
+        image: /files/square_thumbnails/afa661dad07b5956b8a09944adc6487d.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/afa661dad07b5956b8a09944adc6487d.jpg
+        original: /files/original/afa661dad07b5956b8a09944adc6487d.jpg
         title: Monks Learning to Exercise.
         url: /d/218/
       - caption: ''

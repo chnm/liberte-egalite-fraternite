@@ -28,12 +28,14 @@ dublin_core:
       text: 'Cup: Louis XVI'
 featured: false
 files:
-  - fullsize: https://revolution.chnm.org/files/fullsize/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
+  - fullsize: /files/fullsize/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
     id: 74
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/54564095eb213b0da6239febfcf3b6e4.jpg
-    thumb: https://revolution.chnm.org/files/thumbnails/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
-    url: https://revolution.chnm.org/files/original/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
+    thumb: /files/thumbnails/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
+    url: /files/original/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
+    alt:
+      en: "A cream-colored porcelain mug and matching saucer, each decorated with a dark sepia portrait medallion of Louis XVI framed by a geometric border pattern."
 geo:
 id: 59
 item_type: Still Image

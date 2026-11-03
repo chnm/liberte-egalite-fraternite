@@ -11,10 +11,10 @@ blocks:
         title: 'Article from the <i>Encyclopedia</i>: "Woman"'
         url: /d/469/
       - caption: '<p>Map: Paris in Revolution</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/e19dad0c3807e3c24adca1225b84f03e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/e19dad0c3807e3c24adca1225b84f03e.jpg
+        fullsize: /files/fullsize/e19dad0c3807e3c24adca1225b84f03e.jpg
+        image: /files/square_thumbnails/e19dad0c3807e3c24adca1225b84f03e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/e19dad0c3807e3c24adca1225b84f03e.jpg
+        original: /files/original/e19dad0c3807e3c24adca1225b84f03e.jpg
         title: Paris in Revolution
         url: /d/453/
       - caption: ''
@@ -74,17 +74,17 @@ blocks:
         title: Women Testify Concerning Their Participation in the October Days (1789)
         url: /d/474/
       - caption: <p>Vanguard of Women Going to Versailles</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/7b26b3ac40a7d346aca062a469fa7b8d.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+        fullsize: /files/fullsize/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+        image: /files/square_thumbnails/7b26b3ac40a7d346aca062a469fa7b8d.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+        original: /files/original/7b26b3ac40a7d346aca062a469fa7b8d.jpg
         title: Vanguard of Women going to Versailles
         url: /d/539/
       - caption: <p>To Versailles, To Versailles!</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/d03d1a219071607aa26f34fa8fbefa82.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/d03d1a219071607aa26f34fa8fbefa82.jpg
+        fullsize: /files/fullsize/d03d1a219071607aa26f34fa8fbefa82.jpg
+        image: /files/square_thumbnails/d03d1a219071607aa26f34fa8fbefa82.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/d03d1a219071607aa26f34fa8fbefa82.jpg
+        original: /files/original/d03d1a219071607aa26f34fa8fbefa82.jpg
         title: To Versailles, To Versailles!
         url: /d/12/
     layout: file-text
@@ -96,10 +96,10 @@ blocks:
       <p>After the fall of the Bastille on 14 July 1789, politics became the order of the day. The attack on the Bastille showed how popular political intervention could change the course of events. When the people of Paris rose up, armed themselves, and assaulted the royal fortress-prison in the center of Paris, they scuttled any royal or aristocratic plans to stop the Revolution in its tracks by arresting the deputies or closing the new National Assembly. In October 1789 the Revolution seemed to hang in the balance once again. In the midst of a continuing shortage of bread, rumors circulated that the royal guards at Versailles, the palace where the King and his family resided, had trampled on the revolutionary colors (red, white, and blue) and plotted counterrevolution. In response, a crowd of women in Paris gathered to march to Versailles to demand an accounting from the King. They trudged the twelve miles from Paris in the rain, arriving soaked and tired. At the end of the day and during the night, the women were joined by thousands of men who had marched from Paris to join them. The next day the crowd grew more turbulent and eventually broke into the royal apartments, killing two of the King's bodyguards. To prevent further bloodshed, the King agreed to move his family back to Paris. </p>
   - attachments:
       - caption: <p>Memorable Day at Versailles, 5 October 1789</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/71c118c2446c2e46a00c6ab078010573.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/71c118c2446c2e46a00c6ab078010573.jpg
+        fullsize: /files/fullsize/71c118c2446c2e46a00c6ab078010573.jpg
+        image: /files/square_thumbnails/71c118c2446c2e46a00c6ab078010573.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/71c118c2446c2e46a00c6ab078010573.jpg
+        original: /files/original/71c118c2446c2e46a00c6ab078010573.jpg
         title: Memorable Day at Versailles, 5 October 1789
         url: /d/540/
       - caption: ''
@@ -137,24 +137,24 @@ blocks:
         title: Olympe de Gouges, <i>The Declaration of the Rights of Woman</i> (September 1791)
         url: /d/293/
       - caption: <p>The Death of Marat</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/396b4dff0427befbfb9fbce85463d476.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/396b4dff0427befbfb9fbce85463d476.jpg
+        fullsize: /files/fullsize/396b4dff0427befbfb9fbce85463d476.jpg
+        image: /files/square_thumbnails/396b4dff0427befbfb9fbce85463d476.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/396b4dff0427befbfb9fbce85463d476.jpg
+        original: /files/original/396b4dff0427befbfb9fbce85463d476.jpg
         title: The Death of Marat
         url: /d/632/
       - caption: <p>Assassination of Marat</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/c653e7090af212e9207edf246110438e.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/c653e7090af212e9207edf246110438e.jpg
+        fullsize: /files/fullsize/c653e7090af212e9207edf246110438e.jpg
+        image: /files/square_thumbnails/c653e7090af212e9207edf246110438e.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/c653e7090af212e9207edf246110438e.jpg
+        original: /files/original/c653e7090af212e9207edf246110438e.jpg
         title: Assassination of Marat
         url: /d/108/
       - caption: <p>Assassination of J.P. Marat</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/68b1a5c8972440afde69a342f1c6d20b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/68b1a5c8972440afde69a342f1c6d20b.jpg
+        fullsize: /files/fullsize/68b1a5c8972440afde69a342f1c6d20b.jpg
+        image: /files/square_thumbnails/68b1a5c8972440afde69a342f1c6d20b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/68b1a5c8972440afde69a342f1c6d20b.jpg
+        original: /files/original/68b1a5c8972440afde69a342f1c6d20b.jpg
         title: Assassination of J. P. Marat
         url: /d/542/
     layout: file-text
@@ -166,10 +166,10 @@ blocks:
       <p>Women never gained full political rights during the French Revolution; none of the national assemblies ever considered legislation granting political rights to women (they could neither vote nor hold office). Most deputies thought the very idea outlandish. This did not stop women from continuing to participate in unfolding events. Their participation took various forms: some demonstrated or even rioted over the price of food; some joined clubs organized by women; others took part in movements against the Revolution, ranging from individual acts of assassination to joining in the massive rebellion in the west of France against the revolutionary government. The most dramatic individual act of resistance to the Revolution was the assassination of the deputy Jean-Paul Marat by Charlotte Corday on 13 July 1793. Marat published a newspaper,<em> The Friend of the People</em>, that violently denounced anyone who opposed the direction of the Revolution; he called for the heads of aristocrats, hoarders, unsuccessful generals, and even moderate republicans, such as Condorcet, who supported the Revolution but resisted its tendency toward violence and intimidation. Corday gained entrance to Marat's dwelling and stabbed him in his bath. He often took baths for a skin condition.</p>
   - attachments:
       - caption: <p>Madame Sans–Culotte</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        fullsize: /files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        image: /files/square_thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
+        original: /files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
         title: Madame Sans–Culotte
         url: /d/543/
       - caption: ''
@@ -290,10 +290,10 @@ blocks:
     text: <p>Despite attempts to respond to the charges of its critics, the club ultimately fell victim to the disapproval and suspicion of the revolutionary government, which outlawed all women's clubs on 30 October 1793. The immediate excuse was a series of altercations between women's club members and market women over the proper revolutionary costume, but behind the decision lay much discomfort with the idea of women's active political involvement. On 3 November 1793, Olympe de Gouges, author of the <em>Declaration of the Rights of Woman</em>, was put to death as a counterrevolutionary, condemned for having published a pamphlet suggesting that a popular referendum should decide the future government of the country, not the National Convention. Two weeks later, a city official, Pierre Gaspard Chaumette, denounced all political activity by women, warning them of the fate of Marie-Jeanne Roland and Gouges, two of several prominent women who went to the guillotine at this time. The Queen was executed on 16 October 1793, after a short but dramatic trial before the Revolutionary Tribunal. Roland, one of the leading political figures of 1792–93—she was the wife of a minister and hostess of one of Paris's most influential salons—went to her death on 8 November 1793, even though she was a convinced republican. Her crime was support for the "Girondins," the faction of constitutionalist deputies that included Condorcet.</p>
   - attachments:
       - caption: <p>Image of the Queen’s Defense</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/5aa1e34457c82621c9bd4655699a912a.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/5aa1e34457c82621c9bd4655699a912a.jpg
+        fullsize: /files/fullsize/5aa1e34457c82621c9bd4655699a912a.jpg
+        image: /files/square_thumbnails/5aa1e34457c82621c9bd4655699a912a.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/5aa1e34457c82621c9bd4655699a912a.jpg
+        original: /files/original/5aa1e34457c82621c9bd4655699a912a.jpg
         title: Image of the Queen’s Defense
         url: /d/141/
       - caption: ''
@@ -331,10 +331,10 @@ blocks:
         title: Denunciation of a Woman Participant in the Uprising of May 1795
         url: /d/493/
       - caption: <p>Day of 1 Prairial of the Year III</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/1efcbdedc6d1621f64925b2fa16e7211.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/1efcbdedc6d1621f64925b2fa16e7211.jpg
+        fullsize: /files/fullsize/1efcbdedc6d1621f64925b2fa16e7211.jpg
+        image: /files/square_thumbnails/1efcbdedc6d1621f64925b2fa16e7211.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/1efcbdedc6d1621f64925b2fa16e7211.jpg
+        original: /files/original/1efcbdedc6d1621f64925b2fa16e7211.jpg
         title: Day of 1 Prairial of the Year III
         url: /d/117/
       - caption: ''
@@ -351,24 +351,24 @@ blocks:
     text: <p>After the fall of Robespierre in July 1794, the National Convention eliminated price controls, and inflation and speculation soon resulted in long bread lines once again. The police gathered information every day about the state of discontent, and they worried in particular about the increasing shortages of February and March 1795. Women egged men on to attack the local and national authorities. These disturbances came to a head in the last major popular insurrections of the Revolution when bread rations dropped from one and a half pounds per person in March to one-eighth of a pound in April–May and rioting broke out. The first uprising took place 1–2 April 1795 (12–13 Germinal, Year III). A more extensive one broke out 20–23 May (1–4 Prairial). In both, women precipitated the action by urging men to join demonstrations to demand bread and changes in the national government. On 20 May a large crowd of women and men, armed with guns, pikes, and swords, rushed into the meeting place of the National Convention and chased the deputies from their benches. They killed one and cut off his head. As soon as the government gained control of the situation, it arrested many rioters, prohibited women from entering the galleries of its meeting place and from attending any kind of political assembly or even gathering in groups of more than five in the street.</p>
   - attachments:
       - caption: <p><a href="http://chnmdev.gmu.edu/stakats/lef/d/618">Music of Marriage</a></p>
-        fullsize: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
-        image: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        fullsize: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        image: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
         mime: audio/mpeg
-        original: https://revolution.chnm.org/files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
+        original: /files/original/73ae1859feaf955a7a0e01edd21aa37b.mp3
         title: Hymn for the Festival of Marriage
         url: /d/618/
       - caption: <p>Sword Hilt with Revolutionary Icons—Liberty</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/513bf662694a9b8c47676cb4a2eb2be8.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/513bf662694a9b8c47676cb4a2eb2be8.jpg
+        fullsize: /files/fullsize/513bf662694a9b8c47676cb4a2eb2be8.jpg
+        image: /files/square_thumbnails/513bf662694a9b8c47676cb4a2eb2be8.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/513bf662694a9b8c47676cb4a2eb2be8.jpg
+        original: /files/original/513bf662694a9b8c47676cb4a2eb2be8.jpg
         title: Sword Hilt with Revolutionary Icons—Liberty
         url: /d/27/
       - caption: <p>An Example of Heroic Courage</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/2026ef7ba64630501b4e9e9b1ae772e5.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/2026ef7ba64630501b4e9e9b1ae772e5.jpg
+        fullsize: /files/fullsize/2026ef7ba64630501b4e9e9b1ae772e5.jpg
+        image: /files/square_thumbnails/2026ef7ba64630501b4e9e9b1ae772e5.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/2026ef7ba64630501b4e9e9b1ae772e5.jpg
+        original: /files/original/2026ef7ba64630501b4e9e9b1ae772e5.jpg
         title: An Example of Heroic Courage
         url: /d/66/
       - caption: ''
@@ -379,10 +379,10 @@ blocks:
         title: Constance Pipelet, Review of a Book by Théremin, <i>On the Condition of Women in a Republic</i>
         url: /d/495/
       - caption: <p>Woman with a Basket in Front of a Door to the Prison</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/fa27618c01562de7126135943000adf0.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/fa27618c01562de7126135943000adf0.jpg
+        fullsize: /files/fullsize/fa27618c01562de7126135943000adf0.jpg
+        image: /files/square_thumbnails/fa27618c01562de7126135943000adf0.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/fa27618c01562de7126135943000adf0.jpg
+        original: /files/original/fa27618c01562de7126135943000adf0.jpg
         title: Woman with a Basket in Front of a Door to the Prison
         url: /d/546/
     layout: file-text
@@ -395,10 +395,10 @@ blocks:
       <p>Women participated in the French Revolution in many ways: they demonstrated at crucial political moments, stood in interminable bread lines, made bandages for the war effort, visited their relatives in jail, supported their government-approved clergyman (or hid one of those who refused to take the loyalty oath), and wrote all manner of letters and petitions about government policies. As symbols, however, they did not appear in their normal guise in ordinary life at the end of the eighteenth century. To take but one example, an early allegorical painting by the artist Colinart of a woman dressed like a Roman goddess is a far cry from the actual mother of 1790 wearing ordinary clothes and depicted with her children in another painting. </p>
   - attachments:
       - caption: <p>The Triumph of Liberty</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/fa074ff2042d875c00b4a0bc5c367793.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/fa074ff2042d875c00b4a0bc5c367793.jpg
+        fullsize: /files/fullsize/fa074ff2042d875c00b4a0bc5c367793.jpg
+        image: /files/square_thumbnails/fa074ff2042d875c00b4a0bc5c367793.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/fa074ff2042d875c00b4a0bc5c367793.jpg
+        original: /files/original/fa074ff2042d875c00b4a0bc5c367793.jpg
         title: The Triumph of Liberty
         url: /d/30/
     layout: file-text
@@ -408,31 +408,31 @@ blocks:
     text: <p>Although no one has completed a statistical study of female figures in revolutionary art, even a cursory review shows many more depictions of women as allegorical figures than of women in their actual roles of the time. The most popular figure was Liberty, who became, in effect, the preferred symbol of the French Revolution. Called Marianne by her detractors to signal that she was nothing but a common woman (perhaps even a prostitute), Liberty nonetheless became indelibly associated with the French Revolution, so much so that she still appears prominently on French money and in patriotic paintings and statuary. Liberty usually appeared in Roman dress, often in a toga, holding a pike, the people's instrument for taking back their liberty, with a red liberty cap perched on its tip (the liberty cap too came from Roman times—it was supposedly worn by recently freed slaves).</p>
   - attachments:
       - caption: <p>Liberty</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/03e5de32ae10b6376091295e5591da6b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/03e5de32ae10b6376091295e5591da6b.jpg
+        fullsize: /files/fullsize/03e5de32ae10b6376091295e5591da6b.jpg
+        image: /files/square_thumbnails/03e5de32ae10b6376091295e5591da6b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/03e5de32ae10b6376091295e5591da6b.jpg
+        original: /files/original/03e5de32ae10b6376091295e5591da6b.jpg
         title: Liberty
         url: /d/81/
       - caption: <p>Allegory of Truth</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/cec720a3addc13451b27b9f3bebc96d9.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/cec720a3addc13451b27b9f3bebc96d9.jpg
+        fullsize: /files/fullsize/cec720a3addc13451b27b9f3bebc96d9.jpg
+        image: /files/square_thumbnails/cec720a3addc13451b27b9f3bebc96d9.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/cec720a3addc13451b27b9f3bebc96d9.jpg
+        original: /files/original/cec720a3addc13451b27b9f3bebc96d9.jpg
         title: Allegory of Truth
         url: /d/57/
       - caption: <p>The Republic</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/5e352d0f40ab2813fdef9b61f7265eeb.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+        fullsize: /files/fullsize/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+        image: /files/square_thumbnails/5e352d0f40ab2813fdef9b61f7265eeb.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+        original: /files/original/5e352d0f40ab2813fdef9b61f7265eeb.jpg
         title: The Republic
         url: /d/71/
       - caption: <p>Republican Calendar</p>
-        fullsize: https://revolution.chnm.org/files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
+        fullsize: /files/fullsize/321bc9b531656db563a80435e9faaf4b.jpg
+        image: /files/square_thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/321bc9b531656db563a80435e9faaf4b.jpg
+        original: /files/original/321bc9b531656db563a80435e9faaf4b.jpg
         title: Republican Calendar
         url: /d/645/
     layout: file-text
@@ -445,31 +445,31 @@ blocks:
       <p>Any educated person would therefore immediately recognize when a woman was an abstract quality or idea and when she was simply a woman of her times or a particular noted woman. Women made good symbols because they could not hold office or participate officially in politics. That is to say, it was impossible to confuse a depiction of "liberty" with any particular political leader or official, who was by definition male. The French were extremely worried that one man might take power and establish a dictatorship. They preferred symbols that could not be identified with any specific male political leader. Instead, Liberty became the dominant political figure. As a result, no individual ever enjoyed the symbolic status accorded George Washington, say, in the new United States. </p>
   - attachments:
       - caption: '<p>Insurrection of 10 August Symbolized: "The Fountain of Regeneration"</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/5c487f807a328b63021ee8ef55956228.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/5c487f807a328b63021ee8ef55956228.jpg
+        fullsize: /files/fullsize/5c487f807a328b63021ee8ef55956228.jpg
+        image: /files/square_thumbnails/5c487f807a328b63021ee8ef55956228.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/5c487f807a328b63021ee8ef55956228.jpg
+        original: /files/original/5c487f807a328b63021ee8ef55956228.jpg
         title: The Fountain of Regeneration
         url: /d/14/
       - caption: '<p>Playing Cards Revolutionized: "Game of the Great Men, Minot the Elder"</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/fb5320ce7b063510af3220ab5125c385.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/fb5320ce7b063510af3220ab5125c385.jpg
+        fullsize: /files/fullsize/fb5320ce7b063510af3220ab5125c385.jpg
+        image: /files/square_thumbnails/fb5320ce7b063510af3220ab5125c385.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/fb5320ce7b063510af3220ab5125c385.jpg
+        original: /files/original/fb5320ce7b063510af3220ab5125c385.jpg
         title: Game of the Great Men, Minot the Elder
         url: /d/31/
       - caption: '<p>Omnipresent Symbols: "The Fatherland in Danger"</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/7e31511a47cac915e63d909cf4b6935f.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/7e31511a47cac915e63d909cf4b6935f.jpg
+        fullsize: /files/fullsize/7e31511a47cac915e63d909cf4b6935f.jpg
+        image: /files/square_thumbnails/7e31511a47cac915e63d909cf4b6935f.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/7e31511a47cac915e63d909cf4b6935f.jpg
+        original: /files/original/7e31511a47cac915e63d909cf4b6935f.jpg
         title: The Fatherland in Danger
         url: /d/19/
       - caption: '<p>Life However Tawdry: "Watch Yourself or You’ll Be a Product for Sale"</p>'
-        fullsize: https://revolution.chnm.org/files/fullsize/98727eac2b4639c92018946483bf7155.jpg
-        image: https://revolution.chnm.org/files/square_thumbnails/98727eac2b4639c92018946483bf7155.jpg
+        fullsize: /files/fullsize/98727eac2b4639c92018946483bf7155.jpg
+        image: /files/square_thumbnails/98727eac2b4639c92018946483bf7155.jpg
         mime: image/jpeg
-        original: https://revolution.chnm.org/files/original/98727eac2b4639c92018946483bf7155.jpg
+        original: /files/original/98727eac2b4639c92018946483bf7155.jpg
         title: Watch Yourself or You’ll Be a Product for Sale
         url: /d/54/
     layout: gallery
