@@ -18,15 +18,15 @@ type: page
 
 {{< raw >}}
 <p>This site with more than 600 primary documents grew out of a collaboration of the <a href="rrchnm.org">Roy Rosenzweig Center for History and New Media</a> at <a href="gmu.edu">George Mason University</a> and the <a href="http://www.ashp.cuny.edu/">American Social History Project</a> at <a href="cuny.edu">City University of New York</a>, supported by grants from the Florence Gould Foundation and the <a href="neh.gov">National Endowment for the Humanities</a>. The site had originally been conceived as a CD-ROM with a print book to accompany it. The website now replaces the CD-ROM. The print book is still available from <a href="http://www.psupress.org/books/titles/0-271-02087-3.html">Penn State University Press</a> but many other general books on the French Revolution and Napoleon have appeared since its publication, <a href="https://www.bloomsbury.com/us/the-french-revolution-and-napoleon-9781474213738/">including one by the original two authors, Jack R. Censer and Lynn Hunt</a>.</p>
-<h3>2019 Update</h3>
+<h2>2019 Update</h2>
 <p>Produced by: Stephen Robertson</p>
 <p>Associate Producers: Jack R. Censer, Lynn Hunt, Bryan Banks, Cindy Ermus</p>
 <p>Lead Designer and Developer: Kim Nguyen</p>
-<h3>2018 Update</h3>
+<h2>2018 Update</h2>
 <p>Produced by: Sean Takats</p>
 <p>Migration Editor: Amanda Morton</p>
 <p>Thanks to the support of the Louise and Rudolf Fishel Fellowship.</p>
-<h3>1998 Launch</h3>
+<h2>1998 Launch</h2>
 <p>Editors and principal authors: Jack R. Censer and Lynn Hunt</p>
 <p>Produced by: Pennee Bender, Joshua Brown, Roy Rosenzweig</p>
 <p>Associate Producers: Jack R. Censer, Lynn Hunt</p>

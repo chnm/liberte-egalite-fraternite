@@ -17,7 +17,6 @@ type: page
 ---
 
 {{< raw >}}
-<h1>Frequently Asked Questions</h1>
 <h2>Content Issues:</h2>
 <p>Q. How do I cite material I find on the CD?</p>
 <p>A. You should consult the style guide appropriate to your area of research. Style guides include the <em>Chicago Manual of Style,</em> MLA, and APA.</p>
