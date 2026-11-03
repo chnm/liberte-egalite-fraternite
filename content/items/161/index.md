@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6fa419031c9f221e63e2b28a293fb9af.jpg
     thumb: /files/thumbnails/e1ea6172823f66c2c7ee81b4a397e067.jpg
     url: /files/original/e1ea6172823f66c2c7ee81b4a397e067.jpg
+    alt:
+      en: "A hand-colored print shows a peasant in yellow breeches cutting a seated clergyman's fingers beneath a tree, while a nobleman turns away yet reaches for the discarded gloves."
 geo:
 id: 161
 item_type: Still Image

@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/47c10473922d7af448dce26000068bb5.jpg
     thumb: /files/thumbnails/3556f4b6fec5a03a242d2ed11e792be6.jpg
     url: /files/original/3556f4b6fec5a03a242d2ed11e792be6.jpg
+    alt:
+      en: "A 1793 print titled \"The Contrast\" contrasts a calm, seated British Liberty with the Magna Carta beside a lion, against a frenzied French Liberty holding a severed head on a pike, standing over a corpse."
 geo:
 id: 48
 item_type: Still Image

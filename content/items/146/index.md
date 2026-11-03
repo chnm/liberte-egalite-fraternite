@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1d740e48c098a33066f37ffd8b2f86e8.jpg
     thumb: /files/thumbnails/1fa72346e690ac448c20b670df17b4c5.jpg
     url: /files/original/1fa72346e690ac448c20b670df17b4c5.jpg
+    alt:
+      en: "A peasant man bends under the weight of a clergyman and a nobleman riding piggyback on him, symbolizing the burden of taxes and privileges imposed on the Third Estate by the clergy and nobility."
   - fullsize: /files/fullsize/39b6ad8c3fc2de941878a275dd35bde5.jpg
     id: 170
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/83260a2d0c07d12720d8e1c18d6f3dcd.jpg
     thumb: /files/thumbnails/39b6ad8c3fc2de941878a275dd35bde5.jpg
     url: /files/original/39b6ad8c3fc2de941878a275dd35bde5.jpg
+    alt:
+      en: "A French Revolutionary caricature shows an elderly peasant bent over, carrying a nobleman and clergyman piggyback, symbolizing the commoners' burden under feudal privilege."
 geo:
 id: 146
 item_type: Still Image

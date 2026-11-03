@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ddfd52a9d0b1119878d936ebdaa11dbd.jpg
     thumb: /files/thumbnails/829c5be8b81b0ae5889fd519eeada00e.jpg
     url: /files/original/829c5be8b81b0ae5889fd519eeada00e.jpg
+    alt:
+      en: "Hand-colored watercolor within a black circular border depicts a dragon-like hybrid creature with a woman's head, scaled winged body, curling tail, and clawed feet, set against a landscape background."
 geo:
 id: 50
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0c2903a49e1464bdff628c032173f1a6.jpg
     thumb: /files/thumbnails/1730f27f16356faad66284cfac0220a9.jpg
     url: /files/original/1730f27f16356faad66284cfac0220a9.jpg
+    alt:
+      en: "Two engraved plates with eight circular vignettes depicting colonial Saint-Domingue: fountains and monuments, costumes of free people of color and enslaved people, laundresses, and Black dancers and stick-fighters."
 geo:
 id: 224
 item_type: Still Image

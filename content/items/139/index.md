@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b73b28c6dd51daeb66adff77c14b6f73.jpg
     thumb: /files/thumbnails/a7d15f8dde31c5cd935fd930574d9c16.jpg
     url: /files/original/a7d15f8dde31c5cd935fd930574d9c16.jpg
+    alt:
+      en: "A guillotine spews a billowing cloud of text representing the king's blood crying for vengeance, while a crowned skull lies at its base and mourners weep nearby."
 geo:
 id: 139
 item_type: Still Image

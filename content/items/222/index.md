@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f1bb9ead7be7764eeb118696e647f04a.jpg
     thumb: /files/thumbnails/a52c9974c9f9d6dc5669c786333bdd68.jpg
     url: /files/original/a52c9974c9f9d6dc5669c786333bdd68.jpg
+    alt:
+      en: "Allegorical print of a winged skeletal Death figure collapsing beside a shield and royal robes, a cherub crowning a bust of Louis XVI atop a pedestal, with the Bastille visible in the background."
 geo:
 id: 222
 item_type: Still Image

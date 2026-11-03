@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/99e9dfe74389dcb62f73e4c692274863.jpg
     thumb: /files/thumbnails/cefc73bfa2e57941c07ee5e76355bb8b.jpg
     url: /files/original/cefc73bfa2e57941c07ee5e76355bb8b.jpg
+    alt:
+      en: "Bronze statue of Lafayette atop a stone pedestal, arm raised, standing within an iron fence on a street lined with multistory buildings in Le Puy, France."
 geo:
 id: 206
 item_type: Still Image

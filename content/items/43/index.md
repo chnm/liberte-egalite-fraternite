@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/327d0fa11ae70b70a6cb8331d913a7e5.jpg
     thumb: /files/thumbnails/fb5320ce7b063510af3220ab5125c385.jpg
     url: /files/original/fb5320ce7b063510af3220ab5125c385.jpg
+    alt:
+      en: "Four suits of revolutionary playing cards (spades, hearts, diamonds, clubs), each row showing an ace, three figures replacing king/queen/jack, and a numbered card with colored suit symbols."
 geo:
 id: 43
 item_type: Still Image

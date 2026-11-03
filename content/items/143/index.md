@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/adbb7f673747b696a807a104da8e7924.jpg
     thumb: /files/thumbnails/54276177fbee49a13bd2ec51aedfc4d1.jpg
     url: /files/original/54276177fbee49a13bd2ec51aedfc4d1.jpg
+    alt:
+      en: "Oval-framed portrait of King Louis XVI in powdered wig and embroidered coat adorned with royal medals and sashes, captioned \"Louis Seize, Roi de France et de Navarre.\""
 geo:
 id: 143
 item_type: Still Image

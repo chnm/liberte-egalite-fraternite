@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ccfe2989734da30cdc863963a2da2ba0.jpg
     thumb: /files/thumbnails/476251d641dcaf600fd5106fd83facdd.jpg
     url: /files/original/476251d641dcaf600fd5106fd83facdd.jpg
+    alt:
+      en: "Louis XVI stands on the scaffold flanked by his confessor and an executioner, gazing upward with one hand raised toward the sky, 1793."
 geo:
 id: 182
 item_type: Still Image

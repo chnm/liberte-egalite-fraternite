@@ -51,6 +51,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/44c30844037f752bb03af9163ef5f66d.jpg
     thumb: /files/thumbnails/40d9654ae96b55d991ea90fa13429d41.jpg
     url: /files/original/40d9654ae96b55d991ea90fa13429d41.jpg
+    alt:
+      en: "A blindfolded, chained, and barefoot commoner crawls on all fours under the crushing weight of an obese bishop, a noble with whip and medals, and a robed magistrate holding a scepter."
 geo:
 id: 217
 item_type: Still Image

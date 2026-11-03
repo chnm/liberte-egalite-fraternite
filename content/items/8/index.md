@@ -25,12 +25,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/cb381de8963f94f0027d013941078e0f.jpg
     thumb: /files/thumbnails/664cd2ad8f4960f63aa303d052e5e67d.jpg
     url: /files/original/664cd2ad8f4960f63aa303d052e5e67d.jpg
+    alt:
+      en: "Map of Europe in 1799 showing the French Republic, its occupied territories, and sister republics (Batavian, Helvetic, Ligurian, Roman, Parthenopean) alongside the Holy Roman Empire, Austrian Possessions, Prussia, and Spain."
   - fullsize: /files/fullsize/56e3fe717bca51bba4abb79b4e9a15d7.jpg
     id: 14
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/a38ef713a39f8e712922e4db4f716e30.jpg
     thumb: /files/thumbnails/56e3fe717bca51bba4abb79b4e9a15d7.jpg
     url: /files/original/56e3fe717bca51bba4abb79b4e9a15d7.jpg
+    alt:
+      en: "Map of Europe in 1799 showing French Republic territories, occupied zones, and sister republics across France, the Low Countries, Switzerland, and Italy, bordered by Spain, Prussia, and Austrian possessions."
 geo:
 id: 8
 item_type: Still Image

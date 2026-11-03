@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6da6a63dd25b701326b542e6b8fa8ca0.jpg
     thumb: /files/thumbnails/1148ea364b1e24cf84585ddab8b4cc0b.jpg
     url: /files/original/1148ea364b1e24cf84585ddab8b4cc0b.jpg
+    alt:
+      en: "An allegorical print titled \"Constitution Française, Droits de l'Homme et du Citoyen,\" featuring two winged figures beneath a radiant all-seeing eye, flanking tablets listing the seventeen articles, with armed soldiers standing guard below."
 geo:
 id: 66
 item_type: Still Image

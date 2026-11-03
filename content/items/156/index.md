@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2b36352bcad6a16a7c3c853256634819.jpg
     thumb: /files/thumbnails/2d71e62c84b8b115b94366ee1155b325.jpg
     url: /files/original/2d71e62c84b8b115b94366ee1155b325.jpg
+    alt:
+      en: "A commoner in a tricolor-cockaded hat plays bagpipes beside a defeated lion, while a soldier brandishes his sword at a fleeing priest, with the Bastille looming behind them."
 geo:
 id: 156
 item_type: Still Image

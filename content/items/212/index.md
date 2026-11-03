@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d2e91c3e0b1c54bcb717326dbe73381b.jpg
     thumb: /files/thumbnails/921efb86f53117d326b80ec30c99a5ab.jpg
     url: /files/original/921efb86f53117d326b80ec30c99a5ab.jpg
+    alt:
+      en: "Oval portrait of Marie Antoinette in an ornate frame above a small engraved scene of a crowd and carriage, with a lengthy French biographical text below detailing her life and execution."
 geo:
 id: 212
 item_type: Still Image

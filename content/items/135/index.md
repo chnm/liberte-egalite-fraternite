@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/47903c87c93b1ea068e415395c34e520.jpg
     thumb: /files/thumbnails/a047ffcd12fe331279f97d2c9929f03e.jpg
     url: /files/original/a047ffcd12fe331279f97d2c9929f03e.jpg
+    alt:
+      en: "Engraving of the Battle of Jemmappes, with masses of infantry, cavalry, and flags clashing amid cannon smoke, a fortified town visible in the background."
 geo:
 id: 135
 item_type: Still Image

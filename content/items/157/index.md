@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/28702671c776b06dfbaf895cc0c031a8.jpg
     thumb: /files/thumbnails/1e701ad6023357f491c7ac13b2b86ce9.jpg
     url: /files/original/1e701ad6023357f491c7ac13b2b86ce9.jpg
+    alt:
+      en: "Lafayette raises a sword beside an armored female figure holding a liberty cap on a pike, as they stand atop a pedestal crushing a multiheaded serpent monster and a Medusa-like figure, with soldiers and flags in the background."
 geo:
 id: 157
 item_type: Still Image

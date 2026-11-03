@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/34865e90fcc71278b77615ae0a78ba6d.jpg
     thumb: /files/thumbnails/fc4644cca009221473dee667f03173f0.jpg
     url: /files/original/fc4644cca009221473dee667f03173f0.jpg
+    alt:
+      en: "Allegorical engraving of Napoleon standing in a classical chariot, crowned by a winged Fame figure, surrounded by soldiers, horses, and triumphal arches, captioned \"La France reconnoissante proclame Napoléon 1er empereur des Français.\""
 geo:
 id: 202
 item_type: Still Image

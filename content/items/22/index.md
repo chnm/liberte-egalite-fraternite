@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/c4b97b44d3384c33fd9611518a134123.jpg
     thumb: /files/thumbnails/da874f8ebcc847cab510d67a8bb0a5a7.jpg
     url: /files/original/da874f8ebcc847cab510d67a8bb0a5a7.jpg
+    alt:
+      en: "Napoleon Bonaparte stands prominently in a red military coat, raising his sword before sheathing it, with crowds and the Louvre's colonnade behind him in this hand-colored engraving celebrating the Peace of Amiens."
 geo:
 id: 22
 item_type: Still Image

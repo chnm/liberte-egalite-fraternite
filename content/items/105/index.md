@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/8c38324fe290e624ea95a4ba2c7f4240.jpg
     thumb: /files/thumbnails/f000648997184a3746401d083aa39641.jpg
     url: /files/original/f000648997184a3746401d083aa39641.jpg
+    alt:
+      en: "Engraving of chaotic street fighting before the Tuileries Palace on 10 August 1792, with armed crowds, cannon smoke, and fallen bodies in the foreground beneath a cloudy sky."
 geo:
 id: 105
 item_type: Still Image

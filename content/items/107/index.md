@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/a307577bd0de9b28486bb51a1905ba05.jpg
     thumb: /files/thumbnails/fa7811dcd3d72e8e57585af4b6f49e03.jpg
     url: /files/original/fa7811dcd3d72e8e57585af4b6f49e03.jpg
+    alt:
+      en: "Two engraved scenes of the September Massacres: armed crowds attacking priests with pikes and swords in the Carmes Luxembourg convent courtyard, and prisoners being dragged out and killed before the Hôtel de la Force."
 geo:
 id: 107
 item_type: Still Image

@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4ce445dd3fb9555d427d32b2c8fe6718.jpg
     thumb: /files/thumbnails/4ed6fb562a8ac7bb717f2f99e85477df.jpg
     url: /files/original/4ed6fb562a8ac7bb717f2f99e85477df.jpg
+    alt:
+      en: "Hand-colored print of a horse-drawn cart carrying wounded soldiers, flanked by riders, with a row of ragged, limping veterans in tattered uniforms trudging below, depicting the remnants of Napoleon's army in 1813."
 geo:
 id: 166
 item_type: Still Image

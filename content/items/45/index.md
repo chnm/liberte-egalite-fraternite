@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/04247f3dda8ccbd5133cb126612e8162.jpg
     thumb: /files/thumbnails/279c985e9f54f63e1afd74fd7829c7a8.jpg
     url: /files/original/279c985e9f54f63e1afd74fd7829c7a8.jpg
+    alt:
+      en: "Ornate gilded sword hilt featuring a globe-shaped pommel, star motifs, and intricate engraved crossguard, with decorative etchings visible along the blade."
 geo:
 id: 45
 item_type: Still Image

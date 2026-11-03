@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/dc784ad64366fad915cd08d5bda3336d.jpg
     thumb: /files/thumbnails/2f3184e21e15075c2d9284ec5e2eacd1.jpg
     url: /files/original/2f3184e21e15075c2d9284ec5e2eacd1.jpg
+    alt:
+      en: "Hand-colored engraving depicting robed members of the Council of Five Hundred seated in rows within a columned hall, as a presiding officer in classical dress gestures from an elevated rostrum."
 geo:
 id: 67
 item_type: Still Image

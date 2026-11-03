@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6bcedd010e15e832a97a38677c2b85d0.jpg
     thumb: /files/thumbnails/c907c543bf68eb3cda06463a6eed4477.jpg
     url: /files/original/c907c543bf68eb3cda06463a6eed4477.jpg
+    alt:
+      en: "An 18th-century engraving depicts the port town of Cap Français engulfed in smoke and flames, with ships offshore and figures fleeing across the foreground hillside."
 geo:
 id: 113
 item_type: Still Image

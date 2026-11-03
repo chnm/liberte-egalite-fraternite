@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ebabbf336f47ec9ae750f7dc7b4a61f8.jpg
     thumb: /files/thumbnails/251969990231ed92832511882afb2bb0.jpg
     url: /files/original/251969990231ed92832511882afb2bb0.jpg
+    alt:
+      en: "Engraving of a crowded Directory-era gallery foyer, with fashionably dressed men and women mingling below three hanging candle lamps, while spectators lean over an upper balcony railing."
 geo:
 id: 125
 item_type: Still Image

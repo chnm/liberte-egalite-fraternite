@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/983794e330820bf133dee84ccd082386.jpg
     thumb: /files/thumbnails/3e023b320ad5b42486ccbfe2e76741a5.jpg
     url: /files/original/3e023b320ad5b42486ccbfe2e76741a5.jpg
+    alt:
+      en: "Engraving of a colonial indigo plantation showing enslaved laborers processing plants at labeled vats and basins, with surrounding tropical vegetation, huts, and hills in the background."
 geo:
 id: 225
 item_type: Still Image

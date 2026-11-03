@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/39164c17ca32ddaa170f47ff3a258235.jpg
     thumb: /files/thumbnails/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
     url: /files/original/b2c4af4f6a8755ab8a0f1870fe30b0d9.jpg
+    alt:
+      en: "A figure lies in a curtained bed while a man in a tailcoat stands solemnly beside it, as two others kneel in grief near a barred window in the shadowed room."
 geo:
 id: 240
 item_type: Still Image

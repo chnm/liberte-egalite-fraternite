@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/27093a89bb609db4aa6fe7b25b4f20f7.jpg
     thumb: /files/thumbnails/4e33a9fc234a964325ee7f37a8509462.jpg
     url: /files/original/4e33a9fc234a964325ee7f37a8509462.jpg
+    alt:
+      en: "Crowd gathers before Strasbourg's City Hall as rioters strip tiles from its roof and hurl debris from windows, while soldiers and onlookers fill the street below."
 geo:
 id: 17
 item_type: Still Image

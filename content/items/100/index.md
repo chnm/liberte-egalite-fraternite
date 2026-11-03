@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/84f3c9e2c8562af8835ca86a4eb5666e.jpg
     thumb: /files/thumbnails/f856da1461935dcf32942140423a62a4.jpg
     url: /files/original/f856da1461935dcf32942140423a62a4.jpg
+    alt:
+      en: "Engraving of a cloaked family group, one man carrying a sleeping child, crossing a shadowy Paris street past a lantern-bearing guard toward a waiting carriage at night."
 geo:
 id: 100
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/19d81c9b13be7e47019e0c56f94fa78a.jpg
     thumb: /files/thumbnails/71a93de2bc3b5fda02b4277317f577f2.jpg
     url: /files/original/71a93de2bc3b5fda02b4277317f577f2.jpg
+    alt:
+      en: "Engraving depicting the nighttime arrest of the royal carriage at Varennes, with armed guards struggling against figures near the coach as horses and onlookers crowd the dark street."
 geo:
 id: 237
 item_type: Still Image

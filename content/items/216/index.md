@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/53f5c46785fccec88bbba53532d67026.jpg
     thumb: /files/thumbnails/ef00e526bd5634b2b78b9f353896bf56.jpg
     url: /files/original/ef00e526bd5634b2b78b9f353896bf56.jpg
+    alt:
+      en: "Engraving of Louis XVI embracing his weeping children and Marie Antoinette in a dim prison chamber, with his confessor standing nearby and a grieving attendant collapsed in the doorway."
 geo:
 id: 216
 item_type: Still Image

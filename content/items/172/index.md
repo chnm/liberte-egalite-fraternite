@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/cee09626a1e21888ed96ba978567ae53.jpg
     thumb: /files/thumbnails/73908f2447df85cf0c052f28754b8ab5.jpg
     url: /files/original/73908f2447df85cf0c052f28754b8ab5.jpg
+    alt:
+      en: "A caricature of a slumped, exhausted Napoleon surrounded by mice dressed as soldiers and courtiers, satirizing his court as a tiny, mocking \"mouse kingdom.\""
 geo:
 id: 172
 item_type: Still Image

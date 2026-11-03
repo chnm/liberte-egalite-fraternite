@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f7f947c929995c6e9a1a3bc0ce2abb9f.jpg
     thumb: /files/thumbnails/bd4c6b45e121027602e450a0128ee7c7.jpg
     url: /files/original/bd4c6b45e121027602e450a0128ee7c7.jpg
+    alt:
+      en: "Engraving of the elaborate funeral procession transporting Voltaire's remains to the Panthéon, showing a long line of mourners, banners, allegorical floats, and an ornate horse-drawn carriage bearing his sarcophagus."
 geo:
 id: 264
 item_type: Still Image

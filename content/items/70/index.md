@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/101e7d4eeeb917dc2fc424740e5f9b79.jpg
     thumb: /files/thumbnails/a30a551fe919119b70638990b5f67040.jpg
     url: /files/original/a30a551fe919119b70638990b5f67040.jpg
+    alt:
+      en: "Engraved oval portrait of Louis XVI in profile, depicted with simple curled hair and plain attire rather than a formal wig and royal regalia, set within a double-line oval border."
 geo:
 id: 70
 item_type: Still Image

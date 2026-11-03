@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d6b9f4e2678e7e8b78bbb4eea65e4b4c.jpg
     thumb: /files/thumbnails/35f31ae7c9e56578ed1b0490356cdd77.jpg
     url: /files/original/35f31ae7c9e56578ed1b0490356cdd77.jpg
+    alt:
+      en: "Vintage movie poster for \"La Marseillaise\" featuring three revolutionary soldiers in uniform before a ghostly allegorical figure representing Liberty, with a French townscape in the background."
 geo:
 id: 35
 item_type: Still Image

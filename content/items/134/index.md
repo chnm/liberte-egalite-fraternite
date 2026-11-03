@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4cd29e23426ea737f3a76c462094803a.jpg
     thumb: /files/thumbnails/2f6fb8e5ff154c1e2347694fbe800aac.jpg
     url: /files/original/2f6fb8e5ff154c1e2347694fbe800aac.jpg
+    alt:
+      en: "Engraving depicting massed ranks of bayonet-wielding French republican soldiers advancing in battle, with a monument inscribed to the \"Defenders of Liberty\" atop a hill amid fallen bodies in the foreground."
 geo:
 id: 134
 item_type: Still Image

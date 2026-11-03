@@ -50,12 +50,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/cae9012d13fe81d6cb435013d03cfd3d.jpg
     thumb: /files/thumbnails/ebb5b3e4deae9a13053d580e7875c281.jpg
     url: /files/original/ebb5b3e4deae9a13053d580e7875c281.jpg
+    alt:
+      en: "Engraving of chaotic street fighting before the Church of Saint-Roch in Paris, with cannon smoke, fallen bodies, fleeing horses, and armed troops clashing amid Parisian buildings."
   - fullsize: /files/fullsize/358a2958acb063c56f5d96ab94fb247d.jpg
     id: 146
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cb0fe8d320e0e3036fda699ea53e68ab.jpg
     thumb: /files/thumbnails/358a2958acb063c56f5d96ab94fb247d.jpg
     url: /files/original/358a2958acb063c56f5d96ab94fb247d.jpg
+    alt:
+      en: "Engraving of chaotic street fighting before a colonnaded building, with cannon smoke, scattered bodies, and armed crowds clashing on steps during the 13 Vendémiaire uprising in Paris."
 geo:
 id: 124
 item_type: Still Image

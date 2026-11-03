@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4c3f66a17c3a4fc54984074ea285a98f.jpg
     thumb: /files/thumbnails/274b1471ff7101c9610e352a2e6edb24.jpg
     url: /files/original/274b1471ff7101c9610e352a2e6edb24.jpg
+    alt:
+      en: "An engraving depicting Parisian women addressing the National Assembly on October 5, 1789, standing before seated deputies within a grand colonnaded hall."
 geo:
 id: 149
 item_type: Still Image

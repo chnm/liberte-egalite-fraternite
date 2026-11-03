@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/bdcc113de7b79e36b20d6952441c4815.jpg
     thumb: /files/thumbnails/0a8cf66ca6c48e60a5c72b46e312f627.jpg
     url: /files/original/0a8cf66ca6c48e60a5c72b46e312f627.jpg
+    alt:
+      en: "King Louis XVI, wearing a Phrygian cap atop his head, stands surrounded by armed revolutionaries brandishing pikes during the invasion of the Tuileries Palace on 20 June 1792."
 geo:
 id: 177
 item_type: Still Image

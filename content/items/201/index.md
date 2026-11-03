@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e30bab7c61201d4ba790a06ca2440d84.jpg
     thumb: /files/thumbnails/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
     url: /files/original/d2e19ef61aa13f8c6d8cf183fd75dd91.jpg
+    alt:
+      en: "Engraving of a triumphal chariot drawn by horses, with winged Victory figures and a crowd in classical dress, evoking Napoleon's self-styled comparison to Roman consular triumphs."
 geo:
 id: 201
 item_type: Still Image

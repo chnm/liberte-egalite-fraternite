@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4ed47dd5464eca37f1d14b9693990e8a.jpg
     thumb: /files/thumbnails/321bc9b531656db563a80435e9faaf4b.jpg
     url: /files/original/321bc9b531656db563a80435e9faaf4b.jpg
+    alt:
+      en: "Allegorical engraving of a seated female figure in classical dress with a winged putto beside a globe, surrounded by books and symbols of reason, above a printed French Republican calendar grid."
 geo:
 id: 270
 item_type: Still Image

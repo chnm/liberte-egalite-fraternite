@@ -48,12 +48,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0a9316471bc90ad0d05b182db9b4367c.jpg
     thumb: /files/thumbnails/53292d6db05d59cc8d72a88cff453c07.jpg
     url: /files/original/53292d6db05d59cc8d72a88cff453c07.jpg
+    alt:
+      en: "A woman shields two children while gesturing toward armed men at a doorway, as barrels and a cradle with an infant fill the humble interior around her."
   - fullsize: /files/fullsize/2026ef7ba64630501b4e9e9b1ae772e5.jpg
     id: 94
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/cccfd7186c277f838e8fdef6bd0a76bf.jpg
     thumb: /files/thumbnails/2026ef7ba64630501b4e9e9b1ae772e5.jpg
     url: /files/original/2026ef7ba64630501b4e9e9b1ae772e5.jpg
+    alt:
+      en: "Engraving of a woman standing defiantly before armed intruders at her doorway, one hand on a gunpowder barrel and a torch in the other, protecting her children and infant in a cradle nearby."
 geo:
 id: 76
 item_type: Still Image

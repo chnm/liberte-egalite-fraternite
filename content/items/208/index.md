@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6374cb3fb744dd4c552f92ad7126a983.jpg
     thumb: /files/thumbnails/3b2feaa58422d3a4388f0b9dda97ede6.jpg
     url: /files/original/3b2feaa58422d3a4388f0b9dda97ede6.jpg
+    alt:
+      en: "Allegorical female figure representing Paris, crowned and draped in fleur-de-lis robes, presents a sword to Lafayette in military uniform, with a shield depicting ships beside them."
 geo:
 id: 208
 item_type: Still Image

@@ -25,12 +25,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/3f583ea1091f7d690bcea307e2acddf2.jpg
     thumb: /files/thumbnails/5ebbd155647e9e8222fd6b34087342fe.jpg
     url: /files/original/5ebbd155647e9e8222fd6b34087342fe.jpg
+    alt:
+      en: "Color-coded map of Europe in 1812 showing French territory, French dependencies, Napoleon's allies, and independent states, including France, the Confederation of the Rhine, the Duchy of Warsaw, Prussia, Austria, Spain, and the Ottoman Empire."
   - fullsize: /files/fullsize/3de57deaa3856e674cc970b59dba6ef5.jpg
     id: 2
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9743e564b612d7d738ad37ee7903810c.jpg
     thumb: /files/thumbnails/3de57deaa3856e674cc970b59dba6ef5.jpg
     url: /files/original/3de57deaa3856e674cc970b59dba6ef5.jpg
+    alt:
+      en: "Map of Europe in 1812 color-coded by political status: French territory, French dependencies, Napoleon's allies, and independent states, spanning from Britain to the Ottoman Empire."
 geo:
 id: 1
 item_type: Still Image

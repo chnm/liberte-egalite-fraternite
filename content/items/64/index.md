@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ad878c604c0b5cb619737f7c8d39bd9f.jpg
     thumb: /files/thumbnails/1441cfae93b0ca5054855e48c64a9390.jpg
     url: /files/original/1441cfae93b0ca5054855e48c64a9390.jpg
+    alt:
+      en: "Satirical hand-colored etching showing armed revolutionaries confronting a startled royal figure with a bayonet and sword, while a distressed woman and child cower nearby, caricaturing the French royal family's capture during the Flight to Varennes."
 geo:
 id: 64
 item_type: Still Image

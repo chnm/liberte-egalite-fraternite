@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/67ee7841ca69c0192c977b0702952c41.jpg
     thumb: /files/thumbnails/4edc5df333c30aba7d987bda31e563d6.jpg
     url: /files/original/4edc5df333c30aba7d987bda31e563d6.jpg
+    alt:
+      en: "Gillray caricature of chaotic street violence in London, with a bare-legged Fox-like figure leading a mob, a man tied to a liberty pole, soldiers, a bull, and buildings in flames or under attack."
   - fullsize: /files/fullsize/b374b47b25e8ba16c6a16b3c03d239fd.jpg
     id: 66
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/330eafabf19510fa3c787c1bde955d9e.jpg
     thumb: /files/thumbnails/b374b47b25e8ba16c6a16b3c03d239fd.jpg
     url: /files/original/b374b47b25e8ba16c6a16b3c03d239fd.jpg
+    alt:
+      en: "Gillray's 1796 caricature shows chaos in a London street as revolutionaries, led by a half-naked Fox, torture Pitt at a liberty pole while mobs loot buildings, impale heads on pikes, and a bull rampages amid violence."
 geo:
 id: 52
 item_type: Still Image

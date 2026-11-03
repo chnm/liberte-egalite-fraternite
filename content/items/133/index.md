@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4554c43819436bdb7f60ddf6882f4d00.jpg
     thumb: /files/thumbnails/61f27598988e90c78e627cbe0a0659cf.jpg
     url: /files/original/61f27598988e90c78e627cbe0a0659cf.jpg
+    alt:
+      en: "Two muscular, Hercules-like figures carry severed heads toward a flaming altar guarded by Cerberus, while piles of decapitated heads lie scattered among rocks below a wheel-mounted eye and ear in the sky."
 geo:
 id: 133
 item_type: Still Image

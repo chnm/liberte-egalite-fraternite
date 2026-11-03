@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e3d6a9b4a020149310133430b57e226b.jpg
     thumb: /files/thumbnails/8b4848ab98808321f2a09d2d2a734e6c.jpg
     url: /files/original/8b4848ab98808321f2a09d2d2a734e6c.jpg
+    alt:
+      en: "A monstrous three-headed dog labeled \"Veni, Vidi, Vici\" and \"Victoire\" is chained by a giant arm from heaven, dragging it toward hell amid lightning and German captions mocking Napoleon's shifting allegiances."
 geo:
 id: 164
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/85682049a5e68149dc061fdb9c3d23bc.jpg
     thumb: /files/thumbnails/cf261ec52049b4ea2489594cde1440fd.jpg
     url: /files/original/cf261ec52049b4ea2489594cde1440fd.jpg
+    alt:
+      en: "A two-faced Janus head of Napoleon atop a tower of skulls, overlooking a coastal landscape, with the German caption \"Views into the past and future at the start of 1814.\""
 geo:
 id: 162
 item_type: Still Image

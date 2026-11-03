@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9357d205db12349dd0e9a471686e1997.jpg
     thumb: /files/thumbnails/6d3c24956146c9f46cfec2eb987ba059.jpg
     url: /files/original/6d3c24956146c9f46cfec2eb987ba059.jpg
+    alt:
+      en: "A gin-wielding man and woman flank a guillotine engulfed in flames, framed by banners reading \"No God! No Religion!!\" and \"No King! No Constitution!!,\" with nooses and axes above."
 geo:
 id: 140
 item_type: Still Image

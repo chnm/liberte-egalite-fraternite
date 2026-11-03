@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f93e7fe813cd63fc73d60062033da608.jpg
     thumb: /files/thumbnails/e18decf182e21feb0943fd5eae274f79.jpg
     url: /files/original/e18decf182e21feb0943fd5eae274f79.jpg
+    alt:
+      en: "A seated cobbler in a tasseled cap mends a shoe on a makeshift bench, surrounded by scattered boots and shoes, with tools and footwear piled beside him."
   - fullsize: /files/fullsize/f453f2f0d3cdc14101962372e065210c.jpg
     id: 165
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6625a22d1d437c0313a61ac75354b2b9.jpg
     thumb: /files/thumbnails/f453f2f0d3cdc14101962372e065210c.jpg
     url: /files/original/f453f2f0d3cdc14101962372e065210c.jpg
+    alt:
+      en: "Hand-colored print of a shoemaker in a red cap and orange coat, seated on a trunk mending a shoe, surrounded by boots and tools, with French caption below."
 geo:
 id: 142
 item_type: Still Image

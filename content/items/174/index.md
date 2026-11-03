@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7e9ff9207744d3af69454a2174bd94d4.jpg
     thumb: /files/thumbnails/7e95034df4e824343a731ae61fc3403c.jpg
     url: /files/original/7e95034df4e824343a731ae61fc3403c.jpg
+    alt:
+      en: "Satirical print showing Napoleon standing before an army of mice holding tiny weapons and cannons, mocking his exile and diminished power on St. Helena."
 geo:
 id: 174
 item_type: Still Image

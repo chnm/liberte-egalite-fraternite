@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/74b3ae9f63c7de8faa3a8e3e1be2428f.jpg
     thumb: /files/thumbnails/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
     url: /files/original/4f6596db6b1c3046c7bd2ff06fd26c14.jpg
+    alt:
+      en: "A sturdy, leafy oak labeled \"British Tree of True Liberty\" with trunk inscriptions reading \"Union,\" \"King, Lords, Commons,\" and \"Religion,\" rooted in a peaceful landscape with ships at sea."
 geo:
 id: 78
 item_type: Still Image

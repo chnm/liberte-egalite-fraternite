@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/fed51476c116a343eb3bd0841a998690.jpg
     thumb: /files/thumbnails/280a9b180062426074360f2cbcd48206.jpg
     url: /files/original/280a9b180062426074360f2cbcd48206.jpg
+    alt:
+      en: "Engraved portrait of Louis XVI in ermine-trimmed royal robes and the collar of the Order of the Holy Spirit, labeled \"Louis XVI, Roi de France,\" dated 1793."
 geo:
 id: 180
 item_type: Still Image

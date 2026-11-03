@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f840b55b610c0d0e66f44989429ee4f4.jpg
     thumb: /files/thumbnails/240dd34fce2eae37f157e4251f841f7e.jpg
     url: /files/original/240dd34fce2eae37f157e4251f841f7e.jpg
+    alt:
+      en: "Four outline maps of France (1800, 1802, 1804, 1815) with pink shading marking regions where abstention in Napoleonic plebiscites exceeded 80 percent, concentrated in the west."
 geo:
 id: 244
 item_type: Still Image

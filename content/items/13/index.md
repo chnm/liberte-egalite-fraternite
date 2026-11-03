@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/febbe65012049efe961e90e7cf3c2130.jpg
     thumb: /files/thumbnails/9115b2bb5824e99773f0566bf7978157.jpg
     url: /files/original/9115b2bb5824e99773f0566bf7978157.jpg
+    alt:
+      en: "An allegorical female figure representing Reason stands beside a lion, wearing a plumed helmet and classical drapery, holding a torch topped with a radiant eye."
 geo:
 id: 13
 item_type: Still Image

@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/baf41d3a0f8c50301f06a8950bde9bd9.jpg
     thumb: /files/thumbnails/fe9e797d4e923ef038dc5ff112796501.jpg
     url: /files/original/fe9e797d4e923ef038dc5ff112796501.jpg
+    alt:
+      en: "Crowds storm the Bastille fortress under cannon smoke, fighting royal soldiers with muskets, swords, and pikes beneath a red banner as the towering prison looms above the chaotic street battle."
   - fullsize: /files/fullsize/41c551370dc108bcf8b125d367e7faae.jpg
     id: 71
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/eef0ac38c5c8079aafca8387b6b19cec.jpg
     thumb: /files/thumbnails/41c551370dc108bcf8b125d367e7faae.jpg
     url: /files/original/41c551370dc108bcf8b125d367e7faae.jpg
+    alt:
+      en: "Engraving depicting armed Parisian crowds storming the Bastille fortress on July 14, 1789, with smoke, gunfire, and flags amid chaos at the prison's entrance."
 geo:
 id: 56
 item_type: Still Image

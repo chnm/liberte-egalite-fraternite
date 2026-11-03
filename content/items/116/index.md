@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b95b02dc775f47d9f8c7a3c4f36af0f4.jpg
     thumb: /files/thumbnails/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
     url: /files/original/5b0084b41c4737bf483d5e19ff3c4a9c.jpg
+    alt:
+      en: "Satirical caricature of a large, wide-eyed woman in an elaborate gown and feathered hat looming over a startled, grimacing man in period dress, with handwritten verse above and the title \"The Assassination of Marat by Charlotte Corde\" below."
 geo:
 id: 116
 item_type: Still Image

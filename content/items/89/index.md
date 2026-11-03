@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/40383009e6c1273c8b8e5e4b6620a398.jpg
     thumb: /files/thumbnails/03e5de32ae10b6376091295e5591da6b.jpg
     url: /files/original/03e5de32ae10b6376091295e5591da6b.jpg
+    alt:
+      en: "A seated woman personifying Liberty raises a red Phrygian cap atop a pike, wearing a blue tunic and brown skirt, with a scroll resting against her chair."
 geo:
 id: 89
 item_type: Still Image

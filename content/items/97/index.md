@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d2d96061ab364a27964523d4d571228d.jpg
     thumb: /files/thumbnails/4cf51123a45167ff72319575b4cce527.jpg
     url: /files/original/4cf51123a45167ff72319575b4cce527.jpg
+    alt:
+      en: "Engraving of a crowd storming the steps of a grand building, with a man being shot at point-blank range amid chaos; captioned \"Death of M. de Flesselles, Provost of Merchants.\""
 geo:
 id: 97
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d6f8fffbf1c8b7ce9cb8681b7ece6df8.jpg
     thumb: /files/thumbnails/0da1e0d6778bf9ac5e008a7de729c39d.jpg
     url: /files/original/0da1e0d6778bf9ac5e008a7de729c39d.jpg
+    alt:
+      en: "Engraving depicting wounded and dead soldiers scattered across a dim barn interior after battle, with a doorway revealing figures gathered outside in daylight."
 geo:
 id: 200
 item_type: Still Image

@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d1b49f5c867d7757dab03898e385dbf5.jpg
     thumb: /files/thumbnails/80f90df88217f530d57911d06a1dcd83.jpg
     url: /files/original/80f90df88217f530d57911d06a1dcd83.jpg
+    alt:
+      en: "Engraving of the Battle of Jemappes, showing French soldiers charging forward behind a raised flag, with fallen comrades in the foreground and smoke and windmill in the background."
 geo:
 id: 193
 item_type: Still Image

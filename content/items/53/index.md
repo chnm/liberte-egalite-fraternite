@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/adad7ab41e3dc8eb73b0acb0ce9ada7b.jpg
     thumb: /files/thumbnails/7fd8175dc9f5011c38cd9222fefd5822.jpg
     url: /files/original/7fd8175dc9f5011c38cd9222fefd5822.jpg
+    alt:
+      en: "Two hand-colored engravings: top shows three men of different estates toasting together at a table under a tree, \"Le Joyeux Accord\"; bottom shows three figures clasping hands over a pillar reading \"Je Tiens Mon Pied de Boeuf.\""
 geo:
 id: 53
 item_type: Still Image

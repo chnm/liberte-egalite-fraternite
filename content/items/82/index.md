@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/569db6d8c3a9d2a3665b5263d1e4d566.jpg
     thumb: /files/thumbnails/5e352d0f40ab2813fdef9b61f7265eeb.jpg
     url: /files/original/5e352d0f40ab2813fdef9b61f7265eeb.jpg
+    alt:
+      en: "A woman in classical robes and a red Phrygian cap stands beside a ballot box engraved with clasped hands, holding a palm branch, framed by tall green plants, titled \"La République.\""
 geo:
 id: 82
 item_type: Still Image

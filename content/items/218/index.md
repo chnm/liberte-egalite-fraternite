@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/50423aebab263a81dd5f04e289552de3.jpg
     thumb: /files/thumbnails/8e1ec75e5315ee078c013ca002c3297d.jpg
     url: /files/original/8e1ec75e5315ee078c013ca002c3297d.jpg
+    alt:
+      en: "An allegorical chariot drawn by a chained team of figures representing allied powers crosses a landscape, led by robed women and watched by onlookers, as a trumpeting angel flies overhead and a fallen ox lies in the road."
 geo:
 id: 218
 item_type: Still Image

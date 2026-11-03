@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/3bafd6be5a19e3fa5bcd781b0757d761.jpg
     thumb: /files/thumbnails/f5f09f345100a42f7225a20e7796755f.jpg
     url: /files/original/f5f09f345100a42f7225a20e7796755f.jpg
+    alt:
+      en: "Hand-colored print of a crowd marching with pikes bearing two severed heads, celebrating the October 1789 Versailles uprising, with figures in revolutionary-era dress dancing and cheering."
 geo:
 id: 236
 item_type: Still Image

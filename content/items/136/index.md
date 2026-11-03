@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9aae0117c1f76833704eb284fc6afb8b.jpg
     thumb: /files/thumbnails/b5652273b93fc2b52df20bd0561f1183.jpg
     url: /files/original/b5652273b93fc2b52df20bd0561f1183.jpg
+    alt:
+      en: "Portrait of Napoleon Bonaparte in uniform within an oval frame, above his title and a scene of the Battle of Marengo with cavalry, infantry, and cannon smoke across the field."
 geo:
 id: 136
 item_type: Still Image

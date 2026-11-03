@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/bcd70041216c1d07cc8c7c4361bc8c40.jpg
     thumb: /files/thumbnails/042637d4456d4f3efb1b44d8c8bc60f9.jpg
     url: /files/original/042637d4456d4f3efb1b44d8c8bc60f9.jpg
+    alt:
+      en: "A classical female allegorical figure in draped robes holds a balance scale beside a globe on a pedestal, symbolizing Equality, with the title \"L'Égalité\" inscribed below."
 geo:
 id: 15
 item_type: Still Image

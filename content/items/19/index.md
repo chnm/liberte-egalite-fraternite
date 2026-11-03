@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2720d3de4a0bba4d7589a2b171eb0e88.jpg
     thumb: /files/thumbnails/86a4996f0e2224952d7f700433c0edbe.jpg
     url: /files/original/86a4996f0e2224952d7f700433c0edbe.jpg
+    alt:
+      en: "Gillray caricature of Paul Barras lounging on a chaise while two nearly nude female silhouettes dance behind a sheer curtain, as a cloaked figure peers in from the right."
   - fullsize: /files/fullsize/5213928351fba9eee948a6b0c427fc98.jpg
     id: 29
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/6a23817659f125c3f0d897b2aab11e43.jpg
     thumb: /files/thumbnails/5213928351fba9eee948a6b0c427fc98.jpg
     url: /files/original/5213928351fba9eee948a6b0c427fc98.jpg
+    alt:
+      en: "Gillray caricature of Paul Barras lounging while watching the silhouetted nude dancing figures of Madame Tallien and Josephine behind a sheer curtain, as a peering Napoleon Bonaparte spies on the scene from the doorway."
 geo:
 id: 19
 item_type: Still Image

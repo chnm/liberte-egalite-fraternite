@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7158cbd36677f2fc3f7faee77dec9435.jpg
     thumb: /files/thumbnails/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
     url: /files/original/3aa2e4c9d3cd5563e133b25bcd48ef54.jpg
+    alt:
+      en: "A large crowd and marching troops gather in Union Square for the dedication of a statue of Lafayette, with flags and banners filling the scene before city buildings."
 geo:
 id: 214
 item_type: Still Image

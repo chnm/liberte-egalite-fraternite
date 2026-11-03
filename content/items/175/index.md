@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0b18f984117ed6194906191d86a20bb2.jpg
     thumb: /files/thumbnails/cf769d33093e2e0c1b625184b5946475.jpg
     url: /files/original/cf769d33093e2e0c1b625184b5946475.jpg
+    alt:
+      en: "Engraved portrait of Charlotte Corday seated, wearing a loose dark dress with a white collar, her hair falling softly around her face, evoking an image of calm innocence."
 geo:
 id: 175
 item_type: Still Image

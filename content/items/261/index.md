@@ -25,6 +25,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f6955303675be2e83eab235b2206a7a8.jpg
     thumb: /files/thumbnails/e02dada132ef183b4568d12515db6680.jpg
     url: /files/original/e02dada132ef183b4568d12515db6680.jpg
+    alt:
+      en: "Map of Europe in 1789 showing kingdoms, empires, and territories including Great Britain, France, Spain, Prussia, Austria, the Holy Roman Empire, Poland, Russia, and the Ottoman Empire."
 geo:
 id: 261
 item_type: Still Image

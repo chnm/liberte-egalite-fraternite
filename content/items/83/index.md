@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9747b184b6f5dc754fdd5f1d5063267.jpg
     thumb: /files/thumbnails/bf56137b1b8cd2edd38c5705286736db.jpg
     url: /files/original/bf56137b1b8cd2edd38c5705286736db.jpg
+    alt:
+      en: "A seated man in a red coat and tattered stockings feeds a dog and cat by the fireside, with a pike and tricolor cockade on his hat, titled \"Le bon sans Culotte.\""
 geo:
 id: 83
 item_type: Still Image

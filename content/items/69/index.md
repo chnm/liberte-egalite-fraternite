@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/8001de0e2b3197af063f86e11ae1467e.jpg
     thumb: /files/thumbnails/cbf4de359a80c988bd9df1ce81a543d8.jpg
     url: /files/original/cbf4de359a80c988bd9df1ce81a543d8.jpg
+    alt:
+      en: "A dog barks at a splattered, grimacing man in formal attire who raises his cane while a woman in a gown clings to his arm, as a liveried coachman stands idle beside an empty carriage labeled \"Fin de la Race.\""
 geo:
 id: 69
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9c021e885587b4d92183e9aa3fa0ba9.jpg
     thumb: /files/thumbnails/7e31511a47cac915e63d909cf4b6935f.jpg
     url: /files/original/7e31511a47cac915e63d909cf4b6935f.jpg
+    alt:
+      en: "A crowded harbor scene with soldiers bearing pikes and bayonets bidding farewell to grieving women and children, overseen by a classical statue symbolizing the Fatherland."
 geo:
 id: 31
 item_type: Still Image

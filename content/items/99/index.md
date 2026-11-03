@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/71fcbe51d4e0cc58ac7e1f1cec9b6225.jpg
     thumb: /files/thumbnails/d7dd7d8dd375c861a8051af15c957a7e.jpg
     url: /files/original/d7dd7d8dd375c861a8051af15c957a7e.jpg
+    alt:
+      en: "Hand-colored print of the Festival of Federation at the Champ de Mars, 1790, showing rows of marching troops, a triumphal arch, a canopied grandstand, and crowds of cheering spectators."
 geo:
 id: 99
 item_type: Still Image

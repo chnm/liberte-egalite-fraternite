@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/72404386efd41d53c641eabea8633d91.jpg
     thumb: /files/thumbnails/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
     url: /files/original/6160e2f4b16a5a1af5375d0f6af39c3b.jpg
+    alt:
+      en: "A crowded hall filled with men raising their arms in unison toward a central figure standing on a table, while spectators lean from windows above to witness the Tennis Court Oath."
 geo:
 id: 269
 item_type: Still Image

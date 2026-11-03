@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ee4f8c088c108d9adbf1b27891b01bf7.jpg
     thumb: /files/thumbnails/46b6ed1b6d7efea5a5a644b55154a855.jpg
     url: /files/original/46b6ed1b6d7efea5a5a644b55154a855.jpg
+    alt:
+      en: "A postal worker on foot grabs the bridle of the King's carriage horses at a town gate in Varennes, while armed mounted guards and a crowd of townspeople surround the coach."
 geo:
 id: 101
 item_type: Still Image

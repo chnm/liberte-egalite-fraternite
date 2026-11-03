@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2a62a1b2b3336b0a3c90e8cfcd55c3ad.jpg
     thumb: /files/thumbnails/81178317740e19c76f721d43aa0cdb64.jpg
     url: /files/original/81178317740e19c76f721d43aa0cdb64.jpg
+    alt:
+      en: "Engraving of French troops marching with flags past a tall church tower and canal-side buildings, watched by crowds, during the 1795 entry into Holland."
 geo:
 id: 122
 item_type: Still Image

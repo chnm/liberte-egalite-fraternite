@@ -52,6 +52,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1651f2c900d5c244c5adebb4bfa7800f.jpg
     thumb: /files/thumbnails/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
     url: /files/original/e5408d2ee55fdc40cd498ccd22e27d2b.jpg
+    alt:
+      en: "An 18th-century engraving depicts soldiers firing muskets at a fleeing crowd in a narrow Paris street, with smoke, debris falling from windows, and objects strewn across the cobblestones."
 geo:
 id: 95
 item_type: Still Image

@@ -28,6 +28,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9e165ec670e74f9c68374e4faa6b4a3b.jpg
     thumb: /files/thumbnails/639ef4e8ac3433b2173ef0defd69977a.jpg
     url: /files/original/639ef4e8ac3433b2173ef0defd69977a.jpg
+    alt:
+      en: "Faience plate featuring a crowing rooster perched atop a cannon, with fountains in the background and the inscription \"je veille pour la nation,\" bordered by floral and foliate decorations."
 geo:
 id: 38
 item_type: Still Image

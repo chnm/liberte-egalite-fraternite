@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b61b71dbc4f2bd3b777dd8338da149fb.jpg
     thumb: /files/thumbnails/33643bc9a1281c14e43bb3b195519dfd.jpg
     url: /files/original/33643bc9a1281c14e43bb3b195519dfd.jpg
+    alt:
+      en: "An engraving titled \"Supplice du Sieur Foulon,\" showing a crowd in a Paris street brandishing a pike topped with a severed head, while onlookers watch from a balcony above."
 geo:
 id: 98
 item_type: Still Image

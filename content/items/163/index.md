@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7e0b3d8804166d53b990333547eb9923.jpg
     thumb: /files/thumbnails/963a65b75c865e7c10fa9c3ee80ac196.jpg
     url: /files/original/963a65b75c865e7c10fa9c3ee80ac196.jpg
+    alt:
+      en: "A caricatured profile of Napoleon, his face formed from contorted battle-scarred visages, wearing a tall black shako and a map-patterned cloak with a clawed hand, titled \"Triumph of the Year 1813.\""
 geo:
 id: 163
 item_type: Still Image

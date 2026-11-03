@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/c68fd620f50b09bd4db28903a1a4ba92.jpeg
     thumb: /files/thumbnails/560ca01c6893f7e5189326257e8387f9.jpg
     url: /files/original/560ca01c6893f7e5189326257e8387f9.jpeg
+    alt:
+      en: "A poster for the 1939 Fête de l'Unité Nationale, featuring a red Phrygian cap, oak wreath, French tricolor flags marked 1789 and 1939, a rooster, and cannons."
 geo:
 id: 72
 item_type: Still Image

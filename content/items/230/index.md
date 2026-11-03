@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/686894236781ff6011c166b027d231fe.jpg
     thumb: /files/thumbnails/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
     url: /files/original/d7661add200eb5a52f5c8fcfd60f1a4c.jpg
+    alt:
+      en: "A French officer on a sailboat flying the tricolor flag forces a Black man overboard, with bodies already floating in the water below; a naval battle smolders in the distance."
 geo:
 id: 230
 item_type: Still Image

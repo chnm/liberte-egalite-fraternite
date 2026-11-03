@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/486dc2ec57e9e2794d6ecce90ada3ab1.jpg
     thumb: /files/thumbnails/7b26b3ac40a7d346aca062a469fa7b8d.jpg
     url: /files/original/7b26b3ac40a7d346aca062a469fa7b8d.jpg
+    alt:
+      en: "Hand-colored print of armed women marching with pikes and a drum toward Versailles, led by a woman on horseback, titled \"Avant-Garde des femmes Allant à Versailles.\""
 geo:
 id: 248
 item_type: Still Image

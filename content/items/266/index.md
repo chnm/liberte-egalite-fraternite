@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5563cf7a415e040cf2a7e353418055d5.jpg
     thumb: /files/thumbnails/bb8570535da565a35439da94a2104634.jpg
     url: /files/original/bb8570535da565a35439da94a2104634.jpg
+    alt:
+      en: "Engraving depicting Napoleon and Alexander I shaking hands on a platform before a canopied tent at Tilsit, surrounded by officers, with boats waiting at the water's edge below."
 geo:
 id: 266
 item_type: Still Image

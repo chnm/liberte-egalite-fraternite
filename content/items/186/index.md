@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/13175a64657a78ff33f27722b70ed8e7.jpg
     thumb: /files/thumbnails/2cddb4c3f5138760866c228ca845b4d9.jpg
     url: /files/original/2cddb4c3f5138760866c228ca845b4d9.jpg
+    alt:
+      en: "Engraving of Marie Antoinette's execution at the Place de la Révolution, 16 October 1793, showing the guillotine, troops, and crowds beneath a towering statue of Liberty."
 geo:
 id: 186
 item_type: Still Image

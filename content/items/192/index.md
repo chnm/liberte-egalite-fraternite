@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/baacf20f0b7d420d2c8d1b6692cc8e53.jpg
     thumb: /files/thumbnails/0e964d9537b713e3feeb1e896a318485.jpg
     url: /files/original/0e964d9537b713e3feeb1e896a318485.jpg
+    alt:
+      en: "Engraving of armed revolutionaries charging through gun smoke with muskets and bayonets raised, storming the Bastille amid fallen bodies and cannon fire."
 geo:
 id: 192
 item_type: Still Image

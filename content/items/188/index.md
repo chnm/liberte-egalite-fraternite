@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/85ecef51b01fc6db3f9ad544449d96bf.jpg
     thumb: /files/thumbnails/4e9f575868da3ad3c600dbbb33a4f180.jpg
     url: /files/original/4e9f575868da3ad3c600dbbb33a4f180.jpg
+    alt:
+      en: "Engraving of Marie Antoinette kneeling before a priest at the guillotine, her hand on his chest, as an executioner stands ready with a rope beside the scaffold."
 geo:
 id: 188
 item_type: Still Image

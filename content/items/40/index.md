@@ -28,6 +28,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0ee2d06b40dc6e2b8c701882c796b8b4.jpg
     thumb: /files/thumbnails/2dfd852803020f8d6532fee03c55f26a.jpg
     url: /files/original/2dfd852803020f8d6532fee03c55f26a.jpg
+    alt:
+      en: "A hand-painted folding fan with gilded edges, depicting a row of figures in Directory-era French fashion above columns of text, mounted on dark sticks with a decorative guard."
 geo:
 id: 40
 item_type: Still Image

@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/a13d77098560461846a58d0bff376f40.jpg
     thumb: /files/thumbnails/edd7260f14e3c1091a35a1dbb6419369.jpg
     url: /files/original/edd7260f14e3c1091a35a1dbb6419369.jpg
+    alt:
+      en: "Commemorative plate depicting the guillotine execution of Louis Capet on 21 January 1793, surrounded by figures and the inscription \"L'an second de la République française.\""
 geo:
 id: 111
 item_type: Still Image

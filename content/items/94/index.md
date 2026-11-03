@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0044909886aee19f075a98543d8c8876.jpeg
     thumb: /files/thumbnails/f71d8c542505317d149260001b872d07.jpg
     url: /files/original/f71d8c542505317d149260001b872d07.jpeg
+    alt:
+      en: "Engraving of Louis XVI in fur-trimmed robes distributing coins to poor peasants in a snowy village, titled \"Louis XVI distribuant des bienfaits à de pauvres paysans dans l'hiver de 1788.\""
 geo:
 id: 94
 item_type: Still Image

@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b2e46cc225288380d514bd5107582ec6.jpg
     thumb: /files/thumbnails/907e09e0ecb071f2c8da5669b1a0593b.jpg
     url: /files/original/907e09e0ecb071f2c8da5669b1a0593b.jpg
+    alt:
+      en: "A solitary woman in mourning dress sits on a chair beside a bed in a bare prison cell, while two guards with bayonets stand watch at the open doorway."
 geo:
 id: 185
 item_type: Still Image

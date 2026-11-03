@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5dd4929b042d6bf5ab1540d48470ddbc.jpg
     thumb: /files/thumbnails/d03d1a219071607aa26f34fa8fbefa82.jpg
     url: /files/original/d03d1a219071607aa26f34fa8fbefa82.jpg
+    alt:
+      en: "Hand-colored print of women in colorful dresses marching toward Versailles on October 5, 1789, pulling a cannon and surrounded by pike-wielding crowds."
 geo:
 id: 24
 item_type: Still Image

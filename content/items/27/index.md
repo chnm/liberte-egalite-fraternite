@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/97dfe08f5d93285144eabf38138c6a47.jpg
     thumb: /files/thumbnails/2589b9e881d9f8e23d584c9717514c8f.jpg
     url: /files/original/2589b9e881d9f8e23d584c9717514c8f.jpg
+    alt:
+      en: "Satirical 1793 engraving depicting British soldiers as marching jugs led by a turkey-headed king, while ragged sans-culottes atop a ruined arch defecate on the advancing enema-shaped cannons below."
 geo:
 id: 27
 item_type: Still Image

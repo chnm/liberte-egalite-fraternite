@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ff921c35764e517bd28743fabb800f3a.jpg
     thumb: /files/thumbnails/ea1a9ffe1036e18783ea0c37132603d9.jpg
     url: /files/original/ea1a9ffe1036e18783ea0c37132603d9.jpg
+    alt:
+      en: "A circular portrait medallion depicting Louis XVI in royal ermine robes beside LaFayette in National Guard uniform, framed by an inscription naming both men and their titles."
 geo:
 id: 209
 item_type: Still Image

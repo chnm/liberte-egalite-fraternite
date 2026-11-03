@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/bf9131465df601ab37c8fcdc09e6bdd3.jpg
     thumb: /files/thumbnails/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
     url: /files/original/4ff6ab0587b0ccf21e392b6dac4dc5b9.jpg
+    alt:
+      en: "A man in a red coat joins hands with a nun while pairs of monks and nuns embrace in the background, with two churches visible behind them."
 geo:
 id: 151
 item_type: Still Image

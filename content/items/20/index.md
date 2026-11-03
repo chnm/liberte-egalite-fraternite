@@ -48,12 +48,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b3c17e6d5040084f7253007b539adbf4.jpg
     thumb: /files/thumbnails/84370728987a79a6be1f96516d72a14c.jpg
     url: /files/original/84370728987a79a6be1f96516d72a14c.jpg
+    alt:
+      en: "Engraving of Marie Antoinette standing before a tribunal of judges and officials in a crowded courtroom, gesturing as she addresses the panel during her 1793 trial."
   - fullsize: /files/fullsize/7bdc3619d0bc9075d67317e5edc42295.jpg
     id: 31
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/95f3baf841ffea3ba8c50ace7cbc4015.jpg
     thumb: /files/thumbnails/7bdc3619d0bc9075d67317e5edc42295.jpg
     url: /files/original/7bdc3619d0bc9075d67317e5edc42295.jpg
+    alt:
+      en: "Engraving depicts Marie Antoinette standing with arm outstretched before tribunal judges at a table, as seated spectators and officials look on in a crowded courtroom during her revolutionary trial."
 geo:
 id: 20
 item_type: Still Image

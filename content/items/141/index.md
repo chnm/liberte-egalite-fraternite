@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/824c708f09e542a311d72ad955765acc.jpg
     thumb: /files/thumbnails/598a9ba1a4c7139aecda4041d320b313.jpg
     url: /files/original/598a9ba1a4c7139aecda4041d320b313.jpg
+    alt:
+      en: "Engraving of a circus-like scene with a harlequin figure balancing on a tightrope beneath a banner reading \"La Loi et Le Roi,\" surrounded by crowds, dancing dogs, and performers under a tented stage."
 geo:
 id: 141
 item_type: Still Image

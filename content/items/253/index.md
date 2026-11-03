@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/51f967c7d997e0a05f91aed39101b0b8.jpg
     thumb: /files/thumbnails/37106ad12a5631947383ef11ba995a94.jpg
     url: /files/original/37106ad12a5631947383ef11ba995a94.jpg
+    alt:
+      en: "A woman in a white bonnet poses with four young children against a wooded landscape backdrop, in a provincial folk-art style miniature painting."
 geo:
 id: 253
 item_type: Still Image

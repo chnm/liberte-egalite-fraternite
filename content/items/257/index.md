@@ -28,6 +28,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ace4c44028bcc84256de7ee3516acad7.jpg
     thumb: /files/thumbnails/e0d55ff009a05af0f6fbbae57902e13f.jpg
     url: /files/original/e0d55ff009a05af0f6fbbae57902e13f.jpg
+    alt:
+      en: "Porcelain sauce boat with a curled gilt handle shaped like a Phrygian cap, decorated with cobalt blue bands, gilt foliage, and painted medallions of pink roses and floral wreaths."
 geo:
 id: 257
 item_type: Still Image

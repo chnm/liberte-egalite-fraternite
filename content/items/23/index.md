@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/79753331c9430c6b7bfce009609cfb07.jpg
     thumb: /files/thumbnails/f59e6583db91e4948cdc41a6a2c80594.jpg
     url: /files/original/f59e6583db91e4948cdc41a6a2c80594.jpg
+    alt:
+      en: "Engraving of Robespierre being held down on a guillotine platform by two executioners in liberty caps, with an onlooker watching nearby and a crowd gathered below."
 geo:
 id: 23
 item_type: Still Image

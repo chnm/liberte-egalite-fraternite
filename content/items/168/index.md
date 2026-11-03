@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2a6d85fc969b3311dcd59c0784f6cd84.jpg
     thumb: /files/thumbnails/65ed624ff20e8808794df3af06798c97.jpg
     url: /files/original/65ed624ff20e8808794df3af06798c97.jpg
+    alt:
+      en: "Caricature of Napoleon with an oversized head, choking on a dark object labeled \"Leipzig\" protruding from his mouth, standing on a mat with skulls and crossed bones while holding a sword."
 geo:
 id: 168
 item_type: Still Image

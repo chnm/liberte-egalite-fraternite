@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1d9c12236d96aec0bce8269dffe3f656.jpg
     thumb: /files/thumbnails/7d1122a0015184f5a76eca16cb8a30dc.jpg
     url: /files/original/7d1122a0015184f5a76eca16cb8a30dc.jpg
+    alt:
+      en: "Three caricatured, effeminate Chouan officers in exaggerated dandy dress—striped stockings, plumed hats, and sashes—dance or march atop a green hill, brandishing weapons and a bundle."
 geo:
 id: 154
 item_type: Still Image

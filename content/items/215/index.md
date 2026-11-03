@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b713923236f408811bab3cb7daa27fd3.jpg
     thumb: /files/thumbnails/21f92f8174c1d795026df17c8e7a8a55.jpg
     url: /files/original/21f92f8174c1d795026df17c8e7a8a55.jpg
+    alt:
+      en: "Engraving titled \"Le Roi, piochant au champ de Mars,\" depicting King Louis XVI wielding a pickaxe at the Champ de Mars construction site, surrounded by onlookers and laborers preparing for the Festival of Federation."
 geo:
 id: 215
 item_type: Still Image

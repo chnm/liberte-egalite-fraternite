@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ca18f7a58c528c25772cd5f2d9e45b92.jpg
     thumb: /files/thumbnails/396b4dff0427befbfb9fbce85463d476.jpg
     url: /files/original/396b4dff0427befbfb9fbce85463d476.jpg
+    alt:
+      en: "Jean-Paul Marat lies dead in his bathtub, a letter in hand and quill fallen, his wound visible as he slumps peacefully; a wooden crate beside him reads \"À Marat, David.\""
 geo:
 id: 256
 item_type: Still Image

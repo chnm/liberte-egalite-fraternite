@@ -45,6 +45,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d67d5fe53f95cdba28b0868a6da2a360.jpg
     thumb: /files/thumbnails/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
     url: /files/original/1dcfbcc3529d9d63a2e6717cf52e4dfd.jpg
+    alt:
+      en: "A hand-colored print of soldiers raising their hats and rifles in salute as an officer greets Napoleon, illustrating troops defecting to join him upon his return from Elba."
 geo:
 id: 267
 item_type: Still Image

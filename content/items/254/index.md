@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7efdca772796a3a98c9ac23cde50fb1f.jpg
     thumb: /files/thumbnails/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
     url: /files/original/a719d73ae501974ba9cae2a8d7eb4e5a.jpg
+    alt:
+      en: "A ragged man in a liberty cap and tattered clothes walks with a bundle of utensils and keys, a satirical depiction of a revolutionary committee president after confiscating goods."
   - fullsize: /files/fullsize/d6209d1579e7e1deb5a403a9a8b52f25.jpg
     id: 283
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/b9dd0edeab9b366005ce0dc651193dee.jpg
     thumb: /files/thumbnails/d6209d1579e7e1deb5a403a9a8b52f25.jpg
     url: /files/original/d6209d1579e7e1deb5a403a9a8b52f25.jpg
+    alt:
+      en: "Hand-colored print of a disheveled man in a red cap and coat clutching stolen silverware and a bundle, satirizing a revolutionary committee president after a seal is broken."
 geo:
 id: 254
 item_type: Still Image

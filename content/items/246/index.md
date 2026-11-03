@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e7a3b48c90d08f210a4cef345c8abeeb.jpg
     thumb: /files/thumbnails/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
     url: /files/original/28d7a189340a9b6ac4e9a5d6be8d9425.jpg
+    alt:
+      en: "Engraving of a crowded hall with tall arched windows, depicting a tense assembly scene at the Orangerie of Saint-Cloud during the coup of 18 Brumaire, with robed legislators gesturing amid confusion."
 geo:
 id: 246
 item_type: Still Image

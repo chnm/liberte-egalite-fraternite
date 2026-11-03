@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4af01ae8c04e973031a571d9626b21b6.jpg
     thumb: /files/thumbnails/139918602ac2c952a69b0162c4cb676d.jpg
     url: /files/original/139918602ac2c952a69b0162c4cb676d.jpg
+    alt:
+      en: "A satirical procession of long-nosed, robed clergy led by a bishop toward a church, with a demon carrying a coffin behind them and a banner reading \"Qui rit Vendredi, Dimanche pleurera\" above."
 geo:
 id: 18
 item_type: Still Image

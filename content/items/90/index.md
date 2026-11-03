@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/94978949f382b76c8ca9a2d205eba773.jpg
     thumb: /files/thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
     url: /files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    alt:
+      en: "Two peasants kneel beside a cart with a broken wheel, oxen standing harnessed nearby, while a farmhouse with a thatched roof and stacked hay sits in the background under a cloudy sky."
 geo:
 id: 90
 item_type: Still Image

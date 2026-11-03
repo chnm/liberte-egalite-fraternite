@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/51a70eb81e361557ed8ccab34dd81877.jpg
     thumb: /files/thumbnails/6cc584010338b6fcf7545ee6d94101a4.jpg
     url: /files/original/6cc584010338b6fcf7545ee6d94101a4.jpg
+    alt:
+      en: "A bowing, elaborately dressed courtier doffs his hat with exaggerated humility on the left, while a brash, armed revolutionary in military attire turns his back dismissively on the right."
 geo:
 id: 138
 item_type: Still Image

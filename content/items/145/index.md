@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/050605ec6e83e0caf8cfcc5e98681c67.jpg
     thumb: /files/thumbnails/910ff7956dab33ea79be773427237fac.jpg
     url: /files/original/910ff7956dab33ea79be773427237fac.jpg
+    alt:
+      en: "King Louis XVI stands before the National Assembly swearing to accept the new constitution, surrounded by seated deputies and crowded galleries of spectators above."
 geo:
 id: 145
 item_type: Still Image

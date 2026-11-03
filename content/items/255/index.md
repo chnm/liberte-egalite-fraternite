@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/621f38d10d240f2ae39cb149406c4a18.jpg
     thumb: /files/thumbnails/ef9486716308d77953e08fc9e7049259.jpg
     url: /files/original/ef9486716308d77953e08fc9e7049259.jpg
+    alt:
+      en: "Engraving of Robert-François Damiens restrained on a rack with ropes attached to his limbs, flanked by smaller scenes below depicting a crowd execution and a body burning at the stake."
 geo:
 id: 255
 item_type: Still Image

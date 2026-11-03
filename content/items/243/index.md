@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1daae4cc1d116076348d74d365a8b0cd.jpg
     thumb: /files/thumbnails/db13ef6e74126e7701a3250f986a3b38.jpg
     url: /files/original/db13ef6e74126e7701a3250f986a3b38.jpg
+    alt:
+      en: "Table titled \"The Demographics of Saint Domingue (1789-1798)\" comparing population, growth rates, racial makeup, sex ratios, and origins for Free Whites, Free People of Color, and Slaves, with slaves vastly outnumbering the other groups."
 geo:
 id: 243
 item_type: Still Image

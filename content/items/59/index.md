@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/54564095eb213b0da6239febfcf3b6e4.jpg
     thumb: /files/thumbnails/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
     url: /files/original/71aafb453446ce5cddb1cb04e6d6a9d3.jpg
+    alt:
+      en: "A cream-colored porcelain mug and matching saucer, each decorated with a dark sepia portrait medallion of Louis XVI framed by a geometric border pattern."
 geo:
 id: 59
 item_type: Still Image

@@ -28,6 +28,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1ce5202c697bd69047e0bac977dc84fe.jpg
     thumb: /files/thumbnails/bf8445217b515328159d158471b11bf6.jpg
     url: /files/original/bf8445217b515328159d158471b11bf6.jpg
+    alt:
+      en: "Faience plate painted with a crown above three fleurs-de-lis and the phrase \"Vive la Nation,\" framed by floral garlands and a border of colorful butterflies and flowers."
 geo:
 id: 37
 item_type: Still Image

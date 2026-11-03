@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/96ae586656b52c952b054797471fd6db.jpg
     thumb: /files/thumbnails/4a52439be403b8d229db927a332b105d.jpg
     url: /files/original/4a52439be403b8d229db927a332b105d.jpg
+    alt:
+      en: "Engraving depicting the September Massacres of 1792, showing a chaotic crowd with weapons raised amid bodies on the ground outside a prison building."
 geo:
 id: 194
 item_type: Still Image

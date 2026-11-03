@@ -51,12 +51,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1f3b4b2153daf4766a13b2b8a7ec84e4.jpg
     thumb: /files/thumbnails/d971bda7cb245a097e970a31332ba141.jpg
     url: /files/original/d971bda7cb245a097e970a31332ba141.jpg
+    alt:
+      en: "A woman in a striped dress and ruffled cap sits carding wool on a wooden chair, with a distaff and raw fibers on the table beside her, labeled \"Madame sans-Culotte.\""
   - fullsize: /files/fullsize/1ee3b339558cef60fa40d856fa01f6a9.jpg
     id: 279
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/0bc49987d4c0ff2f0223c1b67e12db2e.jpg
     thumb: /files/thumbnails/1ee3b339558cef60fa40d856fa01f6a9.jpg
     url: /files/original/1ee3b339558cef60fa40d856fa01f6a9.jpg
+    alt:
+      en: "Hand-colored print of a seated woman in striped skirt and red bodice playing with a cat on a table, a basket and ball of yarn at her feet; captioned \"Madame sans Culotte.\""
 geo:
 id: 251
 item_type: Still Image

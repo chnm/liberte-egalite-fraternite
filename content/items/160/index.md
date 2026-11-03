@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/87ed26b13196156953590995b540714a.jpg
     thumb: /files/thumbnails/7955f10b9dc1e67f9346ffd6c980d78b.jpg
     url: /files/original/7955f10b9dc1e67f9346ffd6c980d78b.jpg
+    alt:
+      en: "A soldier and clergyman recoil with raised hands as a shackled commoner breaks free from chains on the ground, with the Bastille crumbling in the background."
 geo:
 id: 160
 item_type: Still Image

@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e63b9ba981c661df57f2f71ce48e54ec.jpg
     thumb: /files/thumbnails/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
     url: /files/original/1fa54bcafd9a5322cabcaa8ae6b666dd.jpg
+    alt:
+      en: "Engraving of Napoleon Bonaparte standing amid plague-stricken, partially clothed patients in an arcaded hospital courtyard in Jaffa, surrounded by officers and attendants."
 geo:
 id: 196
 item_type: Still Image

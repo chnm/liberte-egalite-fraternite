@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/94b70135599ec428a23c70c1314ac1bd.jpg
     thumb: /files/thumbnails/444dc62b4927805c8da1346eacdb5584.jpg
     url: /files/original/444dc62b4927805c8da1346eacdb5584.jpg
+    alt:
+      en: "Engraving titled \"Le Meâ Culpâ du Pape\" showing the Pope kneeling before treasure chests labeled \"Trésor du Château Saint Ange,\" gesturing toward divine light, as clergy react with alarm nearby."
 geo:
 id: 25
 item_type: Still Image

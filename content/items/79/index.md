@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/da5b1f6952d24063ebf568431861924a.jpg
     thumb: /files/thumbnails/b520831dfa8cd92a8a94338f25426183.jpg
     url: /files/original/b520831dfa8cd92a8a94338f25426183.jpg
+    alt:
+      en: "A gnarled tree labeled \"A Foreign Tree, Subitarius\" rises from roots marked \"Confusion, Convention, Infidelity,\" topped by a skull amid dark clouds, with a guillotine and crowd in the background."
 geo:
 id: 79
 item_type: Still Image

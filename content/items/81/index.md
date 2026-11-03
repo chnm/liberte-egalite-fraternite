@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2ab8ccf8ecc35c8d6117478b31d9b321.jpg
     thumb: /files/thumbnails/66a6c2fe53305d92fe37150d7876eef7.jpg
     url: /files/original/66a6c2fe53305d92fe37150d7876eef7.jpg
+    alt:
+      en: "Revolutionaries topple the equestrian statue of Louis XIV in Place Vendôme amid smoke, as crowds haul it down with ropes and figures wave revolutionary flags atop the pedestal."
 geo:
 id: 81
 item_type: Still Image

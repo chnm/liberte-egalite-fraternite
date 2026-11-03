@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/dbf5d4d556da6506e422024b7c735aff.jpg
     thumb: /files/thumbnails/3286bc6878e49f0ff11ca7da944dd1af.jpg
     url: /files/original/3286bc6878e49f0ff11ca7da944dd1af.jpg
+    alt:
+      en: "Armed men on horseback and on foot block a royal carriage at a bridge, confronting its occupants, including Louis XVI, as townspeople gather at Varennes."
 geo:
 id: 104
 item_type: Still Image

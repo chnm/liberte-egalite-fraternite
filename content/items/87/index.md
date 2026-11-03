@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/99165f7f9d9611fd442a8f6cf9dc7711.jpg
     thumb: /files/thumbnails/983d257e4bc3e3da135b465dda18c1ac.jpg
     url: /files/original/983d257e4bc3e3da135b465dda18c1ac.jpg
+    alt:
+      en: "A kneeling man in a red coat administers an enema to a clergyman whose bare buttocks are exposed, while a man in military dress looks on, with a chamber pot positioned below."
   - fullsize: /files/fullsize/7e3303537acd2f64e751e7cb81f65595.jpg
     id: 107
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/bd17e9e279bea721d5d485d8b8cbad79.jpg
     thumb: /files/thumbnails/7e3303537acd2f64e751e7cb81f65595.jpg
     url: /files/original/7e3303537acd2f64e751e7cb81f65595.jpg
+    alt:
+      en: "A kneeling man in a red coat administers a large enema to a bent-over clergyman, whose coins spill into a bowl below, while another man in military dress holds the priest upright."
 geo:
 id: 87
 item_type: Still Image

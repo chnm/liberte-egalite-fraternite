@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ae1969e76b853f6eff07f7278872e428.jpg
     thumb: /files/thumbnails/03421216dd968c7c0e00e4d50ac018be.jpg
     url: /files/original/03421216dd968c7c0e00e4d50ac018be.jpg
+    alt:
+      en: "Engraving depicting armed revolutionaries storming a candlelit inn to confront Louis XVI and his family seated at a table, titled \"Arrestation de Louis XVI à Varennes, le 22 juin 1791.\""
 geo:
 id: 102
 item_type: Still Image

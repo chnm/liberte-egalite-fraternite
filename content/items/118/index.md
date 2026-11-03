@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/39a146b468474574b5ea12669bf52615.jpg
     thumb: /files/thumbnails/d3de998792f2badea5b17b9d908ae0e1.jpg
     url: /files/original/d3de998792f2badea5b17b9d908ae0e1.jpg
+    alt:
+      en: "Engraving of boats sinking in the Loire River near Nantes as armed men attack struggling victims in the water, with a riverside village and buildings in the background."
 geo:
 id: 118
 item_type: Still Image

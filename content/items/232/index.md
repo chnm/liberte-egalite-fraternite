@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0749876d1ae895eb899e07b20407545e.jpg
     thumb: /files/thumbnails/4095da91a938530407034825cf041d5b.jpg
     url: /files/original/4095da91a938530407034825cf041d5b.jpg
+    alt:
+      en: "A coastal scene at dusk where a Black man is forcibly restrained with a raised stick while another is led toward a boat, as European traders and a dog look on near palm trees and distant ships."
 geo:
 id: 232
 item_type: Still Image

@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6017bd4a3b9d3edb18995a3a76057a34.jpg
     thumb: /files/thumbnails/1efa42e897be12f5ff128826bde65c3e.jpg
     url: /files/original/1efa42e897be12f5ff128826bde65c3e.jpg
+    alt:
+      en: "Two German peasant men in traditional dress examine a tiny Napoleon figure trapped inside a glass bottle on a table, one pointing at it while the other leans in with a spear."
 geo:
 id: 170
 item_type: Still Image

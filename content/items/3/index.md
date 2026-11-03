@@ -25,12 +25,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/1c645de43db0fdf5c2449f9cecb2a4eb.jpg
     thumb: /files/thumbnails/648c03368fee08e463ce3ecfa82cc144.jpg
     url: /files/original/648c03368fee08e463ce3ecfa82cc144.jpg
+    alt:
+      en: "Map of pre-revolutionary France divided into historic provinces such as Brittany, Normandy, Île-de-France, Burgundy, Provence, and Gascogne, with Corsica shown as an inset."
   - fullsize: /files/fullsize/0c8064496b4068b68fbf4fb5a0c67ae8.jpg
     id: 6
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/860178352e26bdf63870922a9f52c9a2.jpg
     thumb: /files/thumbnails/0c8064496b4068b68fbf4fb5a0c67ae8.jpg
     url: /files/original/0c8064496b4068b68fbf4fb5a0c67ae8.jpg
+    alt:
+      en: "Map of pre-revolutionary France divided into its historic provinces, including Brittany, Normandy, Burgundy, Provence, and Alsace, with an inset of Corsica in the lower right corner."
 geo:
 id: 3
 item_type: Still Image

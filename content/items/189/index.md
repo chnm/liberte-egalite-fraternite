@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/56ecfbdd40a8c05dbd1acbce695647f0.jpg
     thumb: /files/thumbnails/18feac7f32b741a9472d6e5f161c71b6.jpg
     url: /files/original/18feac7f32b741a9472d6e5f161c71b6.jpg
+    alt:
+      en: "An engraving shows a jailer reading an execution summons to a seated, restrained prisoner while distraught women weep and cling nearby in a dim stone prison chamber."
 geo:
 id: 189
 item_type: Still Image

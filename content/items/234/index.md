@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/bf3a0729a1ce87d39998e7ce565b4926.jpg
     thumb: /files/thumbnails/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
     url: /files/original/d75b4fb0eda55ccf5ad0399d0cebfec3.jpg
+    alt:
+      en: "An 18th-century engraving depicts royal carriages escorted by horsemen passing an equestrian statue, with crowds lining the route and grand colonnaded buildings in the background, accompanied by French verse and a royal coat of arms below."
 geo:
 id: 234
 item_type: Still Image

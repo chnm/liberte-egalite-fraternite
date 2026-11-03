@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d039992636a4aedb3bd1191cf4c72ccd.jpg
     thumb: /files/thumbnails/a3cfb5d804848625728fff0a2365cf03.jpg
     url: /files/original/a3cfb5d804848625728fff0a2365cf03.jpg
+    alt:
+      en: "A whimsical cart drawn by four birds carries three figures representing the clergy, nobility, and commoner, with a man standing at the rear, satirizing their journey to Versailles."
 geo:
 id: 158
 item_type: Still Image

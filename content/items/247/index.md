@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/936c4cf2d079f830a963c3e0f0ef154b.jpg
     thumb: /files/thumbnails/23884b584bb950aa649eee94d8cfcbfa.jpg
     url: /files/original/23884b584bb950aa649eee94d8cfcbfa.jpg
+    alt:
+      en: "A chaotic battle scene with cavalry clashing amid cannon smoke on an open plain, while palm trees and figures stand quietly in the foreground, titled \"Bataille des Pyramides.\""
 geo:
 id: 247
 item_type: Still Image

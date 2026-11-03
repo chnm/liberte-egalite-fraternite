@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/035a0bced63da7ca3789d4517bb7e7e3.jpg
     thumb: /files/thumbnails/44594d602d0a43cabc8c3a49aaab48af.jpg
     url: /files/original/44594d602d0a43cabc8c3a49aaab48af.jpg
+    alt:
+      en: "Engraving titled \"Mort de Louis XVI\" depicting the King on the scaffold flanked by guards, with a priest raising his hand skyward, while soldiers and mounted guards look on below."
 geo:
 id: 176
 item_type: Still Image

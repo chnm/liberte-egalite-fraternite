@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4ed35d45d648077ac3f3107e1b0cfa06.jpg
     thumb: /files/thumbnails/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
     url: /files/original/82ca730e17ee66d9a4a7d57589b2ab1d.jpg
+    alt:
+      en: "A seated clergyman vomits scrolls labeled with privileges and titles while a red-coated figure holds his head, with the caption \"Courage, you are going to purge yourself of something useful for your salvation.\""
 geo:
 id: 129
 item_type: Still Image

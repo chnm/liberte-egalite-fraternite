@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7d4916d1e650e0aaf706fcdf7c21ecfc.jpg
     thumb: /files/thumbnails/776659648c75a82aa8a6932df7493d62.jpg
     url: /files/original/776659648c75a82aa8a6932df7493d62.jpg
+    alt:
+      en: "Engraving of a large artificial mound crowned by a Liberty tree, with a column topped by a statue nearby, as an ox-drawn carriage carries a woman in a Phrygian cap past crowds gathered for the Festival of the Supreme Being."
 geo:
 id: 33
 item_type: Still Image

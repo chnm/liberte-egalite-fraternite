@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2b4dfcfe07c48811af7fb77811e176f2.jpg
     thumb: /files/thumbnails/1e0272b3b02aee0850e0e0a569bc2876.jpg
     url: /files/original/1e0272b3b02aee0850e0e0a569bc2876.jpg
+    alt:
+      en: "A crowd brandishing pikes and weapons surrounds a group of finely dressed figures, as a woman shields a child while reaching toward a man restrained amid the chaotic scene."
 geo:
 id: 47
 item_type: Still Image

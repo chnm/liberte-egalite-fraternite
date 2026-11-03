@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/c243e8d0f457a9f313b02bb3f32b4b2d.jpg
     thumb: /files/thumbnails/1bbd682399b0eecb7183900ed30fd4c9.jpg
     url: /files/original/1bbd682399b0eecb7183900ed30fd4c9.jpg
+    alt:
+      en: "Engraving of Louis XVI standing before the National Convention in a crowded circular amphitheater, surrounded by seated deputies and packed galleries of spectators above."
 geo:
 id: 195
 item_type: Still Image

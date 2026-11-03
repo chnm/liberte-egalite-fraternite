@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/bc142790e33c0335d610a6ce60ac9595.jpg
     thumb: /files/thumbnails/07924730fea09a7efca9dd241f9e9292.jpg
     url: /files/original/07924730fea09a7efca9dd241f9e9292.jpg
+    alt:
+      en: "Eight decorative enamel clock face designs featuring painted figures, pastoral and allegorical scenes, with numerals in both standard and French Revolutionary decimal time formats."
 geo:
 id: 51
 item_type: Still Image

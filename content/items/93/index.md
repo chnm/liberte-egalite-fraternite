@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d9a18fe35855f420c0d6495b08a53010.jpg
     thumb: /files/thumbnails/48a1e59b7af19923c7c9dccfa5786a5e.jpg
     url: /files/original/48a1e59b7af19923c7c9dccfa5786a5e.jpg
+    alt:
+      en: "A nighttime crowd surrounds a burning guardhouse on the Pont Neuf near the equestrian statue, with smoke rising into the dark sky and figures gathered along the riverside street."
 geo:
 id: 93
 item_type: Still Image

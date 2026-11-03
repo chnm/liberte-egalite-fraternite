@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0eda9e2ffe24dd224e0267faf494a541.jpg
     thumb: /files/thumbnails/4bd9d0ee1316c98124ae166a648449f9.jpg
     url: /files/original/4bd9d0ee1316c98124ae166a648449f9.jpg
+    alt:
+      en: "Engraving of a colonial plantation yard with enslaved workers processing tobacco and manioc under thatched sheds, a central master's house, and numbered labels identifying each task."
   - fullsize: /files/fullsize/acd48446e97db3c774f8bb322fc593a2.jpg
     id: 250
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/3ea45cdaa17e659161f4aa66269361b7.jpg
     thumb: /files/thumbnails/acd48446e97db3c774f8bb322fc593a2.jpg
     url: /files/original/acd48446e97db3c774f8bb322fc593a2.jpg
+    alt:
+      en: "Engraving of a colonial plantation yard labeled \"Ménagerie,\" showing enslaved Africans processing manioc, operating a mill, cooking over an open fire, and weaving, with a master's house and palm trees in the background."
 geo:
 id: 227
 item_type: Still Image

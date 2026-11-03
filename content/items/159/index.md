@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/d46c333b0d64393a26200dec2910639e.jpg
     thumb: /files/thumbnails/39948fcefed277361f96992e12449e7c.jpg
     url: /files/original/39948fcefed277361f96992e12449e7c.jpg
+    alt:
+      en: "A lion and unicorn rest beside a crowned rock inscribed \"Unanimity,\" while a multi-headed serpent labeled \"Anarchy\" coils around a broken flag, contrasting English stability with French chaos."
 geo:
 id: 159
 item_type: Still Image

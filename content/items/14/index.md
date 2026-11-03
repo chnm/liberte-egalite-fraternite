@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/3f46b0192de1c836c2e098c3a3a59d91.jpg
     thumb: /files/thumbnails/8c0616479b03b2f71338e2b41e902e13.jpg
     url: /files/original/8c0616479b03b2f71338e2b41e902e13.jpg
+    alt:
+      en: "Allegorical engraving of a draped female figure personifying \"Fraternité,\" holding a bundle of fasces, standing beside a pedestal with a flame and a basket of eggs."
 geo:
 id: 14
 item_type: Still Image

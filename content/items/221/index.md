@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7cf4b20347e6906963bdc9aea3e165ae.jpg
     thumb: /files/thumbnails/327982bba8c6507afab36ce9638c3221.jpg
     url: /files/original/327982bba8c6507afab36ce9638c3221.jpg
+    alt:
+      en: "Allegorical 1789 print showing Louis XVI atop a pedestal labeled \"Restaurateur de la Liberté Française,\" surrounded by figures in revolutionary and noble dress, with a mother nursing children below."
 geo:
 id: 221
 item_type: Still Image

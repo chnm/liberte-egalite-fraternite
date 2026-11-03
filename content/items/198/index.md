@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/c2649a33a802ac59cbf80995350ca9cf.jpg
     thumb: /files/thumbnails/72317802c396d881f2812e4bc3d7ad35.jpg
     url: /files/original/72317802c396d881f2812e4bc3d7ad35.jpg
+    alt:
+      en: "Engraving of French troops storming the walls of Ratisbon with ladders amid cannon fire and smoke, as buildings burn in the besieged city."
 geo:
 id: 198
 item_type: Still Image

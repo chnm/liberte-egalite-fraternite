@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/db61fb947cfdf2b8b6e58c068ba5a866.jpg
     thumb: /files/thumbnails/513bf662694a9b8c47676cb4a2eb2be8.jpg
     url: /files/original/513bf662694a9b8c47676cb4a2eb2be8.jpg
+    alt:
+      en: "Gilded sword hilt topped with a lion's head, its open scrollwork featuring a female figure holding a balance beside a Phrygian cap on a pike, symbols of revolutionary liberty."
 geo:
 id: 39
 item_type: Still Image

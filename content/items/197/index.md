@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/0378ee14bb41abcdb2eb2436dafcb5af.jpg
     thumb: /files/thumbnails/ec98cd9af2935165ff18a78ae4566a30.jpg
     url: /files/original/ec98cd9af2935165ff18a78ae4566a30.jpg
+    alt:
+      en: "A revolutionary soldier drives a turkey, a sheep-bodied wolf-woman, and other hybrid animal figures representing the royal family away from a castle with a whip and pike."
 geo:
 id: 197
 item_type: Still Image

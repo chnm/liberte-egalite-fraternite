@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/2eb5d9322c3b5dd3132cedce7cf41691.jpg
     thumb: /files/thumbnails/d946e32829bb1a199ca3b2b98f7a0357.jpg
     url: /files/original/d946e32829bb1a199ca3b2b98f7a0357.jpg
+    alt:
+      en: "An engraving depicts a woman stabbing a man seated in a bathtub while another figure points and calls out from a doorway, with draped curtains and a framed picture on the wall behind them."
   - fullsize: /files/fullsize/c653e7090af212e9207edf246110438e.jpg
     id: 136
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/9727219e1ede46c0d425d43c4fb77a66.jpg
     thumb: /files/thumbnails/c653e7090af212e9207edf246110438e.jpg
     url: /files/original/c653e7090af212e9207edf246110438e.jpg
+    alt:
+      en: "A woman supports the limp, dying Marat in his bathtub as a figure rushes in through the doorway; the caption below reads \"Assassinat de Marat\" with accompanying verse."
 geo:
 id: 115
 item_type: Still Image

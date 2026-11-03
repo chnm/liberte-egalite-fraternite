@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/de0e5f42c1b9d1db8eaf4ed64b21671d.jpg
     thumb: /files/thumbnails/25159133255245d3b4aec25ee37412d1.jpg
     url: /files/original/25159133255245d3b4aec25ee37412d1.jpg
+    alt:
+      en: "Allegorical sepia print of Marat's murdered body slumped on a pedestal, flanked by mourning female figures, while above, a winged deity crowns a serpent-tailed, hydra-like figure representing Charlotte Corday with a laurel wreath."
 geo:
 id: 75
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5b5b0dd848881939715b7deca6182a8d.jpg
     thumb: /files/thumbnails/cf5feaad045267d8de8d09342ed1985f.jpg
     url: /files/original/cf5feaad045267d8de8d09342ed1985f.jpg
+    alt:
+      en: "Demonic bat-winged creatures bearing \"Ça Ira\" banners swarm the sky above a guillotine execution, while a beam of divine light shines on Louis XVI's severed head as devils and soldiers surround the scaffold."
 geo:
 id: 63
 item_type: Still Image

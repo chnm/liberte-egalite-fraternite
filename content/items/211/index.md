@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9057c69bcb8a5e0c896463110749d41a.jpg
     thumb: /files/thumbnails/d13670ebefa27d3fbeb0dc7997581342.jpg
     url: /files/original/d13670ebefa27d3fbeb0dc7997581342.jpg
+    alt:
+      en: "Portrait of Louis XVI in an oval frame above a small battle scene vignette, with a lengthy French inscription detailing his birth, reign, and execution beneath."
 geo:
 id: 211
 item_type: Still Image

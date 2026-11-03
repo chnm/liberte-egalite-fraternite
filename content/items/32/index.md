@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9862fe56ebe0bd460bf8a4e3db53278b.jpg
     thumb: /files/thumbnails/08f554a5c060bcab956fbdf92eab8e68.jpg
     url: /files/original/08f554a5c060bcab956fbdf92eab8e68.jpg
+    alt:
+      en: "A winged demon hovers above a crowd of fleeing clergy and nobles boarding boats across a river, while robed emigres and a pope-like figure await on the opposite bank near a castle."
 geo:
 id: 32
 item_type: Still Image

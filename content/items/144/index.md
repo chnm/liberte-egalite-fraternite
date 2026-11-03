@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4aa347e936ab7e8e7ffea50b37232af5.jpg
     thumb: /files/thumbnails/5aa1e34457c82621c9bd4655699a912a.jpg
     url: /files/original/5aa1e34457c82621c9bd4655699a912a.jpg
+    alt:
+      en: "Engraving of Marie Antoinette standing before a tribunal of judges, gesturing in her defense as a crowd and armed guards look on, captioned \"Marie Antoinette d'Autriche au Tribunal révolutionaire.\""
 geo:
 id: 144
 item_type: Still Image

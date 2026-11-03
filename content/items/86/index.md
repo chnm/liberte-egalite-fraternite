@@ -46,12 +46,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/8080b657027fd90b87b760e81baae1b4.jpg
     thumb: /files/thumbnails/ced50d5c59932eddd2601c252f66e8c5.jpg
     url: /files/original/ced50d5c59932eddd2601c252f66e8c5.jpg
+    alt:
+      en: "A hand-colored print of a hybrid creature with a hare's body, featuring one human head with rabbit ears at the front and another human head adorned with colorful feathers at the rear."
   - fullsize: /files/fullsize/9a7e890f60c9eec8b55f80301f423709.jpg
     id: 105
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/441c16f76a3bceb3f6ff6a7c956d78d0.jpg
     thumb: /files/thumbnails/9a7e890f60c9eec8b55f80301f423709.jpg
     url: /files/original/9a7e890f60c9eec8b55f80301f423709.jpg
+    alt:
+      en: "A satirical print of a four-legged, spotted creature with human heads at both ends—one wearing a rabbit-eared headdress, the other sprouting serpentine, feathered plumes—captioned \"Les deux ne font qu'un.\""
 geo:
 id: 86
 item_type: Still Image

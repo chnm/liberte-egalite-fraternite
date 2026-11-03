@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/c0542cb39cb11bc24ee27aa1d84a3185.jpg
     thumb: /files/thumbnails/f39cf6cc60d05f254b2c9bf1232ada19.jpg
     url: /files/original/f39cf6cc60d05f254b2c9bf1232ada19.jpg
+    alt:
+      en: "Engraving depicting the September 1792 massacre at the Abbey Saint-Germain, showing armed crowds attacking and killing prisoners with swords and pikes in a courtyard, with bodies strewn across the ground."
 geo:
 id: 106
 item_type: Still Image

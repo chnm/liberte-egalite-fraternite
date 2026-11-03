@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/932061f365a373d3d4b87a0cded46671.jpg
     thumb: /files/thumbnails/62a123ff1b126fd5025b9d9b3f3e186b.jpg
     url: /files/original/62a123ff1b126fd5025b9d9b3f3e186b.jpg
+    alt:
+      en: "Napoleon flees in terror as a thorny globe covered in soldiers chases him toward a cliff with a skull and tombstone, beneath a radiant all-seeing eye in the sky."
 geo:
 id: 245
 item_type: Still Image

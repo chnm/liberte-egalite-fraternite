@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/a35ba1bfe676a569026b16e9d1503568.jpg
     thumb: /files/thumbnails/7616de8c2553dfcdacf0274a54bc2267.jpg
     url: /files/original/7616de8c2553dfcdacf0274a54bc2267.jpg
+    alt:
+      en: "A caricature of a chariot carrying clergy and nobility, driven by a Third Estate figure and pulled by horses led by a worker, with a fallen man beneath the wheels, titled \"Abus à Supprimé.\""
 geo:
 id: 57
 item_type: Still Image

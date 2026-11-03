@@ -48,6 +48,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/51ac89cd596b6d866cdd365bc30cf369.jpg
     thumb: /files/thumbnails/965ec4133cf8fffee43ee8bd60d30a1f.jpg
     url: /files/original/965ec4133cf8fffee43ee8bd60d30a1f.jpg
+    alt:
+      en: "Engraving of Louis XVI being led away by guards as his distraught wife and children reach toward him in a stone prison chamber, with a weeping woman collapsed in a chair nearby."
 geo:
 id: 110
 item_type: Still Image

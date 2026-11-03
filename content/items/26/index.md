@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5e05c71ad54359b51f466f576ef2c4b3.jpg
     thumb: /files/thumbnails/5c487f807a328b63021ee8ef55956228.jpg
     url: /files/original/5c487f807a328b63021ee8ef55956228.jpg
+    alt:
+      en: "Engraving of a crowd gathered on the ruins of the Bastille around a statue of Nature as Isis, water streaming from her breasts, during the Festival of Unity on 10 August 1793."
 geo:
 id: 26
 item_type: Still Image

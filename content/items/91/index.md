@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/440ea693c2116396e3704faccfd41af2.jpg
     thumb: /files/thumbnails/9a7e6d633ab14fe5be764c124f9448f4.jpg
     url: /files/original/9a7e6d633ab14fe5be764c124f9448f4.jpg
+    alt:
+      en: "Engraving of a grand hall at Versailles filled with rows of seated notables and guards, facing a raised dais where the King presides beneath an ornate canopy, with elaborate ceiling decorations above."
 geo:
 id: 91
 item_type: Still Image

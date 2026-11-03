@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/b51d0a3155f04dd0fa2ed13c08573716.jpg
     thumb: /files/thumbnails/e58417d58287d6d674dad7e4277fa8ff.jpg
     url: /files/original/e58417d58287d6d674dad7e4277fa8ff.jpg
+    alt:
+      en: "Louis XVI, hands bound and coat removed, stands on the scaffold with his confessor as an executioner holds up his severed head; armed troops and mounted officers surround the platform."
 geo:
 id: 183
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9a8b220e4b8f322ed2c8abb1a9147efb.jpg
     thumb: /files/thumbnails/7e4a11acb4a350c853c3919d09da2186.jpg
     url: /files/original/7e4a11acb4a350c853c3919d09da2186.jpg
+    alt:
+      en: "A uniformed French chasseur restrains a captive Black man beside a caged pack of dogs, with a tropical village scene and mountains in the background."
 geo:
 id: 231
 item_type: Still Image

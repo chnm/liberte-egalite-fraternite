@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/795509e32f82677341f884017a417ff7.jpg
     thumb: /files/thumbnails/8baf472ca2f30233a07df310624c5fe6.jpg
     url: /files/original/8baf472ca2f30233a07df310624c5fe6.jpg
+    alt:
+      en: "A seated man in a red robe calmly tallies figures on a notepad while a row of severed human heads rests on the table before him, titled \"Le Calculateur Patriote.\""
 geo:
 id: 130
 item_type: Still Image

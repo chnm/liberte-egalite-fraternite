@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/fdc47776021614bd907ea0d418eafa23.jpg
     thumb: /files/thumbnails/b524df5593c40c2bc1002dbd206559e1.jpg
     url: /files/original/b524df5593c40c2bc1002dbd206559e1.jpg
+    alt:
+      en: "A stout man in a red cap and blue coat releases birds from an open cage, with the caption \"Vive la Liberté\" below."
 geo:
 id: 147
 item_type: Still Image

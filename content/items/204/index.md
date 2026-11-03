@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5e0a1b64cd8935ff6a7bce0fcc5cb7ce.jpg
     thumb: /files/thumbnails/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
     url: /files/original/eeffb44c8b118fc4da135fd2eddd1dfb.jpg
+    alt:
+      en: "Engraving titled \"Napoleons Tod\" depicting Napoleon on his deathbed at St. Helena, surrounded by mourning officers, a kneeling woman, and children, beneath a draped canopy bed."
 geo:
 id: 204
 item_type: Still Image

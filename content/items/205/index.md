@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/12c8a5afa1d8c25de5d9b7f09062efc1.jpg
     thumb: /files/thumbnails/3a222b570cc52c219b3b083957929d0c.jpg
     url: /files/original/3a222b570cc52c219b3b083957929d0c.jpg
+    alt:
+      en: "A uniformed officer presents his wife and children to Napoleon, who stands attentively with fellow soldiers near a rocky encampment, with military gear and a ladder visible nearby."
 geo:
 id: 205
 item_type: Still Image

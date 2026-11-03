@@ -42,6 +42,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/a5de8714cb8477a6419d23ee0198e77b.jpg
     thumb: /files/thumbnails/ba4ff2c69c720af69f40259e1b8ef974.jpg
     url: /files/original/ba4ff2c69c720af69f40259e1b8ef974.jpg
+    alt:
+      en: "Engraving of a crowded revolutionary committee room, with officials seated at a draped table reviewing documents brought by citizens, soldiers and a woman with a child, as busts and posters line the walls."
 geo:
 id: 191
 item_type: Still Image

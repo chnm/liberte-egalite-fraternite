@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/aa8e5fbf3185a341853487e140d03799.jpg
     thumb: /files/thumbnails/8e23a90543454ee8d75ced259e48397a.jpg
     url: /files/original/8e23a90543454ee8d75ced259e48397a.jpg
+    alt:
+      en: "Black-robed magistrates are pushed and ejected through a doorway by armed men, while elegantly dressed women look on and a statue of Justice sits enthroned in the background room."
 geo:
 id: 92
 item_type: Still Image

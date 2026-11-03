@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/94294418771bec4cda2feddac7d76535.jpg
     thumb: /files/thumbnails/6057e6b4a6c12fb260ab82ee7d546b99.jpg
     url: /files/original/6057e6b4a6c12fb260ab82ee7d546b99.jpg
+    alt:
+      en: "A caricatured, corpulent Louis XVI rides a donkey holding a bottle, surrounded by animal-headed clergy and nobles, with wine barrels and a kneeling figure beneath trees labeled with revolutionary slogans."
 geo:
 id: 58
 item_type: Still Image

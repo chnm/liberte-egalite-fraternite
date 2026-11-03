@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/f009084c8df25a54ca13df96d865951a.jpg
     thumb: /files/thumbnails/af9e017e3107024a7cf87ff436be459f.jpg
     url: /files/original/af9e017e3107024a7cf87ff436be459f.jpg
+    alt:
+      en: "Hand-colored print of the Bastille under siege, with armed revolutionaries, cannons, and smoke-filled sky surrounding the fortress's towers as fires burn in nearby buildings."
 geo:
 id: 21
 item_type: Still Image

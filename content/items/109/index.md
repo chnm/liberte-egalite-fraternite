@@ -47,6 +47,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e0e0be90609925951e23d4d0fb02b4df.jpg
     thumb: /files/thumbnails/a7051026248a75adb6b64c452926487f.jpg
     url: /files/original/a7051026248a75adb6b64c452926487f.jpg
+    alt:
+      en: "Engraving of the execution of Louis XVI on January 21, 1793, depicting an executioner holding up the severed head before crowds of soldiers and spectators in the Place de la Révolution."
 geo:
 id: 109
 item_type: Still Image

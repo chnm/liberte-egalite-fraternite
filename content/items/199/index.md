@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/346ea9b0b316da0c44ab6540a5163b25.jpg
     thumb: /files/thumbnails/0a1000bcc0992406badd23f116f87dea.jpg
     url: /files/original/0a1000bcc0992406badd23f116f87dea.jpg
+    alt:
+      en: "Engraving of fallen soldiers and a broken cannon in a snowy field, a tattered flag planted amid the wreckage, with cavalry fleeing in the distance."
 geo:
 id: 199
 item_type: Still Image

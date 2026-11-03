@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/86b3a24cd3a34e9e13e39822e50c5151.jpg
     thumb: /files/thumbnails/fa074ff2042d875c00b4a0bc5c367793.jpg
     url: /files/original/fa074ff2042d875c00b4a0bc5c367793.jpg
+    alt:
+      en: "A warrior-like figure of Liberty stands atop a rocky outcrop holding a pike topped with a cap, a crowing rooster beside her, set against a dramatic cloud-filled sky at dawn."
 geo:
 id: 42
 item_type: Still Image

@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/99104d9a0b8a806e0ea3eee38b66a193.jpg
     thumb: /files/thumbnails/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
     url: /files/original/b376894cc1c6ba65f5ae75ef9e3b90f7.jpg
+    alt:
+      en: "Satirical engraving of Napoleon brandishing a sword while riding a goat into battle against an army of rats and mice, mocking his military ambitions on St. Helena."
 geo:
 id: 173
 item_type: Still Image

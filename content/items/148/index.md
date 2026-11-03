@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/54f6574016ec42e0d6fb5958e41007d7.jpg
     thumb: /files/thumbnails/294d6575d61f70b93636a3b23e142931.jpg
     url: /files/original/294d6575d61f70b93636a3b23e142931.jpg
+    alt:
+      en: "Engraving of Stanislas Maillard balancing on a plank over the Bastille's moat, reaching for a paper held out by a defender, as armed crowds gather below amid fallen bodies and weapons."
 geo:
 id: 148
 item_type: Still Image

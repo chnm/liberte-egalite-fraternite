@@ -50,6 +50,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/594c57a3431dc8c964b1e62974e94caf.jpg
     thumb: /files/thumbnails/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
     url: /files/original/4f8dc968c6a8dd05a31db73f03e54ca6.jpg
+    alt:
+      en: "Engraving of armed crowds and cannons gathered before the domed Tuileries Palace during the uprising of 31 May–2 June 1793, depicting the popular siege of the National Convention."
 geo:
 id: 112
 item_type: Still Image

@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/8486af7243eb4da28b724f04e087c03c.jpg
     thumb: /files/thumbnails/078266e453d418154057138175696856.jpg
     url: /files/original/078266e453d418154057138175696856.jpg
+    alt:
+      en: "A satirical staircase cartoon tracing Napoleon's rise from a humble soldier up to an enthroned emperor and conqueror on horseback, then descending into a fiery pit with devils at the final step."
 geo:
 id: 167
 item_type: Still Image

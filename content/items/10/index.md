@@ -25,6 +25,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7953846e7888583604588893f1703f87.jpg
     thumb: /files/thumbnails/8dbba201845e9e18eb7d5b97ea598da9.jpg
     url: /files/original/8dbba201845e9e18eb7d5b97ea598da9.jpg
+    alt:
+      en: "Modern map of Haiti and Santo Domingo on the island of Hispaniola, with yellow asterisks marking battle sites and an inset locating the island in the Caribbean."
 geo:
 id: 10
 item_type: Still Image

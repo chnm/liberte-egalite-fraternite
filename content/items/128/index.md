@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/e2c13332703d09ce7c3c66ff13d8f326.jpg
     thumb: /files/thumbnails/b0c03d3585e3b82c7dd65525506dde99.jpg
     url: /files/original/b0c03d3585e3b82c7dd65525506dde99.jpg
+    alt:
+      en: "A satirical engraving shows a man in a boat reaching into fiery waters below a group of severed heads on poles and robed figures holding banners, with three-headed hellhounds and flames in the background."
 geo:
 id: 128
 item_type: Still Image

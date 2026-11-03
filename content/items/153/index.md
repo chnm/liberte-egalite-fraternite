@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ec0472bc396288c2c71fddcbe650cb6c.jpg
     thumb: /files/thumbnails/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
     url: /files/original/5abab9ef0adb4ead60c5a8ffd7ea17a6.jpg
+    alt:
+      en: "Three plumed military officers in elaborate helmets and uniforms extend their arms weakly toward a bust on a pedestal, parodying David's \"Oath of the Horatii,\" with a fourth man in green looking on."
 geo:
 id: 153
 item_type: Still Image

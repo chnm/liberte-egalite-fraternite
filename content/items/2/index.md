@@ -25,12 +25,16 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/7ea3868a25614aeb9fd0319726e8cb3a.jpg
     thumb: /files/thumbnails/3ca22ed79ee11d346ad3792bf9dd1019.jpg
     url: /files/original/3ca22ed79ee11d346ad3792bf9dd1019.jpg
+    alt:
+      en: "Map of Europe in 1815 highlighting France, Prussia, and the Austrian Empire in distinct colors, with the Germanic Confederation boundary outlined in red across Central Europe."
   - fullsize: /files/fullsize/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
     id: 4
     mime: image/jpeg
     original_filename: http://chnm.gmu.edu/revolution/files/original/8a95234b006933eeda4c2aa70a28e7ae.jpg
     thumb: /files/thumbnails/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
     url: /files/original/5f63dc23b4a73aba3dfcb50d928aee0d.jpg
+    alt:
+      en: "Map of Europe in 1815 showing France, Prussia, and the Austrian Empire in distinct colors, with the Germanic Confederation boundary outlined in red amid surrounding states like Russia, Spain, and the Ottoman Empire."
 geo:
 id: 2
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/4f46c15ed89fd944c31ee4d86b9af080.jpg
     thumb: /files/thumbnails/f5febfba06e0a488f4387a47771d1c91.jpg
     url: /files/original/f5febfba06e0a488f4387a47771d1c91.jpg
+    alt:
+      en: "Hand-colored bust portrait of Jean-Paul Marat wearing a white turban and blue robe, labeled \"MARAT,\" with a halo of stars and the inscription \"L'Ami du Peuple\" above, framed by decorative laurel borders."
 geo:
 id: 54
 item_type: Still Image

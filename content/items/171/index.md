@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/5181b027284cdff34a772156de304151.jpg
     thumb: /files/thumbnails/8b836059ad40b24840706462a27a2ae9.jpg
     url: /files/original/8b836059ad40b24840706462a27a2ae9.jpg
+    alt:
+      en: "Six-panel caricature depicting a tiny Napoleon figure being tormented by various German civilians—cut with scissors, shaved, pounded in a mortar, whipped, dunked in a mug, and bitten by a man's teeth."
 geo:
 id: 171
 item_type: Still Image

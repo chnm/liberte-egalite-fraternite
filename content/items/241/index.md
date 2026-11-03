@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/79b82e47ab13e310b2481172a368bcb6.jpg
     thumb: /files/thumbnails/81a37ab471dbe9ceae4401e5205a5a67.jpg
     url: /files/original/81a37ab471dbe9ceae4401e5205a5a67.jpg
+    alt:
+      en: "Engraving of Louis XVI embracing his weeping wife and children in a prison setting, with a barred window visible in the background, as he prepares to leave them."
 geo:
 id: 241
 item_type: Still Image

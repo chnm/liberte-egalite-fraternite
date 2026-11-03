@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/561c63b265c82585b9dd5f26f85bc87c.jpg
     thumb: /files/thumbnails/2fda98228676cce61d27b6bd843b2ba3.jpg
     url: /files/original/2fda98228676cce61d27b6bd843b2ba3.jpg
+    alt:
+      en: "A classical figure holding tricolor flags beneath a Phrygian cap, flanked by oak branches, above text reading \"Unité Indivisibilité de la République, Liberté Égalité Fraternité ou la Mort.\""
 geo:
 id: 55
 item_type: Still Image

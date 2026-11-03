@@ -34,6 +34,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/8f76cdfabe2e1583c0d1eb020ed1394a.jpg
     thumb: /files/thumbnails/dad054c919bd1e31c8b21b52385336e2.jpg
     url: /files/original/dad054c919bd1e31c8b21b52385336e2.jpg
+    alt:
+      en: "Two crossed sabers held by uniformed arms emerging from clouds, set against a red banner reading \"Tremblez Tyrans\" (\"Tremble, Tyrants\"), marked \"No. 1\" in the corner."
 geo:
 id: 44
 item_type: Still Image

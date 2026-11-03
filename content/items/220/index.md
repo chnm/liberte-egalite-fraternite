@@ -46,6 +46,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/6dfa336dc317b80e94eeed1eed57a65f.jpg
     thumb: /files/thumbnails/afa661dad07b5956b8a09944adc6487d.jpg
     url: /files/original/afa661dad07b5956b8a09944adc6487d.jpg
+    alt:
+      en: "Hand-colored print of four former monks in blue military coats and tricolor sashes awkwardly marching in a line, muskets slung over shoulders, as one gestures forward teaching the others to drill."
 geo:
 id: 220
 item_type: Still Image

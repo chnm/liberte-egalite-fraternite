@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/9b0e2b052b04befd92e4bff542edb8c8.jpg
     thumb: /files/thumbnails/fa27618c01562de7126135943000adf0.jpg
     url: /files/original/fa27618c01562de7126135943000adf0.jpg
+    alt:
+      en: "A young woman in a white dress and orange scarf stands before a barred prison door, holding a basket and a letter as if preparing to knock."
 geo:
 id: 252
 item_type: Still Image

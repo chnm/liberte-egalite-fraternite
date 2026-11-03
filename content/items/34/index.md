@@ -31,6 +31,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/957c821abdec4c85aa8c001ae3da2af5.jpg
     thumb: /files/thumbnails/2a9f75920dba198aa305876dba8532e4.jpg
     url: /files/original/2a9f75920dba198aa305876dba8532e4.jpg
+    alt:
+      en: "A hand-painted ceramic bowl with a floral border and a central emblem of crossed sword, pike, staff, and hook tied with ribbon, above the word \"Reunion.\""
 geo:
 id: 34
 item_type: Still Image

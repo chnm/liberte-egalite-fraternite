@@ -43,6 +43,8 @@ files:
     original_filename: http://chnm.gmu.edu/revolution/files/original/ae30768d8e5ceee1dea5e2ec499add39.jpg
     thumb: /files/thumbnails/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
     url: /files/original/9bbc482383a7e88e15b6d0cc182e8e7f.jpg
+    alt:
+      en: "A crowned woman representing France stands amid soldiers brandishing bayonets as a tiny devil figure flies off into stormy clouds, with a fleur-de-lys shield resting at her feet."
 geo:
 id: 169
 item_type: Still Image
