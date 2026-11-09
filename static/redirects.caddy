@@ -117,5 +117,9 @@ redir @browse {browse_base} 301
 @exhibitItem path_regexp exhibitItem ^/exhibits/show/[^/]+/item/([0-9]+)/?$
 redir @exhibitItem /items/show/{re.exhibitItem.1}/ 301
 
+# Imaging the French Revolution moved to its own site.
+@imaging path /imaging /imaging/*
+redir @imaging https://imagingthefrenchrevolution.rrchnm.org/ 301
+
 @pageTarget expression `{page_target} != ""`
 redir @pageTarget {page_target} 301
