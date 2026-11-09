@@ -1,0 +1,58 @@
+---
+aliases:
+  - /items/show/90
+  - /items/show/90.html
+  - /items/90/
+  - /items/90
+collections: []
+date: '2019-07-23 22:28:32'
+draft: false
+dublin_core:
+  Description:
+    - html: true
+      text: This image of peasants repairing a cart demonstrates both the hard work done by cultivators and their fragile economic situation, which could easily be imperiled by a broken cart. Under such circumstances, poor people constantly repaired durable and personal goods, such as carts or clothing, because they could not afford to replace them with new ones.
+  Identifier:
+    - html: false
+      text: '82'
+  Relation:
+    - html: false
+      text: http://chnm.gmu.edu/revolution/d/82/
+  Source:
+    - html: true
+      text: mfr. 85.850
+  Title:
+    - html: true
+      text: Two Peasants Repairing a Cart
+featured: false
+files:
+  - fullsize: /files/fullsize/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    id: 110
+    mime: image/jpeg
+    original_filename: http://chnm.gmu.edu/revolution/files/original/94978949f382b76c8ca9a2d205eba773.jpg
+    thumb: /files/thumbnails/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    url: /files/original/4c6ae383f5451321bc46d42c6a54f27b.jpg
+    alt:
+      en: "Two peasants kneel beside a cart with a broken wheel, oxen standing harnessed nearby, while a farmhouse with a thatched roof and stacked hay sits in the background under a cloudy sky."
+geo:
+id: 90
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2019-11-27 02:13:33'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '90'
+sortdate: '9999-99-99'
+tags:
+  - Economic Conditions
+  - Image
+  - Peasants
+  - Provinces
+title: Two Peasants Repairing a Cart
+type: items
+url: /d/82/
+---
+
+{{< raw >}}
+This image of peasants repairing a cart demonstrates both the hard work done by cultivators and their fragile economic situation, which could easily be imperiled by a broken cart. Under such circumstances, poor people constantly repaired durable and personal goods, such as carts or clothing, because they could not afford to replace them with new ones.
+{{< /raw >}}

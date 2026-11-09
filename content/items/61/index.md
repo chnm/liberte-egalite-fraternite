@@ -1,0 +1,56 @@
+---
+aliases:
+  - /items/show/61
+  - /items/show/61.html
+  - /items/61/
+  - /items/61
+collections: []
+date: '2019-07-23 22:27:38'
+draft: false
+dublin_core:
+  Description:
+    - html: true
+      text: The Phrygian cap seems to be everywhere during the Revolution.
+  Identifier:
+    - html: false
+      text: '51'
+  Relation:
+    - html: false
+      text: http://chnm.gmu.edu/revolution/d/51/
+  Source:
+    - html: true
+      text: mfr 89.77
+  Title:
+    - html: true
+      text: Saucière with Phrygian Bonnet
+featured: false
+files:
+  - fullsize: /files/fullsize/91bb7f21a427ea321eda53a433717a79.jpg
+    id: 76
+    mime: image/jpeg
+    original_filename: http://chnm.gmu.edu/revolution/files/original/b87bd4858d4ae7b91fded011e2628b2a.jpg
+    thumb: /files/thumbnails/91bb7f21a427ea321eda53a433717a79.jpg
+    url: /files/original/91bb7f21a427ea321eda53a433717a79.jpg
+    alt:
+      en: "An ornate porcelain sauceboat with a curling handle shaped like a Phrygian cap, decorated with floral sprays, gilt borders, and oval medallions framing painted birds."
+geo:
+id: 61
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2019-11-27 02:13:33'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '61'
+sortdate: '9999-99-99'
+tags:
+  - Image
+  - Public Opinion
+title: Saucière with Phrygian Bonnet
+type: items
+url: /d/51/
+---
+
+{{< raw >}}
+The Phrygian cap seems to be everywhere during the Revolution.
+{{< /raw >}}

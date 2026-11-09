@@ -1,0 +1,15 @@
+{{- /* /collections/: the live /collections/browse page (newest first). */ -}}
+{{ define "body-class" }}collections browse{{ end }}
+{{ define "main" }}
+{{ $cols := .Pages.ByDate.Reverse }}
+<h1>Browse Collections ({{ len $cols }} total)</h1>
+{{ range $cols }}
+  <div class="collection hentry media-object grid-x">
+    <div class="collection-meta media-object-section cell">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ with .Content }}<div class="collection-description"><p>{{ . | plainify | htmlUnescape | strings.TrimSpace | truncate 150 "…" }}</p></div>{{ end }}
+      <a href="{{ .RelPermalink }}" class="view-items-link">View the items in {{ .Title }}</a>
+    </div>
+  </div>
+{{ end }}
+{{ end }}

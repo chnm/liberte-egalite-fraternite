@@ -1,0 +1,47 @@
+{{ define "body-class" }}items search advanced browse{{ end }}
+{{ define "main" }}
+{{/* A plain form onto /search/, which runs Pagefind with these as filters
+     (the filter values are tagged on item pages in items/single.html). */}}
+{{ $types := slice }}
+{{ range where site.RegularPages "Type" "items" }}{{ with .Params.item_type }}{{ $types = $types | append . }}{{ end }}{{ end }}
+<div id="primary">
+  <h1 id="search-heading">Search Items</h1>
+
+  <form id="advanced-search-form" action="/search/" method="get">
+    <input type="hidden" name="record_types[]" value="Item">
+    <fieldset class="advanced-search-group">
+      <legend>Search for Keywords</legend>
+      <input type="text" name="query" id="keyword-search" value="" aria-label="Search for keywords">
+      <p class="help-text">Use "quotes" for an exact phrase.</p>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Type</legend>
+      <select name="type" id="item-type-search" aria-label="Search by type">
+        <option value="">Select Below</option>
+        {{ range ($types | uniq | sort) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+      </select>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Collection</legend>
+      <select name="collection" id="collection-search" aria-label="Search by collection">
+        <option value="">Select Below</option>
+        {{ range $cid, $_ := site.Taxonomies.collections }}
+          <option value="{{ $cid }}">{{ with site.GetPage (printf "/collections/%s" $cid) }}{{ .Title }}{{ else }}Collection {{ $cid }}{{ end }}</option>
+        {{ end }}
+      </select>
+    </fieldset>
+
+    <fieldset class="advanced-search-group">
+      <legend>Search By Tag</legend>
+      <select name="tag" id="tag-search" aria-label="Search by tag">
+        <option value="">Select Below</option>
+        {{ range site.Taxonomies.tags.Alphabetical }}<option value="{{ .Page.LinkTitle }}">{{ .Page.LinkTitle }}</option>{{ end }}
+      </select>
+    </fieldset>
+
+    <button type="submit" class="button" id="submit_search_advanced">Search for items</button>
+  </form>
+</div>
+{{ end }}

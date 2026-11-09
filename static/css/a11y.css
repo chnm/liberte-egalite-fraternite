@@ -1,0 +1,107 @@
+/*
+ * Accessibility overrides layered on the vendored Foundation theme (app.css)
+ * to meet WCAG 2.2 AA. Loaded after app.css so these win.
+ */
+
+/* 1.4.1 Use of Color / link-in-text-block:
+   inline links in prose are red (#9e0b0f) but carry no non-color cue and have
+   only 2.36:1 contrast with the surrounding black text. Add an underline so
+   they're distinguishable without relying on color. Scoped to text contexts so
+   nav/buttons/thumbnail links are untouched. */
+#footer-text a,
+.exhibit-breadcrumb a,
+.element-text a,
+.exhibit-description a,
+.exhibit .description a,
+.search-results-table .permalink,
+.exhibit-credits a,
+#exhibit-blocks p a,
+.simple-page a,
+#primary p a {
+  text-decoration: underline;
+}
+
+/* 1.4.3 Contrast (Minimum): a few light-gray texts fall below the AA ratio on
+   the cream (#fffdf1) background. Darken them. */
+.item-type.subtitle { color: #6f6f6f; }
+h1 small,                                 /* "(N total)" counts: was #cacaca (1.6:1) */
+.resource-list .date { color: #6f6f6f; }  /* browse dates: was #8a8a8a (3.4:1) -> 4.9:1 */   /* large/bold subtitle: was #cacaca (1.6:1) -> 4.9:1 */
+.note,
+.note p,
+.bib,
+.bib em { color: #595959; }               /* body text: was #8a8a8a (3.38:1) -> ~7:1 */
+
+/* 2.4.7 Focus Visible / 2.4.11 Focus Not Obscured: ensure a clearly visible
+   focus ring everywhere, and keep focused targets clear of any fixed chrome. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+input[type]:focus-visible,  /* beats app.css [type='text']:focus { outline: none } */
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid #9e0b0f;
+  outline-offset: 2px;
+}
+html { scroll-padding-top: 1rem; }
+
+/* The skip link is visually hidden until focused, then clearly visible. */
+#skipnav {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  background: #9e0b0f;
+  color: #fff;
+  padding: 0.6rem 1rem;
+  text-decoration: underline;
+}
+#skipnav:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+  /* undo app.css's visually-hidden clip, or it stays invisible when focused (2.4.7) */
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+}
+
+/* 1.4.11 / 2.4.7: the red focus ring vanishes on the dark header image.
+   Use white in the header. */
+header a:focus-visible,
+header button:focus-visible,
+header input[type]:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 2px;
+}
+
+/* 1.4.10 Reflow: long URLs (Relation, citation, FAQ links) forced sideways
+   scrolling at 320px. */
+#content { overflow-wrap: break-word; }
+
+/* Theme correction (not a11y): the vendored app.css references the paid
+   "Font Awesome 5 Pro" font for the text-item document icon before exhibit
+   links. We load Font Awesome 6 *Free*, so that icon rendered as a tofu/empty
+   generated box. Remap to the free solid family so the icon renders. */
+.layout-file-text .exhibit-item-link::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+}
+
+/* The theme draws sort-direction arrows via .sorting.asc/.desc::after with the
+   paid Font Awesome 5 Pro font (renders as a tofu box). We draw our own caret
+   in the markup, so suppress the broken pseudo-element. */
+#sort-links-list .sorting::after { content: none; }
+
+/* Search results (Pagefind, rendered by /js/search.js). The header search
+   form reuses the original theme IDs (#search-form etc.), so app.css styles it. */
+.search-meta { margin: 0 0 1rem; }
+.search-meta .label { margin-right: 0.4rem; }
+.search-results-table { width: 100%; border-collapse: collapse; }
+.search-results-table th,
+.search-results-table td { padding: 0.75rem 0.5rem; border-bottom: 1px solid #e6e6e6; vertical-align: top; text-align: left; }
+.search-results-table td.record-type { width: 8rem; white-space: nowrap; }
+.search-results-table .search-thumb { float: left; margin: 0 1rem 0.5rem 0; }
+.search-results-table .search-thumb img { max-width: 80px; height: auto; border: 1px solid #cacaca; }
+.search-results-table .excerpt { clear: none; margin-top: 0.25rem; font-size: 0.9rem; color: #595959; }
+.search-results-table .excerpt mark { background: #ffe69c; color: inherit; }

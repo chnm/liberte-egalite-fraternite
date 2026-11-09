@@ -1,0 +1,20 @@
+/*
+ * Development-only styles. Loaded by partials/head.html only under
+ * hugo.IsDevelopment, so production builds never reference it.
+ */
+
+.dev-source-link {
+  margin: 0 0 1rem;
+  padding: 0.4rem 1rem;
+  background: #fff3cd;
+  border: 1px solid #ffe69c;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  text-align: right;
+}
+
+.dev-source-link a {
+  color: #663c00;
+  font-weight: bold;
+  text-decoration: underline;
+}

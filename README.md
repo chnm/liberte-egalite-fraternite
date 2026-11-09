@@ -1,2 +1,141 @@
 # liberte-egalite-fraternite
-Liberty, Equality, Fraternity: Exploring the French Revolution
+
+**Liberty, Equality, Fraternity: Exploring the French Revolution** — a static
+(Hugo) rebuild of the Omeka Classic 3.0.1 site `revolution.chnm.org`.
+
+## Overview
+
+The content tree was generated from the site's MySQL dump with the
+[`omeka-to-hugo`](../omeka-to-hugo) converter, then given a faithful
+recreation of the original **Foundation 6.5.3** theme. Item URLs preserve the
+live CleanUrl scheme (`/d/<identifier>`), the ExhibitBuilder exhibit is
+reproduced page-for-page, and the original simple pages, tags, and navigation
+are intact.
+
+- **Items** → `/d/<identifier>/` (e.g. `/d/1/`); legacy `/items/show/<id>` and
+  `/items/<id>/` are meta-refresh aliases.
+- **Exhibit** → `/exhibits/show/liberty--equality--fraternity/<page>/`.
+- **Simple pages** → `/faq/`, `/project-history/`, etc.
+- **Search** → a [Pagefind](https://pagefind.app) index built over the whole
+  site (the original server-side search is replaced by it). `/search/` takes a
+  query (`"quotes"` for a phrase) plus Item/Exhibit/Page types; the advanced
+  form (`/items/search/`) adds item type, collection and tag, which are Pagefind
+  filters tagged on item pages. Search needs the index, so test it on a full
+  build (`hugo && npx pagefind --site public`), not `hugo server`.
+- **Timeline** → `/neatline-time/timelines/show/1/` rebuilds the original
+  NeatlineTime "Timeline of the Revolution" (see below).
+- **Images / media** reference the live origin
+  (`https://revolution.chnm.org/files/…`) rather than being vendored.
+
+## Layout
+
+```
+content/      # generated Hugo content (items, exhibits, collections, pages)
+layouts/      # faithful Foundation theme (hand-maintained — see caveat below)
+static/
+  css/app.css # vendored Foundation 6.5.3 stylesheet (original theme)
+  css/a11y.css # WCAG 2.2 AA overrides layered on app.css
+  img/, js/   # vendored theme assets
+  uploads/    # site logo (theme_uploads)
+omeka2hugo/   # converter artifacts (manifest, redirects, theme kit) — Hugo ignores
+Dockerfile    # Hugo + Pagefind + Caddy build/serve image
+```
+
+## Build & deploy
+
+Local build:
+
+```sh
+hugo --minify --baseURL https://revolution.chnm.org/
+```
+
+Container (build the Hugo site, generate the Pagefind index, serve with Caddy):
+
+```sh
+docker build --build-arg hugobuildargs="--minify --baseURL <url>" -t lef-revolution .
+docker run -d -p 8080:80 lef-revolution
+```
+
+### Development build (with "View original on Omeka" comparison links)
+
+Pass `--environment development` so each page (home, items, exhibits, simple
+pages) gets a dev-only "View original on Omeka ↗" link to the matching live URL,
+for visual comparison. Production builds omit it entirely.
+
+```sh
+hugo server                                   # local; links on
+docker build --build-arg hugobuildargs="--environment development --minify --baseURL <url>" -t lef-revolution-dev .
+```
+
+## Accessibility — WCAG 2.2 AA
+
+The site targets **WCAG 2.2 Level AA**. An axe-core audit (tags
+`wcag2a, wcag2aa, wcag21a, wcag21aa, wcag22aa`) reports **0 violations** on every
+page type: home, browse (and sorted views), tag pages, `/tags/`, collections,
+exhibits browse/summary/page, items, advanced search, search results, timeline
+and simple pages. Automated checks cover only part of WCAG; the manual
+assessment (keyboard, reflow, screen reader, audio alternatives) is tracked in
+[#10](https://github.com/chnm/liberte-egalite-fraternite/issues/10). Specifics:
+
+- Inline prose links are underlined (1.4.1 — not distinguished by color alone).
+- Low-contrast grays were darkened to meet 1.4.3 (item-type subtitle; FAQ
+  `.note`/`.bib`).
+- Visible focus ring on all interactive elements; a working "skip to main
+  content" link.
+- The "About" nav dropdown is keyboard-operable (Foundation DropdownMenu:
+  focusable toggle, opens on Enter, submenu items reachable).
+- Header and exhibit sidebar are non-sticky, so a focused element is never
+  obscured (2.4.11).
+
+The contrast/link overrides live in `static/css/a11y.css`.
+
+## Caveat: regenerating from the converter
+
+The `omeka-to-hugo` converter refreshes `layouts/`, `archetypes/`, and `assets/`
+from its own (utilitarian) `template-site/` on every run. The faithful Foundation
+theme here is **hand-maintained in this repo** and is *not* reproduced by the
+converter. Re-running the converter against a new dump will overwrite `layouts/`;
+re-apply this theme (or restore `layouts/` from git) afterward. Generated
+**content** (`content/`, `static/uploads/`, `omeka2hugo/`) is safe to regenerate.
+
+## Timeline
+
+`/neatline-time/timelines/show/1/` rebuilds the original NeatlineTime
+"Timeline of the Revolution". The original used the abandoned, inaccessible MIT
+SIMILE Timeline; this rebuild uses the maintained, keyboard/screen-reader
+friendly **vis-timeline** (loaded from a CDN, like Leaflet) and keeps the site's
+WCAG 2.2 AA / 0-violations guarantee.
+
+- **Data — generated from the item front matter at build time** (single source
+  of truth) by `layouts/timeline/single.html`. Every item whose `sortdate` is a
+  real date (i.e. not the `9999-99-99` "no date" sentinel) becomes an event —
+  **939**, matching the original. Each event derives its `start` from `sortdate`
+  (a `00` month/day → `01`), `title`/`description` from Dublin Core (description
+  truncated to ~200 chars, byte-identical to the original snippet), `link` from
+  the item's `/d/<id>/` URL, the type class from `item_type`, and the
+  square-thumbnail image from the item's first file.
+- **Accessible by construction.** The layout renders an ordered list of all 939
+  events (`#neatlinetime-events`) as the canonical, no-JS / screen-reader
+  content; each `<li>` carries the widget data in `data-*` attributes.
+  `static/js/timeline.js` reads those nodes to build the interactive widget as a
+  progressive enhancement — no separate data file, no duplicated iteration.
+- **Rendering.** Recreates the original SIMILE widget (NeatlineTime's band
+  settings and CSS): a 200px **detail band** of gold dots with event titles,
+  stacked into rows, months at 100px (opens on 1 Jan 1789, can't zoom out past
+  about a year), over a 50px purple **overview band** with a tick per event,
+  years at 200px, and the detail span highlighted. The two bands are linked:
+  dragging either moves both. Clicking an event opens a popup like SIMILE's
+  info bubble (thumbnail, linked title, description, date). Rows that don't fit
+  the band are cut off, as on live; the list below has every event. Two
+  deliberate differences: zoom is Ctrl+wheel (live hijacked the plain wheel), and
+  Earlier/Later/Zoom buttons give a non-drag alternative (WCAG 2.2 SC 2.5.7).
+  Imprecise dates are spread deterministically across the range actually known
+  (their year, or month) by `timeline.js` so they don't stack on a single
+  pixel; the underlying item dates are unchanged.
+- **Faithfulness note.** Two deliberate fixes over the original's date parser:
+  year-only items land within their year (vs. SIMILE's month-0 underflow,
+  e.g. `1793` → 30 Nov 1792), and the one ranged date (`1787-1810`, "Liberty")
+  lands at 1787 instead of the original's buggy 1970.
+
+The vis-timeline assets are CDN-loaded; vendor them into `static/js/` if offline
+builds are needed.

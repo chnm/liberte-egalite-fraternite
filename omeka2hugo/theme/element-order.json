@@ -1,0 +1,325 @@
+{
+  "element_sets": [
+    {
+      "fields": [
+        "Contributor",
+        "Coverage",
+        "Creator",
+        "Date",
+        "Description",
+        "Format",
+        "Identifier",
+        "Language",
+        "Publisher",
+        "Relation",
+        "Rights",
+        "Source",
+        "Subject",
+        "Title",
+        "Type"
+      ],
+      "set": "Dublin Core"
+    },
+    {
+      "fields": [
+        "Text",
+        "Interviewer",
+        "Interviewee",
+        "Location",
+        "Transcription",
+        "Local URL",
+        "Original Format",
+        "Physical Dimensions",
+        "Duration",
+        "Compression",
+        "Producer",
+        "Director",
+        "Bit Rate/Frequency",
+        "Time Summary",
+        "Email Body",
+        "Subject Line",
+        "From",
+        "To",
+        "CC",
+        "BCC",
+        "Number of Attachments",
+        "Standards",
+        "Objectives",
+        "Materials",
+        "Lesson Plan Text",
+        "URL",
+        "Event Type",
+        "Participants",
+        "Birth Date",
+        "Birthplace",
+        "Death Date",
+        "Occupation",
+        "Biographical Text",
+        "Bibliography",
+        "Title (English)",
+        "Title (French)",
+        "Caption",
+        "Caption (English)",
+        "Sortable Date"
+      ],
+      "set": "Item Type Metadata"
+    },
+    {
+      "fields": [
+        "Artist",
+        "Attorney Agent",
+        "Author",
+        "Book Author",
+        "Cartographer",
+        "Cast Member",
+        "Commenter",
+        "Composer",
+        "Contributor",
+        "Cosponsor",
+        "Counsel",
+        "Director",
+        "Editor",
+        "Guest",
+        "Interviewee",
+        "Interviewer",
+        "Inventor",
+        "Performer",
+        "Podcaster",
+        "Presenter",
+        "Producer",
+        "Programmer",
+        "Recipient",
+        "Reviewed Author",
+        "Scriptwriter",
+        "Series Editor",
+        "Sponsor",
+        "Translator",
+        "Words By",
+        "Item Type",
+        "Note",
+        "DOI",
+        "ISBN",
+        "ISSN",
+        "Abstract Note",
+        "Access Date",
+        "Application Number",
+        "Archive",
+        "Archive Location",
+        "Artwork Medium",
+        "Artwork Size",
+        "Assignee",
+        "Audio File Type",
+        "Audio Recording Format",
+        "Bill Number",
+        "Blog Title",
+        "Book Title",
+        "Call Number",
+        "Case Name",
+        "Code",
+        "Code Number",
+        "Code Pages",
+        "Code Volume",
+        "Committee",
+        "Company",
+        "Conference Name",
+        "Country",
+        "Court",
+        "Date",
+        "Date Decided",
+        "Date Enacted",
+        "Dictionary Title",
+        "Distributor",
+        "Docket Number",
+        "Document Number",
+        "Edition",
+        "Encyclopedia Title",
+        "Episode Number",
+        "Extra",
+        "Filing Date",
+        "First Page",
+        "Forum Title",
+        "Genre",
+        "History",
+        "Institution",
+        "Interview Medium",
+        "Issue",
+        "Issue Date",
+        "Issuing Authority",
+        "Journal Abbreviation",
+        "Label",
+        "Language",
+        "Legal Status",
+        "Legislative Body",
+        "Letter Type",
+        "Library Catalog",
+        "Manuscript Type",
+        "Map Type",
+        "Medium",
+        "Meeting Name",
+        "Name of Act",
+        "Network",
+        "Num Pages",
+        "Number",
+        "Number of Volumes",
+        "Pages",
+        "Patent Number",
+        "Place",
+        "Post Type",
+        "Presentation Type",
+        "Priority Numbers",
+        "Proceedings Title",
+        "Program Title",
+        "Programming Language",
+        "Public Law Number",
+        "Publication Title",
+        "Publisher",
+        "References",
+        "Report Number",
+        "Report Type",
+        "Reporter",
+        "Reporter Volume",
+        "Rights",
+        "Running Time",
+        "Scale",
+        "Section",
+        "Series",
+        "Series Number",
+        "Series Text",
+        "Series Title",
+        "Session",
+        "Short Title",
+        "Studio",
+        "Subject",
+        "System",
+        "Thesis Type",
+        "Title",
+        "University",
+        "URL",
+        "Version",
+        "Video Recording Format",
+        "Volume",
+        "Website Title",
+        "Website Type",
+        "Attachment Title",
+        "Attachment URL"
+      ],
+      "set": "Zotero"
+    }
+  ],
+  "item_types": [
+    {
+      "fields": [
+        "Text",
+        "Original Format",
+        "Sortable Date"
+      ],
+      "type": "Text"
+    },
+    {
+      "fields": [
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Compression",
+        "Producer",
+        "Director"
+      ],
+      "type": "Moving Image"
+    },
+    {
+      "fields": [
+        "Interviewer",
+        "Interviewee",
+        "Location",
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Bit Rate/Frequency",
+        "Time Summary"
+      ],
+      "type": "Oral History"
+    },
+    {
+      "fields": [
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Bit Rate/Frequency",
+        "Sortable Date"
+      ],
+      "type": "Sound"
+    },
+    {
+      "fields": [
+        "Original Format",
+        "Physical Dimensions",
+        "Title (English)",
+        "Title (French)",
+        "Caption",
+        "Caption (English)",
+        "Sortable Date"
+      ],
+      "type": "Still Image"
+    },
+    {
+      "fields": [
+        "Local URL"
+      ],
+      "type": "Website"
+    },
+    {
+      "fields": [
+        "Duration",
+        "Event Type",
+        "Participants",
+        "Sortable Date"
+      ],
+      "type": "Event"
+    },
+    {
+      "fields": [
+        "Email Body",
+        "Subject Line",
+        "From",
+        "To",
+        "CC",
+        "BCC",
+        "Number of Attachments"
+      ],
+      "type": "Email"
+    },
+    {
+      "fields": [
+        "Duration",
+        "Standards",
+        "Objectives",
+        "Materials",
+        "Lesson Plan Text"
+      ],
+      "type": "Lesson Plan"
+    },
+    {
+      "fields": [
+        "URL"
+      ],
+      "type": "Hyperlink"
+    },
+    {
+      "fields": [
+        "Birth Date",
+        "Birthplace",
+        "Death Date",
+        "Occupation",
+        "Biographical Text",
+        "Bibliography"
+      ],
+      "type": "Person"
+    },
+    {
+      "fields": [
+        "Text"
+      ],
+      "type": "Term"
+    }
+  ]
+}

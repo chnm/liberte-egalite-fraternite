@@ -1,0 +1,11 @@
+# Hugo build output
+/public/
+/public-deploy/
+/resources/
+.hugo_build.lock
+
+# Node (Pagefind toolchain; restored in-image via `npm ci`)
+/node_modules/
+
+# OS / editor
+.DS_Store

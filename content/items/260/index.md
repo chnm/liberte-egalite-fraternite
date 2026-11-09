@@ -1,0 +1,50 @@
+---
+aliases:
+  - /items/show/260
+  - /items/show/260.html
+  - /items/260/
+  - /items/260
+collections: []
+date: '2019-07-23 22:33:11'
+draft: false
+dublin_core:
+  Identifier:
+    - html: false
+      text: '649'
+  Relation:
+    - html: false
+      text: http://chnm.gmu.edu/revolution/d/649/
+  Source:
+    - html: true
+      text: mfr 86.182
+  Title:
+    - html: true
+      text: Commemorating the Revolution on Chinaware
+featured: false
+files:
+  - fullsize: /files/fullsize/ae828ded7965e9aba47af3f6e0507f0b.jpg
+    id: 291
+    mime: image/jpeg
+    original_filename: http://chnm.gmu.edu/revolution/files/original/214df5f6a4343f29af4cb26b6814550e.jpg
+    thumb: /files/thumbnails/ae828ded7965e9aba47af3f6e0507f0b.jpg
+    url: /files/original/ae828ded7965e9aba47af3f6e0507f0b.jpg
+    alt:
+      en: "A commemorative plate depicts the guillotine execution of Louis Capet (Louis XVI) on 21 January 1793, surrounded by figures on horseback and onlookers, inscribed \"L'an second de la République française.\""
+geo:
+id: 260
+item_type: Still Image
+item_type_metadata: {}
+lastmod: '2019-11-27 02:13:32'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '260'
+sortdate: '9999-99-99'
+tags:
+  - Image
+  - Monarchy
+  - Popular Politics
+title: Commemorating the Revolution on Chinaware
+type: items
+url: /d/649/
+---

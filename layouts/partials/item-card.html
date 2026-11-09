@@ -1,0 +1,24 @@
+{{- /* One item row in a browse / taxonomy listing, matching the live Omeka markup. */ -}}
+{{- $date := "" -}}
+{{- $desc := "" -}}
+{{- with .Params.dublin_core }}
+  {{- with index . "Date" }}{{ with index . 0 }}{{ $date = .text }}{{ end }}{{ end }}
+  {{- with index . "Description" }}{{ with index . 0 }}{{ $desc = .text | plainify | htmlUnescape | truncate 250 "…" }}{{ end }}{{ end }}
+{{- end -}}
+{{- $thumb := "" -}}
+{{- range .Params.files }}{{ if and (not $thumb) .thumb (hasPrefix (.mime | default "") "image/") }}{{ $thumb = replace .thumb "/files/thumbnails/" "/files/square_thumbnails/" }}{{ end }}{{ end -}}
+<div class="item">
+  {{- /* Decorative: the title link right beside it goes to the same place. */}}
+  {{ with $thumb }}<a href="{{ $.RelPermalink }}" class="item-image" tabindex="-1" aria-hidden="true"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
+  <div class="item-meta">
+    <h2>
+      {{ with .Params.item_type }}{{ partial "item-type-icon.html" . }} {{ end }}
+      <a href="{{ .RelPermalink }}" class="permalink"{{ with .Params.title_lang }} lang="{{ . }}"{{ end }}>{{ .Title | safeHTML }}</a>
+      {{ with $date }}<span class="date">{{ . }}</span>{{ end }}
+    </h2>
+    {{ with $desc }}<div class="item-description">{{ . }}</div>{{ end }}
+    {{ with .GetTerms "tags" }}
+      <div class="tags"><span class="tags secondary label">Tags</span> {{ range . }}<a href="{{ .RelPermalink }}" rel="tag">{{ .LinkTitle }}</a> {{ end }}</div>
+    {{ end }}
+  </div>
+</div>

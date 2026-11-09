@@ -1,0 +1,43 @@
+---
+aliases:
+  - /items/show/1007
+  - /items/show/1007.html
+  - /items/1007/
+  - /items/1007
+collections: []
+date: '2019-07-23 22:36:37'
+draft: false
+dublin_core:
+  Date:
+    - html: false
+      text: August 1793
+  Identifier:
+    - html: false
+      text: '1054'
+  Relation:
+    - html: false
+      text: https://chnm.gmu.edu/revolution/d/1054/
+  Title:
+    - html: true
+      text: Agents in Saint Domingue abolish slavery.
+featured: false
+files: []
+geo:
+id: 1007
+item_type: Event
+item_type_metadata:
+  Sortable Date:
+    - html: false
+      text: '1793-08-00'
+lastmod: '2019-11-27 02:13:29'
+layout: single
+plugin_metadata: []
+related_items: []
+slug: '1007'
+sortdate: '1793-08-00'
+tags:
+  - Timeline
+title: Agents in Saint Domingue abolish slavery.
+type: items
+url: /d/1054/
+---
